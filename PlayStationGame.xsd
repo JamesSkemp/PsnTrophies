@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified">
+
+	<xs:element name="PlayStationGame">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name="Game">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element name="Id"/>
+							<xs:element name="IdEurope"/>
+							<xs:element name="Title"/>
+							<xs:element name="Image"/>
+							<xs:element name="TrophiesCount">
+								<xs:complexType>
+									<xs:attribute name="Total" type="xs:nonNegativeInteger"/>
+									<xs:attribute name="Bronze" type="xs:nonNegativeInteger"/>
+									<xs:attribute name="Silver" type="xs:nonNegativeInteger"/>
+									<xs:attribute name="Gold" type="xs:nonNegativeInteger"/>
+									<xs:attribute name="Platinum" type="xs:nonNegativeInteger"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="TotalPoints"/>
+							<xs:element name="Platform"/>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Trophies">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element maxOccurs="unbounded" name="Trophy">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element name="Id"/>
+										<xs:element name="GameId"/>
+										<xs:element name="Title"/>
+										<xs:element name="Image"/>
+										<xs:element name="Description"/>
+										<xs:element name="Type"/>
+										<xs:element name="Hidden"/>
+									</xs:sequence>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>
