@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01392_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Duke Nukem Forever</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/88A96B00B02688D1A7585A7D6270C897E3B4A051.PNG</Image>
+    <TrophiesCount Total="63" Bronze="50" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1230</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Savior of the Universe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/28F1A935F645360C84CAF0B0261ECBDA617CA095.PNG</Image>
+      <Description>You got them all!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Extermination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/4A37BA25464034075254CCEE96EAA73376EFC2CD.PNG</Image>
+      <Description>Kill 50 aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Annihilation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/50B61A6AAD69076822F86482DA46B3FDB7360144.PNG</Image>
+      <Description>Kill 100 aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Nuclear Devastation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/B49B232061BA047C825BA96A60F1A7D6DE4DF302.PNG</Image>
+      <Description>Kill 250 aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>On the Noggin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/2F34BB954766F029778F015D8E1AD3BCC88E3FE5.PNG</Image>
+      <Description>Kill 30 aliens with headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Hippy-Stomper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/454D2CF990ADFFE47ED31AA5AF5486DA560D3FD5.PNG</Image>
+      <Description>Foot stomp 12 aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Judge, Jury, Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/2A55824DE581F920A19CD70C343D8AEDE08E6F3C.PNG</Image>
+      <Description>Execute 20 aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Trapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/EDEB4CD7ADF5A03F8717FE49FE1BB7ECB991A80F.PNG</Image>
+      <Description>Kill 10 aliens with Trip Mines</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Freeze Well!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/90234ACB70D017BD78B5BC644E2A5C4185C4DA3E.PNG</Image>
+      <Description>Kill 15 frozen aliens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Road Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/3C0FF63834AD0F1C0C46D0EF5EE9E2814C002CD6.PNG</Image>
+      <Description>Kill 15 aliens with the monster truck</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Fork the Pork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/0B03FC71D86BD41411047810BAD8DF77F18676DB.PNG</Image>
+      <Description>Kill 6 aliens with the forklift</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Dead Useful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/BA74E4DB46440FDA2CD3D6D2D8CF1CAB015F3195.PNG</Image>
+      <Description>Kill 10 aliens with environmental explosives</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Tosser... in the Literal Sense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/AB0F75C2B7B63C1D4F287AA88891A8D72159BD35.PNG</Image>
+      <Description>Kill 10 aliens with tossed objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Duke Angry, Duke Smash!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/65C5F61313A847BE9D1F4F40C31CB0CB6E6B24FB.PNG</Image>
+      <Description>Kill 15 aliens with melee attacks while on steroids</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Noms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/733EE9A55A111C45264A0913C858F2B1DB623351.PNG</Image>
+      <Description>Eat 10 pieces of food in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Natural Disaster 3x</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/65C590C721A5730E45F8992BDAD86FFA031243A3.PNG</Image>
+      <Description>Kill 3 aliens at once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Full Body Tourettes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/9421BB3450D249E6CE3D59C4CB90138B554AD674.PNG</Image>
+      <Description>Get knocked down 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Turd Burglar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/9CBA6F3C2AF6F4AFB4D4568BAFA198499943FBC2.PNG</Image>
+      <Description>Find and steal a piece of poo</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>I Need a Towel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/CF034920DF1D446E469930F64408D63DBD4B2041.PNG</Image>
+      <Description>Get hit by 10 Pregnator bombs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Baron von Nukem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/A8C1252BEFB011F8199805A134748705C6CDA5B4.PNG</Image>
+      <Description>Shoot down 20 alien fighters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Call Waiting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/5EC9274386CD711BA7F4D822B2A27E26D85C743C.PNG</Image>
+      <Description>Listen to all phone messages</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Bucket Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/817567C52D84BE67321BF573ED3949DDDB903A39.PNG</Image>
+      <Description>Find all 3 helmets in the SP campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Party Animal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/00EC7235D5354A4B424525CFA810121D88C0A8DC.PNG</Image>
+      <Description>Drink all of the beers in the strip club</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Pescaphobe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/570035945C0742BF80AC1287FB13B6A0D13FA73D.PNG</Image>
+      <Description>Kill all of the catfish in the underwater level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Drawrings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/3CC29E67847B8EC81F3BA8B2FFC837C9F5E92C42.PNG</Image>
+      <Description>Doodle something on the whiteboard in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>I Need a Date</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/F8DC3F507539BCCD25AFF08D09F3E6B4C122876D.PNG</Image>
+      <Description>Look at every page of a calendar in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Sticky Bomb Like You!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/2ABD04D31A2BA7C53C38A715B104D54182A67EEF.PNG</Image>
+      <Description>Put a Trip Mine on a live alien</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Big Guns, Big Ships</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/BE9B6461412F7606C69D49BCC82D2CBAB5437D3D.PNG</Image>
+      <Description>Blow up 5 enemy Gunships or Dropships</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Air-Duke</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/DC4FA7C8CC3A9F44FF7F2C4B97F7AD3239729818.PNG</Image>
+      <Description>Win air hockey with a score of 7-0 in the strip club</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Balls of Steel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/1F5F8C53AC8B6081561B923294BB9E6ED81281CD.PNG</Image>
+      <Description>Earn a 1,000,000 pinball score in SP</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Flagon of Chuckles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/F9F041272DED7B27E4BB305ED38663605865E53F.PNG</Image>
+      <Description>Drink a beer in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Juiced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/C95961D9A068B3E920222B6D2C62CF6490EA608F.PNG</Image>
+      <Description>Take steroids in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>He's Got a Hologram!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/C1F6965684F50A073F9381E9F79278C6C1A57964.PNG</Image>
+      <Description>Use a Holoduke in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Substance Abuser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/D44B929D521C0874693CB793BE789269CEF45631.PNG</Image>
+      <Description>Drink beer while on steroids or vice-versa in SP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>I Am All That Is Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/F9CE1CBB224FCC2CDD628E0C49D0D67976CB24AD.PNG</Image>
+      <Description>Discover all ego cap rewards</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Gunslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/36935CB1128BA83DEEF8F8515B797A01CCD52956.PNG</Image>
+      <Description>Carry the gold pistol through the whole SP campaign</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Sunday, Black Sunday</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/27831A93F7B5C9862F4CEC370355384AEDF3774C.PNG</Image>
+      <Description>Shoot down the blimp above the stadium</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Nobody Likes a Whiner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/8C2E36CD2B933065F9165D723A6FCA31D1A9EDA2.PNG</Image>
+      <Description>Knock out the talent at the talk show</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Lots of Whacking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/0605B9E5C1BC39CC6137F998BAEB1082D6CB271B.PNG</Image>
+      <Description>Win a game of Alien Abortion in the strip club</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Companion Barrel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/25DE749007A466CAB99BE9B2D60290BC33602B41.PNG</Image>
+      <Description>Unlock the secret closet at the end of the Forkstop</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>One-Eyed Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/40D73E77B204D98FFB573F5715DA0A4E8745988B.PNG</Image>
+      <Description>Defeat the Cycloid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Pit Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/AA0FF21B95A6D0F162C96795AF3854B9EAB90F38.PNG</Image>
+      <Description>Defeat the Battlelord in Las Vegas</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Not Bad for a Human</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/C2A426112BF8E82564C581CCD05CC3E6A1CF2BCF.PNG</Image>
+      <Description>Defeat the Alien Queen</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>A Good Dam Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/005782D80DC1020E45D6CAB7E4A32E3F687B922C.PNG</Image>
+      <Description>Defeat the Battlelord on the Hoover Dam</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Octacide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/581D5FACFCD1127C13A7A1C8B57A7CBF96902B0B.PNG</Image>
+      <Description>Defeat the Octaking</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Beating the One-Eyed Worm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/A8B605D31447A50339000298367D0ED1CA4DB04E.PNG</Image>
+      <Description>Defeat the Leech</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Piece of Cake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/B179F487A1F5CFFB7287E42291C31683422BE18D.PNG</Image>
+      <Description>Complete the SP campaign on Easy Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Let's Rock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/ED9658054CEA09E056583FE555B84BDCE5B1E845.PNG</Image>
+      <Description>Complete the SP campaign on Normal Difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Come Get Some</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/0B4E5E01E59E1D0691CDB0B3E641A48F77758E89.PNG</Image>
+      <Description>Complete the SP campaign on Hard Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Damn, I'm Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/7616AF0C61DA7AAF3A33EF9C96F412D327EA1738.PNG</Image>
+      <Description>Complete the SP campaign on Insane Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Special Thanks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/D124291163C5C044AE4142FEB3B9F7F90BD6C3A2.PNG</Image>
+      <Description>Watch the credits all the way through</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Bubble Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/87FACA9300F779843F64BC8BAFA1C6418302F6D2.PNG</Image>
+      <Description>Kill 10 expanded enemies with melee attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Threesome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/204126952044C4D1B55507C5E14C9DBAD166CE6E.PNG</Image>
+      <Description>Kill 3 enemies within 3 seconds with the Impregnader</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Passive Aggressive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/11BC0DD345358485D8FBC346DB9DD108E7A86BCB.PNG</Image>
+      <Description>Let 20 enemies die by someone else's hand</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Bloody Red Rover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/02E7E8F0418B5A81197991F385C9B3CA0023B9E1.PNG</Image>
+      <Description>Kill 30 enemies with the moon rover</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Scientits</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/0A093DD2663CC2F6B4AC92606C2E74EAF29DA870.PNG</Image>
+      <Description>Earn a 1,000,000 pinball score on the Scientits pinball machine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Heart to Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/EB5980567BEEF2832734B667288989CE525E0062.PNG</Image>
+      <Description>Finish Doctor Proton</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Hedonist, not Misogynist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/ACB64DB145C2099B39CB3C4F3AE51712EB737575.PNG</Image>
+      <Description>Discover and reject the video game that lets you slap women</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Another Piece of Cake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/CF017688C9E7452B29A21B1A1838D54354661046.PNG</Image>
+      <Description>Beat The Doctor Who Cloned Me on Easy Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Let's Rock Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/0F0CB6F21AF979F017C117495F458CF5B62BB092.PNG</Image>
+      <Description>Beat The Doctor Who Cloned Me on Normal Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Come Get A Little More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/ECEEA0C305C39A606CF9CCD41820B35054FD5768.PNG</Image>
+      <Description>Beat The Doctor Who Cloned Me on Hard Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>Damn, I'm REALLY Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/8F616E4413AA6DFBE70B7CEA780FAD44451EF7DD.PNG</Image>
+      <Description>Beat The Doctor Who Cloned Me on Insane Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01392_00</GameId>
+      <Title>I Am All That Is Man - Again!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01392_00_AB2E7A3967FC668835582A145B564A2900946078/A56A2C56C81E0D1F60098ABC5722872A1247AC4D.PNG</Image>
+      <Description>Discover all Ego cap rewards in The Doctor Who Cloned Me</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02163_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Resident Evil: Operation Raccoon City</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/97D8F163DE609C18488E1B6BD46C073DAA71C4EF.PNG</Image>
+    <TrophiesCount Total="71" Bronze="52" Silver="16" Gold="2" Platinum="1" />
+    <TotalPoints>1440</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Mr. Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/08D0947BBE8819893529590B4B19C7842D26F422.PNG</Image>
+      <Description>Get all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Witness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/B4B9760992B53EF9A7CBFE124ECCEF37C6485EFA.PNG</Image>
+      <Description>Witness the beginning of the Raccoon City outbreak.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Corrupted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/068CABEBB5C8F2574A8BEC33B7BB36BB3408D1AB.PNG</Image>
+      <Description>Complete the second mission of the U.S.S. campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Danger, High Voltage!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/459A734FF2D23364C4EE7538F1DA070A51058455.PNG</Image>
+      <Description>Complete the third mission of the U.S.S. campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Rogue's Gallery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/751C7CED8FDC6E3B5CD523A3677D3D8D57D18AA4.PNG</Image>
+      <Description>Complete the fourth mission of the U.S.S. campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Betrayal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/1C1C939114D809F0E6BA23EFCD2FF1AA6FAF3748.PNG</Image>
+      <Description>Complete the fifth mission of the U.S.S. campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Down in the Labs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/8AD8BDF91C0E80FA510F5D88648C319CD9C2D682.PNG</Image>
+      <Description>Complete the sixth mission of the U.S.S. campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Died Trying</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/1C2802BBB42FDE51AEC02C754B907D97DEE98E7E.PNG</Image>
+      <Description>Attempt "The Rescue" and fail</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>A Hero Spared!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/A2ECA621C176905B5AF1B62A3676BFA712DD8276.PNG</Image>
+      <Description>Attempt "The Rescue" and survive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>The Loyalists</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/9CC4843FBAEC2C2B2149F3634A5F6B2E87B50EB6.PNG</Image>
+      <Description>Follow orders and defeat all liabilities.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>A Gun by Any Other Name</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/D136D6DE8C40F86058670D37FE7A9C1B12171E9E.PNG</Image>
+      <Description>Kill an enemy with each weapon type including special weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Outbreak Survivalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/A152AF1DAD39007C3D86EB0AB976D718180850BE.PNG</Image>
+      <Description>Complete all U.S.S. missions on Veteran.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Raccoon City Cleanser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/3CE315382372931B5B16965EAF74B1B074DC93FB.PNG</Image>
+      <Description>Complete all U.S.S. missions on Professional.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/6ED6E66A6E8D9733138BCB3E68FE7EFCC0DAD539.PNG</Image>
+      <Description>Complete all U.S.S. missions with an S Rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Great Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/A0010229D58FAA24C4FF51A685F277CD3B137C63.PNG</Image>
+      <Description>Gain S+ on all U.S.S. missions on Veteran or Professional difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>On A Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/5AB5D815F2D211F7F50C80708C49E4E0D57EC647.PNG</Image>
+      <Description>Achieve a 5 kill streak in a Versus match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Skill... Or Luck?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/EB0BF46A7E4AE49ED75F1884D1542732404828F8.PNG</Image>
+      <Description>Achieve a 10 kill streak in a Versus match.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Now That's G</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/7F1148D0CC080AB58A2E76CB49F1EACA292088A4.PNG</Image>
+      <Description>Collect 3 G-Virus Samples in one match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>No Sample For You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/5FB7B0C125C5F3ECFD25A0FC67D1A9732FF23749.PNG</Image>
+      <Description>Force 25 enemies to drop G-Virus Samples in Biohazard (lifetime).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Supreme Survivors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/1C2DCC8C678DA2768492E58E5039BCBA8655F254.PNG</Image>
+      <Description>In Survivors mode, have all 4 players on your team Survive the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Fallen Idols</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/FC35544EDFC10C3A346A6DEB428BF3C0ABBA4978.PNG</Image>
+      <Description>In Heroes mode, eliminate 4 Heroes in one game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Sampler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/FE7D15BD16E650AD730818737416CEF505CAE0B5.PNG</Image>
+      <Description>Play at least one match in every game mode type.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>You Love to Hate My 98</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/1D73DDAD2DEEE361653037D54D07188060963D57.PNG</Image>
+      <Description>Complete 98 versus games</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Tongue Tied</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/EC9F310DBC983D0E77478C0D1B591B428939C2A3.PNG</Image>
+      <Description>Free teammate from Licker grapple.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Like a Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/2E72F98A680127AC1C8580E6DD9FF711D0AC6979.PNG</Image>
+      <Description>Kill 100 zombies with CQC (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Stop Squirming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/92572F005F1881AA3BD322074BCBC9EB60A2DBF5.PNG</Image>
+      <Description>17 Hunters Killed (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>This Place Crawls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/79131F1BC31BF3F4F498F45C2ACD55AE501AB61F.PNG</Image>
+      <Description>31 Parasites killed (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>By Trail Of Dead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/4BAC20B098AA1D8AAD7BAFD49EF0EBED511689E0.PNG</Image>
+      <Description>Kill 50 opponents in Versus. (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/04DD6D2F483D29F758BB4DD29EE16766DABD3E52.PNG</Image>
+      <Description>3 Tyrants Killed (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Only Hurts For A While</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/2CB38A3E8D82FD2CCD349D0128EC1A891D8DD822.PNG</Image>
+      <Description>Infected 13 times (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Clingy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/B8C3FA78F4DDBD87E476D6837169100430A8D145.PNG</Image>
+      <Description>13 Parasite Zombies killed (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Revival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/DBBAA69E18764E810F5A0EAF984C9ADBEFF2CBCB.PNG</Image>
+      <Description>Revive 31 teammates (lifetime)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Green Thumb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/530FA18B8876C3119ACFE4D0CC6E560A506AB67E.PNG</Image>
+      <Description>Heal with 101 Green Herbs (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Down Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/08D2CBF3FA35DB56AE97BC6DCA9D9C4FD0264816.PNG</Image>
+      <Description>Kill 13 zombie dogs (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>These Will Do</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/2D993C0540DD21EEC28FBF295ABF9E97E1DA15ED.PNG</Image>
+      <Description>Purchase 5 weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Choices Aplenty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/514E443BAE05B44B7C1B6284B26DD1A13F8421B4.PNG</Image>
+      <Description>Purchase 15 weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Quite The Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/56FB164F667B281DC777B002C51334692FF321FE.PNG</Image>
+      <Description>Purchase all available weapons.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>One Trick Pony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/E3639AAC4006338994C4DC4EE622EC53C95C5AAC.PNG</Image>
+      <Description>Purchase an ability.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Feelin' Stronger Every Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/94593D52B2C15F7DFD0A7514ACA68DEE368EB248.PNG</Image>
+      <Description>Fully upgrade an ability.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Look What I Can Do</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/A832FD0DC81A0E3CD25DFE6ABC053DE96F99418C.PNG</Image>
+      <Description>Purchase all abilities for one character class.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Ready To Dominate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/CFD3C57F02C34E54F3890240897344B9A8D27A76.PNG</Image>
+      <Description>Fully upgrade all abilities for one character class.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>So Many Choices</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/224F9CF75004C063974B1BEE95D1FC740753521F.PNG</Image>
+      <Description>Purchase all abilities for all character classes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Epic Standards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/2EB83A1186E5F27A49A1956F7FC1F8F5E0F9F8DD.PNG</Image>
+      <Description>Upgrade all abilities for all characters to its maximum level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Organic Shield</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/13D2C3353D2A666F97639194DA0A261BF19259D0.PNG</Image>
+      <Description>Kill 5 enemies while using a zombie as a shield.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Baker's Dozen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/BC2CC28C967B6C4CD87BACD3ECDC57F2702E8876.PNG</Image>
+      <Description>Kill 13 zombified teammates.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>So Hot Right Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/D2A3616DEAC8C7192D857C55E3AA3FEEF8BC92F3.PNG</Image>
+      <Description>Kill 103 enemies with incendiary rounds (lifetime)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Bloody Good Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/001B511C69239559AC5868AD1FDA5AF9CF2ED019.PNG</Image>
+      <Description>Kill 5 enemies with Blood Frenzy in a single campaign game or multiplayer match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Up Close and Personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/13874D1C1E622F04D2EC3E62664F83ED2DF1B5FA.PNG</Image>
+      <Description>Kill 5 players in one multiplayer game with CQC Kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Raccoon City Mascot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/94D670299C3469EBE84FF9B6896C03786B0E1D7B.PNG</Image>
+      <Description>Collect all 7 Raccoons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Chaos Averted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/16E09A905C1BAB1C387546C34BE6B323E40ECE87.PNG</Image>
+      <Description>Kill an infected teammate with a headshot before they become a zombie in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Like a Bee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/0CBFDCA4CBDE9BC46499D18A7EB94A58FC66C448.PNG</Image>
+      <Description>Kill 10 enemy players in one multiplayer game with CQC.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Let Lounging Lickers Lie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/480585E84860491C7A1D9FC0EBCFB542EE11235D.PNG</Image>
+      <Description>Do not wake up Lickers in the Atrium encounter in By the Trail of Our Dead</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Burning Inside</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/B70F7AC26AD4FB319E56090B7811FB290C4E906B.PNG</Image>
+      <Description>Kill another player with Crucible in a Foundry Versus Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Happy Trails</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/4FB0B5270D5A409E6E189D056C55DD49361D6B4E.PNG</Image>
+      <Description>Complete By the Trail of Our Dead</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Hot Pants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/E1BBAA6F9F5DE39F10B51E6D8E37192F1B5418F4.PNG</Image>
+      <Description>Complete I Now Know Why You Cry</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Oh Yeah!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/CDFB4E95A45F15B21572B09DD14E41E3EEB3123E.PNG</Image>
+      <Description>Complete Nothing is as it Seems</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Boom Worse than Bite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/80E8C91999062EB35F125ED8DF3CB87EF00FB4DE.PNG</Image>
+      <Description>13 Bomb Dogs Detonated</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Ticket to the Gun Show</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/8FDC1872F8440A475C5E891D33DECF2C92AAAB2D.PNG</Image>
+      <Description>As Tweed, use C4 to open door in Foundry</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Ladies Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/76E8CD13D280177A6D40BE7D23288B5EF76A5DA8.PNG</Image>
+      <Description>Beat an Echo Six Expansion Pack mission with the 3 female characters in your party.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Who needs guns?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/4A3DE49A989B8D54D2FF91EFAF92059DDD20BA3C.PNG</Image>
+      <Description>Complete an Echo Six Expansion mission without killing anything with a gun.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Leave no Dead Man Behind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/25661B3AE734AA72C5B009BE1546A254029D2A01.PNG</Image>
+      <Description>Kill every zombie in the Park before leaving.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Birth of An Abomination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/32216BF6DA5941867D7DBFE98C5D90682D788D56.PNG</Image>
+      <Description>Complete Root of All Evil</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Derailed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/86AF9718C4DBF6D4F1FBBC0AC64A856186CD5CDE.PNG</Image>
+      <Description>Complete The Places We’re Meant to Die</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Bigger They Are</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/767C3BC259D1A8C01AC830F12A585001561914EB.PNG</Image>
+      <Description>Complete Longest Yard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Tyranical</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/4E1E6030EFDB79BA4EEDBA92D625015FAB77AA74.PNG</Image>
+      <Description>5 Tyrants Slain</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Rocket Socket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/44652DDA4333B9533CA0A4F9C5DFBE801F3D1068.PNG</Image>
+      <Description>Kill 5 enemies with Rocket Launcher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Delivery Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/CD0A1CCBDC77FB5879005FD035461A6F66ECC5DA.PNG</Image>
+      <Description>Deliver all 5 virus samples for your team in Dispatch's Biohazard Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Turrets Syndrome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/DE962D584D501473E4C9A5F9024863142FB98762.PNG</Image>
+      <Description>Shut Down or Destroy 5 Turrets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Boys Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/DC38C9A41F066A3CA4DF6FC33D43FCB28F5B06B3.PNG</Image>
+      <Description>Beat an Echo Six Expansion Pack mission with the 3 male characters in your party.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Supernaut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/C18DF8ACB9DCAD1480FF0A42B8C0A845D6D96AF4.PNG</Image>
+      <Description>3 Super Tyrants Slain</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR02163_00</GameId>
+      <Title>Divided We Fall </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02163_00_A85CAD57D3F9D7993A0F534E29C335AD5AE5589C/7FDAB8192A907ABF82E8EE925F3316938CA63274.PNG</Image>
+      <Description>Complete an Echo Six Expansion mission with no human player incapacitated from death or infection.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

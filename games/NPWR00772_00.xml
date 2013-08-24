@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00772_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Mafia II</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/001EA3716009B7C9AAD4C803F33CACDC831F8200.PNG</Image>
+    <TrophiesCount Total="68" Bronze="51" Silver="14" Gold="2" Platinum="1" />
+    <TotalPoints>1365</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/D6460A6D9AFECF8F2733CF012AA00A5ACE5B3823.PNG</Image>
+      <Description>Unlocked when all trophies collected.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Viva la Resistenza!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/97247CF7FB4401637858D2AFF4DC9F3C7569BE0D.PNG</Image>
+      <Description>Complete Chapter 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Home Sweet Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/5D2EF4EC6CA510B394D05DA6CDF1D35BD4B05F41.PNG</Image>
+      <Description>Complete Chapter 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Back in Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/297C6E23442CB1860C563E20B599BC94A2E11DF3.PNG</Image>
+      <Description>Do your first job for Mike Bruski.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Big Brother</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/766B7A1A1F12D328C93197214FED302FF747D39A.PNG</Image>
+      <Description>Protect Francesca.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>A Real Gentleman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/151B2A1B04C03B4CEAC153259CE7CCAC19FBCFD5.PNG</Image>
+      <Description>Help the woman fix her car in Home Sweet Home.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>The Price of Oil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/BDCB6FBD3A676969A02E74F18A90F5EFFB603D77.PNG</Image>
+      <Description>Complete Chapter 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>The Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/27E67299054B5B30BD05DE7EAFD59878AA1B4D3B.PNG</Image>
+      <Description>Obtain the ration stamps without raising the alarm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Mail Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/457209597CCFEBABCE99AEABD73C60632D694A49.PNG</Image>
+      <Description>Sell all the gas stamps before the time runs out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Night Shift</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/EB7C5C60C016798B2D40E3A991C53346091B0255.PNG</Image>
+      <Description>Complete Chapter 4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Good Spirits</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/58389783AF227E9C0FD55A9C8681EE5986397C16.PNG</Image>
+      <Description>Complete Chapter 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Time Well Spent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/A691F6616236813580C07384CA3EEED93EE510DF.PNG</Image>
+      <Description>Complete Chapter 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Last Respects</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/222A646C114317FBBA6F8BB92CA6048A24BB347F.PNG</Image>
+      <Description>Complete Chapter 7.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>The Wild Ones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/2E4027716475B4406C5741B61C4BD720F6DEA2E5.PNG</Image>
+      <Description>Complete Chapter 8.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Man of Honor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/13A2684E9EB90307EA4061A6C97B0189AD1B4736.PNG</Image>
+      <Description>Complete Chapter 9.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Checking Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/27FCBF3B19750CF430ACFD6427851B50121BC2EF.PNG</Image>
+      <Description>Complete Chapter 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Our Good Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/EC8C9F061D4FD04EB4BC4A50A43AF1952431BAE6.PNG</Image>
+      <Description>Complete Chapter 11.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Wake Up Call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/9993BEF03C4CF1930F69F34356A9AADFDBDBF8E0.PNG</Image>
+      <Description>Help Leo out of a tricky situation without getting caught.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Chasing the Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/C3C7D827C289E116DF3BF2EF3B73DC671E0AAFB6.PNG</Image>
+      <Description>Complete Chapter 12.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Chop Chop!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/9018433904B492425E9D14DFA2550DB67DA3F062.PNG</Image>
+      <Description>Complete Chapter 13.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Men at Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/0BF25888600F7DAEA0E7874F4F578682043F4F21.PNG</Image>
+      <Description>Complete Chapter 14.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Finish Him</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/47B03EF239540280E88E6028ADBC6DB368F2C531.PNG</Image>
+      <Description>Finish what you started.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Made Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/523996EB85221FFBB16402ACEF714D95CD686AB4.PNG</Image>
+      <Description>Finish the story on Medium difficulty level or higher.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Tough Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/A5165598756D5762E4C7CFB39D957412E905D38A.PNG</Image>
+      <Description>Finish the story on Hard difficulty level.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Get Rich or Die Flyin’</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/1FA84FBE302FDB106029D1397B037F38502C524B.PNG</Image>
+      <Description>Get all wheels of your car into the air for at least 20 meters and then touch the ground again.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Pedal to the Metal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/CFC4A4D41EAA75F6D1EAB7C4FC6DA8EAE1679CD2.PNG</Image>
+      <Description>Travel at 125 mph.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>One Careful Owner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/D3ABC556CFBFF233800B572968398DD134CC340C.PNG</Image>
+      <Description>Travel a total of 50 miles in one vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Proper Scrapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/434B0EAACC4B33F6F0B04D3CCCEC614D046D2729.PNG</Image>
+      <Description>Sell 5 vehicles to Mike Bruski at the scrapyard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Exporter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/BA484E5627EC8DA3F9FAC2E4DCE0AFB860DBD050.PNG</Image>
+      <Description>Sell 5 vehicles to Derek at the dock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Cruise Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/9811A0367F6C563AF8548A519FBF5A5486436F88.PNG</Image>
+      <Description>Keep any vehicle at 30mph or over for 5 or more minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Hairdresser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/5D492622DAD5DF11ADA1D09784243E9A248B0941.PNG</Image>
+      <Description>Kill 5 enemies in rapid succession with a headshot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Knucklehead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/FEC1C1A499D996B2EC40FE1497C393B211B1AC12.PNG</Image>
+      <Description>Kill a total of 30 enemies using melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Stuck Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/3C9DFCCC2F5191B413BD66371B1A955792DA83A1.PNG</Image>
+      <Description>Rob 5 stores in under 5 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>The Enforcer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/1B760F7611C9FCF916DA69E0EB3D175574D97883.PNG</Image>
+      <Description>Kill 50 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Sharp Suiter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/36FFC10149700337C69500894D2FF5A2833F06E5.PNG</Image>
+      <Description>Buy your first luxury suit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Tuned Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/08FBCDA5FF09657ABC267C2E2244F037401E2F68.PNG</Image>
+      <Description>Upgrade one of your cars one level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Dream Handling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/1DCF60505207F63EB66475EDDBE1276A15619399.PNG</Image>
+      <Description>Upgrade one of your cars to the maximum level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Hard to Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/FF4173CF081CC307F95A8FE88FA078AD64409C38.PNG</Image>
+      <Description>The police want you dead. Survive for 10 minutes!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Collector's Item</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/6418DF109A4BB9DC876D09B951D6098C5A175799.PNG</Image>
+      <Description>Find at least one collectible in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Petrol Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/AD3366652CFD945FA1F0124D99EA1537FA8D124D.PNG</Image>
+      <Description>Drive at least 30 different vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Ladies' Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/9A83147F402403F6C282F9DC6702CBA5961089F6.PNG</Image>
+      <Description>Find all of the Playboy magazines.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Card Sharp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/F576C248E2A8D7A747789709BC00FE18017E4FC3.PNG</Image>
+      <Description>Find all of the Wanted posters.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>He Who Pays the Barber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/5066BA99AE217425FEFC1353B5F1EBB0F531DC77.PNG</Image>
+      <Description>Improve the dockworkers' haircuts.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>A Lesson in Manners</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/791382775B2D6AE402BC4A06128229179285CAA8.PNG</Image>
+      <Description>Show that you know how to treat a lady.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Hey Joe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/10529FD55B3BF81A87D4668BA3CB6BA1BE13EB72.PNG</Image>
+      <Description>Clean up after Joe.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>End of the Rainbow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/0D28F6DA12B0386051333B8589E6918A68A85F11.PNG</Image>
+      <Description>Settle the score with the Irish once and for all.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>The Mafia Never Forgets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/0FA7B29F4769814324530868C8E96733B620CA86.PNG</Image>
+      <Description>Pay a visit to an old friend.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Out for Justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/42FBC04632D9AE3AFDF0DD767771E7605A562BAF.PNG</Image>
+      <Description>Learn what it means to be a Scaletta.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>First step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/DF2619FCD8CA69E3919EA1659AE35827F923F79E.PNG</Image>
+      <Description>Complete your first mission in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Faster than Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/C42D160BBFB17DBBF52A93A8DB5D58D29A470CCD.PNG</Image>
+      <Description>Achieve a 10x point multiplier in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/F0C7989A149949F18D0D602794654D2DC2C6577C.PNG</Image>
+      <Description>Drive a total of 1,000 miles in vehicles in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Armament King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/14F4E5CFF991474E93A2B708DD66B4A7390D5048.PNG</Image>
+      <Description>Kill your enemies in "Jimmy's Vendetta" with every weapon available in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Firebug</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/5F1298148DB44357B03D2A16B9E35E6CE0F939AE.PNG</Image>
+      <Description>Destroy 100 vehicles in "Jimmy’s Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/42797B7A3449D4E73268DE0A3AA2AFD34C0EB3C6.PNG</Image>
+      <Description>Kill 100 enemies by headshots in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Carnapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/7A09549E40FE6D330DA5A7AFEF446B87F1BF16BE.PNG</Image>
+      <Description>Finish all Car Dealer missions in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Revenged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/1B439963FD22B2B5CA3DA25195B887345EB50048.PNG</Image>
+      <Description>Finish "Jimmy's Vendetta" on any difficulty level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Millionaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/E2160E76CC0D93C3D5CFDADD598B7E372034FDDA.PNG</Image>
+      <Description>Earn 1,000,000 points in "Jimmy's Vendetta."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Massacre</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/03B2415F45AB01347ACD4B64613F15FF055192B3.PNG</Image>
+      <Description>Kill 1,000 enemies in "Jimmy's Vendetta."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>What Witness?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/96E03176074ED6F6249BCE2798C63A4B6926E1A0.PNG</Image>
+      <Description>Finish the Witness level in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Arctic Grave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/4AFEC38C873D6735207B791368F89044E04B0136.PNG</Image>
+      <Description>Push the chief witness into the ice lake in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Dockyard Discord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/2AE8F8ABD39ADD8F7F7D1D79A862490C9DEFE88F.PNG</Image>
+      <Description>Finish the Connection level in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Five Finger Discount</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/B96B4E988A7677C43FB0FCE6DAF79D0872533EAA.PNG</Image>
+      <Description>Finish the Supermarket level in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Mind the Goods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/6F0187A4C341B90BE555196B3C467E3F401D05DE.PNG</Image>
+      <Description>Finish the Cathouse level in "Joe's Adventures."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Same Shirt Different Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/92A15944C1E1A636F14670BF4ED7628282AE0EEF.PNG</Image>
+      <Description>Finish Joe's Adventures on any difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Hypersonic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/FC92D250178C60A52B8FD1A34B54FA622FE527F6.PNG</Image>
+      <Description>Reach 2000 points for one velocity run in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Jacked Jumper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/B836B3E9DD26EB56D2C9723FD4A29E4C8CC42746.PNG</Image>
+      <Description>Reach 200 points for one Jump in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Driftin' Daddy-O</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/3B674800963599339716E30C2C43F20764B0177E.PNG</Image>
+      <Description>Reach 200 points for one Drift in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR00772_00</GameId>
+      <Title>Jack of all Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00772_00_00FDA376EA4681FF9DBAF192B11C345E528844F6/9804DFECFE7789969A3D233974E1220314EADF76.PNG</Image>
+      <Description>Reach 10 different score actions in one mission in "Joe's Adventures."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

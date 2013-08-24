@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01662_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Max Payne 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/3EC2476C20FD693A325144C3D6848C078A1960E0.PNG</Image>
+    <TrophiesCount Total="68" Bronze="48" Silver="15" Gold="4" Platinum="1" />
+    <TotalPoints>1530</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/03142F1BD41BA8F949683913EB4CF9DF72C5C95A.PNG</Image>
+      <Description>Unlock All Max Payne 3 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Feel The Payne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/5999774066FA338CE1CEEA6E885C6385D9BF3618.PNG</Image>
+      <Description>Story Complete [MEDIUM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Serious Payne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/33A7BEE11395FE26DB1E3E0E627CD53FB9F7C12E.PNG</Image>
+      <Description>Story Complete [HARD]</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Maximum Payne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/04801A9D7F4331D99587052B88D897D082169D99.PNG</Image>
+      <Description>Story Complete [OLD SCHOOL]</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Payne In The Ass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/C9C43B0B18607ABED5908E0DFB21E634FC137ED8.PNG</Image>
+      <Description>Story Complete [HARDCORE]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Part I Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/3D37C3AC7EE76663615AE0E542FA16497110FE06.PNG</Image>
+      <Description>Complete Part I Of The Story</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Part II Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/D9A31DFA790C80342FB73E91D04DDA59CF94C542.PNG</Image>
+      <Description>Complete Part II Of The Story</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Part III Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/A388359F6CA9286B7F756742BD9134C3A8B3F2C3.PNG</Image>
+      <Description>Complete Part III Of The Story</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>A New York Minute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/66494167037830BC357EB68EA1978471BCE992F1.PNG</Image>
+      <Description>Finish In A New York Minute</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The Shadows Rushed Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/93633A9B17E413CC3FC0E2EC0D9DCF19F38181D6.PNG</Image>
+      <Description>Unlock And Complete New York Minute Hardcore</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Out The Window</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/35E567C6A9874496B7B742A9DF965EFD46BBB98B.PNG</Image>
+      <Description>Get 6 Kills While Diving Through The VIP Window [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The One Eyed Man Is King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/98126BA2E03A36219AF8EB855D20A70767370586.PNG</Image>
+      <Description>Cover Passos With Perfect Aim</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Something Wicked This Way Comes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/0C866C080F9A407915431DE1BDDF54B1D85E7699.PNG</Image>
+      <Description>Get 7 Kills While Jumping From The Rickety Boat [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>That Old Familiar Feeling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/BBF010C08504F48B55B60DAE4D9AD0E1B6E0ED54.PNG</Image>
+      <Description>Clear The Hallway Of Lasers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Amidst The Wreckage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/FE1BC1ABCE6C0CAE2745A2285BF0CB08E332756F.PNG</Image>
+      <Description>Destroy All The Models In The Boardroom</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>So Much For Being Subtle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/32F521416D039E8F82D94DA7C8251A4D4CD9FE83.PNG</Image>
+      <Description>Get 9 Kills While Being Pulled By A Chain [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The Only Choice Given</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/0C7599A79987FEEFF818B38722F90036BBDEA046.PNG</Image>
+      <Description>Get 8 Kills While Dangling From A Chain [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Trouble Had Come To Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/C44227C895047EE3181990C725A56D2BD0980845.PNG</Image>
+      <Description>Clear Everyone On The Bus Ride</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Along For The Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/FE5CF24BC759639F29D96EB752951B0119B378C4.PNG</Image>
+      <Description>Trigger A Bullet Cam On The Zipline [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Sometimes You Get Lucky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/19A3E3EF3076D97D601C9F29C739E0A08B708C67.PNG</Image>
+      <Description>Get A Headshot During The Rooftop Tremors</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>It Was Chaos And Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/4B2591590D72AED63533D3DA2D5A039D688FB11E.PNG</Image>
+      <Description>Get 6 Kills While Riding The Push Cart [FREE AIM]</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The Road-Kill Behind Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/5CB6785A0FAED3E5F5392AADA084B78F248030A5.PNG</Image>
+      <Description>Total Everything On The Runway</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>You Push A Man Too Far</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/DAF8BEF3837D6331238E3382C2DC0DACC402F21A.PNG</Image>
+      <Description>Don't Shoot The Dis-Armed Man</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The Fear Of Losing It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/D031CD270E5A3F802780437657492759F95402AD.PNG</Image>
+      <Description>Survive A Level Without Painkillers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>It's Fear That Gives Men Wings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/281A3A9FB3A7CAAA7B1CD5DF2F1F09C486BF17D0.PNG</Image>
+      <Description>10 Bullet Time® Kills In A Row </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>You Might Hurt Someone With That</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/1D979BB61FD2C4A3C4EC5FA55E92D621DC0F0CD7.PNG</Image>
+      <Description>Shoot 10 Airborne Grenades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>One Bullet At A Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/0239F5897DDBFC1B57AE7D4C3E3F7245F767A54E.PNG</Image>
+      <Description>300 Headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>You Play, You Pay, You Bastard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/A3CD8C2F98A72AFBEB95451EEA197ED0728E2376.PNG</Image>
+      <Description>100 Kills With Melee </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>With Practiced Bravado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/3FE52EE1E666BD6C7E2F837E8A916D294AEE1B5B.PNG</Image>
+      <Description>100 Kills During Shootdodge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Colder Than The Devil's Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/5F8DF0FC6604B3D5205820C504EA9BB739E3C737.PNG</Image>
+      <Description>Kill 30 Enemies In 2 Minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>A Few Hundred Bullets Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/15A8B056E042487C6F7F1068F002B4ACB03182BB.PNG</Image>
+      <Description>Use Every Weapon In The Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Past The Point Of No Return </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/AA0DA249DB1ED75CB94C6F5E84A8DE8520A5B505.PNG</Image>
+      <Description>Take 100 Painkillers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>An Echo Of The Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/066E6C7D6A6CA0A24D8C7A14EF1EC7FC81B149F4.PNG</Image>
+      <Description>Find All Clues</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Sure Know How To Pick A Place</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/69C8421FFB10821B0BE536939EE2AFBC839E98E6.PNG</Image>
+      <Description>Discover All Tourist Locations</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>A License To Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/D51422574094ABC843CAB3BBFE5C4266CB5A97DD.PNG</Image>
+      <Description>Collect All Golden Guns</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>All Of The Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/D249EFD1161C8BDA12438B5FDEC1F4D122E527B1.PNG</Image>
+      <Description>Finish All Single Player Grinds</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Full Monty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/3655E97682010409D72D0DC0B45D1F427FDF0E59.PNG</Image>
+      <Description>Complete One Of Each Game Mode Including All Gang Wars</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Payne Bringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/D3556AFB7CD868CB9747DFFDDBB8C03B5511F51F.PNG</Image>
+      <Description>Kill 100 Other Players</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Max Payne Invitational</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/A3CFDC5BA9BDA6899B67B77A4ABF21925029D626.PNG</Image>
+      <Description>Invite someone to play through the in-game contact list</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Man Of Many Weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/BD27F604101F85E87E05374D4332BBF393DB6A55.PNG</Image>
+      <Description>Unlock All Weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Man Of Many Faces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/94EF299B01D35DB09F759924E08AC594AFE0C8B8.PNG</Image>
+      <Description>Unlock All Faction Characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Deathmatch Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/C93300AF86FA6A756C563A0753352D17139086B1.PNG</Image>
+      <Description>Winner In Any Public Deathmatch</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Grave Robber </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/58CEA17036B373761AFE24B73650DB5A88F35D4C.PNG</Image>
+      <Description>Looted A Body</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>The Gambler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/373EAEBE6ABD75F9F7B231F3C8B7E296821C2987.PNG</Image>
+      <Description>Won A Wager</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Sweep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/109809A951A38A4A0DD704D4AC4245D183269C09.PNG</Image>
+      <Description>Flawless Team Gang Wars Victory</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Training Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/F433ACB596EF1E32CFC6750BCB497F6822CB50A4.PNG</Image>
+      <Description>Achieve Level Rank 50</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Dearest Of All My Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/A4D15F5FF5A22AFE2B227232994739E33139705C.PNG</Image>
+      <Description>Kill Someone On Your Friends List</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Air Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/4A092B81E37E704B95C0289807F7E113B9DD0205.PNG</Image>
+      <Description>Get 2 kills in a single Shootdodge in the Departure Lounge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Express Checkout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/9AE7704C1E17DB0FE1215B85D0F7DA4A32EF0711.PNG</Image>
+      <Description>Kill 4 players within 3 seconds in the Imperial Palace</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Long Arm of the Law</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/40F9F982C352359996358F4648E876950BAD36D4.PNG</Image>
+      <Description>Win 20 Vendettas in the 55th Battalion HQ</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>M4 Murder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/E9EDE08E67102EB4183CB85D9EE8F41B0547D7F4.PNG</Image>
+      <Description>Level up your M4 Assault all the way to level 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Keep Your Nose Clean</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_E440727613B6AE3D51A7FE71DD6E56049693259B/F587575389853491386C33C95751FE074C49DA9B.PNG</Image>
+      <Description>Get 100 Kills as a member of the SPP</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Old School Moves</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/9FBA94B133A450DFD7750944E115BA26B47A101F.PNG</Image>
+      <Description>Perform a 720 spin while prone in Nightclub</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Early Adopter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/081FC5DEBD1CD4EC2494ACC96249C356B711A9C6.PNG</Image>
+      <Description>In a single game, kill the same player with both the M24 and the IA2 AR</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>WMD</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/1BDE26FE220B1714DC8A47DC3F011B3D24ED8E24.PNG</Image>
+      <Description>Get 3 kills from a single use of the level 3 explosives burst</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>60 Seconds of Intimidation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/A7EFCF472C37BE16401A041A1C7314E2051AF178.PNG</Image>
+      <Description>Grind 60 Seconds of Intimidation on enemy players</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Long Arm of the Lawless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/A9A479BE9A4993A0FD5A9D6AB35FDCE864AEEE04.PNG</Image>
+      <Description>Kill Max Payne in Panama as the De Marcos</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Bar Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/52BB722C7F434DAB0C7CA1E513528BCD2B777675.PNG</Image>
+      <Description>Kill someone with a melee strike in the Bar area of Hoboken Bar</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Ouch My Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/6DBB7E991D8F77FCBE8AFC5289C6B3FCAD99C2B7.PNG</Image>
+      <Description>Headshot someone with a Hangover</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Welcome Ashore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/7CC1AAE707772E47B3A5A9E949142E342881BF9A.PNG</Image>
+      <Description>Kill a player on the yacht from the observation platform of the Panama Canal</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Drinker's Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/35DF279AE965C0E52C7D187184B5E3DE8486575E.PNG</Image>
+      <Description>Kill the sniper who broke your Hip Flask in the same life</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>3 Blind Mice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/15CE66AE9A2032066B2B35CE7CCE2AB27D0807F5.PNG</Image>
+      <Description>Blind 3 players simultaneously with the pepper spray</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Sweaty Betty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/DAF1ACED43599C48EE3EBBB79244DC3721190B16.PNG</Image>
+      <Description>Trigger and avoid a Bouncing Betty by Shootdodging</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Betty Confetti</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/DFCA1179ADECC46D23FA1261C8AABDF7A63891C4.PNG</Image>
+      <Description>Kill a player with the Bouncing Betty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Resisting Arrest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/6A42652F4D65CD74F2F5E000B6693D0DAA6A3533.PNG</Image>
+      <Description>Stun 10 players with either the cattle prod or stun gun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Breaking And Entering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/FFE7C6E923C698E6767327B162ECBA382D8010B5.PNG</Image>
+      <Description>Open 15 Containers or Doors in Dead Men Walking</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>It Looked Easy Enough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/BE6849420A44A410CDB4A5903E4502DAFC5E4B1B.PNG</Image>
+      <Description>Complete the Challenge Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01662_00</GameId>
+      <Title>Breaking The 4th</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01662_00_010A5392087DCF2156AC45DE0CE0F4765BA0883CDF/9EB832716A89BC9B19BC09B521E6017D4A81DBFB.PNG</Image>
+      <Description>Earn a x4 multiplier in Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

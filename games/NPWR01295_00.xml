@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01295_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SOCOM 4: U.S. Navy SEALs</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/AD2A5CC331F509F4313EE06E1630A85CFE2B6A27.PNG</Image>
+    <TrophiesCount Total="45" Bronze="34" Silver="6" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>All is Said, All is Done</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/A19283E7877B0EE3BEE6088610C46B11DD081814.PNG</Image>
+      <Description>Obtain all Bronze, Silver, and Gold Trophies in SOCOM 4: U.S. Navy SEALs.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Field Promotion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/CF311E313862067A7DCBF27BFDC530346486DED8.PNG</Image>
+      <Description>"First Strike" - Complete your first mission as Ops Commander.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Rendezvous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/1A0A31DE5991E458138DC92DF6A01A787C198823.PNG</Image>
+      <Description>"Rendezvous" - Rescue the surviving allies at the NATO rally point.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Beowulf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/9C45F1ADECF7E625D244C190B4AF6EF3811AF4E7.PNG</Image>
+      <Description>"Leviathan" - Destroy the enemy stealth frigate to ensure the safety of the remaining NATO fleet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Whatever it Takes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/DBA2A5C8D2A329982461C9EE5E1D3A72EF79C32E.PNG</Image>
+      <Description>"Fluid Dynamics" - Stop the Naga forces from reaching the capital by whatever means necessary.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Trial by Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/77C695D2B713C3EC0E07DD0FC21F8322E9197544.PNG</Image>
+      <Description>"Means to an End" - Confront Razad and expose Naga's partnership with ClawHammer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Allegiance Exposed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/F53BA7D074C4324FD32CDE6568A32410F590292B.PNG</Image>
+      <Description>"Revelation" - Expose Gorman's treachery and determine his true allegiance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Eye in the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/F542CF5815C067B765B5BF7FA4836F782A6344F2.PNG</Image>
+      <Description>"Uninvited Guest" - Secure the intel that reveals ClawHammer's true objective in the region.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Passing the Torch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/2E5473BB95B2ECE6F3161148E016B94C44FB63F4.PNG</Image>
+      <Description>"Countdown" - Stop ClawHammer's missile launch and promote Forty-Five to Ops Commander.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Peace Keeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/F87CC771A394809A8299F4C3F0C68B21F63B1C25.PNG</Image>
+      <Description>"Animus" - Complete the Story Campaign by choosing to bring Gorman to justice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/B2E1A64341A108C9C8750CFDA8F509DD2288490C.PNG</Image>
+      <Description>"Animus" - Complete the Story Campaign by choosing to take Gorman's life.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Elite Ops</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/5A42CC7ED7669D0D3CEA51DB21FA80B5DE65AC7C.PNG</Image>
+      <Description>Complete a Story Campaign mission on Elite difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Best of the Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/436DD4F741A7DE6E0847C86E5179093E82CD97C4.PNG</Image>
+      <Description>Complete the Story Campaign on Elite difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Covert Ops</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/BEC7ED482ECF2B0D62D0570EB052DF20CF65EBD0.PNG</Image>
+      <Description>As Forty-Five, successfully maintain stealth in a Story Campaign mission.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>N00b</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/263A1E2DDFCBEEFF764D5D0EC8091FB57A41736F.PNG</Image>
+      <Description>Complete a Competitive Multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Good Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/39FB8C711DEE9235B45AA780F082F7C9E81781D1.PNG</Image>
+      <Description>Complete a Competitive Multiplayer game of every gametype.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Combined Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/BB8CE91227A984925C638538D9369C59EEDE5E3E.PNG</Image>
+      <Description>Complete a Custom Campaign mission in Co-Op.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Extra Credit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/1872F2D4D8F5111F718C91755272A58198D943DF.PNG</Image>
+      <Description>Complete a Custom Campaign mission in Single Player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Over-Achiever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/F510E6A44CF6DA434170B4A5F5E810993E457590.PNG</Image>
+      <Description>Complete a Custom Campaign mission on every map in either Single Player or Co-Op.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Above and Beyond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/EBB2C6FA5E8D3CE9983041A6157850E7C33A3B44.PNG</Image>
+      <Description>Complete a total of 100 objectives during your career.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Government Spending</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/87F267C5C024A2C29F7E75F93DFEB18A80B93D5D.PNG</Image>
+      <Description>Call in a total of 10 Strikes during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Death From Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/771B9D34854341AA5EF5C0FD34CDE8BBA40CDA93.PNG</Image>
+      <Description>Eliminate 5 enemies with a single Strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Repo Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/083BC83CEE10522226803A60693C36B157DC6DF8.PNG</Image>
+      <Description>Destroy a total of 50 vehicles during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Grenadier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/D3F37D48E3EC9D3C68530E8B1F6F59ED08904DC4.PNG</Image>
+      <Description>Eliminate a total of 25 enemies with explosives during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Crowd Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/0E6095B41821C61FDC83BB61B2E3D8431E25050A.PNG</Image>
+      <Description>Eliminate 3 enemies with a single explosive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Double Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/3916A604A2D9775693CB294D6F07A20F7BCBDC2A.PNG</Image>
+      <Description>Eliminate 2 chickens with a single explosive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Century Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/618268D491D79542502442EE099E7DA5CEBD6B24.PNG</Image>
+      <Description>Eliminate a total of 100 enemies during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Millennial Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/7FC116C7B3B854D93BD5250AED688E739B9B5AF2.PNG</Image>
+      <Description>Eliminate a total of 1000 enemies during your career.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>10-Piece Meal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/343B76840EBBA0706BB0A10A0E60D8DA58A5D2FC.PNG</Image>
+      <Description>Eliminate a total of 10 chickens during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Melon Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/0F3F1630460EDB718F255293D8D3CD40A05E93DA.PNG</Image>
+      <Description>Eliminate a total of 100 enemies with a headshot during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/DF3B7FABD89F3E157C2DDB12E30828264467F802.PNG</Image>
+      <Description>Eliminate 3 enemies in a row with headshots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Unseen Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/16D4BA0CEF39367EB40AE932C75DC5D691227109.PNG</Image>
+      <Description>Stealth kill a total of 10 enemies in a single mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Vorpal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/64BD48E4A1446D4C3CC4CB7383CF4A4B2F0765BF.PNG</Image>
+      <Description>Eliminate a total of 25 enemies with melee attacks during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Combat Medic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/C3EE474D29C7075C754AEC5833EACA19589F155D.PNG</Image>
+      <Description>Execute a total of 25 teammate revives during your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Expert Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/B7F93C95D5FCA35DA3DB9EFB72CE8ABC53FF35B0.PNG</Image>
+      <Description>Complete a Story Campaign mission using only teammates to eliminate enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Armed to the Teeth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/08C4574B4BEAF4FDBC3CD7B1C4FF6DFE4812C8EC.PNG</Image>
+      <Description>Unlock all weapons for use in Campaign mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>I Call Her Vera</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/32F8D4A3E7F938D5170941F27F6E77B0C1E4FD40.PNG</Image>
+      <Description>Master a weapon in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Shiny!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/F9E6F8F9385F2B7D800FA6F5F624C381D49E633B.PNG</Image>
+      <Description>Master a weapon of each class in any mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Oracle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/023104673A096816257768566E5E163C449B2685.PNG</Image>
+      <Description>Collect an intel item in a Story Campaign mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Information Warfare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/A12D4ED588910B9C8ECD3E4C6A02487962F828F1.PNG</Image>
+      <Description>Collect all intel in the Story Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>The Blood Orange</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/3E334FDEB09000DBD4EA858FD69ED12311BD16C6.PNG</Image>
+      <Description>Find and collect a Tarocco.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>The Sweetest, Darkest Juice is at its Core</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/7C92A4BD5697AE47A3921DF96B69EED1832E0DF5.PNG</Image>
+      <Description>Find and collect the Tarocco in each Story Campaign mission.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Destroy Razad's Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/61AA30414050DC7C7C5618201EC99F923698F4E5.PNG</Image>
+      <Description>Destroy Razad's Car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>Destroy Gorman's Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/C00B3A8BB153E9BEB30015C7B12943734507AE7A.PNG</Image>
+      <Description>Destroy Gorman's Car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01295_00</GameId>
+      <Title>The Elite 45th</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01295_00_6E24075B60D860791CAB67CD121AA1AF488D60EF/CD28F1258E0064DEF798F3E55BEAE24AB37220BD.PNG</Image>
+      <Description>As Forty-Five, stealth kill a total of 45 enemies in the Story Campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

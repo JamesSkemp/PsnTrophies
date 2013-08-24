@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02944_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PulzAR™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/A09B234EFE8E7655ED1FEDBEB728DA680D9DB9FB.PNG</Image>
+    <TrophiesCount Total="15" Bronze="13" Silver="1" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>psp2</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Omega</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/75323B13686CFE427A2A5F82E2B662B049FE653B.PNG</Image>
+      <Description>Complete all of the levels.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Galaxy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/95BF73361FA2BAE5C5C47266FE6D9D427CF63514.PNG</Image>
+      <Description>Collect all 75 of the stars in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Alpha</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/51DA07E75CFBF000F9FE0F58F6895AC5EE387CBB.PNG</Image>
+      <Description>Complete all of the Alpha levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Beta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/EA17101D4575C15C7C9E4359043D93F432B3081C.PNG</Image>
+      <Description>Complete all of the Beta levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Gamma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/EDF399EECADD5423E8A7C196CE5C7A21AD977CFF.PNG</Image>
+      <Description>Complete all of the Gamma levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Delta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/6B5E85B364ED3DFF5534ACFF34224AAD23192925.PNG</Image>
+      <Description>Complete all of the Delta levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Epsilon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/FABE35F80024A0E7AC70147CDE9D6266D8983274.PNG</Image>
+      <Description>Complete all of the Epsilon levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Constellation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/A9DE97C544F599D7797F32394540660ACF6FE29F.PNG</Image>
+      <Description>Collect 25 stars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Star Cluster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/AF7B62276D28310EEF6356DCED3CA6DD6D02A5CE.PNG</Image>
+      <Description>Collect 50 stars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>High Scorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/47F21350852DE1C6184853AC3A7A714F07DBDF63.PNG</Image>
+      <Description>Post a score to the leaderboards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>That's No Moon!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/4ED34AE18676F9F49E07263AA18E6121EC126AE9.PNG</Image>
+      <Description>Look up at the asteroid in the sky while playing a level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Let's Blow This Thing!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/4777E09EC809CC43BD6CFDB245358777A8F0B038.PNG</Image>
+      <Description>Watch the entire flight of the missile and the impact on the asteroid.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Hard Rain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/4AB268AF4F7FD1C688E9BA1A8F4F2CFE61166043.PNG</Image>
+      <Description>Complete a level before the meteors start raining down.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Resource Efficiency</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/255B881F43C3B2F7323C2A00BC51152F92407CE9.PNG</Image>
+      <Description>Complete a level without using all AR Play Card objects.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02944_00</GameId>
+      <Title>Reflections</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02944_00_87788204C9AAAFE99C3ACA5616745C5D3BD03FB3/EDFAC43729F6DA5D78575938E17DB6B5E3261D7C.PNG</Image>
+      <Description>Have 3 laser beams bouncing off one reflector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00777_00</Id>
+    <IdEurope></IdEurope>
+    <Title>DJ Hero</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/FA05AA0812048A8C0F7D68ED71D289E010B1F9F9.PNG</Image>
+    <TrophiesCount Total="51" Bronze="41" Silver="7" Gold="2" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Platinum DJ Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/25B13F6D872C04E484A080FC599807B333FC3EF1.PNG</Image>
+      <Description>Collect all other Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>My First Set</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/40C25ED34F1600CB1915E4F83E1E602DF6AD9A97.PNG</Image>
+      <Description>Complete a setlist on any difficulty setting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Full Set</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/7F3C68344D970E8B9704256A204A13C37BB62E49.PNG</Image>
+      <Description>Complete all mixes at any difficulty setting.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Super Scratchin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/8AA2C53CF645A0029258C4DF25B94222F1650441.PNG</Image>
+      <Description>Successfully perform 10,000 scratches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Harsh Fader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/5307AA03E2AE7FA5FF3E519B9288DFB53BF24F20.PNG</Image>
+      <Description>Successfully perform 5,000 crossfader moves.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Freestyle DJ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/44061C5AF6DA439F2FB99533A52AD70086BBDA1A.PNG</Image>
+      <Description>Turn the effects dial during every Effects Zone, and trigger a sample in every Freestyle Sample Zone in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Special Effects!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/283441A35AA7EC810ED9CDC7EBF7054E57817FB0.PNG</Image>
+      <Description>Turn the effects dial during every Effects Zone in any mix at any difficulty (not in the tutorial).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>No Mistakes Allowed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/A6FC46F05958BA7AA841DAA9CCD1E674FD874747.PNG</Image>
+      <Description>Successfully perform all scratches in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Tap King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/F6C291524F95553A023EF610FF91E4D0356F21EB.PNG</Image>
+      <Description>Successfully press the platter button(s) for all tap icons in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Fantastic Fader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/A1ED15CE8064B806DA75726E2CBFA06CA6D25099.PNG</Image>
+      <Description>Successfully perform all crossfades and crossfade spikes (if present) in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Superstar DJ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/69AA618A8E60618D267155A11642EFF169DDC49B.PNG</Image>
+      <Description>Get a 100% Hits in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Good Times</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/571292D7D1115CEDA9ECDF8AA5426E7690AF3BE0.PNG</Image>
+      <Description>Earn 10 stars by playing any of the mixes in the Grandmaster Flash Presents setlist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Multiplier Madness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/C017AF7155AE6BA0965DEC4B1475CAACC469387F.PNG</Image>
+      <Description>Achieve an 8X multiplier during any mix (not in the tutorial).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>REEEWIINNNNDD!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/FEEA603424633BC590C3B3E812D447AF87803EA4.PNG</Image>
+      <Description>Perform 4 rewinds without missing any icons in any mix on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Graduation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/FBB85F8DC99734B7711D193A0B5AC356BBD39844.PNG</Image>
+      <Description>Complete the tutorial Learn to DJ - Advanced Techniques.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Double Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/33C45DBD38357C22125B5EE092AFAD3DD7079905.PNG</Image>
+      <Description>Complete a 2 player one on one local game (DJ v DJ only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Supporting Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/D90EB9BC803AC91CC3BD97B574539D3883DC7192.PNG</Image>
+      <Description>Join 3 online games, completing at least one mix in each game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Headliner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/B0E154A2DA9BF0BA01FF73B6947BA84C7A7C20AC.PNG</Image>
+      <Description>Host and complete an online game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Win Online</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/C0587EEB3B19737F60B5C4947B943DED5DC9F370.PNG</Image>
+      <Description>Win 10 online games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>New Jack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/4766768F8304EE3B62A91ABFFBBD19FF5F680FA4.PNG</Image>
+      <Description>Complete your first mix (not in a tutorial).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Four Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/78B06427D26BA8606C3BB528A8265B74FA05827F.PNG</Image>
+      <Description>Earn 4 stars in any mix on hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Five Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/BFCBE8F854CE401463C29669A8753A274EAC0F16.PNG</Image>
+      <Description>Earn 5 stars in any mix on expert difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Gift of Music</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/4626841816A191D715CC703960A88C600A31745E.PNG</Image>
+      <Description>Unlock a bonus mix on any set list (where available).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Hello World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/DC6B2B535C4A10A60412AA719F36BF2284163476.PNG</Image>
+      <Description>Have your score posted to the online leaderboard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>My 50 Pence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/7A904744084DFF68DFDFDB7A059359249E83FE2F.PNG</Image>
+      <Description>Attain a 50 streak in any mix on hard difficulty or above using a DJ Hero™ Turntable Controller.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Tonight we DJ in Hell!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/31269FA89179ED2368469A6BE3AF1DB58E00C43A.PNG</Image>
+      <Description>Attain a 300 streak in any mix on expert difficulty using a DJ Hero™ Turntable Controller.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>200 Deep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/18D3C8A2FD0674E37069CA2B118BC065A670B85D.PNG</Image>
+      <Description>Attain a 200 streak in any mix on hard difficulty or above using a DJ Hero™ Turntable Controller.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>All Over the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/919E73D6624C75D245C2D77D74CB343CCC6A66D3.PNG</Image>
+      <Description>Complete a mix in every venue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Five in Ten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/2D8C83D70B0079221DC613DB5D0A0D1FF442B1CB.PNG</Image>
+      <Description>Earn 5 Stars in any 10 mixes on medium difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Four in Twenty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/31BE1AA617CD90035B17F960E352B7A4F46A0E2D.PNG</Image>
+      <Description>Earn 4 Stars in any 20 mixes on medium difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Five in Twenty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/90254858522B220574C052A2AF7FE465DCE0BBDB.PNG</Image>
+      <Description>Earn 5 Stars in any 20 mixes on medium difficulty or above.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Props!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/01503DDD77333B1C77A697A3746F4B81A5ADA316.PNG</Image>
+      <Description>Watch the entire credits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Legendary Status</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/449AD0C7C249AB08F1202AA1B4F76301E3CEB692.PNG</Image>
+      <Description>Earn 5 stars in every mix on hard difficulty or above.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Grandmaster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/7317F9CA275AB02E89A6EE70172E06AD0E23E56C.PNG</Image>
+      <Description>Earn 5 stars in every mix on medium difficulty or above.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>360 Degrees</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/30CDC30E7A75F29CDB9AD746F1B99CF8F9C125DB.PNG</Image>
+      <Description>Perform a 360 degree rewind in any mix without missing any icons on hard or expert difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>720 Degrees</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/ABE7D97B5923FF0CAA1FA88E5883E42460FDDB27.PNG</Image>
+      <Description>Perform a 720 degree rewind in any mix without missing any icons on expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The New Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/907D9D00F81D9DF079D25BFEF8245C40A714F6F5.PNG</Image>
+      <Description>Construct and play all the mixes in a quicklist online with another player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Guitar and DJ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/86D6C2812321F4FD3C7FC1763254B5BE81B40C3E.PNG</Image>
+      <Description>Play the Guitar DJ mode with one player as the DJ and the other as the Guitarist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Spin Back King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/10D54082D25E1710B26E4D280B6CF4F9C71A14D0.PNG</Image>
+      <Description>Perform 20 rewinds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Walk in Wardrobe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/97E353FF459F9DAFEC00B0EFD4A122D2E4564156.PNG</Image>
+      <Description>Complete any 10 mixes in 10 different outfits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Vinyl Cut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/164524149E2215B875A4FD4D0BEDCC2EBC5BDAB2.PNG</Image>
+      <Description>Earn 20 stars by playing any of the mixes in The Vinyl Cut setlist.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>DJ Shadow Presents...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/ABBBC2403F2E4DF7E3E8ED6A8911D2FC5A993AA3.PNG</Image>
+      <Description>Earn 15 stars by playing any of the mixes in the DJ Shadow Presents setlist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Bonus Bangers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/0CC6199D2A43E069F2F589134BBF5976D78D82D4.PNG</Image>
+      <Description>Unlock all available bonus mixes from all setlists.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Turntable Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/564DF7F233A58EAAB8AE2FF27701F51EE0484395.PNG</Image>
+      <Description>Earn 5 stars in every mix on expert difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Here Comes the Hot Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/7ABE7EBE0503EFA613CD7C96FB33575711B82AFF.PNG</Image>
+      <Description>Earn 50 Hot Starts in any complete mixes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Shout Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/DCE9FC9744F9CE4BD0525A138566B86BAC3BA145.PNG</Image>
+      <Description>Complete any mix using a microphone or headset in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Euphoria DJ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/E999488115494264B8C7EC44909F9278CC8CAD21.PNG</Image>
+      <Description>Complete all the Perfect Regions and activate Euphoria in any mix on hard difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Euphoric Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/88BC2D346C3B413A86596890816A0A6C3680C8F8.PNG</Image>
+      <Description>Successfully play all the Perfect Regions in any mix on hard difficulty or above, without activating Euphoria.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Power of Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/43E3E8FDC6FCBC2D0FFDA4D13CB5C6B2FB2D1026.PNG</Image>
+      <Description>Both players activate Euphoria and Star Power simultaneously in Guitar DJ Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>The Choice Is Yours</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/95AD2CBA7B4851DBCB3331F3CE038B4FAC4151C4.PNG</Image>
+      <Description>Complete an 8 mix custom setlist on medium difficulty or above and get at least 3 stars on all mixes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00777_00</GameId>
+      <Title>Master Blaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00777_00_B8892AEF50502B31CCD1BCD5AB9469F4F8E803B0/BFCCC13C63EDE901451539BDB88C601512EF4B5C.PNG</Image>
+      <Description>Complete a setlist using the Ghetto Blaster deck.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

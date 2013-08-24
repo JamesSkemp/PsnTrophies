@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01125_00</Id>
+    <IdEurope></IdEurope>
+    <Title>NIER</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/41E2F18A46421291E7EEB725F4B3A4FCC231514C.PNG</Image>
+    <TrophiesCount Total="42" Bronze="20" Silver="19" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Final Verse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/08C453063328BEC1F776259F8593E6473C14E86C.PNG</Image>
+      <Description>Congratulations! Thanks for playing!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Book of Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/D2F05F9E16A2BA43FA6152C65661BE6029707F19.PNG</Image>
+      <Description>Grimoire Weiss joined your party.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Wild Companion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/7E91212582497842D5774300CDCC50773F67BF71.PNG</Image>
+      <Description>Kainé joined your party.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Mellow Companion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/89F55EB6663DA47F74FDB856F2A542CA836AED06.PNG</Image>
+      <Description>Emil joined your party.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Release</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/A03BB7CCAD7AE9BB0F122B3735B874C9C8000EDB.PNG</Image>
+      <Description>You freed Kainé from her petrification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Key Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/E422A389E07CF8D1C537F4201ABA78DB5992D727.PNG</Image>
+      <Description>You unlocked the key to the Shadowlord's castle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>A World in Flux</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/FE5E8BE2723384203AF1A6D0AE59DD50409E518A.PNG</Image>
+      <Description>You defeated the Shadowlord.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Combo Fanatic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/1B90D16DE2BB556E0CDCF7BF4C868B0C937CAED3.PNG</Image>
+      <Description>Pull off a 50-hit combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Combo Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/0CE2C1E58065A6E6427B051997BBDEC162E3608C.PNG</Image>
+      <Description>Pull off a 100-hit combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Magic Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/04CE4A28B4229892F3250F7D479EFB622ED1C0C7.PNG</Image>
+      <Description>Learn every type of magic.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Wordsmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/081D13A6D9D6BD3B893924DCCC80C92B8EADED48.PNG</Image>
+      <Description>Collect 50 percent of all words.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Weapons Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/15241A59331DB001F9F0C0B707443B3C4DEDEC3D.PNG</Image>
+      <Description>Find every weapon.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Village Handyman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/F58D48C47C4802B6F66FE968FCACCF7751ED303C.PNG</Image>
+      <Description>Complete 10 quests.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/78C59CFCE1F17F0897CEC3B0DF5FFD918043A7AD.PNG</Image>
+      <Description>Complete 20 quests.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Go-To Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/5559D549C72A6AD16DCC3660FAFF9539E55C63C9.PNG</Image>
+      <Description>Complete 30 quests.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Man of Means</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/ACD868D1EE6339DBF988384CB297D2A7BCE1A57F.PNG</Image>
+      <Description>Accumulate 1,000,000 pieces of gold.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Educated Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/724A093E5C7A6654339A4D260532BCF71E293477.PNG</Image>
+      <Description>Read the final novel segment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Call Her Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/B0FF86057EF252AC9E41790222C11D4D1F00E7FB.PNG</Image>
+      <Description>You viewed the first ending (Ending A).</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Lingering Memories</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/11A6B502D6067FBB7DB1FC37635A7E752D090589.PNG</Image>
+      <Description>You viewed the second ending (Ending B).</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Thank You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/974E44889B7556CAA86EDEA7DE04D37E466A1BAF.PNG</Image>
+      <Description>You viewed the third ending (Ending C).</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Something Very Special</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/E38D65588F065485959991A1528AD248FB2887CE.PNG</Image>
+      <Description>You viewed the fourth ending (Ending D).</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Legendary Gardener</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/75A32B2D1C4F5DA55B7C4D47BF79E86E4866921D.PNG</Image>
+      <Description>You successfully cultivated the legendary flower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Fish of Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/616889DB43708C9D4B2DE2DC7C90E46FE1D5422E.PNG</Image>
+      <Description>You caught a rhizodont.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>A Round by the Pond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/5D1C21DC68BE4AABF622C100D5829478B7C5BF03.PNG</Image>
+      <Description>You caught one of every type of fish.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Material Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/5C6A3203EDE5CC23F825200016A150523AAA0C93.PNG</Image>
+      <Description>You collected 50 types of raw materials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Upgrade Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/D840C19873EA992BDFDFFDD5404602F5BF57ACEA.PNG</Image>
+      <Description>You upgraded 5 weapons to their maximum level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Reform Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/AA9337318004AAD595202B143F75C8F1FFC850DA.PNG</Image>
+      <Description>You upgraded 15 weapons to their maximum level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Forging Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/0646D675FCEF5194B3B5182976BF74BC2075703D.PNG</Image>
+      <Description>You upgraded 30 weapons to their maximum level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>All Aboared!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/AE23A07FD546AF584372365E66DD7592B8B063F7.PNG</Image>
+      <Description>You rode a boar for at least five minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Sheep Whisperer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/DBE020EF53DF3C9ABB5CAE1FDF68BE34D4C93F30.PNG</Image>
+      <Description>You killed 100 sheep.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Lightspeed Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/D11DC746F810D622E48EBDDD581213F46F548F99.PNG</Image>
+      <Description>You completed the game within fifteen hours.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>King of the Lost Shrine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/59CE02FA91113DD2177E86D2F767BB58BAB8DD89.PNG</Image>
+      <Description>Defeat Gretel within two and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>A True Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/1D7980B144ACB2C6E48417FD06D97C2677E3CA40.PNG</Image>
+      <Description>Defeat a berserking Shade within one minute.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Boss of the Junk Heap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/015B45CE943AEAB3D8576C050657C55D68E36E6A.PNG</Image>
+      <Description>Defeat P-33 within four and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Scourge of The Aerie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/3FE45FA2B8603766EC28892C7B5A28CAA754FD4A.PNG</Image>
+      <Description>Defeat Wendy within eight and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Protector of Facade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/D384E0413EDABD3D29DCEF8BF01B0C85D96A82CC.PNG</Image>
+      <Description>Defeat Roc within three and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Permission Granted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/F5531D3A84833891D11F06B71A59616D234CDF54.PNG</Image>
+      <Description>Defeat the betrayers within two and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>A Dirge for the Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/B47411B077E2649DE977E1556282E73E9EA65FF2.PNG</Image>
+      <Description>Defeat Goose within two minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Soul Crusher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/7D86E0FDEE8B9AE39D8D9FF280000E9AB87E4402.PNG</Image>
+      <Description>Defeat the betrayers again within three and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>Book Burner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/44BE66AE9BF12EA532B2D97C0D8E92F46183CB1E.PNG</Image>
+      <Description>Destroy the world-saving tome within one and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Once and Final King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/DDC4B2F4131C9EFD2A38A5D438678FE61C34E1C0.PNG</Image>
+      <Description>Defeat the Shade inside you within three and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01125_00</GameId>
+      <Title>The Strongest Bond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01125_00_61457D34FC203D375EE341A71EC1E4D448DF2635/839DDAD043FE9D4D147F6ACC3830C11104D8DD17.PNG</Image>
+      <Description>Defeat someone you care for within three and a half minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

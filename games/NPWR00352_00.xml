@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00352_00</Id>
+    <IdEurope></IdEurope>
+    <Title>BioShock</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3FE4DC7CCA33D213D17E378E482271FC7A94EEF0.PNG</Image>
+    <TrophiesCount Total="66" Bronze="59" Silver="3" Gold="3" Platinum="1" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>PLATINUM TROPHY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/73DE8AC062A575F36CFAE51CD55B0E4FBAAB9D8F.PNG</Image>
+      <Description>Collected all other BioShock trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Completed Welcome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/8AEE7D6FA9EF157F704C3F65E38BF53DA83CA319.PNG</Image>
+      <Description>The player has successfully completed the Welcome To Rapture Level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Defeated Dr. Steinman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/5C3311996E122808440E85FC7DAC48804D92FBD6.PNG</Image>
+      <Description>The player has defeated the crazed Dr. Steinman</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Defeated Peach Wilkins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/B0E6261B6E49A63493D9FC7D38EB4BCE8C659ED7.PNG</Image>
+      <Description>The player has defeated Peach Wilkins</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Restored the Forest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3946A4D72170EAD4F457F01BF10237934B2BB736.PNG</Image>
+      <Description>The player has restored the forests of Arcadia</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Completed Cohen's Masterpiece</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/760DBEFC4BA53841AF7B27674E870CDDF0C9AB4A.PNG</Image>
+      <Description>The player has completed Sander Cohen's great masterpiece</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Defeated Andrew Ryan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/6E223B9B5165C70B2FAD6336824C8C08F75DD173.PNG</Image>
+      <Description>The player has defeated Andrew Ryan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Broke Fontaine's Mind Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/CDE208EBB20897B7BFFFB5EBFAB88D5FF72E6C5A.PNG</Image>
+      <Description>The player has broken Fontaine's mind control</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Became a Big Daddy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/7A5F97977F93E327AD237B3E22F9DD08CACF766D.PNG</Image>
+      <Description>The player has become a Big Daddy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Defeated Atlas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/DEA43A0861ED23CE5847AA3D5B6AD56CECD78116.PNG</Image>
+      <Description>The player has defeated Atlas</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Maxed One Track</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/8D1402E99711522BB4C19407A5138B5D64C88F64.PNG</Image>
+      <Description>The player has purchased every slot in one of the Plasmid or Tonic tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Maxed All Tracks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/45A293FCFF8082604FEBCF3C2E738551E1C55985.PNG</Image>
+      <Description>Purchased every slot in all four Plasmid and Tonic tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Bought One Slot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/DB7D17147C2AE8018415D737D47C06F47DB15291.PNG</Image>
+      <Description>The player has purchased one slot in any Plasmid or Tonic track</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Upgraded a Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/FEC763E443ACE18D62C53789ED2919D6A5171051.PNG</Image>
+      <Description>The player has acquired at least one weapon upgrade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>One Fully Upgraded Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/1EE0D746FF214B6E02F60BB4FA3AF28178F1C470.PNG</Image>
+      <Description>The player has fully upgraded one weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Two Fully Upgraded Weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/94737BF1D80FC33A4E584427641173EB34F31692.PNG</Image>
+      <Description>The player has fully upgraded two weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Three Fully Upgraded Weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/312BEF569163010A990A4DFF0F382B5A78BAFD89.PNG</Image>
+      <Description>The player has fully upgraded three weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Four Fully Upgraded Weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/66857D2072547C264A359188D0933101034DC88E.PNG</Image>
+      <Description>Fully upgrade four weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Five Fully Upgraded Weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/C80B99580BD19F96B64DA689FA5517102B8EF42F.PNG</Image>
+      <Description>Fully upgrade five weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Weapon Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/2362C511FAF8E92FA401E600C463A11993FE3A18.PNG</Image>
+      <Description>Acquire all upgrades for all weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Thug Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/E88BE40DF3E22E402AA4DEB01485EAA905483CCF.PNG</Image>
+      <Description>The player has fully researched the Thuggish Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Gun Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/2A3AB0C47B8270B65D2C7366FE39549A9848654C.PNG</Image>
+      <Description>The player has fully researched the Leadhead Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Spider Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/CEF243AAD15D79FD2F8CF4151CCFBA39DB3C820A.PNG</Image>
+      <Description>The player has fully researched the Spider Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Houdini Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/174E188FF7C9BC39DEA28142DB9E8002C0B58871.PNG</Image>
+      <Description>Fully research the Houdini Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Nitro Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/6E45E78D7443916E116F15EB9306A79DC2E8DB67.PNG</Image>
+      <Description>Fully research the Nitro Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Rosie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/DE7FF357B6F309D56B90C20AB77CD827B654E036.PNG</Image>
+      <Description>Fully research the Rosie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Bouncer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/AC82BE5B290FF2969CF16889F7BD0AA8925F2683.PNG</Image>
+      <Description>Fully research the Bouncer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Fully Researched Little Sister</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/4A60ED70F1360958ECDA7CE7460FDE04774FFE7E.PNG</Image>
+      <Description>Fully research the Little Sister</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Prolific Photographer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/474968C801A21346E53616EF16CA6ED6E38E3D59.PNG</Image>
+      <Description>Take at least one photo in every research group</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Research PhD</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/0FF51A6CF694E23322E76EC150B6B736AABB0E43.PNG</Image>
+      <Description>Max out all possible research</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Quality Research Photo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/435BED29A0210DB77D496685132705EC1194E372.PNG</Image>
+      <Description>The player has taken a Research Photo of the highest grade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Researched a Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/FDD3872149C5FF47B23504D27009A6CB20F3C1D9.PNG</Image>
+      <Description>The player has taken at least one Research Photo of a Splicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>One Successful Hack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/CB26B9617A43F1EA1FD59C1E0BEF4E0234C1AEF2.PNG</Image>
+      <Description>The player has performed at least one successful hack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Hacked a Security Bot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/E94ABF1EABD14A256F9749B17A30B8A4CD5DF38C.PNG</Image>
+      <Description>The player has successfully hacked a security bot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Hacked a Security Camera</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/C7D41F76C869819EECD4D9D051DFFE2D417EB7CA.PNG</Image>
+      <Description>The player has successfully hacked a security camera</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Hacked a Turret</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/9C38C61ADB5D0F6D15D3FF574940FDF49D607B34.PNG</Image>
+      <Description>The player has successfully hacked a turret</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Hacked a Vending Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/140C4E0E5C3E638BB97F6807055209628EBBDAA2.PNG</Image>
+      <Description>The player has successfully hacked a vending machine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Hacked a Safe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/04CD596556ABE28582E3541956CEF1F75553109A.PNG</Image>
+      <Description>The player has successfully hacked a safe</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Skilled Hacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/ABEE35C0AB9649ACCF5C3E2294DEEAF4D94E0C61.PNG</Image>
+      <Description>The player has successfully completed 50 hacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Basic Inventor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/62B8D2243B28BB3CCBFD0FF22F5B4F3F9377F098.PNG</Image>
+      <Description>The player has successfully invented at least one item</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Avid Inventor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/E932BBA177626279E8D4AC097A36F6319FEEA5EB.PNG</Image>
+      <Description>Successfully invent at least 100 items</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Ammo Inventor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/64A40B5335C444ADF4912669A2EC9BBB29987113.PNG</Image>
+      <Description>The player has successfully invented all possible ammo types</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Little Sister Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/A690FD909107A06DFFA0E9CE566F222C31DF6DF9.PNG</Image>
+      <Description>The player has completed the game without harvesting any Little Sisters</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Tonic Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/BBBAB563FCAB994063933875F7D1CBA0577900AB.PNG</Image>
+      <Description>Collect or Invent 58 Tonics in the Physical, Engineering and Combat tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Historian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/0E4203061D4420742F1631EFE67C42943ACB4E6A.PNG</Image>
+      <Description>Find every audio diary</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Seriously Good At This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/3CE1F8BE02FDF473E617758DFB125440B6CF9B88.PNG</Image>
+      <Description>The player has completed the game on the Hard difficulty setting</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Dealt with every Little Sister</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/40DC85E19BEF9807AF36863B5635AA3CE8D82905.PNG</Image>
+      <Description>The player has either Harvested or Rescued every possible Little Sister</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Lucky Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/CA3D02FFDCD052F8078790E54C38D82D6862A630.PNG</Image>
+      <Description>Hit the jackpot at a slot machine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Irony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/4069CE20464FC3BA34BECED38D5F824C4A71BF7A.PNG</Image>
+      <Description>The player has taken a picture of Sander Cohen's corpse</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Found Cohen's Room</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/725C4613558E7AE80DD8B8CAE7A9054319356763.PNG</Image>
+      <Description>The player has entered Sander Cohen's personal quarters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Toaster in the Tub</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/B4F6E9E1B72E4297453C517F5231ED34CB588D9E.PNG</Image>
+      <Description>The player has shocked an enemy in the water</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>Brass Balls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/F77119DD10450AF8CFD8199E5999BD0872A69542.PNG</Image>
+      <Description>Complete the game on Hard difficulty without using a Vita-Chamber</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>A Man Chooses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/FFD6C44954AEC4940DF69E386CB4BC0CA929A1C1.PNG</Image>
+      <Description>Complete the game on Survivor difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>I Chose the Impossible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/24791A02DD562C1E1BA0DA5B0FFF0A0A0A108DB9.PNG</Image>
+      <Description>Complete the game on Survivor difficulty without using a Vita-chamber</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“The ‘I’ in Team” - Rescuer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/31958AF5ADAA7F4A223CABEC3248727A1D8B751F.PNG</Image>
+      <Description>Rescued the Little Sister in “The ‘I’ in Team”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“The ‘I’ in Team” – Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/9CC311FED557139BE3A4D2E87DE02AEEE82616BC.PNG</Image>
+      <Description>Rescued the Little Sister in “The ‘I’ in Team” in under 3:00</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“The ‘I’ in Team” – Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/F03DC6A5F62BFEB7981BA513950F25FB874EF86B.PNG</Image>
+      <Description>Found all collectable Roses in “The ‘I’ in Team”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“The ‘I’ in Team” – Pacifist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/E14307905EAD3398A803164B2748273AE4D651FB.PNG</Image>
+      <Description>Rescued the Little Sister in “The ‘I’ in Team” without destroying any Machine Gun Turrets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“A Shocking Turn of Events” - Rescuer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/8034B6E615CF11EBE6ED3CA541CF1346B96958AD.PNG</Image>
+      <Description>Rescued the Little Sister in “A Shocking Turn of Events”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“A Shocking Turn of Events” – Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/7CBAB0BE16944E28CA81BAA51EAB7C9ED6554606.PNG</Image>
+      <Description>The player has rescued the Little Sister in “A Shocking Turn of Events” in under 4:00</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“A Shocking Turn of Events” – Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/EB0C648FA6506E5C403A9C59AA220B899D0F58DD.PNG</Image>
+      <Description>Found all collectable Roses in “A Shocking Turn of Events”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“A Shocking Turn of Events” – Master Electrician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/CCF998D6062111920FA24ECE0AC64674D6CB4D54.PNG</Image>
+      <Description>Charged up the Ferris Wheel 9 different times in “A Shocking Turn of Events”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“Worlds of Hurt” - Rescuer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/AF148D3F83FCD9D9AF7ADEE6578B9DDC6C6E1711.PNG</Image>
+      <Description>Rescued the Little Sister in “Worlds of Hurt”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“Worlds of Hurt” – Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/D04D6EEDF6456C41448CA62070BCE4BC224216C3.PNG</Image>
+      <Description>Rescued the Little Sister in “Worlds of Hurt” in under 15:00, on Medium or higher difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“Worlds of Hurt” – Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/A2DDAFD61A499EBA1686CB5F2B68E09766352A52.PNG</Image>
+      <Description>Found all collectable Roses in “Worlds of Hurt”</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR00352_00</GameId>
+      <Title>“Worlds of Hurt” – Tough Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00352_00_19BEB87EF9D4929A64E5849793FCCA5C818651D6/16CA6C4E398918A53A24C7BC34D1C2AA57B6BA64.PNG</Image>
+      <Description>Rescued the Little Sister in “Worlds of Hurt” using only plasmids, tonics, the wrench, and the research camera, on Medium or higher difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

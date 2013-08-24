@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02972_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sleeping Dogs™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/F7E23989764AE1BF4761B9D1D1A5828CCD7ECEFF.PNG</Image>
+    <TrophiesCount Total="60" Bronze="45" Silver="10" Gold="4" Platinum="1" />
+    <TotalPoints>1335</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Hong Kong Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/092C3DF5A42A231F347ABADADFA887F06B5D1912.PNG</Image>
+      <Description>Earn all the Sleeping Dogs™ trophies to unlock this platinum trophy.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>In With the Gang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/9424605DE907B68038F74057DDF764EB27C8C83D.PNG</Image>
+      <Description>Complete Night Market Chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>That'll Show 'em</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/A3C62C2BA3559CF917724DE3E1F6FB22BC54B565.PNG</Image>
+      <Description>Complete Payback.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>A Big Betrayal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/90F321A0C67C25F9F482B991D71937208CE344A0.PNG</Image>
+      <Description>Complete Dockyard Heist.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Big Smiles All Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/4633DE45C1093E54CB1EBF7C713A4158EA22671D.PNG</Image>
+      <Description>Complete Big Smile Lee.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Minor Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/5CE5A3EAB6D1BBAE954BAD6C68311458A7BC8045.PNG</Image>
+      <Description>Achieve Face Level 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Gaining Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/E1E0B7AB6DF343AC5084FD948F5B6DDED980041E.PNG</Image>
+      <Description>Achieve Face Level 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Great Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/7110DB8176C180D62D097CD7D421383BD854A2B9.PNG</Image>
+      <Description>Achieve Face Level 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Fashion Statement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/289892F6EE4BA7211241C68750CA7952B2309AE8.PNG</Image>
+      <Description>Change all your clothes in your wardrobe or a clothing store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Stuntman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/6CCF3AC93328964883A26A4219BDE3B5C6EB6067.PNG</Image>
+      <Description>Successfully perform an action hijack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>A Slap in the Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/1ED9174FC8E666D05B92370996006F2988CBC0EB.PNG</Image>
+      <Description>Kill someone with a fish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Take A Bite Out Of Crime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/C1F5B7D24504451FD2E7D02B87903F33D1D3B0A3.PNG</Image>
+      <Description>Complete a Case.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Man Around Town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/CF003225BA6D9A1F64F4D29521D59A33EE00A70D.PNG</Image>
+      <Description>Visit Aberdeen, Central, Kennedy Town and North Point.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Foodie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/C931A0A2D12FFC33B39A59185886CC9C59408AB6.PNG</Image>
+      <Description>Try 10 different foods or drinks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Environmentalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/CAFD93377F2B03470C380BD88B020E55963AE500.PNG</Image>
+      <Description>Perform 5 unique environmental kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Gadgetman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/34F57D1091BE43B5B11CD12F8DA19FC8757F6472.PNG</Image>
+      <Description>Pick a lock, plant a bug, trace a phone, crack a safe, and take over a spy camera.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Safe Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/5720CC304418BDBD24040797D637139194F1DF32.PNG</Image>
+      <Description>Cruise for 2 minutes straight without damaging your car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Gun Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/5CF6B41CE39120EA933D680B00136681AD5965FF.PNG</Image>
+      <Description>Use 10 different firearms to defeat enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Whatever's Handy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/111F2810CBBE360DEF43D1EF0AF50A4B121E2B7E.PNG</Image>
+      <Description>Use 10 different melee weapons to defeat enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/A5E614745FD6874032A34758C319833D3A31C1AC.PNG</Image>
+      <Description>Win a bet on a cockfight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Infowlable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/C9816FB96E8DE52E4C025BDB07DD427CB2A210E8.PNG</Image>
+      <Description>Win 50,000 on a single cockfight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Kleptomaniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/F76016657B4CE9ED8AF5B05F53853268C16D60CE.PNG</Image>
+      <Description>Hijack 5 trucks and collect their cargo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/476887D9C777D1559C6F45BEC9B39C7AE2C2927A.PNG</Image>
+      <Description>Shoot out a cop's tires while fleeing in a police chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Case Closed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/4EF11329B9B0648D1712250B191287C01E9DBBE2.PNG</Image>
+      <Description>Complete all cases.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Mr. Nice Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/E5063B8404EDAD54C25D96A6382852767A6EB573.PNG</Image>
+      <Description>Complete all Favors.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Event Driven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/7B9E3069A176332324810E0F175BCA63FF0D5E21.PNG</Image>
+      <Description>Complete half of the open world events.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Event Planner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/091984480E66F1F249A7CDF0C1B434A6D01C038C.PNG</Image>
+      <Description>Complete all of the open world Events.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Martial Law</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/4C88BC76565BCF46A7D3C04B0B8873B5A21F233E.PNG</Image>
+      <Description>Defeat all 4 Martial Arts Clubs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Wei of the Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/3B5EC8CE8674C729271525980EF5A42D854A1FA5.PNG</Image>
+      <Description>Complete all Street Races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Ultimate Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/737E325DD8A179FB6682AA8E7024074FC7E72401.PNG</Image>
+      <Description>Unlock ten Triad Upgrades.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Super Cop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/DA7330E67F298556E3CD79475F1EC43851E25449.PNG</Image>
+      <Description>Unlock ten Cop Upgrades.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>North Point Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/283981CBF9914BEAA2760748E07650AED2AF6213.PNG</Image>
+      <Description>Unlock every lockbox in North Point.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Central Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/8E1797D3BB930886239109D4C648AECF1FF1319E.PNG</Image>
+      <Description>Unlock every lockbox in Central.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>West End Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/E8B4A34C96AB92744FC4521F9097EB28DB29B3EC.PNG</Image>
+      <Description>Unlock every lockbox in Kennedy Town and Aberdeen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Bounty Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/7DC329A68B6E98D55C8A89AA92EF3A5A55347C72.PNG</Image>
+      <Description>Complete all of Roland's Jobs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Karaoke Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/F5C0A2BF41070907BE98235366C8DE5036E0F58B.PNG</Image>
+      <Description>Achieving 90% and above for all songs at the Karaoke Bars in HK.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Hong Kong Super Hacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/851679E7199E1D886E49B217B3673EF0CAC57867.PNG</Image>
+      <Description>Hack every Security Camera in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Fashion Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/AF9BEBBEA268907EDB6517959930C95D10AE9F0B.PNG</Image>
+      <Description>Purchase all clothing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Spiritual Healing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/D95D0ECBD96F79A67B9102C0AC8F790C42E3EC2D.PNG</Image>
+      <Description>Pray at all of the Health Shrines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Auto Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/13D6A90715E0C2B5B566418FC8180886C6103C40.PNG</Image>
+      <Description>Purchase all vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Slight Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/0A1CF6362B2DEB870D714763DC44BDDA203145C2.PNG</Image>
+      <Description>Achieve 5 Silver Stat Awards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Substantial Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/67BF55D89AD4FB76A03BEDDF449A02D200AF9496.PNG</Image>
+      <Description>Achieve 15 Silver Stat Awards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Solid Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/8C18430631E1035412E198B93FD94ED0A81DA445.PNG</Image>
+      <Description>Achieve 30 Silver Stat Awards.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Strike Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/868E02B90BEC6E728C6D630A9702190B2E1F051D.PNG</Image>
+      <Description>Achieve 1 Gold Stat Award.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Gold Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/431C1610C09A841E6C37F7EFD2B4FCC34E5D68F1.PNG</Image>
+      <Description>Achieve 5 Gold Stat Awards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Golden Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/D7947B2AAB84C4FF3E88AD53CC925EB57ED88BB6.PNG</Image>
+      <Description>Achieve 15 Gold Stat Awards.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Pure Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/3D4DC1AFC20ED0400622848A1F1723F8BC395892.PNG</Image>
+      <Description>Achieve 30 Gold Stat Awards.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/A3650EDC6A26FF128CED046607B9AF655EB0FAF3.PNG</Image>
+      <Description>Complete 10% of all missions, cases, favors, events, jobs and races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Officer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/C7CC759F33907EFD0392147B922EC120F623A678.PNG</Image>
+      <Description>Complete 25% of all missions, cases, favors, events, jobs and races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Detective</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/14F755E564E935E411AB5FB001AD262FF928BCA1.PNG</Image>
+      <Description>Complete 50% of all missions, cases, favors, events, jobs and races.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Chief Inspector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_25BF408B725CE12AD252924CF776520B44D3E80D/6519D6EAE6D416C9ADEF60ADE61243CADCC9564B.PNG</Image>
+      <Description>Complete 100% of all missions, cases, favors, events, jobs and races.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Pet Cemetery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/7F0B2B92BF98EE74004D4086B72DB711F9916346.PNG</Image>
+      <Description>Send Dogeyes, Ratface and Ponytail back to Hell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>I Can Haz Banishment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/F81E78407E1E781935328E2C8D6A95C9C4D84B6A.PNG</Image>
+      <Description>Banish Smiley Cat.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Ghosts and Stuff</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/ED0CF31B26D9489815542DC9D75775EB8B23328D.PNG</Image>
+      <Description>Complete all secondary content.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Cursed Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/0AFFB844168781AD9D50ED2A95362FC12DC57F5E.PNG</Image>
+      <Description>Achieve 5 Gold Awards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Hell Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/08B047C0373C63D1B814323086CF8D1D2F2AD398.PNG</Image>
+      <Description>Find all the money shrines.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Bomb Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/06934D5284C277B79B0DED76137690558C522B99.PNG</Image>
+      <Description>Complete the first mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Cult Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/487E15DCE049D243424420638C89CAE363492F82.PNG</Image>
+      <Description>Defeat the cultists.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Hong Kong’s Finest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/7741030D51E954EB7518B7637CA2AEC2F03CBF3E.PNG</Image>
+      <Description>Complete all Secondary Content.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR02972_00</GameId>
+      <Title>Goodie Monster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02972_00_011080ADA2EB8875E8E25E2A1853E5CB1DCCA09269/6B30287228AFC767F7E23884FF98DD0668DCA324.PNG</Image>
+      <Description>Find all the Evidence Collectibles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

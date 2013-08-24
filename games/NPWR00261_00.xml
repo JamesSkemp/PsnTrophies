@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00261_00</Id>
+    <IdEurope></IdEurope>
+    <Title>[PROTOTYPE]™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/F0B4ECB98C443FC6F8754DA75DE78DDB8D15A1DC.PNG</Image>
+    <TrophiesCount Total="41" Bronze="26" Silver="10" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/11EE6171C8D4AFCB58C6DD0C03BF60639F33BEB1.PNG</Image>
+      <Description>Platinum Trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Crossing The T</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/03409057F03210660E00C4B07330D86AF8CCD175.PNG</Image>
+      <Description>Complete the Hunter Boss Encounter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Errand Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/62A5C0E48CD04BD8A70B5B2E880ED87C7EB4B934.PNG</Image>
+      <Description>Complete the Specialist Boss Fight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Children Of Blacklight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/89D616FA7F3896F9940C7040EC6733D3313DF410.PNG</Image>
+      <Description>Complete the Supreme Hunter Boss Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>On Instinct</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/FAFBFA76293CD93E58D1E71109D7B1D43118E533.PNG</Image>
+      <Description>Complete the Mother Boss Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>One Thousand Suns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/DA8BCD7A24FB53E806BEEEAFE90A2631A88DE71B.PNG</Image>
+      <Description>Complete the Supreme Hybrid Boss Battle.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Revenge Revisited</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/A038808B3ECBA136CB53355DA1F9D742ACB9F9AD.PNG</Image>
+      <Description>Complete Story Mode on hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Endless Hunger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/9853EF77C2CEFEF1736CFF31889B214F4DE75111.PNG</Image>
+      <Description>Consume 200 characters to boost your health.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Trail Of Corpses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/84A5E1DD0BD2885585148278A18F70CC5AC11E76.PNG</Image>
+      <Description>Kill 53,596 infected.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Wrecking Yard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/17A06841DC88CE1ABD223489018652D66D74CA21.PNG</Image>
+      <Description>Destroy 2,000 vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Misconception</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/7ACFA04081960F9C2E6A7F8A0ACDD9FACC96715A.PNG</Image>
+      <Description>Destroy 25 Infected Water Towers before they hatch.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Brain Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/A5D2903EB4CC1DD6CFE51B8C5958A0538EA0500A.PNG</Image>
+      <Description>Complete all Consume Events.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Streetwise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/63774590B8478CF7C0BD9814D87F90AEF420BC6B.PNG</Image>
+      <Description>Collect all Landmark collectibles scattered across New York City.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Polymath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/50612B5984DDE80321D58D56AF4FC419826E6E8B.PNG</Image>
+      <Description>Collect all Hint Collectibles scattered across New York City.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Half-Truths</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/9719373F5E40B09681D96A0385EA65A937873897.PNG</Image>
+      <Description>Complete a mission without causing a single Military Alert.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Mankind Is Your Mask</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/AB5B6422CE75B53416B759B29E2F8E6F09E63B02.PNG</Image>
+      <Description>Complete 3 missions without causing a single Military Alert.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>The Butcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/1016E573F10828E5460E82B0D5F4D4C6C493ACF5.PNG</Image>
+      <Description>Kill 50 characters in 5 seconds.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Return Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/7C77D4B6C83F755784D9B71B6CC59ECC647CAEED.PNG</Image>
+      <Description>Catch any object tossed by a Hydra; and throw it back.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Gunning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/4C5F6939ABBDCD878D3A9877F5E0C5FB8EB5BE85.PNG</Image>
+      <Description>Destroy 20 Helicopters in a single Helicopter flight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Cleanup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/1FE603223DC08E703280C1C24ACC7DDB2686250C.PNG</Image>
+      <Description>Kill 15 characters with a single Whipfist attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>The First Thread</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/BC115CBDB2897C3E7DDC1DEE921A8825BA1B0483.PNG</Image>
+      <Description>Unlock the Web of Intrigue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Self-Deception</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/046EAB16C173DC30E9ECE73951E0A2253A0FBDD2.PNG</Image>
+      <Description>Discover what happened to Alex Mercer through the Web of Intrigue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/E2BDE3B94526D3EB1F41566EE84545E476C17091.PNG</Image>
+      <Description>Discover the truth behind Hope, Idaho through the Web of Intrigue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Origin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/4E50F1F3E2CBBBCE413237B9F0F471CDDB8A65BB.PNG</Image>
+      <Description>Discover the history of Elizabeth Greene through the Web of Intrigue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Web Of Knowledge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/19912DC38D89CF5C010F3669C621CC578FDA3FF8.PNG</Image>
+      <Description>Acquire all nodes of the Web of Intrigue.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>It's Him!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/69E6E6119712B933E6B5AD0F1108BF425F01A937.PNG</Image>
+      <Description>Patsy 5 military personnel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>In Plain Sight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/6EBBE944C40A6E27826C23825EE139D41047CC5C.PNG</Image>
+      <Description>Evade 10 strike teams.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Infiltrator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/B6841C431837B85C5FA56303EB5C056690D93500.PNG</Image>
+      <Description>Infiltrate 10 Military Bases disguised as a Commander.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Threat Elevated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/7E6142C3EBBCF18FFE17177F3B001F179C6B4D5C.PNG</Image>
+      <Description>Destroy 25 strike teams.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Repossession</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/57E5820D11C47E53AD7DEB81539D2CA155EDAA74.PNG</Image>
+      <Description>Seize 50 vehicles from enemy hands.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>SME</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/0805D467451D91FB513F5CE56FCA26F999D5AC12.PNG</Image>
+      <Description>Gain the ability to drive and fly all vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Surface-To-Air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/F653086056A1EF2D803B4818FD9AD42F8E3E5241.PNG</Image>
+      <Description>Shoot down 50 helicopters while driving armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Evolutionary Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/847C84909366D2F73027C0C11E313B863284D6D0.PNG</Image>
+      <Description>Use the Upgrade Menu to acquire an Upgrade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Unnatural Selection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/86F7DEFF5C63EF1BAE85D65477247446015A3B59.PNG</Image>
+      <Description>Acquire all available upgrades.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>The Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/3DF4260E29007469153B0DF549221E35D4EA3393.PNG</Image>
+      <Description>Destroy 10 Military Bases or Infected Hives in New York City.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>In The Web</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/8296ADA6BE425ACF6AE5BF9A6565890799A51CC6.PNG</Image>
+      <Description>Consume 50 Web Targets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Au</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/AD5D91D7FFE904D82F7D0D48BF09A52C824A83E8.PNG</Image>
+      <Description>Achieve a rating of Gold or better in all Events.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Nice Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/166A3FBAF43211A609D9A6FDA0997194AB81DABC.PNG</Image>
+      <Description>Complete the game while consuming 10 Civilians or fewer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Hard To Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/1F8894C48CCA21229D1D7F05BC3EE26FED9A8408.PNG</Image>
+      <Description>Complete Story Mode in any difficulty without dying.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Speed Bumps</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/C6EF5D34B300CB883967B169041FE19DCB231ABA.PNG</Image>
+      <Description>Run over 500 characters in a single tank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00261_00</GameId>
+      <Title>Pt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00261_00_3C7936C99EF4379BB7732AE457A848FECA53A526/2114FF89C83F3357C05629437632DDBB41DF33B0.PNG</Image>
+      <Description>Achieve a Platinum Medal in all Events.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

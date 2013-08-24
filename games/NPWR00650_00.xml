@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00650_00</Id>
+    <IdEurope></IdEurope>
+    <Title>L.A. Noire</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/04AAAC7144A3D866A39AF43AC5E9DCCD89A7858F.PNG</Image>
+    <TrophiesCount Total="61" Bronze="42" Silver="10" Gold="8" Platinum="1" />
+    <TotalPoints>1650</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/2D7E54149C6AE9146BC86132CB788F83CB1929D3.PNG</Image>
+      <Description>Collect all other trophies to unlock.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Police Academy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/D5434CF8F6355658C36E4A9E092A0E6B28871046.PNG</Image>
+      <Description>Complete all cases on the Patrol desk.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Paved With Good Intentions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/39BEB8A6EC4B25188FC2D65A4B5794B315FDAE70.PNG</Image>
+      <Description>Complete all cases on the Traffic desk.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Simple Art Of Murder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/0E17546B8922B7736F17B3E3623DE7BE5977A88A.PNG</Image>
+      <Description>Complete all cases on the Homicide desk.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>No Rest For The Wicked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/127A871D0622D54BFC0EBDD8A711730D94B3CE0C.PNG</Image>
+      <Description>Complete all cases on the Vice desk.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Moth To A Flame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/3DD9B3F71B042CEED26A72CF15FB2F12A138E185.PNG</Image>
+      <Description>Complete all cases on the Arson desk.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>A Cop On Every Corner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/4EC0119BEEA197B6D8C024938C2FCF6D752147CD.PNG</Image>
+      <Description>Complete a single street crime case.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Johnny On The Spot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/1B544434CBD2BD4C584EE589CF4188FADD99185F.PNG</Image>
+      <Description>Respond to 20 street crime cases.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Long Arm Of The Law</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/6AB4BFAC879C3FF8E990A69CAE091A498FD1D326.PNG</Image>
+      <Description>Complete all street crime cases.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The City Of The Angels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/3B137CF23F4503548269B415CB31DDDE031DE0DC.PNG</Image>
+      <Description>Reach 100% Game Complete.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Up And Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/A23E427012BF1B47BF6FE99E8EF8EBA129C8767F.PNG</Image>
+      <Description>Complete a story case with a five star rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Shamus To The Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/FE3DF918C0F26578076698D7BB667B775FE97251.PNG</Image>
+      <Description>Complete all story cases with a five star rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Brass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/AD40DB951383A57E338DA81E65F761F9047FDDB9.PNG</Image>
+      <Description>Achieve maximum rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Not So Hasty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/58D03A2B3B07F82FCE647B0F5CB067A5DC2CEA17.PNG</Image>
+      <Description>Stop a fleeing suspect with a warning shot as an LAPD Detective.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Asphalt Jungle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/1F0807B6A7C16FC3E82BA4282BF8D24D886A7B5F.PNG</Image>
+      <Description>Chase down and tackle a fleeing suspect on foot as an LAPD Detective.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Traffic Stop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/3EAA67DFC2978FAC2D567A7BC26327327B36F52D.PNG</Image>
+      <Description>Disable a suspect vehicle with help from your partner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Straight Dope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/14CD56C55B44F6408D197E4E16E790C8A2B29DF0.PNG</Image>
+      <Description>Use evidence to prove a lie as an LAPD Detective or Investigator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>One For The File</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/C5DF5B6E2BC3444CF9BC8B032833C0EBD8048719.PNG</Image>
+      <Description>Find and inspect a clue as an LAPD Detective or Investigator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Golden Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/98FBFCEE080FC088BCF6F60B8D800631A0738ECF.PNG</Image>
+      <Description>Clear a case finding every clue as an LAPD Detective or Investigator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Plot Thickens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/1D0118621F548AD0A1BFC54F205728EDB7C154F3.PNG</Image>
+      <Description>Find and solve an inspection puzzle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Stab-Rite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/1262C7F84B24A6DFDA9E730E9853F4B55B60EB03.PNG</Image>
+      <Description>At Ray's Cafe, find the bloodstained knife on your first sweep of the crime scene.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Round Heels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/94FFFC6DBFE3966131844BE6BB258E91ED60D70A.PNG</Image>
+      <Description>At the Bamba Club, get Dick McColl to give up the license plate of Celine Henry's male companion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Fighting Sixth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/C1601B92DBD3924DAECD31C829EBBF2E073529FA.PNG</Image>
+      <Description>At the Bus Shooting, talk Felix Alvarro into giving up the Marines involved in the Coolridge heist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Huckster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/380BDD8DC6E9885939E17376971F5C835C687A6A.PNG</Image>
+      <Description>At Elysian Fields, outwit Leland Monroe when discussing his developments or advertising campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Lead Foot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/09443A96359BF51C4B3D52CB770617CBB5CF79DF.PNG</Image>
+      <Description>Keep the needle above 80mph for more than ten seconds while driving.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Miles On The Clock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/6ABBC5E0C6FA372D19CBB2D4509A4E811BFD304C.PNG</Image>
+      <Description>Drive more than 194.7 miles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Wooden Overcoats</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/44FD49EC1C841F7CBBC0A0C03B3C119AF8ED7F22.PNG</Image>
+      <Description>Bring down a total of 30 bad guys with head shots.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Dead Men Are Heavier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/8B368ABDF73ECBB6EB859A9993634F0A040C2564.PNG</Image>
+      <Description>Shoot and kill a total of 100 bad guys.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Roscoe And Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/7A612A3C231D1F9D5F07AD221C1EEAB2680192F0.PNG</Image>
+      <Description>Kill at least one bad guy with every gun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Magpie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/6D216529D06E432172743D334039C9DCE9C8DE38.PNG</Image>
+      <Description>Find and inspect 95% of all clues.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Shadow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/8E9FC0D3F91F02DDBB9A5D755D69A740E3CE5367.PNG</Image>
+      <Description>Tail a suspect without being spotted, in a single case.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Third Degree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/8A254EE65CBBA743517CCCCA9B39AA7BA98CFC14.PNG</Image>
+      <Description>Correctly branch every question in every interview in a single story case.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Hunch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/B16B95D6FFBE3C5FF4C43E22A277D0655A109F79.PNG</Image>
+      <Description>Use four intuition points in a single interview session, correctly branching each question.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Star Map</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/5319195B8BA3BC20397F9A84E51216D46D570EBF.PNG</Image>
+      <Description>Discover all landmark locations around the city.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Public Menace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/38E1951B5E7C94E91D1366988F17727DF3960FE9.PNG</Image>
+      <Description>Rack up $47,000 in penalties during a single story case.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Moose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/694BF3FC970F8BA12190D76876031B218A49463A.PNG</Image>
+      <Description>Follow Candy Edwards without using cover or incognito, except when starting or picking up the tail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Keep A Lid On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/4EC0C29634ED3F398D006D7F635F6A1644B400E9.PNG</Image>
+      <Description>Complete a brawl without losing your hat as an LAPD Detective or Investigator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Auto Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/D612598DEBA215951B6324FF408CE043E6F05715.PNG</Image>
+      <Description>Drive 5 different vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Auto Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/F2CCD815AD1CEA42C05A053A346933341EBB0EB9.PNG</Image>
+      <Description>Drive 40 different vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Auto Fanatic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/095172C7BFF510928A65E01728C05E615777F947.PNG</Image>
+      <Description>Drive every vehicle in the city.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Hollywoodland</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/4949DC01466E4CE0C49EB2C30EAE3E2B36B8A9F3.PNG</Image>
+      <Description>Find and inspect all gold film reels.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Printer's Devil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/23611E7341C34B89B2886955235B4C5E5F4FFAF9.PNG</Image>
+      <Description>Complete 'A Slip of the Tongue'.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Racing For Pinks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/16153EBF5DE53BB95EF0CD5D720321DA4C3AE6EA.PNG</Image>
+      <Description>Find and inspect all of the Marquee-printed pink slips.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Femme Imbécile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/0997500A38AF7F00DC88535DDE7D0DAC673A4A3E.PNG</Image>
+      <Description>Correctly branch every question in the interview with Jean Archer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Chop Shop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/AD53D5882DF82EA07F0C699932C14C1C23F386E7.PNG</Image>
+      <Description>During the Industrial Street raid, kill a goon by shooting the hanging engine block.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Nowhere In A Hurry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/071EA83FD9B94E57474C4AC113D8929BD93840FA.PNG</Image>
+      <Description>Catch and arrest Cliff Harrison before he is stopped by uniformed backup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Eight Million Stories</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/02B196E037725E910952B51999A8E19FFFA76096.PNG</Image>
+      <Description>Complete 'The Naked City'.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>A Good-Looking Corpse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/DEA159F722D4AC116D8EB368B6D885C24DFDB102.PNG</Image>
+      <Description>Find and inspect all of the narcotics in Julia Randall's apartment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Fakeloo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/FC8251DAFC2FE05A73C57B95206AAF91C0AEF81F.PNG</Image>
+      <Description>Tail Henry Arnett from Hollywood Station to the pawnbroker and travel agent without being spotted.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Chauffeur Service</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/18A7C6F77AC0AC47CA21CE79B8409238ECDE364E.PNG</Image>
+      <Description>Escort Heather Swanson to Arnett's apartment without damaging your vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Give My Regards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/79F09551FBCE7CBCE8EC8C7263BAC58CDE0D561A.PNG</Image>
+      <Description>Shoot every letter down from the tower at the Broadway Hotel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Big Unfriendly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/9CE131028A6499FBB8B6ED001F5AE9879A069D25.PNG</Image>
+      <Description>Complete 'Nicholson Electroplating'.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>The Nose Knows</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/5A8A7DAF5FE0B4E5FEF30A79C93B3149B83A8E1B.PNG</Image>
+      <Description>Find and inspect the prop spinner at the Nicholson blast site.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Skeletons In The Icebox</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/8EE92DAED8AB214F43FBDF427B6A0602C6DB8942.PNG</Image>
+      <Description>Find and inspect all clues inside Okamoto's ransacked apartment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Bulletproof Windshield</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/AE4471CFF316C203BF3C4A67C0CFD4EDD1B4F617.PNG</Image>
+      <Description>Kill the drivers of both MP vehicles in the gun battle at Hughes Aircraft, before they pull up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Out Of The Frying Pan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/E331A2D00034F8507779308611201E82D6C45D4B.PNG</Image>
+      <Description>Pursue Vernon Mapes from the burning house to Hughes Aircraft on your first attempt.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Every Herb Bearing Seed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/FD3ED3C44E3C5DB8B38A94084F4EC3749A5EEC44.PNG</Image>
+      <Description>Complete 'Reefer Madness'.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Spare A Dime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/93C4B93B43AA7F3E6F372D552DAD423DD43A05C0.PNG</Image>
+      <Description>Complete the puzzle of the US Morgan silver dollars at Parnell's Soup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Soup In The Pot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/533E722C3277EC8FCA618E32B8D2F5F4056A1D51.PNG</Image>
+      <Description>Open both soup cans in Juan Garcia Cruz's stash room.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>High Flyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/CB12BF25D31EFD8675F46F790F40F80D97782ED8.PNG</Image>
+      <Description>Find the flyer at Juan Garcia Cruz's house and proceed straight to the 20th Century Market.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00650_00</GameId>
+      <Title>Forcible Rear Entry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00650_00_12BFBE446C502C910E0A56B8C7276C2E50AEBB5E/4EAA58382C87827DC17F0A793DDA419ACC433752.PNG</Image>
+      <Description>Enter the Las Palmas stash house via the back door and kill Juan Garcia Cruz.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

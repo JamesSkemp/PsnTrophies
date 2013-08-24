@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00533_00</Id>
+    <IdEurope></IdEurope>
+    <Title>X-Blades</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/A012BA01D7FB02CCAC09F3371B225A8FD30E83A0.PNG</Image>
+    <TrophiesCount Total="38" Bronze="22" Silver="11" Gold="4" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/19D55F6193683334BA8B0291D4E8B8EEAEFACA3A.PNG</Image>
+      <Description>Awarded for successfully collecting all trophies from X-Blades</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Easy Walk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/B4220B4F52B8AE4E91507D16C47A12360A46CEF1.PNG</Image>
+      <Description>Complete game at Normal difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Everyday business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/2932CCBC0E90EE32F272E4FEC11DC957B77168D1.PNG</Image>
+      <Description>Complete game at Hard difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Tough fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/25E195F3C76632059F6085AAC5E9AA76C2E60C12.PNG</Image>
+      <Description>Complete game at Pro difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Oops, are you OK?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/9FB11CC9A322C9C19057EDBEC91B764691E5AA14.PNG</Image>
+      <Description>Kill your first monster</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Annoying fly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/DEBA13820069A6E21440749CE17719EA9597E995.PNG</Image>
+      <Description>Kill a monster in the air using blades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Take that!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/0D9FC321C4CD1BFDA485E4820ABB8F4EA55D73BB.PNG</Image>
+      <Description>Execute your first combo</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Can't touch me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/42638A7872C055F137D33DEE845C2A8DAB0E8E4F.PNG</Image>
+      <Description>Complete level without losing your health</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Can you EVER touch me?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/31956D84E6D39CA6DA8FA2205ECE14522C6C680C.PNG</Image>
+      <Description>Complete 6 levels without losing your health</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Flawless victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/F20F5677B67E4E000D032428F34238637C150844.PNG</Image>
+      <Description>Win a boss fight without losing your health</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Magic woman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/F2E8070344A91818C118DF78F5807BDC868EF8A4.PNG</Image>
+      <Description>Complete level using only magic</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Being good is easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/8614736175DC5C2433859C0143E39A8D9FBC7602.PNG</Image>
+      <Description>Complete game with a “good” ending at Normal difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Good girl</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/22CD9DFC5901C4D0CB3A87F2CA7311B7E2D17D24.PNG</Image>
+      <Description>Complete game with a “good” ending at Hard difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>It's hard to be a good girl</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/EFF6E4D90688B22821CB1C39066804B6FDCF0163.PNG</Image>
+      <Description>Complete game with a “good” ending at Pro difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Servant of the Dark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/A4BD867DB416865E2A9FBCF535131B29E74E6734.PNG</Image>
+      <Description>Learn all Dark spells</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Light adept</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/C6EC91DC7F8B823B60FC1ED2A8E42A06A02E69BF.PNG</Image>
+      <Description>Learn all Light spells</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Finish him</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/66DE72730379755A81414D0D323E310BC83BBCB6.PNG</Image>
+      <Description>Defeat The Dark One at The Dark Temple</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Counter impossible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/B330C12690EC714454712DF41E0D2A53E716ED98.PNG</Image>
+      <Description>Get IMPOSSIBLE hit counter</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Dark side</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/B7403DBBAC6201BB91936FF4D55533B17B8C676A.PNG</Image>
+      <Description>Execute Dark form for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Light side</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/F7D2DE198A3CDD7DADACC05375045EA902AE013D.PNG</Image>
+      <Description>Execute Light form for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Lock and load</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/1DB33065C42A5EB2D8E2476DE9C7117CF24FE652.PNG</Image>
+      <Description>Learn all shooting improvements</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Let's go shopping</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/58C7E8B960C18FF72A9BDEAC5020F3D276AFBE3F.PNG</Image>
+      <Description>Use every item at least once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Nice silver thingie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/588AE40390534816B3C1BB7BB17197728350117E.PNG</Image>
+      <Description>Collect 3 silver artifact parts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Nice gold thingie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/B662903BEE6EF902094C9A1A61F67859E9916241.PNG</Image>
+      <Description>Collect 3 gold artifact parts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Nice ruby thingie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/2106D52375C482A71A61AA767FEAAA8295704552.PNG</Image>
+      <Description>Collect 3 ruby artifact parts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Shooting master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/71225B36958479E6FBDD72ED9BA534AF6FA9BE94.PNG</Image>
+      <Description>Get maximum Shooting upgrade level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Melee master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/747509251E7AA0B0031EC19447591487206C2F0B.PNG</Image>
+      <Description>Get maximum Melee upgrade level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Airstrike master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/557B47161997A04E3A3779ECE8811F74833F3EE9.PNG</Image>
+      <Description>Get maximum Airstrike upgrade level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Master of all skills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/9EBBC317C938B22B5FA5D8790C3A6611BA3AF3C1.PNG</Image>
+      <Description>Get maximum Shooting, Melee and Airstrike upgrade level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Unbelievable metabolism</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/45D1930F5D16411D1858292C94592A553D962ED0.PNG</Image>
+      <Description>Upgrade health regeneration level to maximum</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>I'm so special</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/AFD5587C3712C76C39EF115876F5ACE46BEBB35C.PNG</Image>
+      <Description>Learn all Special Form upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Monster hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/004E5592ED1778EB4F213FDAEF5B11B24EF57E10.PNG</Image>
+      <Description>Kill 100 monsters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Monster killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/89510C73B7D6E37ADFE863FCF2765E3321B32399.PNG</Image>
+      <Description>Kill 1000 monsters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Famous monster eliminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/71D5ED35D003DDCB2A75ECA17B2B7C9B861E7EC6.PNG</Image>
+      <Description>Kill 10 000 monsters</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Soul collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/C8767D099A8282F9FC4D706E32337646778B7F13.PNG</Image>
+      <Description>Collect 5 000 souls</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Great soul collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/769017A592B71CFB4F10890EA5F413CE92714E3D.PNG</Image>
+      <Description>Collect 50 000 souls</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>Epic soul collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/619CCE6B24CEFA382C8F9E0066B1FBE66197B039.PNG</Image>
+      <Description>Collect 5 000 000 souls</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00533_00</GameId>
+      <Title>The best soul collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00533_00_34D535A47D4959ABAC2E3271E4E0CCE9D6AC8241/5F0EFFA9CFD80500E14D297994BC509F6A7828B0.PNG</Image>
+      <Description>Collect 50 000 000 souls</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

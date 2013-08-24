@@ -1,0 +1,743 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01692_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Saints Row: The Third</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/192D2B5F2E7F5FD4E6775FDE4525CA52E34A50C5.PNG</Image>
+    <TrophiesCount Total="81" Bronze="61" Silver="17" Gold="2" Platinum="1" />
+    <TotalPoints>1605</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Kingpin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/0C0C5FA273F2A144167B9A8044443DC3BF98074D.PNG</Image>
+      <Description>Unlock all Trophies in Saints Row: The Third.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Dead Presidents</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/28E7630012C3024048EAD92A98B47968203BCEA7.PNG</Image>
+      <Description>Complete 'When Good Heists...'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>The Welcome Wagon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/850BA0658BF99EE7D2937CFFA72AE389C2CBC407.PNG</Image>
+      <Description>Complete 'I'm Free - Free Falling'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>We're Takin' Over</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/7C56E64922812E0354EBFB857F091A14D03091B6.PNG</Image>
+      <Description>Complete 'We've Only Just Begun'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Tower Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/FBD10F2B13B7F7A5ADC97C8E6DDEF0B78C8F6376.PNG</Image>
+      <Description>Complete Act 1 in one way.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Kuh, Boom.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/75C1A411A1E53D7BE0D1936F8A7CEE7054104A70.PNG</Image>
+      <Description>Complete Act 1 in another way.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Gotta Break Em In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/AF6842C6B7DB182FCC1CE4A35DDCC80A858E242B.PNG</Image>
+      <Description>Complete 'The Ho Boat'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>I Heart Nyte Blayde</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/234FDA69759E2C4749929B82E8AF57054224A049.PNG</Image>
+      <Description>Complete 'STAG Party'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>kill-deckers.exe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/5B9FBA28B11B5492EAF4F72781A96CD603C3E529.PNG</Image>
+      <Description>Complete 'http://deckers.die'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Titanic Effort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/E2793469506DC3FE53F74AB9AF12E6FBA6CC0B45.PNG</Image>
+      <Description>Complete Act 2.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Once Bitten... Braaaaaaains</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/836CD3174E2F13FEEF55625B023D045D628EE91C.PNG</Image>
+      <Description>Complete 'Zombie Attack'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Murderbrawl 31</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/6F711241A64B9ADF54958AD19E11BBE1D2DDC955.PNG</Image>
+      <Description>Complete 'Murderbrawl XXXI'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Too Close to the Son</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/E8EBFDDA6F146E40AE1AD1272CCCCB99D8AA2FD2.PNG</Image>
+      <Description>Complete Act 3 in one way.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Gangstas... In Space!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/5485890637447454FF79ED7E53B1466571923E20.PNG</Image>
+      <Description>Complete Act 3 in another way.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Hanging With Mr. Pierce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/C94811DCED0791A86241783850414543CB3CFAA0.PNG</Image>
+      <Description>Complete all City Takeover gameplay in the Downtown district.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Mourning Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/B677AF610187D023A8F853ED8CFA1C1E83889CF2.PNG</Image>
+      <Description>Complete all City Takeover gameplay in the New Colvin district.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Hack the Planet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/56195D18852A193549795DD297D68838E423A7D5.PNG</Image>
+      <Description>Complete all City Takeover gameplay in the Stanfield district.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>You're the Best...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/AA11B003BD6FAF90B19D91AA891112CCD355C1AC.PNG</Image>
+      <Description>Complete all City Takeover gameplay in the Carver Island district.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Bright Lights, Big City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/0A6A701427C542DA31BF894893B5D644274BBE1A.PNG</Image>
+      <Description>Complete all City Takeover gameplay in the entire city of Steelport.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Ouch.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/2ABB2E46F845B54F3C51D4A10B674D1DE90E80EF.PNG</Image>
+      <Description>Complete all instances of Insurance Fraud.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Tune In, Drop Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/AE238F15404F6F753C5F4E9A4A3B503142396BEB.PNG</Image>
+      <Description>Complete all instances of Trafficking.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>And Boom Goes the Dynamite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/DAB8DDE42014DA2E1188A8198FC87C9ED6833D3F.PNG</Image>
+      <Description>Complete all instances of Heli Assault.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Fence Killa 2011</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/C90C276E73F8436D61F1BCA769F03099662FB3F6.PNG</Image>
+      <Description>Complete all instances of Mayhem.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Your Backseat Smells Funny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/2AECC8B3754F334B03FFA92A5C8263A496AD7B94.PNG</Image>
+      <Description>Complete all instances of Escort.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Double Dose of Pimping</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/C0D232023649F44589C107335F50D06EA1B25F50.PNG</Image>
+      <Description>Complete all instances of Snatch.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Porkchop Sandwiches</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/9FCAA346C7D1776A48E840A0B6DBBCFE3D1ACBD4.PNG</Image>
+      <Description>Complete all instances of Trail Blazing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Go Into the Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/735B1C2E3BAFE0D000052A278CCFE5E5655D3A1F.PNG</Image>
+      <Description>Complete all instances of Guardian Angel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Tank You Very Much</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/6D98304193048B45025CE230841AE4642E1155D4.PNG</Image>
+      <Description>Complete all instances of Tank Mayhem.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Have A Reality Climax</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/5D69A56D32F613BF7F93D62B8453E2632243DC5C.PNG</Image>
+      <Description>Complete all instances of Professor Genki's Super Ethical Reality Climax.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Everything is Permitted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/89CD3F3C0005A3B111C41D21A637FF8203CB4E16.PNG</Image>
+      <Description>Kill all of the hitman Assassination targets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Hi-Jack It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/954D6E67627C16EC9EF9BF2531BD92BA4764A93D.PNG</Image>
+      <Description>Steal and deliver all Vehicle Theft targets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Getting the Goods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/101BCB45BA172D7744EAFC5742C7DE7877C2CB94.PNG</Image>
+      <Description>Find 25% of all Collectibles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Life of the Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/0C1F2F9DD61826411257BBD950E4810127BA6CF7.PNG</Image>
+      <Description>Find 100% of all Collectibles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Shake and Bake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/63D9EA00629FBE9219C5FB55DC8307419369A01B.PNG</Image>
+      <Description>Complete your first Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>You're My Hero!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/E1A0B538A808FF32FCCCFE2F486F8E62788D6A7C.PNG</Image>
+      <Description>Complete ALL Challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Ow My Balls!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/D277162FD9A33E96F3C215308B3DB16C801C0EA2.PNG</Image>
+      <Description>Do your first nutshot AND testicle assault.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Gender Equality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/F95971DB5F5269524DA39A13A01462E644F9AD04.PNG</Image>
+      <Description>Play for at least 2 hours as a male character AND 2 hours as a female character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Bo-Duke-En</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/64FF65C5BD09A2B3F20C44620507FF88824E5D83.PNG</Image>
+      <Description>Hijack 50 vehicles - Dukes style.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Love/Hate Relationship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/793581A3459046EA4D290D35BE095BE7AD9CAC56.PNG</Image>
+      <Description>Taunt AND/OR Compliment 50 gang members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Gellin' Like Magellan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/8910514A772A8C05AA260697855DC490012BD05F.PNG</Image>
+      <Description>Explore every hood in Steelport.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Who Loves Ya Baby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/7FC5341B8159AEEB10ED59A164F5B3D15EED1FB2.PNG</Image>
+      <Description>Kill 50 brutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>A Better Person</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/14EF4C302F7890B90CE240E4881B08FEA5C583A0.PNG</Image>
+      <Description>Buy your first Upgrade from the Upgrade Store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Haters Gonna Hate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/D732DC1719B7DA88374A6A365F9AF38D99E2FCF5.PNG</Image>
+      <Description>Kill 1000 Gang Members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Cowboy Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/A0C98C6461E0F3895D8CB6788DC429CE56CA479E.PNG</Image>
+      <Description>Fully upgrade one Weapon in each slot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Pimped Out Pad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/3760B36959DAF6B5644A75C4B9992CC294A3643A.PNG</Image>
+      <Description>Upgrade one Stronghold to its full glory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Flash the Pan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/F4F782C022727C1591C26844C7227ACE9F7C9528.PNG</Image>
+      <Description>Destroy all Gang Operations in Steelport.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Third and 30</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/4BBF9122C3BFD491FB07C2EBE5926C87D8236568.PNG</Image>
+      <Description>Spend over 30 hours in Steelport.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Jumped In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/61D006612379CA5D511501A1014320230FEBCD99.PNG</Image>
+      <Description>Create and share a character online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Opulence, You Has It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/9187BDDCA055C5D9D9D1E1C4EFECB86680FE2D40.PNG</Image>
+      <Description>Complete 'Party Time'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Stay Classy Steelport</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/88D93E3D94B3618BC8781A7D84797F56F62B8615.PNG</Image>
+      <Description>Kill 25 Gang Members each with 'the Penetrator' AND the Fart in a Jar.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>The American Dream</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/26A55994012998BE9A9CB33C9217983BEED17FD2.PNG</Image>
+      <Description>Customize 10 vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Cooked To Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/4A2F4FB39C17B257F3C95F1BAFE06965049864D1.PNG</Image>
+      <Description>Roast 50 peds with the car’s flamethrower (in a single instance of Super Ethical PR Opportunity).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Get Off My Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/5C1883E15716F912349133705BE2E40761633F07.PNG</Image>
+      <Description>Destroy 5 chase vehicles (in a single instance of Super Ethical PR Opportunity).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Stick the Landing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/9A1664B0970DE3D1EAB2318DD38E6E450822E3D7.PNG</Image>
+      <Description>Land on Magarac Island (in Sad Panda Skyblazing).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Cat on a Hot Tin Roof</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/A68D96F0E7710C6899CB52FEF8280A4752F50966.PNG</Image>
+      <Description>Kill all of the rooftop mascots (in a single instance of Sad Panda Skyblazing).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Flame On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/AC93B7C623289896E26D70360C9DF6AAEF025F0C.PNG</Image>
+      <Description>Fly through all of the rings (in a single instance of Sad Panda Skyblazing).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Feeding Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/B779E20E6C0296F3F3DDB9B1597DDF5EEC685B75.PNG</Image>
+      <Description>Throw 5 mascots into the water (in a single instance of Apocalypse Genki).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Murder in the Jungle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/49E80981077EE732E5D062E3D580BD4199F8666F.PNG</Image>
+      <Description>Finish both instances of Apocalypse Genki.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Storm the Yarn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/DB512C0FF352DA8AF0D9B5969D4F86C59F2FC9C1.PNG</Image>
+      <Description>Destroy a mouse ATV during Sexy Kitten Yarngasm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>C-C-C-Combo Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/7CDB0C795C2E998887F88542C69CEDEF60561449.PNG</Image>
+      <Description>Cause $150,000 worth of damage in a single Sexy Kitten Yarngasm combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Genki Bowl Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/605926421CCC21D5A5DA81AF417364F37EEEC316.PNG</Image>
+      <Description>Complete all activity instances in Genki Bowl VII.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>I Do My Own Stunts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/EE9974878C1124CCBFBBC3828865E5FD655FB08C.PNG</Image>
+      <Description>Land on the Parachute Target during the rescue scene.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>First Contact</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/E04CD5F45EFA1E581D94BFEC73CDB02B95A68E19.PNG</Image>
+      <Description>Destroy all enemy spacecraft during the chase scene.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Union Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/931418DAB934FE0C8BB618E42E8738B444D032E7.PNG</Image>
+      <Description>Kill 15 cameramen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Xenaphobe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/07B99E6BFE0B6F0E255DA75222DA8301FD19E1F9.PNG</Image>
+      <Description>Kill Space Brutina.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Lights! Camera! Action!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/BC6BABC7A32EED17CF8722131F9E5FA2B689FBD3.PNG</Image>
+      <Description>Collect all 6 hidden clapboards.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Pew! Pew! Pew!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/EA0F704A53AC706C025446C12AE98E142EB1AED3.PNG</Image>
+      <Description>Kill 35 Space Amazons with the Laser Pistol.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Warrior Princess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/7EE18E6CF344E97A8DBFCE933DF5937490E4CE82.PNG</Image>
+      <Description>Kill 7 Space Amazons with melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Revenge of the Navigator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/C3909772724B8E7F92442842B7EDC30147027B64.PNG</Image>
+      <Description>Destroy 10 enemy spacecraft with the Aegean while filming.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Do a Barrel Roll!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/3310448E7D16197B10D92DA77EAEB8069AB38EAA.PNG</Image>
+      <Description>Perform all vehicle stunts with the Aegean.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>C-List Celebrity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/1D4FA92929B4F80F05EE4C237C24DEFCC9515495.PNG</Image>
+      <Description>Complete all missions for Gangstas in Space.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>72</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>B.A.M.F.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/3EA071F82EFEB3FF66785CEDB6797343B6D333DE.PNG</Image>
+      <Description>Defeat 15 enemies at Technically Legal using only melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>73</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Public Enemy #1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/07D9ADEBE5AE747B92A7597299323F44B3327447.PNG</Image>
+      <Description>Destroy 45 Police and Swat Vehicles while protecting Jimmy's car.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>74</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Weird Science</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/7446864BBB7354398F98242F0D2019751FADA28C.PNG</Image>
+      <Description>Complete mission 'Weird Science'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>75</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Eye of the Bee-Holder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/F2FA942B4042D0ECF06F938E98F7CBCB0A447B55.PNG</Image>
+      <Description>Spray 25 rabid fans with the Swarmitron.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>76</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Sting Operation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/B7D014F18D9826A26BB0E38A82117B111DA114FB.PNG</Image>
+      <Description>Destroy 5 Steelport Guard vehicles during mission 'Tour de Farce'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>77</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Tour de Farce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/6F9FD57031FD3A4F4ADA69C21D1FD3EA8A38DE75.PNG</Image>
+      <Description>Complete mission 'Tour de Farce'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>78</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Supaa-Excellent!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/8C2C3CD12FF8BB91A59751F2FC093CE348CDDCFA.PNG</Image>
+      <Description>Shoot down a helicopter with a Saints Flow fireball.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>79</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>Send in the Clones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/1E37966AF7DEACEF52A23BABDC97A17BF0790EA7.PNG</Image>
+      <Description>Kill a Brute using only melee damage while under the influence of Saints Flow.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>80</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>The Johnnyguard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/23ADF574F7001854C6DE2A8657B695AC581B6D3C.PNG</Image>
+      <Description>Prevent Johnny Tag from taking damage on the Magarac Bridge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>81</Id>
+      <GameId>NPWR01692_00</GameId>
+      <Title>My Pet, Monster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01692_00_D560669A16B21BE678A981AAD82814FC97204E9E/2497858788B2041E6263AEC8DFB3D0B15C5915BE.PNG</Image>
+      <Description>Complete all missions for "The Trouble With Clones..."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

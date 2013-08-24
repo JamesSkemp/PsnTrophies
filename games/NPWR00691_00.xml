@@ -1,0 +1,230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00691_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Cross Edge</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/3181ECF1699CEC747D65C63CE95EAD61C6F32961.PNG</Image>
+    <TrophiesCount Total="24" Bronze="5" Silver="11" Gold="7" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>Crossover Conquest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/6C514555425C60BD901F183929C7B4C31A5CCB76.PNG</Image>
+      <Description>Earn this trophy by unlocking all other Cross Edge™ trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Entitled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/E6707EDA14B13636395B62B88DD2BB14A9817237.PNG</Image>
+      <Description>(Don't forget to check title conditions.)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Bully</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/8F410AA2FB56E334E94951E471B031783E27CA72.PNG</Image>
+      <Description>Defeat 100 enemy units.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Newbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/5B897B6F86A226F23C87BD8A0536E337E8658542.PNG</Image>
+      <Description>Survive 35 battles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Badass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/10F1F2D7439C6D2FBD5CEF4F05DF13C2D3ABB358.PNG</Image>
+      <Description>Exceed 10,000 points of total damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/6543D200E2D767060C57D926EA248EFD904A2DBC.PNG</Image>
+      <Description>Exceed a 50-hit combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Skywalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/C7ED64E98FFF2A78BF39E6165AC6922A32E9F7EC.PNG</Image>
+      <Description>Reach 300 AGI.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Meat Shield</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/E42764340A1A6848B988A504C8238D8831D35C8F.PNG</Image>
+      <Description>Reach 300 VIT.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Juicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/D377D08976DDB1EC02B1662B9CB292BE8D274C48.PNG</Image>
+      <Description>Reach 300 STR.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Know-It-All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/8AC31F2067D2970FF3C6CC1E36493BBE638E1313.PNG</Image>
+      <Description>Reach 300 INT.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Gambler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/2BA15293BAF9E5038391538164FA4745629C6010.PNG</Image>
+      <Description>Reach 300 LCK.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Stalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/1999F5236C43DAF6C92B378D5FEBFB62C674973E.PNG</Image>
+      <Description>Unlock all character profiles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Patron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/2586361365F4755B7E2135236C4BA36A1FA59C3F.PNG</Image>
+      <Description>Unlock all gallery art.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The God of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/5F9523E1BB6A112FFCAFCE05472752067BF0707B.PNG</Image>
+      <Description>Defeat 3,000 enemy units.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Highlander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/79BC88DFD41E14376E51A979552867B9B43CDA25.PNG</Image>
+      <Description>Survive 900 battles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The World Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/A52234CDE9DCD511D9826485B4EFAEE90A384C62.PNG</Image>
+      <Description>Exceed 1,000,000 points of total damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Aggressor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/E750E9D01BB37760D7CF241B3E35CE0D673670CD.PNG</Image>
+      <Description>Exceed a 400-hit combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Gun Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/48BD08AF99A394465C19AAAD3C081E440D4AA5E7.PNG</Image>
+      <Description>Collect every type of weapon.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Battle Ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/FCBCB1755FDAF10804FC7D9C60FA73531375D0CD.PNG</Image>
+      <Description>Collect every type of armor.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Fashionista</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/0600A281F38B434F01773FF286D61430671E09DE.PNG</Image>
+      <Description>Collect every type of accessory.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Packrat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/53D2E37347A6A46E443FD2DE8F91B46186F3FB8D.PNG</Image>
+      <Description>Collect every type of item.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Grave Robber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/75544BF15B1CF61E17F3565D9A0966E6386DFE48.PNG</Image>
+      <Description>Find 150 hidden items using Search.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Dood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/89451FC5385E12AC18A238639E1630795430665C.PNG</Image>
+      <Description>Earn the true ending.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00691_00</GameId>
+      <Title>The Hikikomori</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00691_00_89AD65FB9A1C3F3275F747E4072302CCC2DE50B3/0A8CBF3B86589C9E06C2BBC76C88B9A44C95EF85.PNG</Image>
+      <Description>Spend far too much time unlocking dozens of titles.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

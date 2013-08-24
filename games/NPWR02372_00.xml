@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02372_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Instant Artist</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/BA67162C81811F06088F1D13E59DBC179236ADB7.PNG</Image>
+    <TrophiesCount Total="40" Bronze="24" Silver="11" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Artist of the Year</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/09907A20CFDEFEAC48F199A406A6CB203F0EEA3E.PNG</Image>
+      <Description>Unlocked all Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Personal Masterpiece</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/4E6D7E13D5725E1008B46AD1D9251198F6CB5A3F.PNG</Image>
+      <Description>Saved a Painting in the Gallery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Color Fill Crazed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/92F7CB2A5AEE2E240CE43871D18AEDBE51348FDA.PNG</Image>
+      <Description>Saved a Coloring Book Painting in the Gallery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>I've got Your Number</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/AAD653E701C4C3298C1350AE8E7E0AD6A7FD8615.PNG</Image>
+      <Description>Saved a Numbers Painting in the Gallery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Dots Terrific!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/F7916A4C504B0D8E4B1794F27C18C991E4314A5B.PNG</Image>
+      <Description>Saved a Connect The Dots Painting in the Gallery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Place Your Mark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/F6C11610E81F8AF6A18E129C0513300971ACF66A.PNG</Image>
+      <Description>Created a Signature Stamp</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Great Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/87309DF8084776474A0160D4BF70C21A32BC876F.PNG</Image>
+      <Description>Completed any Art School Lesson</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Beginner Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/DBE4DB3A6B226CE6F125A9C87ED3E7D686AF17F5.PNG</Image>
+      <Description>Complete three Drawing Lessons in Art School</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Intermediate Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/0067EB7AB2807AFA4C43679EFF9ED600948FCEC7.PNG</Image>
+      <Description>Completed three Painting Lessons in Art School</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Advanced Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/4CFB5041DA9668DE8C79AF710490B33F98251381.PNG</Image>
+      <Description>Completed three Color Wheel Lessons in Art School</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Remmy's Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/A732AE9D28F251DDD2D7F59585E29EB689CE2788.PNG</Image>
+      <Description>Completed all Art School Lessons</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Get Inspired!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/6DFA1B8B5375DAE680DB9471D30E99FA8CE19B7D.PNG</Image>
+      <Description>Completed any Art Starter</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Awe-Inspiring!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/6EEF3C63ED4652B89463A12EB4A42B90BB6616D2.PNG</Image>
+      <Description>Explored all Art Starters</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Color Crazy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/E222DC87F0F40EA81D33BE5B196B579D4728877A.PNG</Image>
+      <Description>Saved a Custom Palette</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>My Personal Effects</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/14E01B7BCFF2FFF43C84D807DDDB923A05B312D8.PNG</Image>
+      <Description>Applied an Effect Filter to a Painting</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Animated Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/92139D6D7AB8A954CD990B090BC89D10CB2E0BC5.PNG</Image>
+      <Description>Created artwork using an Animated Stamp</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Artist in Training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/60F21091F0BB85262670EE79CD5D220AE9B4F9E2.PNG</Image>
+      <Description>Discover an Extended Tool Tip</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Splat Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/4BEE4E8E8CEFDDCEE4FB984BF8D3D68DCCCC9D0C.PNG</Image>
+      <Description>Painted with the Splatter Brush</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Look, No Mess!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/52C8F2A614DC348E739AAC0081BC0BD6024FBED0.PNG</Image>
+      <Description>Painted with the Fingerpaint Brush</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Fancy Pants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/0B1B09CBD7FFA44663DB1ABC1F32D49CD9E267BC.PNG</Image>
+      <Description>Painted with the Calligraphy Pen</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Accomplished Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/C725E0DD807C0AB67D63E0A6F92D514E500204B6.PNG</Image>
+      <Description>Painted with each Brush Type at least once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Art Camp Crazy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/738FFBD20A11CDF7A0FE0D2BBBC26E693AB4AB62.PNG</Image>
+      <Description>Explored all Art Camp Activities</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Anti-Alien</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/0F03BE0BA23CAFFAA09527AE1C775E42A42ACD86.PNG</Image>
+      <Description>Completed Level 1 in the Alien Splat Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Sizzling Splatter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/601294C094AECF72D3EC9B20F4A10386E18F5A6F.PNG</Image>
+      <Description>Completed Level 10 in the Alien Splat Game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Bring it on!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/35CB1AE78589BD52A3B3ED01FF51C1F6FF497A96.PNG</Image>
+      <Description>Obtained 6 lives in the Alien Splat Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Splat Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/34AD838DC858D89F7CC14CE3FC44B82B8FE31E8D.PNG</Image>
+      <Description>Completed 2 Levels in a row without losing a Life in the Alien Splat Game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Lost in Paint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/92E3099A4CA1538CE3459C5F829B33B60AEE5D45.PNG</Image>
+      <Description>Completed Level 1 in the Tilt Maze Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Tilt Triumphant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/27CCD09F9FE5469285A31106C1953B045A51B3F3.PNG</Image>
+      <Description>Completed Level 10 in the Tilt Maze Game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Tilting Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/1BDA22217B475CE4CBA83D756736BAEB1F0BEF34.PNG</Image>
+      <Description>Completed a Tilt Maze in 60 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Maze Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/4FC3A3F9B843C00E053790DEC4BBC2BC5BC32E8F.PNG</Image>
+      <Description>Completed all 40 Tilt Mazes with a total time of less than 40 minutes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Just a Warm up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/B6CB4309A4AF106307F32BCBAB93DDABC395D78B.PNG</Image>
+      <Description>Completed Level 1 in the Tilt Painting Challenge Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Color and Cruise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/52CC33E3BB52848D2FBDD2931A60CE6E5F8EC2A8.PNG</Image>
+      <Description>Completed Level 3  in the Tilt Painting Challenge Game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Challenge Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/100BD962AD7DA043245F108B8467DBAFE46F7994.PNG</Image>
+      <Description>Completed Level 5  in the Tilt Painting Challenge Game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Color Conundrum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/0C2F4B645FFBBEB6C5C84C57B946876B0BADAC51.PNG</Image>
+      <Description>Used all the colors in the Palette Wheel in Tilt Painting Freeplay Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Sit Back and Relax</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/C6F1771E667057D7C9F9565B4FA62889588BAE67.PNG</Image>
+      <Description>Watched a Slideshow of your Gallery Paintings</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Picture This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/1589DC91148D406C45A8A7261CA4FFFF8DFF8BC8.PNG</Image>
+      <Description>Exported a Painting</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Lockdown!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/293562C4E3B040701D6CD49507DFB50EE5CFBE3C.PNG</Image>
+      <Description>Activated the Lock Palette feature</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Canvas Country</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/5CE4A53DCF3E92B853190F2EA714269316D99ED8.PNG</Image>
+      <Description>Saved a Painting on each of the 11 Different Canvas Types</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>It's Customary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/F6FC40E82B233FC0AE1335F8E261CABCEB60D09F.PNG</Image>
+      <Description>Drag and Drop a Custom Color into the Palette Wheel</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02372_00</GameId>
+      <Title>Stroke of Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02372_00_6BEE71E9A4DE1D715A4B3C444AEF0401C8040645/3FABD256178F3BBE187B0E74CF6FC6A46BABD673.PNG</Image>
+      <Description>Selected a Different Stroke Mode in the Brushstroke Menu</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

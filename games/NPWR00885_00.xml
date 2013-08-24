@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00885_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Way of the Samurai 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/5B733913B475D90BADA2661CF493C6F3B0DC4A65.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E16201C9830768AC63BDAC04284F995DCD8349D5.PNG</Image>
+      <Description>Acquired all the Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/525847E4A9144924027345A3FDCA5A43765D3D77.PNG</Image>
+      <Description>Completed and discovered the True Ending. </Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Ending</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/2D39462481B0136DA240E3E36DB66A7136AEB7FC.PNG</Image>
+      <Description>Completed the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Five Stories</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/D913C30F6694ADEAE5FD4D41B38D3A75677C6C91.PNG</Image>
+      <Description>Completed and discovered 5 Endings.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Way of The Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/D89C3BAC87006194BD7207E842841DF0234BAAD9.PNG</Image>
+      <Description>Completed and discovered all Endings. </Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Samurai 4EvR!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/9AEBAE7EB32D394236D468876947542BB93BDC97.PNG</Image>
+      <Description>Cleared game with more than 120% Samurai Rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weak Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/F772629E46CFEA343CBFD7DFF5FA25DC0079E908.PNG</Image>
+      <Description>Cleared the game in Easy difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Skilled Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/986E4B733B7CE1188417DB8CD0AF948070744CE5.PNG</Image>
+      <Description>Cleared the game in Normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Samurai Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E32F623A6DACB61C543079C3C3F2CBB959AEEC35.PNG</Image>
+      <Description>Cleared the game in Hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Samurai Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E7A5F07DDF3CEC55FD189CC8F3CB82E5127DC649.PNG</Image>
+      <Description>Cleared the game in Instant Kill difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Forger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/3B9038515A7B335717897C165406CC79B3E039CE.PNG</Image>
+      <Description>Created a weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Upper Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/6FBF98F15EC9B0FC39B6CCA082262D78E9938AE4.PNG</Image>
+      <Description>Mastered all skills of Upper Stance. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Middle Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/C8F98C02CDF21F0BE416763A44DB16977EE26E91.PNG</Image>
+      <Description>Mastered all skills of Middle Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Lower Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/AEC65698065BDF9C733EE00A31240FEACF606B7E.PNG</Image>
+      <Description>Mastered all skills of Lower Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Single Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E78F2065E35492CAE5977E1E3646AFA503410299.PNG</Image>
+      <Description>Mastered all skills of Single Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Side Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/D3DA3EB507944C9D6E6DB8D651E08D88D15C88AD.PNG</Image>
+      <Description>Mastered all skills of Side Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Spear Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/F314166A7590ED2EC0EFDD867B88C292A57446A0.PNG</Image>
+      <Description>Mastered all skills of Spear Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Bare Hands Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/75A4DE8A5F17782E3CC2C5D03C696AE2BB65D646.PNG</Image>
+      <Description>Mastered all skills of Bare Hands Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Draw Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/FEAAB9A43A44B90A1719EA4984F0DE6AA6609076.PNG</Image>
+      <Description>Mastered all skills of Draw Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Ninja Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/D5EC728319986FF5D84BD73791B8D48F0A6C6248.PNG</Image>
+      <Description>Mastered all skills of Ninja Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Dual Sword Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/86A02F79FAFC904FCD586F4BE4440C36F82A3102.PNG</Image>
+      <Description>Mastered all skills of Dual Sword Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Ninja Dual Sword Stance Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/4935D13322D5AA28BFA53316C764454BE477562C.PNG</Image>
+      <Description>Mastered all skills of Ninja Dual Sword Stance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/144F56E1E9712D058524D28EE8D797346C2E68D8.PNG</Image>
+      <Description>Broke an opponent's weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Blunt Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/7BF838C1E96DE21493D7EB100E01338525FE2C3A.PNG</Image>
+      <Description>Defeated an opponent with a Blunt Attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Amana Native</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E4950A701DBACCC5B2B9528EBCF74A40F1E2D130.PNG</Image>
+      <Description>Played more than 10 hours.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Forged Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/0E696B73D1C5B408F758D7DBF8F4B0C8313CD29E.PNG</Image>
+      <Description>Forged a weapon for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/2B9AA97A65B4D7986B78010EB4697DA49E3AD79B.PNG</Image>
+      <Description>Fist time killing an enemy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/DE51B607F081962F8E91C6869DD570CE64B6F607.PNG</Image>
+      <Description>Mastered all skills for a weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/FC4C9C9F0D591FF27CEA0413DB323FD82DF4F15E.PNG</Image>
+      <Description>Mastered all skills for thirty weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Power of 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/ECDE62532F2B801423FFB6B90BF4B97E163C0F7F.PNG</Image>
+      <Description>Achieved 10 Chain Kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Power of 100</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/7DD8F27DC5EA896DD4469579A7036DDB3D2581C3.PNG</Image>
+      <Description>Achieved 100 Chain Kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Head Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/11B10643B3ABD8E88A11ED2CEE542022DB19BF06.PNG</Image>
+      <Description>Obtained all Heads.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Outfit Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/A73E23B59ED98F9B744492C8E8CD8977B48D264E.PNG</Image>
+      <Description>Obtained all Outfits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>First Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/A0147D98F771BF0FC79B1B82EE42C39DCA2BE4AF.PNG</Image>
+      <Description>Learned a skill for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Skill Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/C252537D68E8596100ABD62CEB9CD6651B40854F.PNG</Image>
+      <Description>Learned a total of 10 skills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Master of Skills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/14E658C7AD2AC31843AEEE735BC931C5AB987C65.PNG</Image>
+      <Description>Learned a total of 100 skills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/303F896AAB1CC8FDD3051F155123B33EB870F0A9.PNG</Image>
+      <Description>Obtained 10 different weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Weapon Arsenal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/A63884E0573432EF7DE508EBF0FC3EDC20612F51.PNG</Image>
+      <Description>Obtained 50 different weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Payday</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/8734EB997064F816971E0BD308CC6E2AC163EDA3.PNG</Image>
+      <Description>Completed a job successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Job Seeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/51F0511495D7D0FF5987351EA92CF4C2BBA93576.PNG</Image>
+      <Description>Completed 50 jobs successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Relationship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/4B878497EE02A42A51B491DD91B882ACEF8492C1.PNG</Image>
+      <Description>Obtained a partner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Extra Sword Safe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/22EDBAED6FC6AD244A450D3A5994A032C5EEFF29.PNG</Image>
+      <Description>Obtained an extra Sword Safe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/C1B8E728BC713CA1707551B6729001F8113C298B.PNG</Image>
+      <Description>Defeated Shuzen Fujimori.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Bushido</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/DC5501701826A36EA4BBF451F73912CD69F2BD08.PNG</Image>
+      <Description>Defeated Sensei at the Dojo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Title Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/391BD2291802408C3E4109D9C3AFD15F5BC718CE.PNG</Image>
+      <Description>Obtained 5 titles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Title Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/CBBB235E51DB3F71DDA81F8C9F43CD5F78894A74.PNG</Image>
+      <Description>Obtained 20 titles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Zero Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/E11A92955DB6CB573C9B23B38D468F0837FBF9A6.PNG</Image>
+      <Description>Killed an enemy using a weapon with zero durability.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Zero Blunt Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/83828977232A8868662CC2F1A20B12B66CC27D83.PNG</Image>
+      <Description>Defeated an enemy with Blunt Attack using a weapon with zero durability.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Samurai Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/4310EE5C4AC53F4F784A7B9B64B139CDDB5D1953.PNG</Image>
+      <Description>Total Samurai Points exceeded 200 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Samurai Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/35020B968EBC53C00B04E5F56266CD611D6806AE.PNG</Image>
+      <Description>Total Samurai Points exceeded 2000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00885_00</GameId>
+      <Title>Legendary Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00885_00_6E4681B4D2DD062EA0667C50D9058821F1F9B9D4/75443F69316C18BF6E673F6D734F03DE88881668.PNG</Image>
+      <Description>Total Samurai Points exceeded 10000 points.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

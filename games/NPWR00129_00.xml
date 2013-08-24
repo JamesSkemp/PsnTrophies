@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00129_00</Id>
+    <IdEurope></IdEurope>
+    <Title>High Velocity Bowling™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/FB92C40AA7C18052519CADC3083FB045D7505DD2.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>150 Strikes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/0A32CF27EBC259C20CE4EF5F9E5E72F23E525B8B.PNG</Image>
+      <Description>Accumulate 150 strikes in online play.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>75 Strikes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/F9D8EF184065230A1895952A78FDD9DD106670A9.PNG</Image>
+      <Description>Accumulate 75 strikes in online play.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>25 Wins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/C3243FF6896A24DC62CE23E623E77EEF0003AEB6.PNG</Image>
+      <Description>Win 25 or more games in online play.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>5000 Pins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/174EC4BD9958FBEEDAE053F2951ABB4B3DA8EA47.PNG</Image>
+      <Description>Accumulate a total of 5000 pins knocked down in online play.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>Score 250</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/CDD3076558045E2438B9B26B116345C07808777E.PNG</Image>
+      <Description>Score 250 or better in an online game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>3 Games</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/7F3F32A48C324216607D2BC959531A74CFC527A7.PNG</Image>
+      <Description>Complete 3 full games in online play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>1 Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/07DF302B2C5EE1F8CB8E7ACCC82ADF624800079D.PNG</Image>
+      <Description>Win a single game in online play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>15 Spares</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/93A344EB5EA1A8173FB4B45A1834C5A7717D0A76.PNG</Image>
+      <Description>Accumulate 15 spares in online play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>10 Strikes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/A289E905543CEF63042779E545501E22CCDC28D4.PNG</Image>
+      <Description>Accumulate 10 strikes in online play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>500 Pins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/9847A5E9334F05A85283C3221E591635F9093451.PNG</Image>
+      <Description>Accumulate a total of 500 pins knocked down in online play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>1600+ Rating</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/4332274DF0A538F8A4864C9CA23D23FC1265E52D.PNG</Image>
+      <Description>Achieve an online skill rating of 1600 or better.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00129_00</GameId>
+      <Title>Score 180</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00129_00_42C5314D3973734E325D4BE54FAB127D2350FDE2/29B3C7190245639C74034AEC4D850CC12B179654.PNG</Image>
+      <Description>Score 180 or better in an online game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

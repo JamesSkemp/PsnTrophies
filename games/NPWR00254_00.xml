@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00254_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Red Faction: Guerrilla</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/D28DABBDE2E15BD562E646FDC4A0B9DF847D3DDB.PNG</Image>
+    <TrophiesCount Total="61" Bronze="49" Silver="8" Gold="3" Platinum="1" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Red Faction: Guerrilla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/E4CA50EB566397A1B66596039D71992754371A9E.PNG</Image>
+      <Description>Unlock all Trophies in Red Faction: Guerrilla</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Welcoming Committee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/9D36DE7DE62B149FD6B25204AB039542D4AFB381.PNG</Image>
+      <Description>Complete the Tutorial mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Martian Tea Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/179D292A880DF937A8DEDD1CA1C297CA1E365BA7.PNG</Image>
+      <Description>Complete 2 missions for the Red Faction.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Spread the Word</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/19DFF58A6C0A0965619AED831144A97A4AC1DEFB.PNG</Image>
+      <Description>Liberate Parker Sector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Death From Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/6FD43E89F69FBFC951B0F51A0EE9E4576C1EEC85.PNG</Image>
+      <Description>Liberate Dust Sector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Friendly Skies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/29303150345C1117F602F4E686A3BAEF82C74165.PNG</Image>
+      <Description>Liberate Badlands Sector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Don't Tread On Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/D0E2AA629C9266FBB8DE6286276746849439B66B.PNG</Image>
+      <Description>Liberate Oasis Sector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Coup D'etat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/5D986AAE582450F981A50DC4453731345EA55BFD.PNG</Image>
+      <Description>Liberate Eos Sector.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Red Dawn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/12EB6D052A51164DBA3D908C0C0649A8D6EB8F7E.PNG</Image>
+      <Description>Liberate Mars.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Insurgent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/6C96CDBA81E7A58ED20A5F73E79EB38E8D485C6D.PNG</Image>
+      <Description>Complete 5 Guerrilla Actions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Guerrilla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/D9F4CF59A1886B2B776F825F8478D4A9152C88E9.PNG</Image>
+      <Description>Complete 25 Guerrilla Actions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Freedom Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/72F549C7687A6565475A2800F3207851D62862AA.PNG</Image>
+      <Description>Complete 50 Guerrilla Actions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Revolutionary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/399CF8AAFBBCB59F49B5F9D42FA0E5A8D27C63F6.PNG</Image>
+      <Description>Complete all Guerrilla Actions.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Clean and Righteous!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/72498FB7EE0E270F32C53BD33E5FF324BBC84ECF.PNG</Image>
+      <Description>Destroy 5 High Importance targets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Warp Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/73765EA5C2BC82671B3CC486921762C9D4DEC2DD.PNG</Image>
+      <Description>Beat all Transporter Pro times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Got Any Fingers Left?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/F2E4B8B32A28B125FD1D6791616B34BCCC72D7FC.PNG</Image>
+      <Description>Beat all Pro times in Demolitions Master.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Lost Memories</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/04F4C89FB04F732E2C0CD163F72D75A7461A367A.PNG</Image>
+      <Description>Locate all missing radio tags.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Working the Land</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/A0EB3C91885EBA92CBAF6619D0E71D4DEEB5D63A.PNG</Image>
+      <Description>Mine all ore locations.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Free Your Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/BDDF8632BC24E17824544DD885D5E8E223AD2C40.PNG</Image>
+      <Description>Destroy all instances of propaganda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>One Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/BDAF9C79C271D8B000FEB3762808DD3618288411.PNG</Image>
+      <Description>Complete 25 killing sprees during the Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Disaster Area</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/2A2A2C69C459225F3352B646D497FE1868126FD7.PNG</Image>
+      <Description>Destroy 1 billion credits worth of EDF property.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Broken Supply Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/61F04815308F022021A79FBD1867E8F013DD22BE.PNG</Image>
+      <Description>Destroy 250 EDF supply crates.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Power to the People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/2AE2E48FD7E092DBCF93C1113D8449DA380A9240.PNG</Image>
+      <Description>Raise the Morale of 3 sectors to 100%.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Tank Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/4C269E69596490D6C1EF7E345BA50CCAA6C9CF52.PNG</Image>
+      <Description>Blow up 100 small hydrogen tanks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Best Friends Forever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/4F876441E1E53EC89F61CADF3DD61CA21BB76EEC.PNG</Image>
+      <Description>Kill 100 EDF with the sledgehammer during the Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Coming Down!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/599D6639FD5A5644632A0F46F9C48D39C5DFA452.PNG</Image>
+      <Description>Destroy 50 EDF owned buildings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Freed Space</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/263130F387A7798AC83333B8E73F813D76C236BB.PNG</Image>
+      <Description>Destroy 50 EDF flyers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Just the Beginning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/9441AC3A2F9AE2925B730E4A3B0712ADA1830B2E.PNG</Image>
+      <Description>Win a Matchmaking match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Start of Something Special</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/14F615C1A60EDACCE0898EBF9840521AD3B1ECA3.PNG</Image>
+      <Description>Play 5 Matchmaking matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Doing Your Part</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/3C3F03455BAD844758791350922D790F53DD0377.PNG</Image>
+      <Description>Kill 10 enemies in a Matchmaking Match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Juggernaut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/C42CF8799C97104724D984CEC00B45CF986F8690.PNG</Image>
+      <Description>Destroy a Siege target.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Doozer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/705A2D06F2B5BE23E7333299C9E2393AE4A9EB69.PNG</Image>
+      <Description>Reconstruct a Damage Control target.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Grab Some Popcorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/AF99E38E14253C4B2C026AC71588BCB795E2D217.PNG</Image>
+      <Description>Enter Spectator mode and enjoy the show!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Try Anything Once</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/E3C348B748F34CA3F5C6B25719C1C8D3D20CDDB6.PNG</Image>
+      <Description>Finish a match in every mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Check Your Map</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/5B9DE0746C43FC6BAB1838783D19B4D966A1F1A8.PNG</Image>
+      <Description>Finish a match on every map in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Tools of the Trade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/624C070D5C3F26669B3A2850E62EFD03C9E805F0.PNG</Image>
+      <Description>Score a kill with every weapon in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Field Tested</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/298A1803453101A8E5F375797B6903DC95865FBB.PNG</Image>
+      <Description>Earn 1,000 XP in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Battle Scarred</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/9CA1EA567F873D1C018F88D0F3D1AA827FA98AA2.PNG</Image>
+      <Description>Earn 10,000 XP in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>War Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/3B73B6A2FC7F785FD51D2C28A107CE6F33467223.PNG</Image>
+      <Description>Earn 100,000 XP in Multiplayer.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>A Winner is You!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/799571BCB612C7F554C1837F2ED4187C125AB762.PNG</Image>
+      <Description>Win 250 matchmaking games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Topher Would Be Proud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/DBE7ADF4944CCE541DE9F8741852B3E19EFF96A1.PNG</Image>
+      <Description>Play 250 matchmaking games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Courier of Pain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/A199CA750927DF8948E6B652B3CE79630CA772F0.PNG</Image>
+      <Description>Score 5,000 kills in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Experimenter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/E49C998FEC2BF6FDD9DD79934C8FD9E1EC04D8FC.PNG</Image>
+      <Description>Complete 4 hidden challenges in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Detective</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/5C7BB441BB133DD3209FF5BC3B2E15887936E6EC.PNG</Image>
+      <Description>Complete 8 hidden challenges in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Mad Genius</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/26F204BE10CF42A1B95A935A5FD7174D5BDB394B.PNG</Image>
+      <Description>Complete 16 hidden challenges in Multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Jack of all Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/0A3EC901473AA43591C3DD54BED790D357A4927A.PNG</Image>
+      <Description>Score 10 kills while wearing each backpack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>The High and Mighty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/E995FF75F8FBC5A598C203F3C08C4E6FD260D7CC.PNG</Image>
+      <Description>Kill a flying opponent using a remote charge stuck to them.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Party Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/AFBC7ECA6AAC68BF6BC27802A1024BA484C11EC5.PNG</Image>
+      <Description>Play all Wrecking Crew modes once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Can't Get Enough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/20B7E07506B7076BA6214D7DB18CEDC52E92CDE2.PNG</Image>
+      <Description>Play every mode on all maps in Wrecking Crew.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Wrecking Ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/1B9E7CE72E67F69DCE88DDDB7BF2220A4072D4C0.PNG</Image>
+      <Description>Score 25 million points worth of destruction in Wrecking Crew.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Red Faction Member</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/B5B8877F91FC2B77078FCA8219A62C0E6FE031C6.PNG</Image>
+      <Description>Play online with another player who has completed the Campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Bound By Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/592AE7784AFA3C6132843A5A7782366D24C6122B.PNG</Image>
+      <Description>Complete Rescue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Family Vengeance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/382CD154F4A6D0DA28220B28B14BFE65EA953FE3.PNG</Image>
+      <Description>Complete Retribution.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>A Greater Purpose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/74998F9685158A2F34307FB08E2A6460BFB31166.PNG</Image>
+      <Description>Complete Redemption.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Deliverance Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/0FA794DB725FAFFACF7CF0C02739F53B6AE940D2.PNG</Image>
+      <Description>Complete Marauder Actions.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Tumbling Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/AB56FA6E9AE4BF7AF30304573F132B8B29BBB108.PNG</Image>
+      <Description>Beat all Pro times in Mariner Valley Demo Masters and Transporters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Mobile Bombs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/C02D0FA4DE1E13F9468186F461AF9DEA69417DCC.PNG</Image>
+      <Description>Destroy 100 EDF vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Structural Integrity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/AF1261D07353EF008F759D85C440CE952B64C419.PNG</Image>
+      <Description>Destroy all Medium and High Priority Targets in Mariner Valley.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Purge the Valley</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/63CE76C57978FADA57A266ECB69B710CED63EA41.PNG</Image>
+      <Description>Break the EDF Control of the Mariner Valley.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>Ares' Bloodlust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/DEDC89ACF1486FD4C6CBC7BA3BB8DA76DCA44F86.PNG</Image>
+      <Description>Destroy the 4 Marauder War Totems.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00254_00</GameId>
+      <Title>The Power of One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00254_00_D8E2F271E5FDE069BCF07046547694D80277F08A/6A240562F6DC3F18D4DC90EF1432994ECC323164.PNG</Image>
+      <Description>Collect 75 Marauder Power Cells.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

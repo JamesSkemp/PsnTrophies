@@ -1,0 +1,500 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01452_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Castlevania: Lords of Shadow™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/C4B5343236C81E1F0D51ED7FBDAEF8B79DEFC7F3.PNG</Image>
+    <TrophiesCount Total="54" Bronze="26" Silver="25" Gold="2" Platinum="1" />
+    <TotalPoints>1320</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/23A35A9C80696D327B7969CE7A601D4D072A3FF7.PNG</Image>
+      <Description>Unlock all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/1E10A8C5B74F5BBFACA826352CBA21E52F00677F.PNG</Image>
+      <Description>Defeat the Ice Titan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/FBD94732040F049F585D17CC85C884627279AAF7.PNG</Image>
+      <Description>Get the Dark Gauntlet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter III</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/8B0E4EFC0105918917184710420DCF9DE209F6D1.PNG</Image>
+      <Description>Acquire the power of the first Dark Lord </Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter IV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/064D8F9F7F7BB99245BC106D552B298E130757E4.PNG</Image>
+      <Description>Kill the Crow Witch</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter V</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/C5937E144FDB2B7CC873CEC4EF7A8A3A1E402117.PNG</Image>
+      <Description>Gain access to the Vampire Castle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter VI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/E3A435DDD06A93382DF5D47679CBA270A30D1746.PNG</Image>
+      <Description>Leave the Refectory with the Butcher's key</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter VII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/B8B09316553A76D09F321F96EF9C51C9624881F4.PNG</Image>
+      <Description>Survive the encounter with Laura</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter VIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/BD9D87366082AE412B2A453D35601862AB72F69C.PNG</Image>
+      <Description>Acquire the power of the second Dark Lord</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter IX</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/694E169F493AF5DD16293DFC89FF42EAFBD9ADBC.PNG</Image>
+      <Description>Persuade Baba Yaga to open a portal to the Necromancer area</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter X</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/AD78FC10EB943673D468A0D2CB0942DF5302F640.PNG</Image>
+      <Description>Vanquish the Gravedigger </Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter XI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/5B1F71C464BAD1C4634E328DD75C182EC50E6797.PNG</Image>
+      <Description>Acquire the power of the third Dark Lord</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Chapter XII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/4F63C8B5F8AE6467417086F5C16494588F2253D0.PNG</Image>
+      <Description>Defeat Satan and save the world</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/39146E5C31C66CDE1BD9F0AF3293A1D8F8BA9EB9.PNG</Image>
+      <Description>Complete all the trials for Chapter I</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/D5F5FF92D47CD95BC9D33327F48CBE436AD9EEB7.PNG</Image>
+      <Description>Complete all the trials for Chapter II</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter III</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/4878CDFB3347B2ABDAFFEBFC067FDBA83AB0CDA6.PNG</Image>
+      <Description>Complete all the trials for Chapter III</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter IV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/1FB3072819D16E6A4204A0DF05BD2C77460F4C1F.PNG</Image>
+      <Description>Complete all the trials for Chapter IV</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter V</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/549DC5F246CE01E06DA75C460C020CC7123A12D7.PNG</Image>
+      <Description>Complete all the trials for Chapter V</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter VI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/87E5DEAE4A213E3695A1D306927CEE66ADB6BB14.PNG</Image>
+      <Description>Complete all the trials for Chapter VI</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter VII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/136119672F3835951DF8E1D524CF6264C467A3B8.PNG</Image>
+      <Description>Complete all the trials for Chapter VII</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter VIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/E40C85D40AD21C3FF8E29DB29B14A19CE8EA409C.PNG</Image>
+      <Description>Complete all the trials for Chapter VIII</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter IX</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/88C5D2C8903FCFB348C9E976803B036212D759DC.PNG</Image>
+      <Description>Complete all the trials for Chapter IX</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter X</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/A32117D4FB074A07E4E4F33D275DC3F07703E0C1.PNG</Image>
+      <Description>Complete all the trials for Chapter X</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter XI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/2B225EEF9063F81F1A2F5D7D464E1645C893763D.PNG</Image>
+      <Description>Complete all the trials for Chapter XI</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials – Chapter XII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/6AD957C00F2180550DC7F8FDF54710D5E2DDA1FD.PNG</Image>
+      <Description>Complete all the trials for Chapter XII</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master achiever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/799B2FFDF603AA68149B2D0F4D79F67E0026AB6F.PNG</Image>
+      <Description>Complete all the trials</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Dark collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/72AFA764C71F6FAE09056E0D4F3F4AF5E5D534EC.PNG</Image>
+      <Description>Gather all the 30 Shadow gems</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Light collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/7572CAE16C074B162D38D2D10FF856E7B737DB1B.PNG</Image>
+      <Description>Gather all the 30 Light gems</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Green collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/BBE13002CE5690B4417671564F9D2BBB98D0344D.PNG</Image>
+      <Description>Gather all the 30 Life gems</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master jeweler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/D51454C1AB9DE6E81F42DDED4AAD1191E4E370BB.PNG</Image>
+      <Description>Gather all hidden magic gems </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master philanthropist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/DAC66148E1D0A6E1F9567D0F06DA5CEDE8592744.PNG</Image>
+      <Description>Buy all the extra artwork</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Skirmish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/3A30BC66742405AE8288B76D799894C165769182.PNG</Image>
+      <Description>Finish all levels in Esquire difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Gest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/5F49DB0F2C3DF6AEA74E27765EA17AA7BEF8556F.PNG</Image>
+      <Description>Finish all levels in Warrior difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Crusade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/79E8959E18FAFDE1B1CE207612315E367176F25C.PNG</Image>
+      <Description>Finish all levels in Knight difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Epic victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/2C432D1C462FC34DFE934B06700EC2351EE905B5.PNG</Image>
+      <Description>Finish all levels in Paladin difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Welcome to the Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/276D51D85DFA2C37647124D9C9AC6F10F1C4C9B2.PNG</Image>
+      <Description>Buy a combo</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/40EA49D58742935616AAB55F74FCDD81A97DA4A4.PNG</Image>
+      <Description>Buy 15 combos</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/DDAA0F9D33843EA6019E5FC2132F68548FE81782.PNG</Image>
+      <Description>Buy all combos</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Experienced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/A938CCF9A931CA339F936583015B3B6C9A4096AC.PNG</Image>
+      <Description>Acquire 1000 experience points</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Seasoned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/AD2EC847FB8C447D3CB07E253D39BFE23D698355.PNG</Image>
+      <Description>Acquire 20000 experience points</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/7B88D7AF3938751759CDEEC5C35F0BA18CA1CD6B.PNG</Image>
+      <Description>Acquire 100000 experience points</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master improver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/EE7BCA6D88B06D2AF1339EF868721A5B68047A1F.PNG</Image>
+      <Description>Find all the secret Brotherhood arks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Eleventy party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/F30B51AA9EA297DBBE66C4A0B09F67B948999696.PNG</Image>
+      <Description>Get 110% completion rate in all levels</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Skirmish - Chapter XIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/54CDEC4FA0CA0873C85A77AC4C55962513971B3A.PNG</Image>
+      <Description>Finish the levels from Chapter XIII in Squire difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Gest - Chapter XIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/16684772DC4B85828EA21114D2CDEF5C0A00BD7A.PNG</Image>
+      <Description>Finish the levels from Chapter XIII in Warrior difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Crusade - Chapter XIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/BDCD388DEE52BCC8684B4AE90CD951BF3BCAA030.PNG</Image>
+      <Description>Finish the levels from Chapter XIII in Knight difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Epic victory - Chapter XIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/CE27710641F89332DFD0F3A3A9D204205353B571.PNG</Image>
+      <Description>Finish the levels from Chapter XIII in Paladin difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Master of the reliquary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/254F1993EA1491FA40BABEE428B164A6B867157D.PNG</Image>
+      <Description>Gather all the fingers of Frankenstein</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials - Chapter XIII</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/21783808374A590AC541692AE33A060C96E2A0D5.PNG</Image>
+      <Description>Complete all the trials for Chapter XIII</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Skirmish - Chapter XIV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/80320972E85599D1F4EF67656146D1754EA5D24C.PNG</Image>
+      <Description>Finish the levels from Chapter XIV in Squire difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Gest - Chapter XIV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/F2751B9450CBA93E337EC25A538FDC7630E2FC2E.PNG</Image>
+      <Description>Finish the levels from Chapter XIV in Warrior difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Crusade - Chapter XIV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/67E521F9925FBA62355A86F6D084C5867DF85D9E.PNG</Image>
+      <Description>Finish the levels from Chapter XIV in Knight  difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Epic victory - Chapter XIV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/7B5D8B372FACB1DDE3B8054393F10349515D975D.PNG</Image>
+      <Description>Finish the levels from Chapter XIV in Paladin difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01452_00</GameId>
+      <Title>Trials - Chapter XIV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01452_00_C46312687437D6BFE29E7ABB550925B799196978/7DF7147C55257E830FFF9424E6C95DC5E4651410.PNG</Image>
+      <Description>Complete all the trials for Chapter XIV</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

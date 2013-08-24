@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00594_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Altered Beast</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/BCD7D1A5FD2766B86032435DBED05FE1959A31E8.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Complete The Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/26B138820493370F6261BB6C73CCA2A8354DC7B9.PNG</Image>
+      <Description>Finish the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Renaissance Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/1AC9FADEEC74D09B4F67AB89BC13F297F98554BF.PNG</Image>
+      <Description>Start the game once with each of the four difficulty settings.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Points III</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/C0C759806BF23793A0292311B7EEB077A03568BC.PNG</Image>
+      <Description>Score 350,000 points.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/30E857A9C11787EDE9528E870B4389DC55E02F33.PNG</Image>
+      <Description>Reach the third level without losing a life.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Points II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/5A398CE68E7DDFBCB503AF7461FC8891DC84FC28.PNG</Image>
+      <Description>Score 250,000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Boss III</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/197A50F9F1113CE171BF1D7AECF78A27A081DF5A.PNG</Image>
+      <Description>Defeat the third level boss.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Boss I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/1F709897F44859AC941D9A83CD9CD01E5A10615B.PNG</Image>
+      <Description>Defeat the first level boss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Wolf Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/28917AC2E9C418ED92F50001C00055B19A72B832.PNG</Image>
+      <Description>Kill 30 two-headed wolves.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Multiple Beasts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/B3AD733E3C3885A634A72D99D72EA4D7176D0EFA.PNG</Image>
+      <Description>Play in an online multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Points I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/09BFCBBCA13DB34C0A004D856E492E2902366CDA.PNG</Image>
+      <Description>Score 150,000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Three in a Row</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/C6E729AF52C9B017A7E561B55A3DF365BB5DA639.PNG</Image>
+      <Description>Collect Spirit Balls from the first three White Wolves in any level - Single Player mode only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00594_00</GameId>
+      <Title>Giant Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00594_00_8D78A181F2FF0CBA30A5C1618A9820408077BDA2/DB34F9C602ECF40DCAF5FF9AFA2F2757180142A3.PNG</Image>
+      <Description>Collect a Spirit Ball.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00605_00</Id>
+    <IdEurope></IdEurope>
+    <Title>QUANTUM THEORY</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/0792C6A140524CCD3C632323561163056C09D1E8.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Destruction Incarnate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/7FD931FA473C5DA271428FAF885ACDB69CCB680A.PNG</Image>
+      <Description>Obtain all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Pierce the Skin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/8AF87A02FF1B0E1AD3BC55A691C6EA2CB62F7094.PNG</Image>
+      <Description>Clear The Root of the Tower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Through the Viscera</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/8B57D23560B425CF4DEF6C473AECC75309E095A2.PNG</Image>
+      <Description>Clear Trachea.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Xylem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/E9CBF1278E4E6AB6AE74C9ACBD520AF42E0FCF18.PNG</Image>
+      <Description>Clear Lumenosynthetic Reactor 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Fetus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/8C6A4EEABEF8DB4085039B5D6618EEC50A9D0A4B.PNG</Image>
+      <Description>Clear The Womb.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Clear Your Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/482C07493B767E5D56371C78DB78213795102112.PNG</Image>
+      <Description>Clear Cavitas Cranii.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Enlightenment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/8AECDCD27CC815651FE1B9F96EC31ECF5E9B5178.PNG</Image>
+      <Description>Clear The Seed of Gnosis.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Dermal Lesion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/183AFE1106A50D0336E518265FF4C01CFAF6B6C6.PNG</Image>
+      <Description>Clear The Root of the Tower on Hard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Internal Trauma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/0C1114475EDBFD05FAD12A7A6F61300C1596C87D.PNG</Image>
+      <Description>Clear Trachea on Hard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Phloem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/A7FF7B4028D6579682C822303E12A2101BCDD37C.PNG</Image>
+      <Description>Clear Lumenosynthetic Reactor 2 on Hard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Breech</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/A298E28E8E9DDCB7F6737EA14B7B12160F22C6A2.PNG</Image>
+      <Description>Clear The Womb on Hard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Subdural Hematoma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/15FE97DD84DBE2FBE610874042D7C9250713FC58.PNG</Image>
+      <Description>Clear Cavitas Cranii on Hard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Death &amp; Rebirth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/67C7FDF796ECE4BFAB2CF3C73AFF9BB011BB7D56.PNG</Image>
+      <Description>Clear the entire game on Hard.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/18EF44CC37E3CED07F4803CA7467C5CB5FED4D5E.PNG</Image>
+      <Description>Kill 500 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Predator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/01F6D742F84187D8F2BF274FCD10FDAB646D03F4.PNG</Image>
+      <Description>Kill 1000 enemies.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Headache</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/DE0235A21A4A5CDAFFF4E674DC1EF4E0598690CD.PNG</Image>
+      <Description>Kill 200 enemies with headshots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Major League</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/F2F6F733A19AF94156214399C59528937402DA12.PNG</Image>
+      <Description>Land 200 combo throws.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Cut a Rug</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/B59D4537582B55B479900C3DDEFC5C75310A2928.PNG</Image>
+      <Description>Land 100 full combo attacks. (3 consecutive hits)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Ninja Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/293D9D7707F548AD92DB24DE9ADB996634EB33D4.PNG</Image>
+      <Description>Filena killed 50 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Steady, Steady...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/6876565BFB462877DEEC8A07EBC22D494D972001.PNG</Image>
+      <Description>Shoot an enemy with a Plasma Lancer from 50m.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Getting Intimate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/302F4DBFF77D771F6A5599F0839FBB9DB75C8472.PNG</Image>
+      <Description>Kill 100 enemies with melee attacks using the Bloodcleaver.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Five Birds, One Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/BD8862A0EF67AE4F56623E04C438CDCE6BAF3B6A.PNG</Image>
+      <Description>Hit 5 enemies with one shot from the Ifrit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Killing Connoisseur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/5E2EB791F4A3731FE9E815FCE6BCFB527D18CF30.PNG</Image>
+      <Description>Kill 10 enemies with every firearm Syd can equip. (Melee kills don't count.)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Privacy Issues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/A60408EB4E40DC586F0823FECA76D253B17B7549.PNG</Image>
+      <Description>Destroy 1 Watcher. (1/50)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Stop Looking At Me!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/53EFB0147665CE7C3176798C5D01DDCCBD2D4638.PNG</Image>
+      <Description>Destroy 20 Watchers. (20/50)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Leave Me Alone!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/F8D2B9E5D9687F5396326D294710435AFE466951.PNG</Image>
+      <Description>Destroy 50 Watchers. (50/50)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Professional Exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/48014664DF61D3944215C623858899C0B072AA8C.PNG</Image>
+      <Description>Kill the Gargantua on Hard in 2 minutes 30 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/CCEA7D66B7194BA76F0D46A9B577A8CE819D9275.PNG</Image>
+      <Description>Kill the Chariot during Thorax on Hard in 1 minute 30 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/421CAA840F129DBE39A56DB9DC45C0F0DEC49FEE.PNG</Image>
+      <Description>Defeat Thanatos on Hard in 1 minute 30 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Matador</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/45B51E1172C0A7A16F1E71B8DE66D1B4165C8140.PNG</Image>
+      <Description>Kill the Dreadnought on Hard in 2 minutes or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Nevermore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/516B24C7D09F9162F87A7404D22B4F4A7CD0FCDC.PNG</Image>
+      <Description>Kill the Raven on Hard in 2 minutes or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Entropy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/4EDABBAB8F9D52615AF4506E019A6803F5BE9921.PNG</Image>
+      <Description>Defeat Chaos (Thanatos II) on Hard in 1 minute 30 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Release</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/5F4E2829E82EF436B5111BE89EDA419BF221C7C5.PNG</Image>
+      <Description>Defeat Diablosis Soma (Thanatos III) on Hard in 3 minutes 30 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Trusty Sidearm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/7A7EABF2DF18934A295249DA84CA281B6167002D.PNG</Image>
+      <Description>Clear the entire story using only the Revenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>What a Pal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/A4DFE726A6F7C27D97D54B71EECF72BAB8FF0602.PNG</Image>
+      <Description>Don't let any teammates who were setting charges go down during the final battle in The Womb.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>8 Seconds with Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/3A387387D65BD64046C2DBB79AD9B3B771704F75.PNG</Image>
+      <Description>Kill all enemies in Trachea without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Fight Fire with Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/9F5F528306225AA138A8FAD58C1C2BA2116C858D.PNG</Image>
+      <Description>Shoot down 10 projectiles from the Raven.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Novice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/D2EAD9E49D4905E481E4BEDA7C168C69C03F0166.PNG</Image>
+      <Description>Obtain the rank of Novice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/43F2CC14EBB893C3A943E6D029C5C219E822EDD6.PNG</Image>
+      <Description>Obtain the rank of Soldier.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Mercenary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/D24255BD2FCF7B796807D631F43F858E254F4041.PNG</Image>
+      <Description>Obtain the rank of Mercenary.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/733176643A3F79D34340548C5153DB0BFB2AED98.PNG</Image>
+      <Description>Obtain the rank of Commando.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/AFF7AAB8198B61C4F69C7B3241A15EE923DDF663.PNG</Image>
+      <Description>Obtain the rank of Elite.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/B0BA6D47F27D947592DBEFB6B860F8B4C86F32FA.PNG</Image>
+      <Description>Obtain the rank of Slayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Berserker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/A5537EBCB40A0A17FCF8B05A0EC898BC000CDC53.PNG</Image>
+      <Description>Obtain the rank of Berserker.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Storm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/EA9FCE61B2A5776877217C3D7AC6C85D5B98AF0C.PNG</Image>
+      <Description>Obtain the rank of Storm.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Immortal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/D38886D1E27D2077B4AE2F343B6BC404BF9D50A1.PNG</Image>
+      <Description>Obtain the rank of Immortal.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Lone Gunman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/94D5342103EA55C7893915FD66019CA86F8E7782.PNG</Image>
+      <Description>Kill all members of the opposing team alone. (8-player Team Battle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>All Mine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/8E5A27D72235C88C1F8C40A04B0D89BEDCE02CB4.PNG</Image>
+      <Description>Kill all other players in an 8-player Deathmatch.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>On a Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/20627A111E1E313B0F5EE80D9DA03A92E7A79EC3.PNG</Image>
+      <Description>Kill 10 opponents in a row during one match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Killing Spree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/9B35B8F9B3B0ADE8791FA8796E5E9A01CF37F307.PNG</Image>
+      <Description>Kill 20 opponents in one match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00605_00</GameId>
+      <Title>Triage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00605_00_98095193B2186F9955572188949245D0353B3A45/1DB7DB0AE9396C572CDF333911A433AE50FBA588.PNG</Image>
+      <Description>Revive 10 teammates in one match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

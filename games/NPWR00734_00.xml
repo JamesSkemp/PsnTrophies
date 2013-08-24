@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00734_00</Id>
+    <IdEurope></IdEurope>
+    <Title>.detuned</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/ED8E55846C50D0E88849747400B55E11272C649C.PNG</Image>
+    <TrophiesCount Total="10" Bronze="4" Silver="5" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Zoom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/0CC0FAD2F2742600B5286B6C193A33C0D584A647.PNG</Image>
+      <Description>Use the camera controls to zoom in or out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Pump</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/3E4734724914009BECCC81835E3F5DB59E051A49.PNG</Image>
+      <Description>Use the pump controls to pump up and release completely an effect.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Crank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/FD7A35A12CBE35ACBAEE6D0DA2B9570BA8847A94.PNG</Image>
+      <Description>Use the right stick to crank up an effect.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>RTM</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/B956440A34382316AA98E9B6B8B38D6B54BFE37C.PNG</Image>
+      <Description>Read the… Help Screen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/D0DC8598C28060D74903385459CC4373AD0F7312.PNG</Image>
+      <Description>Issue any two button combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Demo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/971DAD6FB5241F909F2AADC92426AAADAF517174.PNG</Image>
+      <Description>Watch the demo mode to the end.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Jarig</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/92AB5AB291923602B828E1C5530A72D5A70E31F4.PNG</Image>
+      <Description>Look at Rob dancing.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Elephant Dance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/486285ABD732E88E461F172F0710DEF5228C5D26.PNG</Image>
+      <Description>Dance with four elephants around the chair.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Detune</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/039752F02ADBED46ABDD6EEADDF2960C6572E48A.PNG</Image>
+      <Description>Upload some music to your system, play that music while playing with detuned, and maximize one of the distortive sound effects.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00734_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00734_00_F49D75BD91CD27A07DDE23F720E9A3EC86BCE2CD/E47BC5DC45850C59EF8B7AD85478A0EC5DB06EF7.PNG</Image>
+      <Description>Use all Modes at least once in a session.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

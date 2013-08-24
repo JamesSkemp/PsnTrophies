@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00501_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Wolverine Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/7794CB256AFBD7BF43EE2FC177C0C31CD64D7BCD.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/02492355F011FF53D213AAD9F00177A689E1F3A0.PNG</Image>
+      <Description>You collected all the trophies in Wolverine.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Bar Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/EDA4D7B906F027731D009B429334032E8EED197B.PNG</Image>
+      <Description>Defeated Victor Creed (Sabretooth)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Helicopter Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/B9933D0B9A12F62F9AD3F8F0E7AD2B446692006F.PNG</Image>
+      <Description>Defeated David Nord (Agent Zero)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Fallen Sentinel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/189F5BB67550272990F3A9289E2112F6DB4D5E3F.PNG</Image>
+      <Description>Defeated the Sentinel Mark I</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Put up your Dukes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/ACCD444D6D623C01AE27EB90CEB40E1739BB0F01.PNG</Image>
+      <Description>Defeated Fred Dukes (The Blob)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>52 Pickup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/88E869C4B6E2D371734FC63B267577BB7777E49A.PNG</Image>
+      <Description>Defeated Remy LeBeau (Gambit)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>The Dead Pool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/F5213320B1796BBF0FCDD1AE20513BA3629D8C8F.PNG</Image>
+      <Description>Defeated Weapon 11 (Deadpool)</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Getting Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/A9F0AD4596731B4D63A7FB57437FE35795579580.PNG</Image>
+      <Description>Killed 100 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>A Day's Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/DC379C19F1A9F839E47D715677F90335661459BF.PNG</Image>
+      <Description>Killed 500 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>What I Do Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/6D7C3E8009E1B214356370E5803D67A446F1C310.PNG</Image>
+      <Description>Killed 2000 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>You Can't Hide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/9706FA8AF4A387669A4B989312C1F911962E9061.PNG</Image>
+      <Description>Lunged to 250 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Lunge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/36EE6DCF04434B6B06022F43E42DE32476EB3092.PNG</Image>
+      <Description>Lunged to 25 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Pounce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/B29C2D74F3FDFB5735B0868A0AEDE87EAFD437D5.PNG</Image>
+      <Description>Lunged to 100 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Piggy Back Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/618DDEBD9B45FE5B7BE4D72539FDE38EB07B625A.PNG</Image>
+      <Description>Lunged to a W.E.N.D.I.G.0 prototype's back</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Quick Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/8F36C1D4DB0E686060195ACE908E9732FA243EF3.PNG</Image>
+      <Description>Quick Killed 1 enemy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Efficient Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/751936EA5C4A2AB4CE0B637785A0F559FBB8A88E.PNG</Image>
+      <Description>Quick Killed 20 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Perfect Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/4465A44CAFF643924479DDAFAE80CE6CFB5AACB8.PNG</Image>
+      <Description>Quick Killed 3 enemies in a row</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Drop Dead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/AC662C5E8D2940FA39FA13AC9D8142469979DE81.PNG</Image>
+      <Description>Killed 10 enemies by throwing them off high areas</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/A61B6FBDFF2B168A6D25F22A7BB3214B0E8B02AE.PNG</Image>
+      <Description>Raised One Combat Reflex to Master Level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/0417BF031A147E012E207947EA1304BCC8460A38.PNG</Image>
+      <Description>Raised All Combat Reflexes to Master Level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Mutant Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/DC74501E5E962DE82C8734DBFAB3AC362DF16DC6.PNG</Image>
+      <Description>Raised one Mutagen to level 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Astonishing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/EC17D91B1CEC8299C8580C7C074B0E558A56BFD7.PNG</Image>
+      <Description>Found 1/2 of all Dog Tags in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Devil's Brigade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/E24FEBE7375F21E7C160EFCD7EA3E393AE677F85.PNG</Image>
+      <Description>Found all Dog Tags in the game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Defensive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/21BEB8FFB55314730BCBA557AECD643157A33623.PNG</Image>
+      <Description>Performed 1 Counter move</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/780575DF1A339D0E27BB09E5A0B13CF3ED45E54A.PNG</Image>
+      <Description>Performed 25 Counter moves</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Catch!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/80113973F2E90C7CF6FD620BCB30DD6A5D412587.PNG</Image>
+      <Description>Killed 1 enemy with a reflected projectile</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Boomerang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/6BBF56972D350DC3A801D63C73433F5B254104B2.PNG</Image>
+      <Description>Killed 25 enemies with a reflected projectile</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Aerial Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/91DA166E4F049DB3CA4730A6E57FBA3077CBE83E.PNG</Image>
+      <Description>Performed 10 Air Grabs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Ultimate Wolverine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/3AE32B43153A43B42F9A7F4B2A42F09CFC1431B6.PNG</Image>
+      <Description>Fought 4 W.E.N.D.I.G.0 prototypes at the same time and defeated them at Alkali lake.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Spillway Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/31D96DA0A26F4FE41ECD00E7870443D6D5DA8F4A.PNG</Image>
+      <Description>Escapes from Weapon X</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Threading the Needle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/F50447A52D594B776B52AFE037607E5401ED49E9.PNG</Image>
+      <Description>Flew through the O ring in the Sentinel Boss Battle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>The Village</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/0539BED34BC159A1F667D4A151645F29F1CB51B9.PNG</Image>
+      <Description>Completed the Jungle Mission</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Hot Potato</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/3916D9BA3470AFAF744170572FAFB0E0A39DD045.PNG</Image>
+      <Description>Light 20 enemies on fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Shotgun Epic Fail</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/40D268B23BFD9199A09D86F18BCFBB900D22BBBC.PNG</Image>
+      <Description>Killed 25 Ghosts with their own weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>James Howlett</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/1BC0520C9D75E76808086B6B85FE7D02CF601BB6.PNG</Image>
+      <Description>Performed a Wolverine to Wolverine Lunge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>WoW!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/7837F42CBC8B2FB6BF0131FD3E8184EAFD4F5B82.PNG</Image>
+      <Description>You feel a cold as you examine the sword and skeleton. A rustle of wind in the trees faintly echoes the name Arthas</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Aerial Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/6231D6BFA1FF717A7222C5AE1DF49ACF3DECB829.PNG</Image>
+      <Description>Got 6 enemies airborne at once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Fully Loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/E28AB4BA5E976617AA6E33D562C9CAB46A7A9249.PNG</Image>
+      <Description>Maxed out all upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Slice n' Dice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/2EC1E078DD272A1E5931138BEFB9C0040419AE6A.PNG</Image>
+      <Description>Killed 6 enemies with a single attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Found!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/9F05348A5942B432FA529C56251C5FED192C1A05.PNG</Image>
+      <Description>You found a mysterious hatch!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Slaughter House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/A52F42F8027BF1AB3923BD9E3879843A8FEC862C.PNG</Image>
+      <Description>Dismembered 100 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Blender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/4B117291D498F7355AE5F1E1F9EAA9909215E605.PNG</Image>
+      <Description>Killed 200 enemies with Claw Spin</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Walking Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/FDE91DBF644D3C80AC7259DCFC54CA544E5A713C.PNG</Image>
+      <Description>Beat the game on Hard Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Heightened Senses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/CB5B6FB60924CB75687E4020C5B3136C76E38C48.PNG</Image>
+      <Description>Killed 200 enemies in Feral Sense</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Environmentally Friendly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/E21CA6F059D6A457D27F335FDD3C493DC3FAC4F1.PNG</Image>
+      <Description>Killed 10 enemies using objects in the environment</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Whatever it Takes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/83579291A19EFFC87AA67352AB3DC71995312A11.PNG</Image>
+      <Description>Killed 30 enemies using objects in the environment</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Bloodlust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/DCD314A9D682FF31E317F0CB585CF17CA40CB3B1.PNG</Image>
+      <Description>Killed 50 enemies while in Berserker mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Weapon X</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/50CC7AF9E5F00BE2D17B22EF716D33B376ED838E.PNG</Image>
+      <Description>Killed 150 enemies while in Berserker mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>The Cake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/F73BED3C12020352BD49B9C842F6D03F14DE0558.PNG</Image>
+      <Description>You found the cake, yummy!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Stick Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/CC49C5AD184DD5759290FC454898FE75BC3C3087.PNG</Image>
+      <Description>Impaled Victor Creed outside the Bar</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00501_00</GameId>
+      <Title>Clean Up on all Aisles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00501_00_BD5592B1A573E217612FD54C6B9481115D3D39C0/4C4AE73169DBA1DEAAEDE7A02567A89ED9AF423C.PNG</Image>
+      <Description>Destroyed all objects in the grocery store fight with Fred Dukes (The Blob)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

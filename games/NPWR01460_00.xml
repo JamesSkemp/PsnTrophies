@@ -1,0 +1,698 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01460_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Fallout: New Vegas</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/05A0DA7C339EB16742B63AC4DED4ECE6EDF06B34.PNG</Image>
+    <TrophiesCount Total="76" Bronze="47" Silver="22" Gold="6" Platinum="1" />
+    <TotalPoints>1905</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/D0274ED30EDE2070F7218583B6CE4B4A84D9A6D0.PNG</Image>
+      <Description>Collect all other 50 Trophies for this Trophy.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>New Kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/F1611395A9CDC563BCEBF2978E3D63BF9789B8CE.PNG</Image>
+      <Description>Reached 10th level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Up and Comer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/19AC41366E76419A20BAC148C4FE4C1237D09D23.PNG</Image>
+      <Description>Reached 20th level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>The Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/8F11AFFBD75EB45EB25A893A5507986F21F424D5.PNG</Image>
+      <Description>Reached 30th level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Ol' Buddy Ol' Pal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/2FCEB9C26B6825CF8F2FF7C2B47457942A208EF6.PNG</Image>
+      <Description>Recruited a companion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>The Whole Gang's Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/DB9B5E00AB2B039E20F32F84DCCC69197F7A7D17.PNG</Image>
+      <Description>Recruited all companions.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Crafty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/57C15B4501F7186564C240B866EDFB99C4C37560.PNG</Image>
+      <Description>Crafted 20 items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Mod Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/14F9495A27A77E5E8605992A88538445DB10B65D.PNG</Image>
+      <Description>Installed 20 weapon mods.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Walker of the Mojave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/24FDD4A9369F1EDF999317322A4859BDC377B250.PNG</Image>
+      <Description>Discovered 50 locations.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Master of the Mojave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B0757B2DE51B623235A26B4C43F7851127715CA0.PNG</Image>
+      <Description>Discovered 125 locations.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Globe Trotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/4C2D3DA65E20412676CF501D81EBD012E1393440.PNG</Image>
+      <Description>Discovered all snow globes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>You Run Barter Town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/7FAA39CC2B3FD40AD93713FAE3473C387A7027B4.PNG</Image>
+      <Description>Sold 10,000 caps worth of goods.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Blast Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/A7E908C748FDB1CC87A5CAA652F768D9534DF7AF.PNG</Image>
+      <Description>Caused 10,000 damage with Energy Weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Love the Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/494D93F7F79EB7BF0B9D66CE8B26C686CBDDC192.PNG</Image>
+      <Description>Caused 10,000 damage with Explosives.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Lead Dealer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/278B42CDD46DBFEE6BDC64B7727D95DFFCDE5CBC.PNG</Image>
+      <Description>Caused 10,000 damage with Guns.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>No Tumbler Fumbler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/0645616DD4679E0D29455B188B3C3B23407807C3.PNG</Image>
+      <Description>Picked 25 locks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Stim-ply Amazing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/BE4F6D6DE15877417420B4143CD7B67305E53D5D.PNG</Image>
+      <Description>Healed 10,000 points of damage with Stimpaks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>New Vegas Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/2484AAFC50B603FA78CB0AECDD7C23559E6E2609.PNG</Image>
+      <Description>Caused 10,000 damage with Melee Weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Jury Rigger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/D5C25ABD69FEE520BB454D54ADEC2A96701840A9.PNG</Image>
+      <Description>Repaired 30 items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Hack the Mojave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/DAF6AB889FCB875CE78354DE27130047D9AB439E.PNG</Image>
+      <Description>Hacked 25 terminals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Artful Pocketer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B8BC44D093AFD83353F2FC4485D59C39CA7B54BE.PNG</Image>
+      <Description>Picked 50 pockets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Outstanding Orator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/C8CF03090A8699FA4410BAFE303EDFE3CB723DBD.PNG</Image>
+      <Description>Made 50 Speech challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Desert Survivalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/529BACF0E4A93A5477BE7B15238206273AB10255.PNG</Image>
+      <Description>Healed 10,000 points of damage with food.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Old-Tyme Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/D84ACAC58A1D771C52403E4A40E844B532E798A8.PNG</Image>
+      <Description>Caused 10,000 damage with Unarmed weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Know When to Fold Them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/5A0127273F7DF5EE5BE85B0365718E686D2B0DA7.PNG</Image>
+      <Description>Won 3 games of Caravan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>One Armed Bandit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/FF0E20E4573D14214AA7DE1C4D97285F69F46A2D.PNG</Image>
+      <Description>Played 10 spins of Slots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Little Wheel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/44F219F40A67494CA123DC6C47967F1BF124F3B4.PNG</Image>
+      <Description>Played 10 spins of Roulette.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Double Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/F1AAC91B00E5A97B67DBED2725D070FB0C03E3EE.PNG</Image>
+      <Description>Played 10 hands of Blackjack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Caravan Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B367D64037F6162780BAE7D987E293761DBDC990.PNG</Image>
+      <Description>Won 30 games of Caravan.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>The Courier Who Broke the Bank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/91155D0F4555163A08F98CE60B7BC227058380EB.PNG</Image>
+      <Description>Got banned from all the Strip's casinos.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/7C65F1B1CEACB1C65650BB7063A520F3834933FE.PNG</Image>
+      <Description>Played the game from start to finish in Hardcore Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Ain't That a Kick in the Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/4C6B3A53E8FE938E14A82740C15868D54DC8C70C.PNG</Image>
+      <Description>Completed Ain't That a Kick in the Head.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>They Went That-a-Way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/0CCE3977A4883D7E0203EF5469FEDEE1435FD64A.PNG</Image>
+      <Description>Completed They Went That-a-Way.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Ring-a-Ding-Ding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B9BA0A60A75D4B85DE4AE0C218B34DF44D9D6C3E.PNG</Image>
+      <Description>Completed Ring-a-Ding-Ding.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>The House Always Wins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/0150A27B0E7DC37A95748377EE95916AB899F7A9.PNG</Image>
+      <Description>Completed The House Always Wins.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>For the Republic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/248A6CC759255A2CE70055E51EBA57EA11B6A994.PNG</Image>
+      <Description>Completed For the Republic.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Render Unto Caesar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/D3E9435AA94AE058362BA9842B2E7F3098018AC0.PNG</Image>
+      <Description>Completed Render Unto Caesar.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Wild Card</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/94093A128161068281A4724456E8029594FF279C.PNG</Image>
+      <Description>Completed Wild Card.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>All or Nothing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/CACAAE5BDBAAA081E45D45F941ECF3AF96FDBD0B.PNG</Image>
+      <Description>Completed All or Nothing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Veni, Vidi, Vici</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/9D7FF66E9701591CED98D61BFCF69942DFB89060.PNG</Image>
+      <Description>Completed Veni, Vidi, Vici.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Eureka!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/54CF73FBF36FD29BB49242C006B6CA16DA4014E2.PNG</Image>
+      <Description>Completed Eureka!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>No Gods, No Masters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/875B3740A3BA4720AD402E5210BBF50A729FF7DE.PNG</Image>
+      <Description>Completed No Gods, No Masters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Come Fly With Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/881917173B4F1B5DBD8C15409ED057DB9BEB5E95.PNG</Image>
+      <Description>Completed Come Fly With Me.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Talent Pool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/8197D1E96B266D006258E4A6733ADB95DE79E424.PNG</Image>
+      <Description>Completed Talent Pool.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Return to Sender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/3ECA62E0A523D920C2831C4C672D22B30A594D3B.PNG</Image>
+      <Description>Completed Return to Sender.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Arizona Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/5B1CF85FC292E6732AA42689113AEF3D14D1F5BE.PNG</Image>
+      <Description>Completed Arizona Killer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>You'll Know It When It Happens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/C33AF695C33A8D86718D0DEB86D0D1C89CE468EA.PNG</Image>
+      <Description>Completed You'll Know It When It Happens.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>G.I. Blues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/ED45EA1438EF8CF862D4CB8ECB19B6920FA1AF2D.PNG</Image>
+      <Description>Completed G.I. Blues.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>That Lucky Old Sun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/5A7CC4BD534EF877FBA98E5859DDC21F3F493C96.PNG</Image>
+      <Description>Completed That Lucky Old Sun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Volare!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/09AFBE2044CD68524D2E70C9C0E24EDC161AA22B.PNG</Image>
+      <Description>Completed Volare!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>The Legend of the Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/13C07C2FB2204DB9CD50BFEB9640E4CB6F355AFD.PNG</Image>
+      <Description>Completed The Legend of the Star.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Assemble Your Crew</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/A7B2ECD2B8D84863B97E2FB8A1CB8F6ECAAA95FA.PNG</Image>
+      <Description>Recruited Dean Domino, Christine and Dog.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Cash Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/6A3BB6DA9F107C760FFA32233080FEC8C16F5B68.PNG</Image>
+      <Description>Confronted Father Elijah in the Sierra Madre's Vault.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Having a Ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/3466397F5232945F5C5287613643D2DF2C069063.PNG</Image>
+      <Description>Completed the Sierra Madre Gala Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Safety Deposit Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/9C2089AA3AA5674DC3B1A7CE8DE5DF5A63358B4A.PNG</Image>
+      <Description>Trapped Father Elijah in the Sierra Madre's Vault.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Sierra Souvenir Aficionado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/7DC7D9CD08D9EAEA739F03AB15DE16FDD22D69B2.PNG</Image>
+      <Description>Collected 500 Sierra Madre Chips.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>May my Hand Forget its Skill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/ACC57977BF5B68477E944D7C89407316ED7CB80A.PNG</Image>
+      <Description>Evacuated Zion.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>In a Foreign Land</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/232B9C0722DA07424667A563F25AC62A71C372F7.PNG</Image>
+      <Description>Scouted the Zion Valley for signs of the White Legs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>O Daughter of Babylon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/D5AF2DB4D7A7B9CE45ABC3DEBFB165349C926AD8.PNG</Image>
+      <Description>Crushed the White Legs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>When We Remembered Zion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/99D39AEEB31B922AC0EC113EBB6781844DFD193C.PNG</Image>
+      <Description>Arrived at Zion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Restore Our Fortunes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/998A84B0EC10B8D092BF4BDC79F964FD135223F8.PNG</Image>
+      <Description>Resupplied Daniel and the Sorrows.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Cardiac Arrest!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B316D014426C5C8523C70C42DFEA8977F0BC3A4A.PNG</Image>
+      <Description>Recovered X-13 cardiac regulator sneaky suit!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Making Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/2933823C10A9958DFE74B712ABCB6DDA8142161F.PNG</Image>
+      <Description>Reactivated all of the Sink's robotic assistants.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Make up your Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/6E045270B457A454A01D517599736612D833AA6A.PNG</Image>
+      <Description>Made up your mind... about your brain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Outsmarted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/066F32AB2D7F11585009C00EF8615DB07E3B4C54.PNG</Image>
+      <Description>Completed Old World Blues.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Spinal-Tapped!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/64D18444A483392E699C1080F23911D890D2CAD5.PNG</Image>
+      <Description>Recovered X-8 vertebrae-pulse-de-sensitizer frequency!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>ED-Ecated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/F4ADD790123FBB63E164832648CDCC1E5E52D2A8.PNG</Image>
+      <Description>Found all of ED-E's upgrades in the Divide.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Condemned to repeat it</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/A68F823DBF3B1A428B660C6320C1B4C72B47D004.PNG</Image>
+      <Description>Decided the fate of all the Divide dwellers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Hometown Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/C98A9E41C661CEF1A82046B3B6DE8C02E6CAC2CE.PNG</Image>
+      <Description>Completed Lonesome Road.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Rocket's Red Glare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/4D03C22080F3DFD02931D5AB6F43F4C8CFE17814.PNG</Image>
+      <Description>Acquired all upgrades for the Divide's signature weapon.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Warhead Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B7D4BF4E7AF45C9C5D780260EA68957A51A36CFD.PNG</Image>
+      <Description>Detonated all of the warheads in the Divide.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>72</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Curios and Relics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/8F2F6847D32F2D7B4B34E87A92363B855B02A708.PNG</Image>
+      <Description>Caused 10,000 damage with unique Mojave Wasteland weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>73</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Master of the Arsenal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/0EA172FB28E85F0CDF3A122337C66253914F9922.PNG</Image>
+      <Description>Caused 10,000 damage with Gun Runners' Arsenal (GRA) Weapons.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>74</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Up to the Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/DA7FF7926D31DF72FDE831E56418B644AC111242.PNG</Image>
+      <Description>Completed any three Gun Runners' Arsenal (GRA) one star (*) Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>75</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Combat Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/B255EE808FC0351254A0435ABB72E7BF7FCB4506.PNG</Image>
+      <Description>Completed any three Gun Runners' Arsenal (GRA) two star (**) Challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>76</Id>
+      <GameId>NPWR01460_00</GameId>
+      <Title>Pros Only</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01460_00_A89E1FF0F7B5F28839ADBD34BEED38B4780B8EE7/658EEE209628CE699CC9DCEA1F61B5954B6CFFFB.PNG</Image>
+      <Description>Completed any three Gun Runners' Arsenal (GRA) three star (***) Challenges.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

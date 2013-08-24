@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01032_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sengoku BASARA: Samurai Heroes</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/9ECB0FA58F2ABED8F77E1073631B3435D862E59C.PNG</Image>
+    <TrophiesCount Total="55" Bronze="46" Silver="6" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Samurai Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/68E4A7235979F50D53453787BEC014944646A6FC.PNG</Image>
+      <Description>Acquire all Trophies in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Eastern Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/784F94BB150FA7EAD313FC895AFBA233D80C5A54.PNG</Image>
+      <Description>Complete Heroes' Story with Ieyasu Tokugawa.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Seeker of Vengeance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/D2D535BD2FF1B243F9F7EDA4668163D0A17EC8B9.PNG</Image>
+      <Description>Complete Heroes' Story with Mitsunari Ishida.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Sky Watcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/6F7FCC3D00200C3CEE20EB07BCE17564259ABB64.PNG</Image>
+      <Description>Complete Heroes' Story with Yoshitsugu Otani.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Bird of Paradise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/0BC3E617CD410EBFAB5A92FE1E0AD9341DCD2CB5.PNG</Image>
+      <Description>Complete Heroes' Story with Magoichi Saica.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Inadequate Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/71501C1E67BDC096512E37A11F1B66CA5555DB57.PNG</Image>
+      <Description>Complete Heroes' Story with Kanbe Kuroda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Innocent Dreamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/154B6747A7ABB7B3FA276C02890B099CEA870156.PNG</Image>
+      <Description>Complete Heroes' Story with Tsuruhime.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Chief of Oshu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/2E8CED5247E8E637C079EE75054E50A83CE8B355.PNG</Image>
+      <Description>Complete Heroes' Story with Masamune Date.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Spear of Divine Rule</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/518F06A0D413FC0A8F08FE92A9DF9A78D294D029.PNG</Image>
+      <Description>Complete Heroes' Story with Yukimura Sanada.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Vagabond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/D5257BA807F2E274BAE83F5FEE374115CD2979EE.PNG</Image>
+      <Description>Complete Heroes' Story with Keiji Maeda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>King of the Seas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/375F8F824EA248FDE5941658AA7B69CF8AAA3C92.PNG</Image>
+      <Description>Complete Heroes' Story with Motochika Chosokabe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Tactful Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/4B51C15B87BC0F096BF07B1B30DD2AFD2656BB0D.PNG</Image>
+      <Description>Complete Heroes' Story with Motonari Mori.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Beast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/421EB5A1F661AF20F4CB998A7F5EFECF90C4598A.PNG</Image>
+      <Description>Complete Heroes' Story with Yoshihiro Shimazu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Mighty Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/A32014A2D0E540CFCEFED65A13C7B764ED3822A4.PNG</Image>
+      <Description>Complete Heroes' Story with Tadakatsu Honda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Wind Rider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/6F6D428813CA2F1D64D185D73EF3FA677C374727.PNG</Image>
+      <Description>Complete Heroes' Story with Kotaro Fuma.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Night Whisperer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/9D514414C66AD82B31E00DA72B3148EA641D33A7.PNG</Image>
+      <Description>Complete Heroes' Story with Oichi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Demon King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/6CA2C5A6642C624E695895B3921CA1865D2E2142.PNG</Image>
+      <Description>Complete Heroes' Story with Nobunaga Oda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Humble Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/3F7A94F3132C33CD4C9DB78BAFED8A9239C21739.PNG</Image>
+      <Description>Complete Heroes' Story on Easy difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Proud Daimyo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/0790B809323682535BF4213077289D27383EE32E.PNG</Image>
+      <Description>Complete Heroes' Story on Normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Fearless Shogun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/C33C6811551BC571E130350D49CB5BEDA22D48DD.PNG</Image>
+      <Description>Complete Heroes' Story on Hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Complete Victor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/D3E0A8666C593F93F06BBC705C6D7E60F46B43E6.PNG</Image>
+      <Description>Complete Heroes' Story with all of the heroes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Smooth Operator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/2D98DFCA8EA9252F973AF6F1F2B6536D594F1159.PNG</Image>
+      <Description>Complete Heroes' Story while taking no damage in at least one battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Man of Morals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/33A9B6CA4EA8C17DBEC00C8FA9410765D57488C5.PNG</Image>
+      <Description>Complete Heroes' Story while defeating less than 100 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Army Annihilator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/665ED1E637AB0DB0789A25018B8129720CCFE3B0.PNG</Image>
+      <Description>Complete Heroes' Story while defeating over 5,000 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Frenzied Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/8A4AA1991E0CF28C57C3496F33926C1314D3A9ED.PNG</Image>
+      <Description>Complete Heroes' Story while performing a combo of 500 hits or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Better Than the Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/4DE6A9CC89EF4F4D1966B601E7F5EA775FD572A0.PNG</Image>
+      <Description>Complete Heroes' Story on Hard while not equipping accessories on your default weapon.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>One Trick Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/E4D8FBBE021195464C3A57F2469F4061DC872982.PNG</Image>
+      <Description>Complete Heroes' Story while using only Normal Art combos in at least one battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>One Trick Shogun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/6464A31381F1F938031ACC8AB215ADF080CBFA01.PNG</Image>
+      <Description>Complete Heroes' Story while using only  BASARA/Ultimate BASARA Arts in at least one battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>BASARA Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/C2615A9C7CDE8974EB406056F774C3CD81E6731A.PNG</Image>
+      <Description>Complete Heroes' Story while finishing every battle with BASARA/Ultimate BASARA Arts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Singing Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/25C3E7E5D84AD451A088D077757AC88B88F577AF.PNG</Image>
+      <Description>Have either "Lute" or "Koto" equipped for a whole battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>BASARA Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/F1D0DA24E892B9FF536DFFB50784D37C2F023C8F.PNG</Image>
+      <Description>Finish a battle with a BASARA/Ultimate BASARA Art.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Comeback Kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/E9039EEB036CF75ECB6C3CEA8F514AD5BC1AAC38.PNG</Image>
+      <Description>Finish a battle with an Ultimate BASARA Art while your health is low (5,000 health points or less).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Hawk Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/4D5026A24F06320C4B5213F9986B65CC0039BD07.PNG</Image>
+      <Description>Finish a battle with a parry.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Frenzy n00b</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/49AD5B887F61DAE073D9A0150387979E00924EB0.PNG</Image>
+      <Description>Perform a 500 hit combo for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Combo Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/D73BF2F83F40CC59CDDE69764965BD11B2EEBEC7.PNG</Image>
+      <Description>Perform a 2,000 hit combo for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Hit Count Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/73BA25E5C5FE9D15C3F89A146E20A4F61F344852.PNG</Image>
+      <Description>Perform a 10,000 hit combo for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Beloved General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/C341BB0E34FBA8B561336A96EB53A8CC32F0EAB7.PNG</Image>
+      <Description>Have "Support Beam" equipped for a whole battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Sideline General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/DE190F662200891C65AB8121FA285A85E238A56D.PNG</Image>
+      <Description>Have "Hairs of Encouragement" equipped for a whole battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Slots Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/A3FCECC965247DB497E14336550D7AA47B8B81D6.PNG</Image>
+      <Description>Have "Big Bucks Wallet" equipped for a whole battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Peaceful Soul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/7CDD0F2F2B46D3DEE83C1F8D6BA828025D691286.PNG</Image>
+      <Description>Have "Sunglasses" equipped for a whole battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Horseman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/68A2EC701A17E6FC917F6EB9B83A33BD781D8FD7.PNG</Image>
+      <Description>Finish a battle on horseback.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Gourmet Shogun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/948BC00085DB3DF3A8F36B404C1CAE56061ACCBE.PNG</Image>
+      <Description>Finish a battle after eating 25 rice balls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Steel Liver Samurai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/3F361B05257B71C76960BB09A92421F041CD1A0E.PNG</Image>
+      <Description>Finish a battle after drinking 15 drinks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/96BE168A2EC80F8FF247F61A5874F9B40E4C6120.PNG</Image>
+      <Description>Acquire a combination of 24 or more hatena boxes and weapons from one battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Considerate Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/8EE58BDE9B35FBDF0A8148D6EB2A370A7B427D1C.PNG</Image>
+      <Description>Finish a battle without breaking a single basket.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Good Parent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/FCE1E83AD8787E0A82BEDC9A9083E9B24EBCFEAE.PNG</Image>
+      <Description>Level up every hero to their maximum level.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Lover of the Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/27E5EBD643517F1982950042AEF215EB7B2FA04A.PNG</Image>
+      <Description>Complete all 38 battles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>100 Hour Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/14BAFF5635387B2523FD069C251605D41042127B.PNG</Image>
+      <Description>Play for 100 hours.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>War Vet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/BB8056CEC3BEED0DA0044B0CA3FBF4AD86A90AF5.PNG</Image>
+      <Description>Complete 100 battles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Millionaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/85D65B784591DCBDA984FB835CE35B5AE7E73616.PNG</Image>
+      <Description>Reach a balance of 1,000,000 Zennys.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Weapon Retailer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/F0F08FC5BA38110D796C23E258322E3AEB82FF63.PNG</Image>
+      <Description>Acquire every weapon in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Bounty Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/84A2503B59054290F13F5A228010C8B1889DB1C8.PNG</Image>
+      <Description>KO every fugitive with a single hero.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Good Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/46055CAF95D78CF14E284FA9071E5260C1F1DEF9.PNG</Image>
+      <Description>Recruit every ally.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Pack Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/71EF9242E694954FF1336EDAC979652143958712.PNG</Image>
+      <Description>Acquire every material.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01032_00</GameId>
+      <Title>Fashionista</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01032_00_4F6698477AA6A34D376762CF0601E817A2DDD5B2/7C0BA6B93830A905439495070C36686F9B003E1B.PNG</Image>
+      <Description>Acquire every accessory.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

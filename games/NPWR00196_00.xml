@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00196_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PAIN</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/013EA2AF61F18DAB469D8A07B9BEFDA43A8352AA.PNG</Image>
+    <TrophiesCount Total="41" Bronze="23" Silver="12" Gold="6" Platinum="0" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>King of PAIN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/AD1961AD85EB2BB6449D4990148D15DAE2C09E71.PNG</Image>
+      <Description>Get all Trophies in Downtown plus Trill and Grenade-A-Maid</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Affliction Addiction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/D2568267A50B06B4CD26BD9A2ACC4200F57CB817.PNG</Image>
+      <Description>Get 100,000,000 points in Downtown</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Rodeo Clown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/827C6213C0CA9DA558AAF3A9EECAFE290D84025D.PNG</Image>
+      <Description>Use Ed to explode 500 barrels in Clown Toss</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Harder Dick's Balls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/A42BA757E6FF0F5EE089C1567B2FCE7397A8DE5E.PNG</Image>
+      <Description>Get all of Dick's Balls in the Block Party Dumpster without resetting the scene</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Trill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/C7F94A5F4599DA5B256F16E68D686A406131B28D.PNG</Image>
+      <Description>Get PAINful Bullseye Trophy with Scurv Dogg or Hung Lo</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>2 Mill Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/CF15609F5CADC10B4F9BC8CA97A3796E750D97C4.PNG</Image>
+      <Description>Get "PAIN in the Park" and "D-Town Destruction"</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Ninja pwn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/FE01942500F7CF327CEAC597633D6745F561545E.PNG</Image>
+      <Description>Hit the Target Stuffed Ninja in every Abusement Park mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Dude Abides</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/732561C1654AD921DBA7F37EBFDC8DDE08E2FDB3.PNG</Image>
+      <Description>Use "The Dude" to score 30 Strikes in Bowling</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>D-Town Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/F518B75A390BDE3AE4350274C946969F1A017815.PNG</Image>
+      <Description>Get 2,000,000 score in PAINdemonium and Aftermath</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>PAIN in the Park</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/90A47E32C21F9D042C8D74025CE9F0F8346A7B60.PNG</Image>
+      <Description>Get 2,000,000 score in Abusement Park and After Hours</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Combo Mambo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/0D3DE00DCB6BD81EB8822E6BB0A016BB2E9ECE1C.PNG</Image>
+      <Description>Get 15x Combo in PAINdemonium, Aftermath, Block Party and Demolition</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Horsin' a Clown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/0374CA883AD37471F4C6A090FF3858DF99AF5C4A.PNG</Image>
+      <Description>Take the Clown for a ride on the Roller Coaster</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Glutton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/E5B5B7274B15C1CA28CBF3FEB56FDE016F24E55C.PNG</Image>
+      <Description>Make 30 "Eat It!" shots in "Call Da Shot"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Constipated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/71280656DAC5201C4CD37129B6BBC0F8E8CBEBFA.PNG</Image>
+      <Description>100th Strike</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>PAIN and Mane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/BC8A8A7D0351230F3B63D09B5A64B3B9DA974F0D.PNG</Image>
+      <Description>Play 100 games of Trauma or Horse</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Attention Spam</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/20544CAB1E9F1C0921454E69FE5F3A7ED391EB3D.PNG</Image>
+      <Description>Get every type of PAIN (Groin, Head, Arm, Hand, Leg, Foot and Body) combo in PAINdemonium, Aftermath, Block Party and Demolition</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Grenade-A-Maid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/7213B7C723ADC4658A36C153C5755902AF260F96.PNG</Image>
+      <Description>Get Exploded 200 times in Downtown Fun With Explosives (single or multiplayer) playing any female character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Gettin’ Hoff</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/C69486A5FAE9116BFA83B23FEA9074E8B501C8B3.PNG</Image>
+      <Description>Use Tuxedo Hoff to get 69 million in any PAINdemonium Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Buzzmonkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/622D3865EFE5697B82A9DCE9F528502E38A97271.PNG</Image>
+      <Description>Score 60 Monkeys in Spank the Monkey Painful with Buzz</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Helmet PI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/71C8D7EC82BBC52CF6C4B20544C701C35EEF772F.PNG</Image>
+      <Description>Give the Gladiator a ride in the Sports Car</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Camera Boom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/71713B4998D4EDAABAB33F2A130339F2765946EE.PNG</Image>
+      <Description>Hit 50 Cameras with Explosions</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Glass Lass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/D00AE8285BCDDE3E354C7E6DE113ED1BB2F4FCDE.PNG</Image>
+      <Description>Break 500 panes of glass with any female launchable in Mime Toss </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Blockbuster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/9FEF24F213F0C98FBB6E7332D9D6B698BD4B703A.PNG</Image>
+      <Description>Use a tank to blow up the Castle Tower</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Sore Spotting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/66EEE179E5E63F6BEBFED16ADA1ED200D30F65DB.PNG</Image>
+      <Description>Find and hit the alien artifact in both PAIN Reunion and Sports Day and the sports trophy in both PROBE and Afterglow</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Secret Santa</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/A74932A3FB10FE7202289BC62B793BF85CD2C3E1.PNG</Image>
+      <Description>Open all the unlocked lockers in PAIN Reunion using Santa</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Handy-Capped</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/E7997E7C6303C25C77151792E9183097D31A1EBF.PNG</Image>
+      <Description>Complete Mad Science! PAINful without grabbing</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Lo Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/AEBBA181DCC8A7C9542100EF367DD7460C2B4634.PNG</Image>
+      <Description>Grab teleporting Hung Lo in PAIN Reunion</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Everyone's a Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/E755DCF7875683CE6EF6ECD2AF576BC4D22FE9C4.PNG</Image>
+      <Description>Get a negative distance on the Anvil Toss in PAINalympics</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>It's Full Of Cars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/2284F3A71B83FC5D34E045664DAD23B5D5C0E211.PNG</Image>
+      <Description>Send the black sedan through the portal in PROBE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Zoom Raider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/0F611CCDC9709931AB20630FD0B16637FB580342.PNG</Image>
+      <Description>Travel through all the secret passages in one run in The Stiffstonian, Knight at the Museum, and Fun With Explosives single player (any difficulty)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Potty Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/2B389B023F9987D52EB11DE104630AE681A56D7A.PNG</Image>
+      <Description>Dive into 3 urinals, experience some FArt, and blow up The Stinker statue in one run in The Stiffstonian</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Monkey-On-Monkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/C71CD2B89C2A41B8A1EB871C334D759A9AE3A967.PNG</Image>
+      <Description>Earn gold medals in Museum Spank Normal, Hard, and PAINful with Ivan Tojakov</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Bone Smoker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/7CF1FAA529662540DF08820B74BFE394C37F64FD.PNG</Image>
+      <Description>Throw-bomb any large dinosaur skeleton 30 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Butter Mousetrap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/A4B419DDF9D434D645874C57CC110F6B4CDD898F.PNG</Image>
+      <Description>Mousetrap into the toaster in The Stiffstonian without hitting the ground</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>MILF All Knight Long</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/09912EE9B11FCD05DD5AE937CF34EE605BD12FF7.PNG</Image>
+      <Description>Complete Mummy I'd Like To Fling without resetting</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Tub Girl</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/5F4363B2B68828410566854560F5D90F8D4836AC.PNG</Image>
+      <Description>Take the hot tub girl for a ride in the Heiny Mine in Fail Village</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Snow Blown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/A65C990E1B2B3C640013AFCD0ABE3CB59396B149.PNG</Image>
+      <Description>Shoot through all the Snow Blower Launchers in one run</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Ice Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/5B488BD351B9D26589C019058F3D14A01E995635.PNG</Image>
+      <Description>Break all the ice blocks in one run</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Snow Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/06891C9045F06EAAC7FA357A6CDEA4584C39A82D.PNG</Image>
+      <Description>Grab the snowmobile and take a ride to the top of the Ski Run in Fail Village</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>Santa's Package</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/DC991A81558C13DBAA2E0E4A3F74DE0271EF6CE1.PNG</Image>
+      <Description>Bomb Granny with a Throw Present</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00196_00</GameId>
+      <Title>12 Days of Crispness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00196_00_524CE053E66CC9238A1355EEEDA4DEEDCFA29DFB/0D8F414D8B439EB6306CF19E7D61DB420EA7CD60.PNG</Image>
+      <Description>Find and hit all the green presents in the Ski Area Fun With Explosives</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

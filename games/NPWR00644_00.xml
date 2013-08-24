@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00644_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Alpha Protocol trophy set</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/1CF52490B403A6E905C5430F9D428F460056DDB8.PNG</Image>
+    <TrophiesCount Total="51" Bronze="39" Silver="9" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/023C09D8BFF7DE139C857F573077AAB7E8898307.PNG</Image>
+      <Description>Earn All Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Basic Training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/63A3B1C3254FCB0F3E6C08EA0C4BAC5F0F3BE760.PNG</Image>
+      <Description>Complete the Training Mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Alpha Protocol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/5C21FAD6FC050E40A518807C33E0D12C249CBCAD.PNG</Image>
+      <Description>Complete Operation Desert Spear.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Operation Blood Feud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/B275CB3F756F7E692CA2A52271DAD9AAB942317C.PNG</Image>
+      <Description>Complete Operation Blood Feud.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Operation Deus Vult</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/73E98B18DAC89F286F534CCB4181B7DED2ED7373.PNG</Image>
+      <Description>Complete Operation Deus Vult.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Operation True Heirs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/CF53069FBA4BCE20A3815A0E33D811BFA94618C4.PNG</Image>
+      <Description>Complete Operation True Heirs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Full Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/6674E73AD536127080D229587BD03217D8EA1E2A.PNG</Image>
+      <Description>Complete Alpha Protocol.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Rising Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/6D8195043E0F31D9F88F119E232AE658BA3C72FF.PNG</Image>
+      <Description>Join Halbech and stop Alpha Protocol.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Crime Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/CDDA45EA0B60A85200E933B68D174A296840A154.PNG</Image>
+      <Description>Reconcile with Alpha Protocol and stop Halbech.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>No Compromise, No Mercy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/ED36C7D0E7383EC2C13D763F41E96E4D81195BBF.PNG</Image>
+      <Description>Put an end to Halbech and Alpha Protocol.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/75F6A1AEF90861A725BBC07CD448E3DD65E59BF0.PNG</Image>
+      <Description>Complete Alpha Protocol on Hard difficulty setting.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Evolution of an Action Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/55EFC0BBF29707EED3E7A0BA6F64317E3598274F.PNG</Image>
+      <Description>Complete Alpha Protocol using the Recruit background.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Desert Spear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/04316E8CD0623FAFD6D53A437CEECAE8715746B0.PNG</Image>
+      <Description>Assassinate Sheikh Shaheed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Stay of Execution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/9E4031DBF11C783FC67E247F874F20626305F68F.PNG</Image>
+      <Description>Allow Shaheed to Live.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Secret Service</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/DF06752A9BE4DF7388EC2CAD017232A32BA85924.PNG</Image>
+      <Description>Prevent the assassination of President Ronald Sung.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Keeping the Peace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/7085E538F03944AD6B3D47478C9FD63DA6C67B73.PNG</Image>
+      <Description>Prevent a riot from killing hundreds in Taipei.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>A Plot Uncovered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/B1A6CC8C7AC29AD5B74EF539C8DEAC92B6044313.PNG</Image>
+      <Description>Discover the identity of Sung's assassin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Never Trust A Sociopath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/5B2584A9287B390F2B073CE108411AB0CDB9DACC.PNG</Image>
+      <Description>Alienate "secret agent" Steven Heck.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Hard Choices</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/D90EF09FCDFC394AA9E33984E2DA225E8FBCC964.PNG</Image>
+      <Description>Stop the plot to destroy the Roman History Museum.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Friends Before Strangers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/579A8F01A1C64B6D679C1BC1494444A78B95E173.PNG</Image>
+      <Description>Save Madison Saint-James from certain death.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Respected Enemies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/37363AD6C1C46886F84ECF9A4F9DDCD450A0265A.PNG</Image>
+      <Description>Gain Marburg's respect and best him in combat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Youth Trumps Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/9A9A07BEDBDAE0193492CA42C73162B36EBE12DD.PNG</Image>
+      <Description>Provoke Marburg into a fatal duel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>One Less Gangster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/BAC02431AB2F3BA4AF15EAD72111E726BC4E7670.PNG</Image>
+      <Description>Eliminate Konstantin Brayko.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>A Price On Mercy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/91AE7F09495387D7A697C9A4A6568AA2B07C2DF4.PNG</Image>
+      <Description>Spare Konstantin Brayko.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Russian Alliance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/37F21D6133155BAD86BA759A809F3AE2A01DCE85.PNG</Image>
+      <Description>Forge a Partnership with Sergei Surkov.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Price For Lying</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/AB254644D2A2EA1FA44E1F5B7D53D7602B96EE06.PNG</Image>
+      <Description>Kill Surkov for lying to you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Ask Questions First, Shoot Later</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/24A03D827139C9222F6600EC486541A347F3C669.PNG</Image>
+      <Description>Refrain from killing in cold blood.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Judge, Jury, and Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/77358C17FDBF9E15B5322611B9BA2B411549AF41.PNG</Image>
+      <Description>Let your gun do the talking.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Thorton, Inc.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/E0F17DB2108B90E92F86340AEEFA1B1884B9A5EB.PNG</Image>
+      <Description>Turn all your enemies into allies in one single career.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Rome-ance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/9F95A3505DCF747BC9CDC1B22B979B1711E0C68C.PNG</Image>
+      <Description>Romance Madison.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Office Romance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/AB27F88A8060091C0E4DD4A24268472B59435F3E.PNG</Image>
+      <Description>Romance Mina.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Exclusive Interview</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/F504A02CB9621797148921115FEE0BBB0DD6888C.PNG</Image>
+      <Description>Romance Scarlet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Savage Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/2D5CFF7121ED5CAC40F379E30ED44AC84D0CBFE5.PNG</Image>
+      <Description>"Romance" SIE.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Ladies' Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/17916946F0FCE0A7F0E47A4EE41BF0E6EBB9B0FF.PNG</Image>
+      <Description>Romance all the ladies in Alpha Protocol in a single career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>No Time For Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/AAEDA9331A387BEB10EB2935666AF60B5DC6839B.PNG</Image>
+      <Description>Complete the game without being seduced. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Hard to Read</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/B06595FA014B39741085AC89E7D303281E6A2700.PNG</Image>
+      <Description>Across 90 dialogue choices, you've used each stance at least 25% of the time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Social Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/85206AE6B1DD5BD589DA470113E9AC8696CAF229.PNG</Image>
+      <Description>Gain Liked reputation status of 3 people (who must all Like you at the same time).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Antisocial</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/633E5C3D7AB7781203B3163FD46FFE1D92426D8C.PNG</Image>
+      <Description>Get 3 people to hate you (who must all hate you at the same time).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Ready For Anything</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/9948C7DE75B250D1B782620B9D5C2DD504F25A01.PNG</Image>
+      <Description>Acquire the vast majority of Intel available in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Pistol Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/3EA357AE302EDE068CE069F063A4962675AA8846.PNG</Image>
+      <Description>Score 100 Critical Hits with the Pistol.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>SMG Havoc</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/E00F8956847CEAEE6DB7B1E5EF3EB31ACEAC989D.PNG</Image>
+      <Description>Achieve the maximum SMG Critical Hit Multiplier 7 times in your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Shotgun Crowd Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/DBCEDD5F19199EA392B4D60D7D3E528617C51FD1.PNG</Image>
+      <Description>Score 100 Critical Hits with the Shotgun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Assault Rifle Marksmanship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/60EB111AA748D9B885780C1DCFC2AC0DFFF5A72E.PNG</Image>
+      <Description>Score 100 head shots with the Assault Rifle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Black Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/4C49202E11DE130B787FF143BF212D31CDBC7AD3.PNG</Image>
+      <Description>Defeat 50 enemies with CQC.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Lurker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/E64A0B3924DFC116DDB66D63505755FD36EAD90A.PNG</Image>
+      <Description>You Evaded (or defeated via Takedown moves) 75 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>One With The Shadows</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/7CAD599B695EC918F723EA598D42F6C301BD1214.PNG</Image>
+      <Description>Complete 3 missions with less than 5 kills and with no enemies alerted to your presence.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Technophile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/355C59C2E6202F1437DBCF598F67BE748CDE7881.PNG</Image>
+      <Description>Complete 5 missions wherein 6 different gadgets are used.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Building a Deadlier Mousetrap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/B4EE6FE7815202F8560C318376430B3A2A5BE842.PNG</Image>
+      <Description>Have 100 placed devices detonate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Breaking and Entering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/BF92A1A428971EAC639E2F5CA117354861EEC8EA.PNG</Image>
+      <Description>Pick 10 locks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Circuit Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/8F11CDB032561A75B06C4375AF77D967F88F36E2.PNG</Image>
+      <Description>Bypass 20 electronic devices.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00644_00</GameId>
+      <Title>Data Theft</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00644_00_E1BEC0F696D4AC727BA5115BB73D7121A9A29CEB/8132A4EF819E18A0D31C246AD994A24A078579BB.PNG</Image>
+      <Description>Hack 10 computers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
