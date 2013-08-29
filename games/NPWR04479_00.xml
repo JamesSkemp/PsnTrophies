@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04479_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Machinarium</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/718D5ACF86771F4DB7B1930902BE862DF74E0BE9.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>psp2</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/CC22E4DA87AFA5296C8A11FD4D9C3F6CD4DCC850.PNG</Image>
+      <Description>Escape the scrapyard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Back in town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/10B99BB5D2AB8527ABD053890ED13C4BE03D5023.PNG</Image>
+      <Description>Enter Machinarium</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Jail breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/64E995B6EBE84CD7C7C61D6A3305490BB3E0E2AF.PNG</Image>
+      <Description>Free self and jail mates</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Pet catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/5D420AE29531959FC450B663AFC77E7D77FD313D.PNG</Image>
+      <Description>Bring the dog to the lady</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Board game master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/AD3A64A4E65F59F4109D3D27399410D58B5F5FC5.PNG</Image>
+      <Description>Win the Tic-tac-toe game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Music lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/69A9BCBDEA42B27127744173615B1F65A3B4B38B.PNG</Image>
+      <Description>Help the musicians</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Video gamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/134F913198FD922EA44FBA32072670543BAFA5A2.PNG</Image>
+      <Description>Win all console games</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Plumber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/C9AA4E29A273FC3A76D50DC7281BF92799CFB0EC.PNG</Image>
+      <Description>Flood the Blackhats</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Deactivator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/DEFAE299E1FF5BC6EE299C6BE49D0AC67D09D327.PNG</Image>
+      <Description>Disable the bomb</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Debugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/EEA5256B5E492338344ED37AA0BC705206BD5CDF.PNG</Image>
+      <Description>Repair the brain</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Rescuer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/5FF95E964D90FE8D0C443EB9CD2FC291C1F09531.PNG</Image>
+      <Description>Rescue the girl</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04479_00</GameId>
+      <Title>Escaper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04479_00_00540DB22A16E1514D903AE4189C114124124089BE/67FE2780239A4DDEFEA458FAFAE3FD257256C8F6.PNG</Image>
+      <Description>Escape Machinarium</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
