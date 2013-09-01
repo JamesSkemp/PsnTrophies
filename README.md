@@ -6,18 +6,23 @@ XML files with information about PlayStation 3 trophies and games.
 Purpose
 ====
 
-With the lose of psnapi.com.ar, a lot of us have lost game/trophy information.
+With the loss of psnapi.com.ar, a lot of us have lost game/trophy information.
 
 To offset that I purpose creating a repository of information about PlayStation 3/Vita/Network/etc games and their trophies.
 
 This data can then be both shared and updated by the community.
 
-Status
+Contributors
+===
+
+Thanks to mbrookes - https://github.com/mbrookes1304 - for supplying additional games.
+
+How to help
 ====
 
-8/23/2013, morning: I have 156 games that I have information for. I'll work on creating XML files for those 156 games, as well as a schema (XSD) we can follow.
-
 If you have information that you can provide about all the games, I'm willing to do the heavy lifting of converting that, in whatever format you have it, to XML.
+
+Otherwise the base schema is available, and if you do a pull request I'll grab the new information.
 
 
 Comments from https://psnapi.codeplex.com/discussions/453867
