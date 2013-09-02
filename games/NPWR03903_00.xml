@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03903_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Resident Evil Revelations</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/D65A754CFC2DB232D64DF32AD259FE76FD425E20.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Eye on the Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/2CE01BC3A3C6F58CE0D80EBE65302D34D2CF88B5.PNG</Image>
+      <Description>Obtain all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>We'll Find You, Jill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/56827574D4912B010908D59472059B312C74BFCA.PNG</Image>
+      <Description>【CAMPAIGN】Clear Episodes 1 - 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Get Us Out of Here!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/457858334197DFE5D5E8316DE373486503E80A29.PNG</Image>
+      <Description>【CAMPAIGN】Clear Episodes 4 - 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Queen Zenobia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/17B4195DB7BF170F3E7BC2F87A8E6178CCA8AE85.PNG</Image>
+      <Description>【CAMPAIGN】Clear Episodes 7 - 9.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Storm is Gone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/A887DD00B03BC8060EFE0A296D89935205FC74B0.PNG</Image>
+      <Description>【CAMPAIGN】Clear Episodes 10 - 12.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Dark Forest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/7F1F1FF91499F3558BB41E0CFD47DB12C81CFF45.PNG</Image>
+      <Description>【CAMPAIGN】Clear Casual difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Shores of Purgatory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/9A8047A04B138A45C322B13EFD566A51E2045682.PNG</Image>
+      <Description>【CAMPAIGN】Clear Normal difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Vestibule of Hell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/69328FBE9A5EE5D55C91F4386DEE595C692CC4E5.PNG</Image>
+      <Description>【CAMPAIGN】Clear Infernal difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Surviving Deep Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/C277FDDD4130B41DF15BD26A041C8704E0DB890B.PNG</Image>
+      <Description>【CAMPAIGN】Clear the game in Normal difficulty or above without dying once.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>First Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/423DE516A4B0F173EA3B17D223701D8F52D6647E.PNG</Image>
+      <Description>【CAMPAIGN】Scan 1 hidden hand print.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Traces of Tragedy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/D01E66B6C9651701D48F3E15B10D967EF42817D0.PNG</Image>
+      <Description>【CAMPAIGN】Scan 15 hidden hand prints.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Last Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/E9930FD72CBB687B098F1674D488D501A7D96DED.PNG</Image>
+      <Description>【CAMPAIGN】Scan 30 hidden hand prints.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Researcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/E0AD04245B81F40A9C0F3DDEB3D8FE2F6DE13503.PNG</Image>
+      <Description>【CAMPAIGN】Scan an enemy for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Research Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/258CFAD57F5FB94C7F118B865E44A206155E6053.PNG</Image>
+      <Description>【CAMPAIGN】Scan all enemy types.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>B.O.W. Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/CF6C1CCDA220188D106F2F3B21034004EE0DFF48.PNG</Image>
+      <Description>【CAMPAIGN】Defeat 150 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Living on the Edge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/BA4C456C0C7DABF742FC91D6B8AB21B24C2C6E9B.PNG</Image>
+      <Description>【CAMPAIGN】Stop an enemy bullet with your knife.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>By the Crosshairs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/875D7E86AF6135A1DB9D4E4417C813AA0C257D12.PNG</Image>
+      <Description>【CAMPAIGN】Defeat Rachael before she gets to the cafeteria.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Bamboozle the Oozes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/BD0D1CE6CCC11B9576849F055F0902414DC050C3.PNG</Image>
+      <Description>【CAMPAIGN】Defeat 10 Oozes with headshots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Die Another Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/DD845C414109CFE3B6B5D8C56A0CCB53A33F97F1.PNG</Image>
+      <Description>【CAMPAIGN】Evade a Scagdead's instant-death attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Triple Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/E283F1348B2EA5ED1D9397FCF2D38BF295416BA1.PNG</Image>
+      <Description>【CAMPAIGN】Defeat 3 enemies with one shock grenade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>A Packaged Deal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/CBBB0D62E7ECED8C17A543ABE16D17107A10D5B6.PNG</Image>
+      <Description>【CAMPAIGN】Defeat a Scarmiglione as a whole without killing both parts of its body separately.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Rockets are for Losers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/C0D3352312E658365A8AD3F7A6A387D465330190.PNG</Image>
+      <Description>【CAMPAIGN】Defeat a Malacoda without using a rocket launcher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Pool Is Open</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/477238E4C2F315224CF2C42E22F64F8DC00F3080.PNG</Image>
+      <Description>【CAMPAIGN】Swim in the Solarium.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Dodge Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/0EB895CDFB85C81F6B24AE565FF2C4A1D2344F2F.PNG</Image>
+      <Description>【CAMPAIGN】Dodge 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Angry Fist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/ABBE77620A9481D62A7D1587D27897DD46FB79F0.PNG</Image>
+      <Description>【CAMPAIGN】Land 10 fully charged physical attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>First Circle Traveler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/2B5A6A19EBE0916D0B5C5A96A10D97F694EF1E6D.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Chasm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Midland Traveler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/A33C085098FD205669EF662001C515A7F8637819.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Trench.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Seventh Circle Traveler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/D3E92579543D83D0744BB05F0E474E2E1E07BE16.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Abyss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>First Circle Overseer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/0DCE248991C55E59BFB4CDB921C631B4951D31F5.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Chasm with an S rank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Midland Overseer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/591565F3FD8C6ADA8428FCBD279BE9B56D47AC89.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Trench with an S rank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Seventh Circle Overseer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/FD614D237F5A51B68AAFE0BC1EFB262FB112589F.PNG</Image>
+      <Description>【RAID MODE】Clear all stages in Raid mode on Abyss with an S rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Beyond the Veil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/7D00CBD6DD48A3EA718A7402EE117A65508B4ACE.PNG</Image>
+      <Description>【RAID MODE】Clear the bonus stage, The Ghost Ship.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>On Your Way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/E29A2149A3186B091E7DA8DA888A67AE56E6E608.PNG</Image>
+      <Description>【RAID MODE】Reach player level 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Moving on Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/B99755415E7FED77991CD57238E3A9601DE65713.PNG</Image>
+      <Description>【RAID MODE】Reach player level 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Reaching Higher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/A500AB557AC797623E7009A16B465C1B0C6BEA1F.PNG</Image>
+      <Description>【RAID MODE】Reach player level 20.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Raising the Bar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/7FDEADBEDCA7E4FA22AFD0FFE34D23F718D44759.PNG</Image>
+      <Description>【RAID MODE】Reach player level 30.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Meteoric Rise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/5421F7E4C88F6E1454336057827F39C5656F26D3.PNG</Image>
+      <Description>【RAID MODE】Reach player level 40.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Top of My Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/68DCDC4025266AB669A352951C1E1C7A1C7E4060.PNG</Image>
+      <Description>【RAID MODE】Reach player level 50.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>One for Each Minnesota Lake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/8A14D75F162C5C468DA7C099B1E9E2F75ABEEF54.PNG</Image>
+      <Description>【RAID MODE】Defeat 10,000 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>That'll Leave a Mark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/F68CE63C57D84C83005C5FA703672145608D782C.PNG</Image>
+      <Description>【RAID MODE】Inflict 100,000 points of damage to an enemy in one hit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Dynamic Duo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/33933DC6B9E6E7EA2F487D3435CCE07552E4C08F.PNG</Image>
+      <Description>【RAID MODE】Land a fully charged physical attack on an enemy at the same time as your partner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Legendary Find</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/AA9ED4013B136492910D0658EB91AD90C0FA9D61.PNG</Image>
+      <Description>【RAID MODE】Obtain a super rare weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Legends Are Made, Not Born</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/7471581687025CB3730BEC9D35D5232F3E489C22.PNG</Image>
+      <Description>【RAID MODE】Obtain all super rare weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Shop 'til Ya Drop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/374E6F69812458E79ACD2A7AFCEC44A00ACA4A2B.PNG</Image>
+      <Description>【RAID MODE】Spend 1,000,000 BP in the store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>The Unbroken Thread</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/E202C5670AC03877775FED72E81EE3C96A9A705E.PNG</Image>
+      <Description>【RAID MODE】Acquire No Damage Bonus for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Gutsy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/C3C43248C0F0E8466DA9EFB1014929DD32BF8620.PNG</Image>
+      <Description>【RAID MODE】Clear a stage at 5 levels lower than the recommended level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Three is the Magic Number</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/66C39E7DB2A52F38578C793C0C95F2E2E9F18B01.PNG</Image>
+      <Description>【RAID MODE】Acquire Trinity Bonus for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Bonus Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/1F4F0EBF5233B1A6DA37D2EB0C2BF23650FE0CC5.PNG</Image>
+      <Description>【RAID MODE】Acquire 10 bonuses.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Bonus Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/9FFBC00C1BCE7A11BCC557258E490DCC9C520C18.PNG</Image>
+      <Description>【RAID MODE】Acquire 50 bonuses.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Bonus Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/F22F9A28C10A6DE12C217E046789DB76D693CC4F.PNG</Image>
+      <Description>【RAID MODE】Acquire 100 bonuses.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03903_00</GameId>
+      <Title>Bonus Demi-god</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03903_00_0019C439FEAF26A71C5E379F1B8E322D7D1A7B32E8/0A5A3129FC0891EA488341BBFA90C6FA2D846B1F.PNG</Image>
+      <Description>【RAID MODE】Acquire 150 bonuses.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

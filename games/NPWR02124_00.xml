@@ -1,0 +1,402 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02124_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Plants Vs. Zombies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/475DB3A5E44B21BB948017E1C8A2D560C01307C8.PNG</Image>
+    <TrophiesCount Total="43" Bronze="28" Silver="12" Gold="2" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>psp2</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>The Complete Zombie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/81DDE49DFDC01AFE0AF23E0D8B3C8BBD06F7005E.PNG</Image>
+      <Description>You've won every trophy, climbed every mountain, defeated every zombie, planted every plant. Congratulations!
+</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Home Lawn Security</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/BBC7EB0DD19465178BA9DF5BA72283E287A8F5C7.PNG</Image>
+      <Description>Complete adventure mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Master of Morticulture</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/AB78DC3AF55EE24C5EABFB07E06233F1B8A2BC9B.PNG</Image>
+      <Description>Collect all 49 plants in the game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Smarty Branches</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/D62DDCD0700B8463425EB95E8DE9C66ED3773286.PNG</Image>
+      <Description>Grow the Tree of Wisdom to at least 100 feet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Crash of the Titan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/69455149AB624E4E85E7FB68AE0AE639ED8AC797.PNG</Image>
+      <Description>Defeat your first Gargantuar</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Don't Pea in the Pool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/3C126AE3E4DA6BEF89D6B8A6B876553DF5F0A317.PNG</Image>
+      <Description>Complete a daytime pool level without using Pea-shooters of any kind.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Alive and Planting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/06C2A4E336A2AE1C492EF7939B4FB81F78022D10.PNG</Image>
+      <Description>Survive 40 waves of pure zombie ferocity</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Soil Your Plants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/F0A80F24891740E0FD48D0BD2FC6F210C01D2E73.PNG</Image>
+      <Description>Plant your first 10 peashooters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Roll Some Heads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/29CE8821FF240075484AE7433A37217C9B3ADEF6.PNG</Image>
+      <Description>Bowl over 5 zombies with a single Wall-nut.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Explodonator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/C749BC0CA1482BD2611B428360B9E2BB94368845.PNG</Image>
+      <Description>Blast 10 zombies at once with a Cherry Bomb!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Close Shave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/425A3DF3033696F58460BB7F72570778F91D963B.PNG</Image>
+      <Description>Survive the zombie onslaught after all lawnmowers have been used</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/6EDF84F8A7F5AB9A475C6C250886689FE1250F59.PNG</Image>
+      <Description>Go trunk diving and spend at least $25,000 on Crazy Dave's Twiddydinkies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Nom Nom Nom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/B486466EF20E1224E77F4254E2C3572F4E2E7347.PNG</Image>
+      <Description>Stop the horde using only the Sunflower, Wall-Nut, and Chomper on any level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Grounded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/35B307337790764D8DB3B12BE22D068248A95D97.PNG</Image>
+      <Description>Defeat a normal roof level without using any Catapult plants.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Zombologist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/239B2D700D447CFF2ED3F4ADCD7F3FCA97B8C96A.PNG</Image>
+      <Description>Discover the Yeti zombie.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Penny Pincher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/D65F6B3275D99939088A641274F0BC3B953572B9.PNG</Image>
+      <Description>Pick up 30 coins in a row on a single level without letting any disappear.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Sunny Days</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/AED9F4284EA79EF041DD19C646804C8E999F9E8B.PNG</Image>
+      <Description>Accumulate 8,000 sun during a single level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Popcorn Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/6551C150504D5C303B19E0D3497C89356794C6AA.PNG</Image>
+      <Description>Defeat 2 Gargantuars with Corn Cob missiles in a single level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Good Morning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/2A91D582C43DCB023E8C962FC989155B66730817.PNG</Image>
+      <Description>Complete a daytime level by planting only Mushrooms and Coffee Beans.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>No Fungus Among Us</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/93206C7AE4D9957F287E73C71F61371BF333D0F1.PNG</Image>
+      <Description>Complete a nighttime level without planting any Mushrooms.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Last Mown Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/3B49D4D0B6C7F6E12403B871750E6E82470A24F7.PNG</Image>
+      <Description>Defeat the last zombie in a level with a lawn mower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>20 Below Zero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/09D31FC3A71DCCA7EE9A7C0B617049BAA1BF46B5.PNG</Image>
+      <Description>Immobilize 20 full-sized zombies with a single Ice-shroom.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Flower Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/85EE1FDD75BBEE4450B7CB53903FB8E3B7418AFF.PNG</Image>
+      <Description>Keep 10 Twin Sunflowers alive in a single level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Pyromaniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/5ACFFBAB01F57094449BFBBC0316EFC8ACFC9C4E.PNG</Image>
+      <Description>Complete a level using only explosive plants to kill zombies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Lawn Mower Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/020940E2CB18F2BCBB423560175BBB1EAA2CCB8A.PNG</Image>
+      <Description>Kill 10 zombies with a single lawn mower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Chill Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/E776157F8781355021B9A0D78191F755FD9C71B1.PNG</Image>
+      <Description>Feel the rhythm, feel the rhyme, you've one level to destroy 3 bobsleds, it's Jalapeno time!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Defcorn 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/A0F269AD085B738F7C63BC5989B1A1A9B6A63F08.PNG</Image>
+      <Description>Build 5 Cob Cannons in a single level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Monster Mash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/C594572372DDF963D7F048B4221794ABA279273B.PNG</Image>
+      <Description>Crush 5 zombies with a single Squash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Blind Faith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/8282B64E0536A89FCF2E5933FCFF8CE59159495E.PNG</Image>
+      <Description>Complete an extremely foggy level without using Planterns or Blovers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Pool's Closed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/ED752EC3F9DDE3A4197C3D2F26B1565AB79F383D.PNG</Image>
+      <Description>Complete a pool level without using water plants.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Melon-y Lane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/787ACCA642BE5F98C5B3506B0831C2BBB6F09890.PNG</Image>
+      <Description>Plant a Winter Melon on every lane.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Second Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/012D7D0793E1CD3C9AC56E326CB19E31253E76CD.PNG</Image>
+      <Description>Complete Adventure mode a second time.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Lucky Spin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/659FB8D4E0AA994B9A7E588720CA642844E3C9D2.PNG</Image>
+      <Description>Get 3 diamonds in Slot Machine</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Chilli Free</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/DC58D8CB051B4546E22D8A042988AD9D817ABDF0.PNG</Image>
+      <Description>Complete Column Like You See'em without using Jalapenos</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Enlightened</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/2E11224B999CF724B18126F14D9E549E20B3FD0F.PNG</Image>
+      <Description>Collect all Zen Garden, Mushroom Garden and Aquarium Garden plants</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Diamond Beghouler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/6939D0656A1D40F1E7FE3795745FCCACD730C5F1.PNG</Image>
+      <Description>Upgrade all your plants in Beghouled</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Greenfingers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/9BF7C2C270E073AD7983B2FBCAE15C0FD5FDEA62.PNG</Image>
+      <Description>Grow 10 Zen Garden plants to full size</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Wall-Not Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/0F698D3A2F55123A93FEBF20F654FEFB62DD0C25.PNG</Image>
+      <Description>Complete ZomBotany without using Wall-nuts, Tall-nuts or Pumpkins.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Beyond the Grave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/561819BDF9F8AFB73950D74181D513E8F28C13F8.PNG</Image>
+      <Description>Beat all 20 mini games</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Shooting Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/0CD51ABC2F1F4F960DF36A13315A025B1FCCC88B.PNG</Image>
+      <Description>Complete Seeing Stars before the first Flag Zombie appears</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Sol Invictus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/4249D1A6C104AC3C57756E9A88F965582FF05A2C.PNG</Image>
+      <Description>Complete Last Stand with 2,000 sun remaining</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>Sproing! Sproing!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/F88EE46FF4CC28AF7B7DC4A8BE42ECEC33616EAB.PNG</Image>
+      <Description>Complete Pogo Party without using Tall-Nuts or Magnet-shrooms</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02124_00</GameId>
+      <Title>SPUDOW!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02124_00_70C020F0DF1FB3CBB4662D2FD547AE7D1C0BCCF7/DE71837FA1DFE3D10375FA7228B9648252B5F455.PNG</Image>
+      <Description>Blow up a zombie using a Potato Mine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

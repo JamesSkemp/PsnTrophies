@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02155_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Uncharted: Golden Abyss™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/7315046C78AE0530405F777C81C3FF7AADCC1C74.PNG</Image>
+    <TrophiesCount Total="56" Bronze="48" Silver="5" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>psp2</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/D1812DDF2618FD60ED32DB946FC63BAA63D16450.PNG</Image>
+      <Description>Collect all other 55 Trophies for this Trophy.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Relic Finder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/25773694614731507FE5ED34DCFBE1813FFC4882.PNG</Image>
+      <Description>Find the strange relic.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/FFA36CCC0089C4C56B288233BF9F65DACAF1ABBA.PNG</Image>
+      <Description>Defeat 75 Enemies in a row without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>100 Headshots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/40A67BD0E3CC2A0CB3E5F372C1AF747EFB2CEE5D.PNG</Image>
+      <Description>Defeat 100 enemies with headshots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>250 Headshots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/B64E78DD05BA8DD47285307087FDB4FFF60A8128.PNG</Image>
+      <Description>Defeat 250 enemies with headshots.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Run-and-Gunner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/ECA018B4200C14E5B0BD6ED48393DCC824A3B2D6.PNG</Image>
+      <Description>Defeat 20 enemies by shooting from the hip (without aiming with the L button).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Hangman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/8CAACC602706BD8DC20D1B0783111960B4CEE4BF.PNG</Image>
+      <Description>Defeat 20 enemies with gunfire by aiming while hanging.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>50 Kills: 92FS - 9mm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/826B1BA89FFC4EF114630CC0EB70810E31325750.PNG</Image>
+      <Description>Defeat 50 enemies with the 92FS - 9mm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>50 Kills: Micro - 9mm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/1E008D43A0440C12243CDAD3D6AECE83CC11B3AF.PNG</Image>
+      <Description>Defeat 50 enemies with the Micro - 9mm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>30 Kills: Wes - 44</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/4EE82D8353FF0A087E18BE339D681B4C9954426C.PNG</Image>
+      <Description>Defeat 30 enemies with the Wes - 44.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>30 Kills: Desert - 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/3200570FB7CE90DC5DFB3B6B067543D10A82E68B.PNG</Image>
+      <Description>Defeat 30 enemies with the Desert - 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>70 Kills: FAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/CEB0B06B4776031DE083ED0B73A2274DB1587338.PNG</Image>
+      <Description>Defeat 70 enemies with the FAL.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>70 Kills: M4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/3C61C95F2288AF49682CC876A71138C7D7D25AC8.PNG</Image>
+      <Description>Defeat 70 enemies with the M4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>30 Kills: Moss - 12</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/433715B711FD7D3723E4A6BF9A5248156D86D916.PNG</Image>
+      <Description>Defeat 30 enemies with the Moss - 12.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>70 Kills: SAS - 12</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/E5590CE9FD5A2CC02333777075D150CC3A9B224A.PNG</Image>
+      <Description>Defeat 70 enemies with the SAS - 12.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>50 Kills: M79</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/E088DBC888CD985FBC3671E8A7D689136DD89095.PNG</Image>
+      <Description>Defeat 50 enemies with the M79.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>50 Kills: GP32 - BND</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/E351D9A2873CF7752F6D490111E4FD99E0FDBFFF.PNG</Image>
+      <Description>Defeat 50 enemies with the GP32 - BND.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>50 Kills: Dragon Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/6EEBCA36A51837D722AD81B0EBB478372A0C71DD.PNG</Image>
+      <Description>Defeat 50 enemies with the Dragon Sniper.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>30 Kills: RPG - 7</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/E6741E327BCB83FD14D059AD77B0C8B99BA98371.PNG</Image>
+      <Description>Defeat 30 enemies with the RPG - 7.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>200 Kills: GAU - 19</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/F3ED7F2889E04B130A61C69F3189B1D01A51E6D2.PNG</Image>
+      <Description>Defeat 200 enemies with the GAU - 19.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>30 Kills: Mk - NDI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/8AEEC92189F9AB6A1392595534DC677A5A31C892.PNG</Image>
+      <Description>Defeat 30 enemies with the Mk - NDI.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bare-knuckle Slugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/F43131AAABCCADDB5B9A4DC1A6E5BD2A1135BA1B.PNG</Image>
+      <Description>Defeat 50 enemies with hand-to-hand combat.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Master Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/78823037DD34B07590F9034546A7364E9C790F8D.PNG</Image>
+      <Description>Defeat 50 enemies with stealth attacks.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Steel Fist Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/FDA9F53C6908F37BEA110C16E7DC421A486B1C4D.PNG</Image>
+      <Description>Defeat 20 enemies with a single punch, after softening them up with gunfire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Steel Fist Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/C18843C92EF6EBBF12A21ED3C2BA2F61DE5C9EE8.PNG</Image>
+      <Description>Defeat 10 enemies in a row with a single punch, after softening them up with gunfire.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Charted! - Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/B1252C85FAD909338C80FE2894D77D7B182F04EA.PNG</Image>
+      <Description>Finish the game in Easy Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Charted! - Normal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/193C872CB249D7E2FA8C34564A952CDE0843D462.PNG</Image>
+      <Description>Finish the game in Normal Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Charted! - Hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/A988145E46E422EF7AD9852531570D6A72962B40.PNG</Image>
+      <Description>Finish the game in Hard Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Charted! - Crushing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/ED3548612ABC7E865FE7D9D1BF4543AB274A9B38.PNG</Image>
+      <Description>Finish the game in Crushing Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Secrets of the Kuna</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/5061657FECE050A0C2072740C658F47E6A612C90.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Odessa Mining Company</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/A172B90F2E5302D3AA1F09C99ED1C50A47F8465F.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Conquistadors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/11A6B01B972DA058A4BA331F99E1084E31B06CA5.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Proof of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/A1C0DF461064ED700E98F0AB3C907E14C15E4BB6.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Poisoned Powder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/7A3A6A16D31758CBF20BA9A6A1622E6C7B3190AE.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Revolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/2EAB2BC44A30B9199F92859F126A1DAAC1E02D2D.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Trail of Vincent Perez</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/F760833E93FF1249F72499A348981B9A9D65D810.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Sete Cidades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/8D9FA6EDA72A3D5E89D3B1D946B347376FC29C1B.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Friar's Pilgrimage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/2DE23F32B4BD78D9187F9477C3C964C277494BA2.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Lost Civilization</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/F450567FF18410420DDD1D4DF3757F33B9DA2B67.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Circle of Heaven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/87763635087BD0E7DD39D69A0E9682DA38E0691E.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Ring of Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/71C48FAF920B1DBC1E537ECE19BAC3FD465E793B.PNG</Image>
+      <Description>Complete the Mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Treasure: Turquoise Glyphs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/3F1499E73BE12601E6FE3067934407E748C73770.PNG</Image>
+      <Description>Complete the treasure set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Treasure: Jade Carvings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/1C4FA139F06454ACF1B352AD0204D1B46C641828.PNG</Image>
+      <Description>Complete the treasure set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Treasure: The Menagerie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/311CD4C859EC5C30FFFD606BFC8227B6C9B83EA5.PNG</Image>
+      <Description>Complete the treasure set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Treasure: Minor Deities</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/3CEBFA2E1B1BF191E2FEF20F9D92244E8005E23E.PNG</Image>
+      <Description>Complete the treasure set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bounty: Arcana</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/E9E35FA0EE990DDD42F743317192CA2DFC3E98E2.PNG</Image>
+      <Description>Complete the bounty set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bounty: Pieces of Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/86BAEECCD7D86B2B14335E8DB991FB8EB40CD16B.PNG</Image>
+      <Description>Complete the bounty set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bounty: Spanish Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/B244EBF715809631816635ABE04CB0468617713D.PNG</Image>
+      <Description>Complete the bounty set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bounty: Cádiz</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/4A4BA0C0F7A4E1FFC045E31CDF951609F3EF6412.PNG</Image>
+      <Description>Complete the bounty set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Bounty: Gemstones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/060327B677B56521030BBB36199CE620D41DB8C8.PNG</Image>
+      <Description>Complete the bounty set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Puzzle Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/DDCE4F0BB0FBD25EC671A1DC78742E55A6B6B5F3.PNG</Image>
+      <Description>Complete all puzzles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Rub One Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/26A4ED74142E8D8ED158FF7E3742D2196FC4388C.PNG</Image>
+      <Description>Complete all rubbings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Paparazzo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/86E6CC2C686BAB96790A5848EBDF2D9B5B522962.PNG</Image>
+      <Description>Complete all photographs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Touch My Rear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/90DC3DB21D9FA57E9548377DA3FA84573BD6796C.PNG</Image>
+      <Description>Use the rear touch pad to climb a rope or chain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/5D98882950C60373BC8FE72ABAFC4A5E39DAEC26.PNG</Image>
+      <Description>Collect first treasure or mystery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02155_00</GameId>
+      <Title>Ruffle My Feathers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02155_00_EA80086DCA34411FD9B7A9E88594780EC98153AB/EFC04E9F37584917D9C782B0A2D8FA5F591BDBD0.PNG</Image>
+      <Description>Force José Parrot to squawk out 8 unique quips.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

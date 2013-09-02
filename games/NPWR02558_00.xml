@@ -1,0 +1,339 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02558_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Atelier Meruru:The Apprentice of Arland</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/2BBCC1CC13ADB9FFA34D5EFBBD74551A7AD4A2D7.PNG</Image>
+    <TrophiesCount Total="36" Bronze="24" Silver="5" Gold="6" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>All Trophies Earned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/D038C389375D0B58805F4A0ECACF555962067EB1.PNG</Image>
+      <Description>Obtain all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>One Normal Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/B36F8F821662190DFDE320C9FFB5710BE14DF6A9.PNG</Image>
+      <Description>Let Keina help you change at the workshop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Stars Never Change</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/1D913F6D8CE5A9D24D1FB1904D11D96CABE73504.PNG</Image>
+      <Description>Gaze at a starry night sky with Keina and reminisce about the past.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Brothers Together</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/0B33F8A6EC3BA6505F2F5810B95A79D6945C4C29.PNG</Image>
+      <Description>Witness Lias bask in the glow of Rufus's approval.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Atelier Totori (Current)</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/66FD30B972C564BEB053B52BF3301AEF512663F3.PNG</Image>
+      <Description>Hear the stories of Miss Totori and her friends.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Pie Shop Opens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/19C76714843AFE4D89F4FF1DE923F2B0EC4897CC.PNG</Image>
+      <Description>Construct a Pie Shop and visit with Rorona.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Look into the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/2FBBCEB8F9584A72C2DB49B94A348D0BDB73BB56.PNG</Image>
+      <Description>Glimpse Gio lost in thought at the fort.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Certain Sisters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/5691571EA4A4D72D17DF5E7E7A3620F9114ED743.PNG</Image>
+      <Description>Take a peek at Filly and Esty's intimate sisterhood.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Resemblance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/F622571E435743F9BFB27A9CBBEF2A90214DBD4B.PNG</Image>
+      <Description>Find Rufus and Sterk getting along at the tavern.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>End of the Duel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/1A95D949589BBA82E454A1D8344D02CD89C73859.PNG</Image>
+      <Description>Encounter a master-pupil showdown between Sterk and Gino.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Friendship, Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/F35926F0571BD99B0A23152325D876FFA7624D59.PNG</Image>
+      <Description>Help Totori and Mimi get along.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Drunkard Legend EX</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/E6DDDA945969C42B20CB154CFDB5644DF6DCEDD1.PNG</Image>
+      <Description>Suffer the indignity of a drunk's advances at the tavern.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Rorona Introduction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/1C5BFE607ACA85D05CACDB790354E24E2905D327.PNG</Image>
+      <Description>Watch as a legendary alchemist and her troupe visit the workshop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Masked Man Reappears</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/EACA7C9CC7996FAA3852A3B8D608F90B37EAB1D4.PNG</Image>
+      <Description>Run into Arland's manly masked crusader.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Secret Tea Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/894F7EBB8B612A6DB7E849ED6AB5AF7F19F6C661.PNG</Image>
+      <Description>Stumble upon Rufus's solitary tea time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Waterside Encounter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/20BE3F01256EE97115D7F854CAB025BC61633AFE.PNG</Image>
+      <Description>Discover Hanna as she bathes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>How Do I Look...?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/6DC9A4A70868AA79AB20E322BE93C10F112742D0.PNG</Image>
+      <Description>Force Keina to wear some princessly clothes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Girl's Bath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/B65108BA637580E7ACDBA48D732F7C0AFF84D404.PNG</Image>
+      <Description>Visit the hot spring with a group of all girls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Admission Ceremony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/DBE874F131FD8793EBE4EA786A9327AF7E8C5400.PNG</Image>
+      <Description>Reach the initial goal and help Arls merge with Arland.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Ominous Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/E43F7B482684913952193D20F3C7AF7B74F5889E.PNG</Image>
+      <Description>Battle the coffin-bound monster in the mine and emerge victorious.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>One from the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/18837D7036455B4F3959489790F569CD2011B4E9.PNG</Image>
+      <Description>Ascend to the ancient city and cast down the ruler of the sky.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>God of the Forest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/2C45E8893A3B0CB82EF1D545D5BCE203B0F0152E.PNG</Image>
+      <Description>Put the energetic spirit of the tree into an eternal slumber.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Presence of the Flame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/0C048639C4B6C7D4EDFFADBB8AC72E11EA9520AE.PNG</Image>
+      <Description>Subdue the Volcano Incarnate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Changing the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/31ACC84F888DF4AB4E1123CEB665F6B08FF7A6A3.PNG</Image>
+      <Description>Bring closure to the tragedy of Arls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Closer to God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/7D39565EBA4B17FF9771990EFC13B146F35664F7.PNG</Image>
+      <Description>Stare into the abyss and win out against the evil goddess.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Castle Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/5767013F22131E8307C8565CE8134491D4477847.PNG</Image>
+      <Description>Return to your boring life in the castle.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>A Rich Nation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/3470D78CB59B3A5607B6342CC86071755F4EDDE7.PNG</Image>
+      <Description>Make Arls rich, developing it into an agricultural powerhouse.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Now, Go Bravely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/B26638FE3EBA812E741BAA52B487D22A53FDB225.PNG</Image>
+      <Description>Arm Arls to the teeth and take command of it all.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Finally, As Planned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/4B3D4EBF96E65F78A65D5DE5609C00C5EC0488B2.PNG</Image>
+      <Description>Make friends with the forever-14 Rorolina Frixell.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Boy's Bath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/7C5FF2A67EA64E3F967A3ADA67AE2DB4A10B217A.PNG</Image>
+      <Description>Transform Arls into a grand vacation paradise.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Topsy-Turvy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/14D35D50369B6D8FED0DD402E4D8AE01C5DC4BA8.PNG</Image>
+      <Description>Take Arls's population to the limit and turn it into a superpower.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Strongest Princess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/C1F0E9BA391FA04BE5FE0C1A46D8ED8F172FB15B.PNG</Image>
+      <Description>Become a hero and the land's strongest princess.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Witch's Tea Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/9A69975FA6ADFFE354DFD495F869FA3A0280E18A.PNG</Image>
+      <Description>Master alchemy and together become feared
+as the Four Witches.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Miss Popular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/79F7C0D411A74DF399A9FD709588FA05CCDFC391.PNG</Image>
+      <Description>Gain popularity with everyone.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Alchemist! </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/BD8DB654A3EDE3BEB02CFA4B64FE36229C996C9B.PNG</Image>
+      <Description>Become an alchemist of Arland and open Atelier Meruru.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02558_00</GameId>
+      <Title>Meruru Statue Complete!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02558_00_FA7C12F64F9FE33B3D9DCBAFB801E5EE60FA306A/797D7BED3870FB952C8E967E886C3501D3400DEC.PNG</Image>
+      <Description>Construct a statue of Meruru to mark your achievements.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

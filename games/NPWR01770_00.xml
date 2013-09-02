@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01770_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Awesomenauts</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/96EC7F4BDE19845951E89D07933EFFE5E4BB2C77.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Yoooo JOE!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/5A6927EFD5D1CDEEEE8013126625CED994B886EE.PNG</Image>
+      <Description>Win an online game session.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Master of the Universe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/8974EF39F28230429321863D590E012A08157FF5.PNG</Image>
+      <Description>Reach max level.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Wings of Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/0837D9FF9D515C9B2AB1EEFEF1774EB415E529CD.PNG</Image>
+      <Description>Collect 35 Solar on a drop-pod drop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Silmer's evil twin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/15BC675652E76A7134B3CEC162E44B89183EB25A.PNG</Image>
+      <Description>Kill the Solar boss in an online game session.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Awesomenauts, roll out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/FDC8FC872F3E21E3FC7E6DFA971F9F2FA13D218B.PNG</Image>
+      <Description>Unlock 3 characters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Thunder, thunder, thunder!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/A3138BB102786920A6A5BF5CFD69F06AF22CC952.PNG</Image>
+      <Description>Get a killing spree.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>In pole position</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/F791FEFF7FEE097351D45D9E2C7AFF3B94D0D892.PNG</Image>
+      <Description>Make the most kills of both teams in an online game session.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Party at Sky Vault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/002582F82F8E450B24D1931E2833CF26D9074C1E.PNG</Image>
+      <Description>Win a game session with 2 friends splitscreen.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Let our powers combine!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/F8D4C681CAB7BB00427757C8E2A63AD829F4FC65.PNG</Image>
+      <Description>Play a game session with friends invited through the game session setup. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Bionic family</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/185F3CB35BF1331910A221706083FA1327BC2ED0.PNG</Image>
+      <Description>Win game sessions with six different characters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>T-U-R-R-E-T powah!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/565DD09F301CB81A2707CB37FF21304CAE574D71.PNG</Image>
+      <Description>Destroy 25 turrets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01770_00</GameId>
+      <Title>Hawk, wolf, puma and bear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01770_00_288627395BDEDC816E6B6FEB459D95C8CA68995D/E14AA6E445CF8FF29B9F1645559F4CDB258421D7.PNG</Image>
+      <Description>Kill 1000 droids/creeps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
