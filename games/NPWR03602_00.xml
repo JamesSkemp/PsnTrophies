@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR03602_00</Id>
     <IdEurope></IdEurope>
-    <Title>Need for Speed Most Wanted</Title>
+    <Title>Need for Speed™ Most Wanted</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03602_00_7F48CBEDD5B5B8EA89844C92ED1C0C1B062965BE/B5CF7DEDD77E99CA5F735A719C977AD6A3EB20D5.PNG</Image>
-    <TrophiesCount Total="47" Bronze="35" Silver="9" Gold="2" Platinum="1"/>
+    <TrophiesCount Total="47" Bronze="35" Silver="9" Gold="2" Platinum="1" />
     <TotalPoints>975</TotalPoints>
     <Platform>psp2</Platform>
   </Game>
@@ -141,7 +141,7 @@
       <GameId>NPWR03602_00</GameId>
       <Title>How Do You Like Me Now?</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03602_00_7F48CBEDD5B5B8EA89844C92ED1C0C1B062965BE/A5846DBEDB2FB7BD335A721A592240EE5210C105.PNG</Image>
-      <Description>Beat a friends Autolog Recommendation </Description>
+      <Description>Beat a friend’s Autolog Recommendation </Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -222,7 +222,7 @@
       <GameId>NPWR03602_00</GameId>
       <Title>In Your Face</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03602_00_7F48CBEDD5B5B8EA89844C92ED1C0C1B062965BE/1616A77DC6E7C535985A7593376A4B6E010B8033.PNG</Image>
-      <Description>Smash a friends face on a billboard and beat their jump distance</Description>
+      <Description>Smash a friend’s face on a billboard and beat their jump distance</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -249,7 +249,7 @@
       <GameId>NPWR03602_00</GameId>
       <Title>Charming</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03602_00_7F48CBEDD5B5B8EA89844C92ED1C0C1B062965BE/B92AF9916768D4B572842247A49D7A762C5DFB20.PNG</Image>
-      <Description>Shut down Most Wanted car number 9: Shelby COBRA 427 (Single Player)</Description>
+      <Description>Shut down Most Wanted car number 9: Shelby COBRA 427® (Single Player)</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -319,7 +319,7 @@
     <Trophy>
       <Id>35</Id>
       <GameId>NPWR03602_00</GameId>
-      <Title>Dont Blink</Title>
+      <Title>Don’t Blink</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03602_00_7F48CBEDD5B5B8EA89844C92ED1C0C1B062965BE/8BDFA1C6DAB8CE177ABF3F66AE8998ABEE2579BA.PNG</Image>
       <Description>Shut down Most Wanted car number 1: Koenigsegg Agera R (Single Player)</Description>
       <Type>SILVER</Type>

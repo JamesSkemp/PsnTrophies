@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR01719_00</Id>
     <IdEurope></IdEurope>
     <Title>Portal 2</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01719_00_13E029C2E3318069ED30D41DA97FA6DEAC8D0B9E/5932C7AF845A66527F9CBB8206B73E48B4EC33A4.PNG</Image>
-    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1"/>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
     <TotalPoints>1050</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -393,7 +393,7 @@
       <GameId>NPWR01719_00</GameId>
       <Title>Professor Portal</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01719_00_13E029C2E3318069ED30D41DA97FA6DEAC8D0B9E/75B46408CC3B211EB6EEEA821015A4F18864C31D.PNG</Image>
-      <Description>After completing co-op, complete Calibration Course online with a friend who hasnt played before</Description>
+      <Description>After completing co-op, complete Calibration Course online with a friend who hasn’t played before</Description>
       <Type>GOLD</Type>
       <Hidden>false</Hidden>
     </Trophy>

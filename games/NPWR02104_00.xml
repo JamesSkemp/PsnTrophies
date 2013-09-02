@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR02104_00</Id>
     <IdEurope></IdEurope>
     <Title>FIFA 12</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02104_00_F6FBC93A35603410CDAD6641BC28E2768ED3D7E4/BE7F73F4256CF9011D9C9C9BA9EDFEE467D5E912.PNG</Image>
-    <TrophiesCount Total="56" Bronze="37" Silver="17" Gold="1" Platinum="1"/>
+    <TrophiesCount Total="56" Bronze="37" Silver="17" Gold="1" Platinum="1" />
     <TotalPoints>1155</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -447,7 +447,7 @@
       <GameId>NPWR02104_00</GameId>
       <Title>My Euro</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02104_00_F6FBC93A35603410CDAD6641BC28E2768ED3D7E4/FD17B3886497997D95F5AA08E0D13C81577294D2.PNG</Image>
-      <Description>Win a match in each UEFA EURO 2012 game mode</Description>
+      <Description>Win a match in each UEFA EURO 2012™ game mode</Description>
       <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -456,7 +456,7 @@
       <GameId>NPWR02104_00</GameId>
       <Title>Glory Moment</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02104_00_F6FBC93A35603410CDAD6641BC28E2768ED3D7E4/4E106476EF73524355BCD4926240E6D44A66DBF3.PNG</Image>
-      <Description>Win Online UEFA EURO 2012</Description>
+      <Description>Win Online UEFA EURO 2012™</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -465,7 +465,7 @@
       <GameId>NPWR02104_00</GameId>
       <Title>Creating History Together</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02104_00_F6FBC93A35603410CDAD6641BC28E2768ED3D7E4/594E7E50D893005B8216F55B887BD0566B8E90A7.PNG</Image>
-      <Description>Win UEFA EURO 2012 with more than 1 user playing for the same team in all 6 matches</Description>
+      <Description>Win UEFA EURO 2012™ with more than 1 user playing for the same team in all 6 matches</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -474,7 +474,7 @@
       <GameId>NPWR02104_00</GameId>
       <Title>We Are The Champions</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02104_00_F6FBC93A35603410CDAD6641BC28E2768ED3D7E4/0E97EA13F673727A883639C7145F904AA695B9D0.PNG</Image>
-      <Description>Win UEFA EURO 2012</Description>
+      <Description>Win UEFA EURO 2012™</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>

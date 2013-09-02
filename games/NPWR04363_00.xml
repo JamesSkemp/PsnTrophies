@@ -1,29 +1,29 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR04363_00</Id>
     <IdEurope></IdEurope>
     <Title>Thomas Was Alone</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04363_00_0155B3F95EC9C56099FF7C89E2AD2D537AC3FB733C/794C6221AC80B8D380443151148E52A874B6CA32.PNG</Image>
-    <TrophiesCount Total="15" Bronze="56" Silver="17" Gold="5" Platinum="1"/>
+    <TrophiesCount Total="15" Bronze="13" Silver="1" Gold="1" Platinum="0" />
     <TotalPoints>315</TotalPoints>
-    <Platform>ps3</Platform>
+    <Platform>ps3,psp2</Platform>
   </Game>
   <Trophies>
     <Trophy>
       <Id>1</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Thomas Was Not Alone</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/001_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_1.png</Image>
       <Description>Finish the game.</Description>
       <Type>GOLD</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>2</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Experienced Jumper</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/002_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_2.png</Image>
       <Description>Jump 1600 times.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -32,7 +32,7 @@
       <Id>3</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Mr Lonely</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/003_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_3.png</Image>
       <Description>Find both trophy pickups in 'Spawn'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -41,7 +41,7 @@
       <Id>4</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Three Amigos</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/004_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_4.png</Image>
       <Description>Find both trophy pickups in 'Array'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -50,7 +50,7 @@
       <Id>5</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>The Golden Fleece</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/005_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_5.png</Image>
       <Description>Find both trophy pickups in 'Origin'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -59,7 +59,7 @@
       <Id>6</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>True Romance</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/006_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_6.png</Image>
       <Description>Find both trophy pickups in 'Associations'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -68,8 +68,17 @@
       <Id>7</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Lone Survivor</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/007_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_7.png</Image>
       <Description>Find both trophy pickups in 'Purge'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04363_00</GameId>
+      <Title>Defying Gravity</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_8.png</Image>
+      <Description>Find both trophy pickups in 'Invert'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -77,7 +86,7 @@
       <Id>9</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>A Noble Quest</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/009_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_9.png</Image>
       <Description>Find both trophy pickups in 'Iterate'.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -86,26 +95,8 @@
       <Id>10</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Creativity</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/010_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_10.png</Image>
       <Description>Find both trophy pickups in 'Design'.</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>8</Id>
-      <GameId>NPWR04363_00</GameId>
-      <Title>Defying Gravity</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/008_l.png</Image>
-      <Description>Find both trophy pickups in 'Invert'.</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>12</Id>
-      <GameId>NPWR04363_00</GameId>
-      <Title>Exit Through the Gift Shop</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/012_l.png</Image>
-      <Description>Find both trophy pickups in 'Y+1, X+1'.	</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -113,16 +104,34 @@
       <Id>11</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Desaturated</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/011_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_11.png</Image>
       <Description>Find both trophy pickups in 'Generation'.</Description>
       <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04363_00</GameId>
+      <Title>Exit Through the Gift Shop</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_12.png</Image>
+      <Description>Find both trophy pickups in 'Y+1, X+1'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04363_00</GameId>
+      <Title>The Collection</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_13.png</Image>
+      <Description>Find all trophy pickups in the game.</Description>
+      <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
       <Id>14</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Huge Success</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/014_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_14.png</Image>
       <Description>Die 100 times.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
@@ -131,7 +140,7 @@
       <Id>15</Id>
       <GameId>NPWR04363_00</GameId>
       <Title>Part of the Problem</Title>
-      <Image>http://www.pslife.dk/i/games/NPWR04363_00/015_l.png</Image>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR04363_00_15.png</Image>
       <Description>Bounce on Laura 100 times.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>

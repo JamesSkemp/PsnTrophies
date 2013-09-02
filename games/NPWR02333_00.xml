@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR02333_00</Id>
     <IdEurope></IdEurope>
-    <Title>WipEout 2048</Title>
+    <Title>WipEout® 2048</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/F70D61AA8AC53AA5D7F71A88272F26F9904767F1.PNG</Image>
-    <TrophiesCount Total="53" Bronze="33" Silver="13" Gold="6" Platinum="1"/>
+    <TrophiesCount Total="53" Bronze="33" Silver="13" Gold="6" Platinum="1" />
     <TotalPoints>1425</TotalPoints>
     <Platform>psp2</Platform>
   </Game>
@@ -13,9 +13,9 @@
     <Trophy>
       <Id>1</Id>
       <GameId>NPWR02333_00</GameId>
-      <Title>This is WipEout!</Title>
+      <Title>This is WipEout®!</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/3288D15C41DCCD0A603B648E9D66A226761D90DC.PNG</Image>
-      <Description>Obtain every Trophy in WipEout 2048</Description>
+      <Description>Obtain every Trophy in WipEout® 2048</Description>
       <Type>PLATINUM</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -373,18 +373,18 @@
     <Trophy>
       <Id>41</Id>
       <GameId>NPWR02333_00</GameId>
-      <Title>2048 - WipEout HD All Complete</Title>
+      <Title>2048 - WipEout® HD All Complete</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/C54ED589B483F1B905A617A415093886A53BA3B5.PNG</Image>
-      <Description>Complete all WipEout HD events, obtaining any medal</Description>
+      <Description>Complete all WipEout® HD events, obtaining any medal</Description>
       <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
       <Id>42</Id>
       <GameId>NPWR02333_00</GameId>
-      <Title>2048 - WipEout HD All Gold</Title>
+      <Title>2048 - WipEout® HD All Gold</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/6362D3E061DEAB22083F327FDAD034F1AC63C3CE.PNG</Image>
-      <Description>Complete all WipEout HD events, obtaining all Gold medals</Description>
+      <Description>Complete all WipEout® HD events, obtaining all Gold medals</Description>
       <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -472,18 +472,18 @@
     <Trophy>
       <Id>52</Id>
       <GameId>NPWR02333_00</GameId>
-      <Title>2048 - WipEout HD Fury All Complete</Title>
+      <Title>2048 - WipEout® HD Fury All Complete</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/0304149A3EC6AF882B62CCA6484A991F32333EC7.PNG</Image>
-      <Description>Complete all WipEout HD Fury events, obtaining any medal</Description>
+      <Description>Complete all WipEout® HD Fury events, obtaining any medal</Description>
       <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
       <Id>53</Id>
       <GameId>NPWR02333_00</GameId>
-      <Title>2048 - WipEout HD Fury All Gold</Title>
+      <Title>2048 - WipEout® HD Fury All Gold</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02333_00_B8B4A5EFD4DA6015511500255D0B9F1ECBA51A4F/39B0548830B345EA5A84760DB56D5C99B0214522.PNG</Image>
-      <Description>Complete all WipEout HD Fury events, obtaining all Gold medals</Description>
+      <Description>Complete all WipEout® HD Fury events, obtaining all Gold medals</Description>
       <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>

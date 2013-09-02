@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR04420_00</Id>
     <IdEurope></IdEurope>
-    <Title>Velocity Ultra</Title>
+    <Title>Velocity®Ultra</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04420_00_00ED1E8A1100295A523331674B8B5A70130D4B805B/95F3EC84334F7A7EEC376CE86EFEF5F5E657EB8A.PNG</Image>
-    <TrophiesCount Total="31" Bronze="14" Silver="10" Gold="06" Platinum="1"/>
+    <TrophiesCount Total="31" Bronze="14" Silver="10" Gold="6" Platinum="1" />
     <TotalPoints>1050</TotalPoints>
     <Platform>psp2</Platform>
   </Game>
@@ -19,7 +19,7 @@
       <Type>PLATINUM</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>2</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Velocity</Title>
@@ -28,7 +28,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>3</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Face Palm Napalm</Title>
@@ -37,7 +37,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>4</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Kangaroo Fuel</Title>
@@ -45,8 +45,8 @@
       <Description>Hit boost 100 times in a zone.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
-    </Trophy>  
-	<Trophy>
+    </Trophy>
+    <Trophy>
       <Id>5</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Deadly</Title>
@@ -55,7 +55,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>6</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Discoverer</Title>
@@ -64,7 +64,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>7</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Explorer</Title>
@@ -73,7 +73,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>8</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Double Whammy</Title>
@@ -82,7 +82,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>9</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Manhattan</Title>
@@ -91,7 +91,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>10</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Nakatomi</Title>
@@ -100,7 +100,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>11</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>The Force</Title>
@@ -109,7 +109,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>12</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Dark Side</Title>
@@ -118,7 +118,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>13</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Triple Whammy</Title>
@@ -127,7 +127,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>14</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Taking All The Credit</Title>
@@ -136,7 +136,7 @@
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
-	<Trophy>
+    <Trophy>
       <Id>15</Id>
       <GameId>NPWR04420_00</GameId>
       <Title>Slacker</Title>

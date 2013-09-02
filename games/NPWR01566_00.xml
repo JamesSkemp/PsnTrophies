@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR01566_00</Id>
     <IdEurope></IdEurope>
-    <Title>Hitman: Absolution</Title>
+    <Title>Hitman: Absolution™</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01566_00_22A2E67352BDB551F70EAD2A09B65D6973295A8D/FAFACAB4D18E13C52CBA09A9DD244B89BDF0216C.PNG</Image>
-    <TrophiesCount Total="47" Bronze="32" Silver="12" Gold="2" Platinum="1"/>
+    <TrophiesCount Total="47" Bronze="32" Silver="12" Gold="2" Platinum="1" />
     <TotalPoints>1020</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -204,7 +204,7 @@
       <GameId>NPWR01566_00</GameId>
       <Title>True Form</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01566_00_22A2E67352BDB551F70EAD2A09B65D6973295A8D/4292527BF12481C6A05E1EF7577C1EFAC15B1417.PNG</Image>
-      <Description>Acquire suit </Description>
+      <Description>Acquire suit &amp; gloves</Description>
       <Type>BRONZE</Type>
       <Hidden>true</Hidden>
     </Trophy>
@@ -240,7 +240,7 @@
       <GameId>NPWR01566_00</GameId>
       <Title>Absolution</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01566_00_22A2E67352BDB551F70EAD2A09B65D6973295A8D/4999957024F6CFC53BBD1F0FC2079FBBDC763509.PNG</Image>
-      <Description>Complete Hitman: Absolution on any professional difficulty</Description>
+      <Description>Complete Hitman: Absolution™ on any professional difficulty</Description>
       <Type>GOLD</Type>
       <Hidden>false</Hidden>
     </Trophy>

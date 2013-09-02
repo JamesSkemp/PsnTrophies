@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR02553_00</Id>
     <IdEurope></IdEurope>
     <Title>Kingdoms of Amalur: Reckoning</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02553_00_608C9874ED7EEB61B1A6A0D73C2DFD14FB099497/A37E8C83F3064CAFE428400D4A9D78FB0FB3284B.PNG</Image>
-    <TrophiesCount Total="62" Bronze="49" Silver="8" Gold="4" Platinum="1"/>
+    <TrophiesCount Total="62" Bronze="49" Silver="8" Gold="4" Platinum="1" />
     <TotalPoints>1335</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -519,7 +519,7 @@
       <GameId>NPWR02553_00</GameId>
       <Title>The Harder They Fall</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02553_00_608C9874ED7EEB61B1A6A0D73C2DFD14FB099497/CE9903E680A1276537624C714833BD5E5F799415.PNG</Image>
-      <Description>Youve bested Kahrunk without killing his attendants.</Description>
+      <Description>You’ve bested Kahrunk without killing his attendants.</Description>
       <Type>BRONZE</Type>
       <Hidden>true</Hidden>
     </Trophy>
@@ -537,7 +537,7 @@
       <GameId>NPWR02553_00</GameId>
       <Title>Mistaken Identity</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02553_00_608C9874ED7EEB61B1A6A0D73C2DFD14FB099497/F9E3E835360A2B46C413C5F104E9FA2ECECA0C45.PNG</Image>
-      <Description>Youve found a strange Almain who has been hiding in the sewers of Idylla.</Description>
+      <Description>You’ve found a strange Almain who has been hiding in the sewers of Idylla.</Description>
       <Type>BRONZE</Type>
       <Hidden>true</Hidden>
     </Trophy>

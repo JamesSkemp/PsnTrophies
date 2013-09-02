@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR00651_00</Id>
     <IdEurope></IdEurope>
     <Title>Gran Turismo 5</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00651_00_513DD9E0BDAE3CC693A68E90BF48070D1E493C6C/B69CC21A10EE830CED9BED413E52B3421A0BE90B.PNG</Image>
-    <TrophiesCount Total="59" Bronze="54" Silver="3" Gold="1" Platinum="1"/>
+    <TrophiesCount Total="59" Bronze="53" Silver="4" Gold="1" Platinum="1" />
     <TotalPoints>1005</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -184,9 +184,9 @@
     <Trophy>
       <Id>20</Id>
       <GameId>NPWR00651_00</GameId>
-      <Title>Sbastien Loeb Rally Challenge</Title>
+      <Title>Sébastien Loeb Rally Challenge</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00651_00_513DD9E0BDAE3CC693A68E90BF48070D1E493C6C/FD08742BD643FC40C0B5104E6D0F5CE7BF7C3FD6.PNG</Image>
-      <Description>Complete the "Sbastien Loeb Rally Challenge" Special Event.</Description>
+      <Description>Complete the "Sébastien Loeb Rally Challenge" Special Event.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -429,7 +429,9 @@
       <GameId>NPWR00651_00</GameId>
       <Title>Arch Rivals</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00651_00_513DD9E0BDAE3CC693A68E90BF48070D1E493C6C/58660BA462503FC632C157E7A04E90DFA30B4CBA.PNG</Image>
-      <Description>Achieve a one-two finish in a Mitsubishi Lancer Evolution X and a Subaru IMPREZA WRX STI.(Must be the Lancer Evolution X GSR P.P. '07, and either the IMPREZA WRX STI '07 or the IMPREZA Sedan WRX STI '10.)</Description>
+      <Description>Achieve a one-two finish in a Mitsubishi Lancer Evolution X and a Subaru IMPREZA WRX STI.
+(Must be the Lancer Evolution X GSR P.P. '07, 
+and either the IMPREZA WRX STI '07 or the IMPREZA Sedan WRX STI '10.)</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
@@ -447,7 +449,8 @@
       <GameId>NPWR00651_00</GameId>
       <Title>GT-R Official Record</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00651_00_513DD9E0BDAE3CC693A68E90BF48070D1E493C6C/392E860A0DD19C93687BC94CE5104EF69E959C99.PNG</Image>
-      <Description>Achieve a time of 7'29.03 on the Nrburgring Nordschleife in a Nissan GT-R '07. The record must be achieved in a Time Trial in the Arcade mode version of the car with tires of Sports Hard grade or lower equipped.</Description>
+      <Description>Achieve a time of 7'29.03 on the NÃ¼rburgring Nordschleife in a Nissan GT-R '07. 
+The record must be achieved in a Time Trial in the Arcade mode version of the car with tires of Sports Hard grade or lower equipped.</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>

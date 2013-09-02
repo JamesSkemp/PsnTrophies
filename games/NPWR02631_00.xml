@@ -1,11 +1,11 @@
-<?xml version="1.0"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
   <Game>
     <Id>NPWR02631_00</Id>
     <IdEurope></IdEurope>
     <Title>Skyrim</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02631_00_0188A1B1EC9C21229A6BB0EECAEEECE871A8889D10/BFBE4DA656F0ED55B8D973ABDEC27628EE48C845.PNG</Image>
-    <TrophiesCount Total="76" Bronze="54" Silver="20" Gold="1" Platinum="1"/>
+    <TrophiesCount Total="76" Bronze="54" Silver="20" Gold="1" Platinum="1" />
     <TotalPoints>1500</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
@@ -175,7 +175,7 @@
     <Trophy>
       <Id>19</Id>
       <GameId>NPWR02631_00</GameId>
-      <Title>With Friends Like These</Title>
+      <Title>With Friends Like These…</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02631_00_95497FBD204F38224C6536E9D88098D62FF3DA33/EDB6C82B2FBCEA39EEC93A0C09449B75538483DC.PNG</Image>
       <Description>Join the Dark Brotherhood</Description>
       <Type>BRONZE</Type>
