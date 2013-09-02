@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00291_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Resistance 2™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/2BF428F4F0376A092E7B7F8A8E0F69FE5446F1F7.PNG</Image>
+    <TrophiesCount Total="39" Bronze="26" Silver="8" Gold="4" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/FA20E4B0A9D23FA01D29F09E329134CE9C13BF61.PNG</Image>
+      <Description>Obtain all Gold, Silver, and Bronze Trophies for Resistance 2™</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Rampage!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/E8FA6591E1AE0217211F65A74B92E4DC9946455F.PNG</Image>
+      <Description>Kill 40 hybrids in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Covert Ops</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/006EFB6451E35E5CB3752D245E6C1DC55E71C6E5.PNG</Image>
+      <Description>Collect 5 pieces of Intel in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Recycler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/C2549B68AD2FA67D55EF473D7275FD8998B92017.PNG</Image>
+      <Description>Defeat the Goliath in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Fried Calamari</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/E9540E2604F64B1A83DE7BE8B33D36FADBF67AE0.PNG</Image>
+      <Description>Defeat the Kraken in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/83D6EA16C335B4916F2EC4145A547D17725B9A3D.PNG</Image>
+      <Description>Defeat the Mother Spinner in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Flyswatter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/459FE0094A2E564A94CE9AF5D7121A4787F1A4CE.PNG</Image>
+      <Description>Defeat the Swarm in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>The Bigger They Are</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/67EA36B2E9E9E074A52DA8D7E6E21B9DF3A36E3D.PNG</Image>
+      <Description>Defeat the Leviathan in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Big Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/B062B34684D31EBD273CEC9F643F51A321B22329.PNG</Image>
+      <Description>Defeat the Marauder in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Nowhere to Hide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/8BEDB0491C00421E46EC3F5F1A68FF9D0A753188.PNG</Image>
+      <Description>Tag and kill 30 enemies with the Bullseye in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/704CE7FD6FE6D01B86827707A5FB8233D39B5FCD.PNG</Image>
+      <Description>Get 30 headshots while scoped in with the Fareye or Marksman in the Single Player Campaign. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Explosives Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/7D7C315955006DED0A13C20E1367CC4F98214973.PNG</Image>
+      <Description>Get 150 kills with the Carbine 40mm, LAARK, or Frag Grenade in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>They Go "Boom"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/9B906EE1BD798883888877E0BFA569ACA8A482DC.PNG</Image>
+      <Description>Get 30 kills with the Magnum secondary fire in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Pyromaniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/EFC378EE2E419BFCBEB6A477E60F5F96C8D9E391.PNG</Image>
+      <Description>Set 100 enemies of fire with the Bellock Semi-Automic, Air-Fuel Grenade, Spider Grenade, or environmental hazard in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Spitting Lead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/DD9963B8571C8AC58EAD19096DC7F84C0286FCAD.PNG</Image>
+      <Description>Kill 50 enemies using the Wraith with the force barrier engaged in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>I See You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/CA5C3C95045ED14F1C2B0BA20F8ACF8D39F22C82.PNG</Image>
+      <Description>Kill 50 enemies through solid matter with the Auger in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Talk To The Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/1A2C5ECCDBBE8F8A6929135A5A553EFAE47E8B03.PNG</Image>
+      <Description>Use the Auger force barrier to stop 150 incoming enemy shots in the single player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>For Close Encounters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/733B3253DAC58111175770F467F6E1F3BDCFE499.PNG</Image>
+      <Description>Get 10 one-hit head-shot kills with the Shotgun in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Pincushion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/E0964BEFFBB860D189CF244A6B91B2471E6E6497.PNG</Image>
+      <Description>Get 50 kills with the Hedgehog in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Up Close and Personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/73C49D8F1A63F5D0638519D810A6A8D664036C6C.PNG</Image>
+      <Description>Get 50 melee kills with any weapon in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Wrecking Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/660DAFF7344AFE2C21961E79E7D25301E8C9D456.PNG</Image>
+      <Description>Destroy 40 vehicles in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Mind Your Surroundings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/D0C97DB73D26C0C776EB8B8C8186D7ED34941FD6.PNG</Image>
+      <Description>Get 50 indirect kills using explosive objects in levels in the Single Player Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Salute Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/709792E47A13E815512BD0883378371197091CA0.PNG</Image>
+      <Description>Achieve the rank of Lieutenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Exotic Weapon Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/959B05CABF1AF8F4AAF5A80059F1909C03063261.PNG</Image>
+      <Description>Get 20 kills with each weapon in the Single Player Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Master Spy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/B98C4AE5071814070F3032B8E6F3BCDACBC6A1D4.PNG</Image>
+      <Description>Collect all the Intel documents in the Single Player Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Snipe Hunt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/E1AAC72563387E9A808FB22C082C4C5032122CB5.PNG</Image>
+      <Description>Kill 30 Spinners in the Single Player Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Xenocide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/9C17080438C4A6A34E63550673A561CA8BE55052.PNG</Image>
+      <Description>Kill 1000 enemies in the Single Player Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>R.I.P. Jordan Shepherd</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/0CFDFB61D7B8C5A3B86DDDDF06A326CC14030CC5.PNG</Image>
+      <Description>Defeat Daedalus, Complete the Single Player Campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>OMGWTFBBQ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/DA6DC70B4A13FBE3F1812D4D62430FED10476DFA.PNG</Image>
+      <Description>Complete the Single Player Campaign on Superhuman.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Berserker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/9D66E59B0E6CD1AB59B6637D33DE5606086E962E.PNG</Image>
+      <Description>Use every berserk at least once in Online Competitive Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Point Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/AC938FFF72A2146EE4BCE442C2FBCD506967BD33.PNG</Image>
+      <Description>Earn 1 million XP from ranked games in online Competitive mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Killing Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/02A084EDB158AB323405D7F6B0ABE5C5624938E5.PNG</Image>
+      <Description>Score 10,000 kills in ranked matches in Online Competitive Multiplayer.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Specter Recon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/79331EFC7325F5757F893B60558C9131EF87DC45.PNG</Image>
+      <Description>Collect 50 pieces of gray tech in the Cooperative Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Specter Initiate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/143B3F7394A66D1681C6D423D34C75C03C8BA1F3.PNG</Image>
+      <Description>Complete 20 missions in the Cooperative Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/81F7B99294ADF649A03B02935FE21EDDE5F871F9.PNG</Image>
+      <Description>Complete 5 missions with a full party of 8 in the Cooperative Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Tour of Duty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/40C576FC44339F7AA514DE84608BF5C7C437DD9C.PNG</Image>
+      <Description>Complete one mission on each region in the Cooperative Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Specter Officer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/5D6BB41202873458C5F60B616685DA5CF6248E8C.PNG</Image>
+      <Description>Reach max level (30) with one class in the Cooperative Campaign. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Primarch Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/07377A0F69B681807C54D624F35AB0C79FA2306E.PNG</Image>
+      <Description>Kill 200 Elite Chimerans in the Cooperative Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00291_00</GameId>
+      <Title>Specter Intel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00291_00_6D1AC4B1985B4491916C7B2E58C3C07B9C3C253A/514D6ADE4C1232F2E833CD78A3FFC67EED82C40B.PNG</Image>
+      <Description>Collect all Intel in the Cooperative Campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

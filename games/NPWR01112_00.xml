@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01112_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Prince of Persia The Forgotten Sands™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/3694C8B83854F512D8487C50C06A75F58F848549.PNG</Image>
+    <TrophiesCount Total="41" Bronze="26" Silver="10" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Sand Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/69B4B12C7209047A3460C1B0B976603644D4196F.PNG</Image>
+      <Description>Unlock all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Memories of Azad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/1026659A0ADDD433772FB83A02CADCF24C27A76A.PNG</Image>
+      <Description>Reach the thick of the battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>A Warm Welcome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/142865D6D6F94B313CA5D6BE52077C857A4F2D3F.PNG</Image>
+      <Description>Catch up to Malik.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Solomon's Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/07795DEC8641D99C978C98C495714A9AA32A889D.PNG</Image>
+      <Description>Release Solomon's Army.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Just us and them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/D8BDAF4B3408BE182E561BBF52FA942912D0928A.PNG</Image>
+      <Description>Close the fortress gates.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Not what it looks like</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/3EF2C38EC7106FEDF3A375032D5F9962F896D049.PNG</Image>
+      <Description>Defeat Ratash.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>No longer human</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/7B550900D6DF9C27123A26B8F335CD029F7CAB80.PNG</Image>
+      <Description>Suffered defeat at Malik's hands.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Welcome to Rekem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/D1EF8BDA3EC5FA0ACDB8F6050E066C8466FDA8AF.PNG</Image>
+      <Description>Arrived in Razia's city.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Power of the Djinn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/D9615885780D2AD5E54DE9A5A8BFADD869A58C8E.PNG</Image>
+      <Description>Razia becomes part of sword.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Eye of the Storm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/B2D9DBF877A78366224AD8B79A5E342974320333.PNG</Image>
+      <Description>Reach the final fight.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>End of the Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/DDFF31E90F68983DD97FF50525CC1267CD6E91C3.PNG</Image>
+      <Description>Complete the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Prince of Tides</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/57EB30CC4FEC7A07548D5F0C4BDBDA0DA5311295.PNG</Image>
+      <Description>Complete the Enemy Tides Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Power Boost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/612D75334D36AEA1F3FE3C5F4387EDF4F9D69991.PNG</Image>
+      <Description>Find and break a sarcophagus.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Got Walkthrough?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/1061555C806908DE3E01DD0D248EAEF052D18F71.PNG</Image>
+      <Description>Find and break every sarcophagus.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/A321FDF931B7E0BFAAD2D19B32DF7C43AD973A36.PNG</Image>
+      <Description>Purchase every item in the upgrade menu.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Anger Management</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/45BEB742B1EDE2D95FA643138016664075DFE20C.PNG</Image>
+      <Description>Break 100 vases and sarcophagi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Sand Nemesis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/C43B09F3F793AF90D62808AF3C0647481D1A9F15.PNG</Image>
+      <Description>Kill 50 enemies in a row without being hit and without using upgrade powers or the Power of Time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>And King of Blades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/09E4F89B57367161D2F408A0277E5FD5D460E0E5.PNG</Image>
+      <Description>Kill 500 enemies with the sword.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Acrobat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/D3522DE955E4593B3ECBE400941BEEF2B93E411E.PNG</Image>
+      <Description>Jump on enemies 30 times in a row without falling or using the Power of Time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Like Dominoes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/F68DE9C44A7217185867169969D45589FA38F7C6.PNG</Image>
+      <Description>Knock down 5 enemies with one kick.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Floors are for losers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/EAD0E47882CCBD189893BA6A554686B8C9E41C97.PNG</Image>
+      <Description>Wall run for a total of 1/2 mile (805 meters).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Stay Dry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/3D6D65A99A7FACDCE8CEAF8104FE2287C7D416F0.PNG</Image>
+      <Description>Move on solidified water for 1 minute without using the Power of Time.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/6DFD3F78616FC15C37B075EBE24A294F3DCD50D9.PNG</Image>
+      <Description>Defeat Ratash in the Throne Room wihout taking any damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Death from Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/5933F747BF276421DCD21F8F426946350C3FC5E4.PNG</Image>
+      <Description>Finish off 10 enemies in a row using only the Aerial Slash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Invincible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/144703D39F874EEE60420102BF9EDD039F4180BC.PNG</Image>
+      <Description>Finish the final battle against Ratash without taking any damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Our Little Secret</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/03F58C2E31AABDF682259E02CC8A3EDD9C838403.PNG</Image>
+      <Description>Don't worry. We won't tell if you don't.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>And stay down!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/CAF93FD747E0A64ABA5A14FA9B9439CB2F3C9200.PNG</Image>
+      <Description>Use the finishing lunge 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Air Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/5FBCF4364EB76AE9B4BB6CFC2F33BAE44BF97CCF.PNG</Image>
+      <Description>Perform 20 Aerial Slash attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>David and Goliath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/3594AA1D95D34E1E0F65665E37B0558BC1FDDAF9.PNG</Image>
+      <Description>Finish 5 titans with the Aerial Slash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>This is Persia!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/30E474F84807FBBD8EE140B19565110102D2C22A.PNG</Image>
+      <Description>Kick 20 enemies off of ledges.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Attack from all angles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/5FA316C7AE1441CB79C45A72FBB7458815B641AC.PNG</Image>
+      <Description>Knock down 15 enemies using the aerial kick.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Swift as the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/D84F4AC825FD29A8BAFF0117957F5E05A6604DDD.PNG</Image>
+      <Description>Defeat 30 enemies using the Power of Flight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Big Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/9A49CE5598D165AB3235092236AFB28838092F2E.PNG</Image>
+      <Description>Defeat an enemy by doing a power attack on the fifth hit in a combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Elemental Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/01EC8EDA82BA311CE53BCEBDC223E647D441F4FE.PNG</Image>
+      <Description>Upgrade one power to level 4.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Ding! Level Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/8C4153FCC6E128B7702B1EBB021CF9AD8C84FF20.PNG</Image>
+      <Description>Purchase your first upgrade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Close Call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/82DC28155473AA573491F479CF68A8660B18BF0F.PNG</Image>
+      <Description>Save the Prince's life by using the Power of Time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Not how it Happened</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/BFED21476B2DD47D98D8BBCACE64839CB55FE62E.PNG</Image>
+      <Description>Use the Power of Time 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Prince of Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/011D885C54DDB67CF367490EBA6E2FF81660A807.PNG</Image>
+      <Description>Defeat 50 enemies using the Flame Trail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Prince of Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/EF7F207AC48656D9996D1B93DC096794AB5BBC36.PNG</Image>
+      <Description>Defeat 50 enemies while using the Stone Armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Prince of Water</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/EA9CCB087BCF128F12D8B728C30230F369A29399.PNG</Image>
+      <Description>Defeat 50 enemies using the Ice Blast.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01112_00</GameId>
+      <Title>Prince of Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01112_00_C5BBC87E5E8F96706840B81BF5C57509767502E6/4FF8E20190B423E79D50E32445B0E44F4A2C9D9B.PNG</Image>
+      <Description>Defeat 50 enemies using the Whirlwind.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

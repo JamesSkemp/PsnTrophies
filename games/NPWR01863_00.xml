@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01863_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Call of Juarez®: The Cartel</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/F20B08EE088FA0808D5595C6F9EB9F228AD530A6.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Ace of Spades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/F8A92D21A74ED2C355CFF43CF722DAD8E680D4A7.PNG</Image>
+      <Description>Collect all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Police Academy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/97C51DE3CB7215D6BFFCCC51103E80F8EE7196DB.PNG</Image>
+      <Description>Finish the first chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Alba Varden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/F40CAA1613AF8E98ECBFE5E8036F5251BC0CE0BE.PNG</Image>
+      <Description>Witness ship destruction on the Docks level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Rubber Duck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/93C8B8CBF3EA7ECD2556307A50EF0FADA60DA04B.PNG</Image>
+      <Description>Successfully drive off the highway on Convoy level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Wild West</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/580468C41311ECBA0A6A0A2F2543D1A6F5B375F0.PNG</Image>
+      <Description>Enter the Ghost Town.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>The Border Crossed Us!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/89BE81FD2F93BA93265E552F3BD147A36A0E0E86.PNG</Image>
+      <Description>Cross U.S.–Mexican border.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Don't miss the train</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/094533D996C98B928B3CA2F1D9B5E1D934FF5D90.PNG</Image>
+      <Description>Successfully manage to pass the train on Juan Chase level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Police, everybody down!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/AB94F728D956CA3DD7853B0035490B5BC2085398.PNG</Image>
+      <Description>Complete the game playing as Ben McCall.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>FBI! Don’t move!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/DD28ADAD9C8E827CE84C9B104EA45468A877563E.PNG</Image>
+      <Description>Complete the game playing as Kim Evans.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>DEA, keep your hands up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/24EB415EDC7EE715697626930454BAB356BA048B.PNG</Image>
+      <Description>Complete the game playing as Eddie Guerra.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Good Cop, Bad Cop &amp; The Ugly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/6C7FA795AAA8C0B9D418C59235F43818AC00E992.PNG</Image>
+      <Description>Complete the campaign mode playing all 3 different characters.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Clean shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/03808CB30BA095ABEC1610C2CC79F294DB2846DA.PNG</Image>
+      <Description>Complete the campaign mode without killing any civilian.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Do you feel lucky, punk?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/0BBA4E3DD9D4DF0D644D838373A07D5089605DD7.PNG</Image>
+      <Description>Complete the campaign mode on hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Rio Bravo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/6FDFBB7DDD80E9E7C00E04CA84090A968FC2BEB9.PNG</Image>
+      <Description>Kill 100 enemies using revolvers.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Driving lessons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/29183687F61B3AA6398E940657D440EFB1CFD123.PNG</Image>
+      <Description>Kill at least 10 enemies by ramming them with a vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Brain Surgery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/B3833686E8752E67EE19B930ABAE172D646C1C48.PNG</Image>
+      <Description>Kill 50 enemies with headshots.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Gunslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/F5E7FD3D5353131A23AB4FBE84D17C4C356E94FA.PNG</Image>
+      <Description>Kill 20 enemies using dual-wielded firearms.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Texas Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/5025860F9F6C676C353E728FCA474CC7D124EFA9.PNG</Image>
+      <Description>Disable 20 enemies with your bare fists.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Time is on my side</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/3276BC9FE6F9C3C6168512465644A5672DE78974.PNG</Image>
+      <Description>Kill 50 enemies while having Concentration Mode active.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Drive-by</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/025456282CFFE438E57069ACB405BDFD6B3A22AE.PNG</Image>
+      <Description>While riding in a car, shoot 50 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Move! Moving!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/D4AC39424765BA9A39A718B092FA6F0CBBD7B7B9.PNG</Image>
+      <Description>Kill 30 enemies by using the Team Cover technique.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Heat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/F53DDB23DB7B83A477BF18E0AAE356AD2688F767.PNG</Image>
+      <Description>Destroy 20 cars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>High Noon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/940EB11EA39D11AE3B7AB460087897BD77468790.PNG</Image>
+      <Description>Kill at least 3 enemies between 12.00-12.05 local time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Chain reaction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/FC5D6ACDD34C95F15CDD4C82E6F856CE3FA7BBF3.PNG</Image>
+      <Description>Kill at least 20 enemies by exploding nearby vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>F.R.A.G.S</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/217A5DF65895EFDC5F6DA014C40D755E28E55A53.PNG</Image>
+      <Description>Kill 10 enemies using grenades.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>SloMo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/BC1C66DDCEF21B36433F2C2EFA6735836C21B217.PNG</Image>
+      <Description>Kill at least 4 enemies during a single Concentration Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Tomb Raider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/C2510F1A2284A0C6F48DE476CE979121025D3BA1.PNG</Image>
+      <Description>Go through cemetery in less than 3 minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Guns. Lots of guns.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/B5E85662A6FB066E6840D6E74D707B95DC48A8B4.PNG</Image>
+      <Description>Use 10 different weapons to kill enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Deadly Ballet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/5C82F9953F26E9C04DBB3CD7818E365F06B3FA9F.PNG</Image>
+      <Description>In a three-player co-op game, make sure everyone scores at least one kill during Team Entry.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Berserker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/FE1EC54FBCAFCA297E7F76FA95F948A7F0244B81.PNG</Image>
+      <Description>Kill at least 3 enemies in a row while being severely wounded.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Dental Plan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/9824E12E0DEE78F6707390443235F2902B92DF6B.PNG</Image>
+      <Description>Kill at least 10 enemies with a weapon melee attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Did you see that?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/793C4A8FCDCBA03F48689250B5011FD078E66984.PNG</Image>
+      <Description>Destroy 5 helicopters. (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Bad guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/295E8884133C9638A0ABCEEAF71522035D81739A.PNG</Image>
+      <Description>Kill at least 40 enemies during Gang Bang mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Protect and serve</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/3776355EC3F4651DBADD13334483B34AC1306EAD.PNG</Image>
+      <Description>Don’t kill any of the civilians on the marketplace during Juan’s chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Alamo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/60A9DFA5FFFA90C46412337FC948887567D86A71.PNG</Image>
+      <Description>Enter 10 rooms using Team Entry.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>None of their business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/E10E911E79F004A2EFDF76575F0BEC2E62F273E1.PNG</Image>
+      <Description>Successfully finish two Secret Agendas.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Spy vs. Spy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/007590DAA2568B12111C55269E7E157AD69C270F.PNG</Image>
+      <Description>In cooperative mode, prevent 10 attempts of picking up secret items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Dirty cop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/4319D1FF4C05CBE418C2758921E5D06F790951F2.PNG</Image>
+      <Description>Successfully pick up 15 secret items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Magpie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/B2003A6711F9B3F7136A89BE7938E5987B6563A1.PNG</Image>
+      <Description>Collect at least 75% of secret items on any level, without being caught.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Eh...what's up, doc?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/A9AF3C25381B667948620FE0B6A3BE051125AEE5.PNG</Image>
+      <Description>In cooperative mode, revive wounded players 5 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Armorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/509B787E6ABA99BAC0DF03BFA158CCFACF5CE2D7.PNG</Image>
+      <Description>Unlock at least 10 new weapons in the campaign mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Level 21</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/05E45D56268D19EFC54A0FC14C07899FBC9D3280.PNG</Image>
+      <Description>Unlock all weapons in the campaign mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Little Bighorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/5F3AD7EF59309FA1438ADAE317BA0DE83058F1F9.PNG</Image>
+      <Description>Win at least one game in competitive mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Been there, done that</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/E667D6787C134EC0C525AC95961B2A6D367612EA.PNG</Image>
+      <Description>Play at least one full round on all maps in competitive mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Interagency Task Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/34946DA245912D86309453D33CE9EE76B4C6C30A.PNG</Image>
+      <Description>Play through one entire mission with two other live players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Peeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/D0BD90852A6A901A2C6721852C77851F23061D37.PNG</Image>
+      <Description>On the Disco level, watch dancers for at least 30 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Ladder Goat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/72B12E08BB3FE1E9E69D5AD881528274E7419E9E.PNG</Image>
+      <Description>Find Ladder Goat movie on the Fort level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Raining Bullets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/134C354D6B1D8AB73F362FB8B6059763E5B593D2.PNG</Image>
+      <Description>Shoot over 1000 bullets during the Ghost Town level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Nail’d it!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/AA4E07932F5DC9E077566467F397CE26570E0941.PNG</Image>
+      <Description>Finish the downhill car chase on Plantation level without damaging car too much.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Bullet dodger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/742E008FBD842F1831088A48B9E1D9BE56211168.PNG</Image>
+      <Description>During highway chase on Disco level successfully avoid all rockets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01863_00</GameId>
+      <Title>Highway Patrol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01863_00_3D65A30DA0E5CD254C8C395FB899D1B1EA915762/4DF6483D9F9E669AC2E0ED2334D6A83E444AC8A3.PNG</Image>
+      <Description>Drive any type of a vehicle for more than 20 miles total.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

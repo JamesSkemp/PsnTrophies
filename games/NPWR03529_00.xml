@@ -1,0 +1,221 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03529_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Ratchet &amp; Clank™: Full Frontal Assault</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/C8CAE3FBA1AD814A524F4FAB009D7FA10B7FCE73.PNG</Image>
+    <TrophiesCount Total="23" Bronze="8" Silver="7" Gold="7" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/597A00C6DA4ED084B05051B6AEA129BA0A29D6E8.PNG</Image>
+      <Description>Collect all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Let's Set up Camp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/55DD8E0D0FD86C2799997D098652FEB6D879AF37.PNG</Image>
+      <Description>The QForce has been re-established, now go save the Galaxy! (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Smorgasbord of Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/B5540556FE0FB473F541F11F6C1B9AA8C2E39BDE.PNG</Image>
+      <Description>Buy one of each available turret type in any level. (Any mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Hoverboot Madness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/AE67F74F9700373BD5D1F14508A5CFCD7D69BDD9.PNG</Image>
+      <Description>Cross the gap leading to the Major Weapon Node in Korgon Refinery without touching the moving platforms. (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Variety is the Spice of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/830081A107E0D4AAB755F2E59CD00389C58D6DD1.PNG</Image>
+      <Description>Use every weapon in the game at least once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>QForce, Activate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/E9B822B9625180E02CC05125C68B79BC3CAA93AC.PNG</Image>
+      <Description>Play Co-Op in split screen or online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Hero Academy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/5BA15A391FB43715E8CCFC9AF9DE05BFF2821D08.PNG</Image>
+      <Description>Play a ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Custom Job</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/031AFD35AA86D99D7BC1CB6C1753D4E4F94784DE.PNG</Image>
+      <Description>Play a custom match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Fear Does Not Exist…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/281ED28A6444C627C8651647A914E9B13B3BB023.PNG</Image>
+      <Description>Play 5 pvp matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>No Tank You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/E35107A2A051577E3B12B44BE0BF23A72C7E6BC6.PNG</Image>
+      <Description>Defeat a Grungarian tank before it reaches your base in any level. (Any Mode)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Zurgo's Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/3407B55AAC191335E5094CC2C38CE1C2057D2B32.PNG</Image>
+      <Description>Restore all Planetary Defense Centers and discover Zurgo's intentions. (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Rack 'em and Hack 'em</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/184C7C6FEB897A0674E6E7B9515E9367FECD29B8.PNG</Image>
+      <Description>Successfully trigger all bonuses on 5 hacker puzzles in a row.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Intergalactic Dance Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/F570C8EBCB22A8812EBB60C353E730F2B28C38A6.PNG</Image>
+      <Description>Get at least 1 of every enemy in the game to dance by using the Groovitron. (Any Mode)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>A Night at the Mansion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/8BC11F2BF30AE5680D2D0FE9244458DFF6B2273A.PNG</Image>
+      <Description>Get 8 transmorphed bunnies to dance on screen at once.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Crushed Ice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/70EA37C016BC4AB4A38DE8117066A150897C4FBA.PNG</Image>
+      <Description>Shatter 25 frozen enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Ironmadman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/42F93DB1A1385E6AA66A86D180D86A10658FFF20.PNG</Image>
+      <Description>Hoverboot 112 Miles, Run 26.2 Miles and Hoverboot Glide for 2.4 miles across all game modes.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>QForce Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/B3888AA329438E8D193B371848C43C4952FF9327.PNG</Image>
+      <Description>Unlocked for earning the rank of Master.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Defenseless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/2FB864EEB54B6EFE6BB1D227EF3D206267EF7C66.PNG</Image>
+      <Description>Complete a level other than Zurgo's Lair of Doom without purchasing any base defenses. (Campaign)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Peace through Ridiculous Firepower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/99B0F928BECCEBC5E0E3F1DFC8C00B47EDDDA0F4.PNG</Image>
+      <Description>Land the killing blow on 10 Grungarian tanks.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Save Ammo, Smack a Fool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/CB11FCF4C7B819D7ECB0A04A074DF059C484B23C.PNG</Image>
+      <Description>Defeat 50 Grungarian Brawlers using your melee weapon.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Ready for Armageddon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/702CE2AE1FB16DB12DE24B9E4B5D0C8D947EFC57.PNG</Image>
+      <Description>Upgrade all weapons to level 3. (Campaign)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Back to the Basement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/2DE000F263F7C882B4E8B20BDEB4924CB7E4B454.PNG</Image>
+      <Description>Complete the campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03529_00</GameId>
+      <Title>Over the Top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03529_00_4F4F33E9D81C6D7A197A4C964867CF2C47EB75E2/FC5CCB924D3C40663E8116EE2303B608AB9E391F.PNG</Image>
+      <Description>Beat 3 or more of the Insomniac Challenge Times. (Any Campaign Levels)</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

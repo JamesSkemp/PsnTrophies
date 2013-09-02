@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01215_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Star Wars: The Force Unleashed II</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D128ECC3852E5EC5F04333A302E5C99FCE0510CC.PNG</Image>
+    <TrophiesCount Total="59" Bronze="49" Silver="5" Gold="4" Platinum="1" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Earn all other trophies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AC2E83103E1BF8DA4043828B73696A409B0583B0.PNG</Image>
+      <Description>Earn all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Escape from Kamino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/91C4D854631F13502F85985C87D7C0156B518C3D.PNG</Image>
+      <Description>Escape Kamino in Vader's TIE Advanced.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>The Nemesis in Flames</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/79D43E7D2D03C48890CE6C3648115DC9A27879C4.PNG</Image>
+      <Description>Destroy the Gunship.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Bring Down the Giant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4D2157184EF50EE49D2B7601FBF9A65881D7041A.PNG</Image>
+      <Description>Defeat the Gorog.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>The Exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/C4F0FFFFDC4E402786A0AB812CCD03D8BADA3261.PNG</Image>
+      <Description>Defeat the Terror Walker.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Crack the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1E9DD27452B1B69E88A23392FAD93B692DCB54B2.PNG</Image>
+      <Description>Destroy the Star Destroyer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Meeting of the Jedi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/3A9AB2C3D3585556738C3A10B08FA8B81833EF06.PNG</Image>
+      <Description>Reunite with Kota.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Betrayed By Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/A398ADA57D115F9BF8754CF9DA17D8B8689B299A.PNG</Image>
+      <Description>Complete the game and choose the Dark Side ending.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Padawan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/526B2E4713021BC8F10D5A66A7022E9CD6269D13.PNG</Image>
+      <Description>Complete the game on Easy difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Jedi Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FB54830A2D8E0CE9422CC1919AC1EDABAC10F1A5.PNG</Image>
+      <Description>Complete the game on Hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>A Measure of Mercy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/93DACD53C960BC01E809EA7EE3EE5E5E1F05E8B9.PNG</Image>
+      <Description>Complete the game and choose the Light Side ending.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Jedi Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/7508F706DD9A8071CFDC262FB07439F8747AEA4F.PNG</Image>
+      <Description>Complete the game on Medium difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Jedi Grand Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D06CF36A90B29FBD25F6EBACEDDA7BD95CD4C69E.PNG</Image>
+      <Description>Complete the game on Unleashed difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Amplified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BC925AAB4947928C1BA19272CBF0822FFCC88418.PNG</Image>
+      <Description>Kill 10 enemies with the lightning towers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Kamfetti</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4BF6D3CADE24FD2DA613CC4DD60EE67AA1FF3184.PNG</Image>
+      <Description>Kill 5 enemies with the fans on Kamino.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Imperial Painball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/24FCAC884914361EBBEEBFCE26B83418ACF567AB.PNG</Image>
+      <Description>Throw 10 enemies into the Kamino generators.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Droid Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/46C0E6EA7F03928623B7928534D4F905E1CF1CEA.PNG</Image>
+      <Description>Control the Terror Walker and destroy all the Terror Biodroids.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Strike!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DC678891F0DEC9B6FFAEE65C9D382D653ED05B2A.PNG</Image>
+      <Description>Kill three enemies with a single ‘bowling’ ball.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Shattered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/D6AAF83B4F452BD5D51467E8021BB89E22640C94.PNG</Image>
+      <Description>Shatter 10 enemies frozen in carbonite.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Break the Bank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/7F11E2D465E936058E34056F58EEC069A7FDF8F4.PNG</Image>
+      <Description>Smash up 10 game machines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Valet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1CCFE7D2FC3D405E0B57CDC73D0A940A53D2A72D.PNG</Image>
+      <Description>Use Vader's TIE Advanced to destroy the AT-MP.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Stay On Target...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4D47A6A70865438E3047A1DA8B4348A129CC9F18.PNG</Image>
+      <Description>Get to the falling Gorog without crashing into any debris.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Master of Disaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/EBEBBDD72C366A37BD2529E74ECBFA4D8B657D87.PNG</Image>
+      <Description>Break all of the coolant tanks aboard the Salvation without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>The Jan Stakross Trophy of Excellence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/93CBFD21F4E5DD0D4974DA0AEDC287937F1EE1D7.PNG</Image>
+      <Description>Destroy 12 lightning pylons on the Kamino dive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Jedi Bomb Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FB6BCD58C26E5041B22B8511D7EB9D23EE35C512.PNG</Image>
+      <Description>Remove all of the Terror Spider Bombs on the Salvation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>“No match for a good blaster at your side, kid.”</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FCE9DCFDA40780AD349D221E8945BC8C39FCD0FD.PNG</Image>
+      <Description>Kill 10 enemies using the turbolasers on the Kamino Drill Grounds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Top of the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1C08AA275007CB759E3824B6E83630C56A35EB90.PNG</Image>
+      <Description>Reach the top of the Spire without falling once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BF66D9369F1A6A6D92E11999FEA52202C0F6B9F3.PNG</Image>
+      <Description>Complete the first ten challenges with at least a Gold medal in each.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/8F6C6247BC4FDE524598408776D95E87CFC1625E.PNG</Image>
+      <Description>Complete the first ten challenges with at least a Bronze medal in each.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/B26D313922D0FA5F8F439F2D68B3243300750573.PNG</Image>
+      <Description>Complete one challenge and receive at least a Bronze medal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/E119C116F251CF2256DBBA1CEB10222CDE69F9A7.PNG</Image>
+      <Description>Get a Gold medal on any 3 challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/C0E933AAB6C88C6C564EC103E8554608A691BA58.PNG</Image>
+      <Description>Get a Platinum medal on any challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/8BE710E6A60F9F5CF5AA095063B3F1F557C8833E.PNG</Image>
+      <Description>Get a Silver medal on any 5 challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Unleashed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/5CD68D8CD438B45CFF65AFB371A431051C26B1FC.PNG</Image>
+      <Description>Activate Force Fury 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Enjoy The Trip See You Next Fall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1325BE78D55336D44FDA0583BD32EB17EF306ECF.PNG</Image>
+      <Description>Cause 50 enemies to fall to their deaths.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Maxed Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AB3AE8648D0AEF8F225002F8898793CA6FD52EE4.PNG</Image>
+      <Description>Upgrade all Force Powers to Rank 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Use the Force, Luke</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4A74A98BE26B9B875FB447183F50167C546FA147.PNG</Image>
+      <Description>Complete any combat level using only Force Powers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Lucky Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/2DFB7896D86BFEFB03439FE65FCCE387DC7AFFFB.PNG</Image>
+      <Description>Defeat 300 consecutive enemies without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Sky Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/34C8249CDEC4BA3997716344BCFD963300342B3D.PNG</Image>
+      <Description>Destroy 15 TIE Fighters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Arachnophobia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/CEB751975D37EDCC784855F3931525F1B4A47CE7.PNG</Image>
+      <Description>Destroy 200 Terror Spider Droids.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>It Burns!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4A9710DC74AE33A97A896ADE382E09DF76D0B11D.PNG</Image>
+      <Description>Disintegrate 15 enemies by throwing them into red force fields.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Pied Piper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/FEC6C38310E69DC20F9999B6595E481B14A6A53A.PNG</Image>
+      <Description>Entice 10 Stormtroopers to leap to their deaths with Mind Trick.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Holocron Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/525A5C0B76D62ABEAF0BDCE5BCE382B784425E0C.PNG</Image>
+      <Description>Find every holocron.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Poor Bob</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/224A9AA5133164245BD09F530D4486C9CD5F1DC7.PNG</Image>
+      <Description>Force Grip a Stormtrooper, impale him with a lightsaber, zap him with Force Lightning, then throw him into an object.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Return to Sender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/4E4461278B95283F5447E2A69B3223F7E2D9AFD5.PNG</Image>
+      <Description>Kill an AT-MP by gripping its own missiles and throwing them back.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Up, Up and Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/BFB8EA38BCA6BFEE37DB0849D4E13851234D5510.PNG</Image>
+      <Description>Overload 20 Jumptrooper jet packs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Passive Aggressive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/AF404BEC3B0836E045B171BBCBDD61CD83EF3468.PNG</Image>
+      <Description>Parry and counter 10 melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Awww Yeah...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6D7BF898A4DD8BEBBBB32E2A855EB4B099865077.PNG</Image>
+      <Description>Perform every combat move in the game (excluding combos that require Rank 3 Saber).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>To the Face!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/360137726E2B5B4C2A64E929815B6446339A2F12.PNG</Image>
+      <Description>Reflect 20 missiles back at AT-MPs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DC5CA314E8AA744B4C9F49AEC41AD612C1DC8E8E.PNG</Image>
+      <Description>Upgrade one Power to Rank 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Fully Charged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/ECD0AA2EC9C89BA07F9A2DC75D589F7150FC4FD1.PNG</Image>
+      <Description>Use an entire bar of Force Power on a Lightning attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Yub Yub</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/1778EFFEA134A54B2E294BC7BC507357FAF696C6.PNG</Image>
+      <Description>Complete the level defeating 20 Ewoks or more.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Returning the favor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/90CABBB426F56DDEF1377F33F1FCE441D135F976.PNG</Image>
+      <Description>Defeat a grenadier with his own grenade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>One with the Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6D26B121BE9037F3C4AE98242D026E1677BE742C.PNG</Image>
+      <Description>Complete Endor without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Sith Kicker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/91BCE3C33AAF0B05D6E159BD140B2C789F614ACE.PNG</Image>
+      <Description>Drop kick 10 Ewoks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Holocron Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/6DDF734349865AE4D18C1C54147C8FF76D7FBF43.PNG</Image>
+      <Description>Find all the holocrons in Endor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Never Tell me the Odds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/DE3E2EE2C2D5AA94FE026E43DF54F2E080389DDB.PNG</Image>
+      <Description>Complete Endor on UNLEASHED difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Victory!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/059078BF0D90D77AB641377994BB8C57485487FA.PNG</Image>
+      <Description>Complete Endor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01215_00</GameId>
+      <Title>Don’t let the Wookiee win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01215_00_0094349E46EFE9F7EB08539F65BFA22E9A843DD935/968EDD19EAABC5AA2506BCEB954B87F484743666.PNG</Image>
+      <Description>Defeat Han and Chewie.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

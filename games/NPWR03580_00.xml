@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03580_00</Id>
+    <IdEurope></IdEurope>
+    <Title>XCOM: Enemy Unknown</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/F2F0DDE81BD61E393F2B9A8773EBD2BBDDEA080E.PNG</Image>
+    <TrophiesCount Total="56" Bronze="40" Silver="12" Gold="3" Platinum="1" />
+    <TotalPoints>1230</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>You Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/3A2E617316551E0768E7334D7B804AF985E5E771.PNG</Image>
+      <Description>Gain all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>No Looking Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/43F541FE8D6073B74917163214C3767EAC28EAC7.PNG</Image>
+      <Description>Beat the game in Ironman mode on Classic or Impossible difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Meet New People. Then Kill Them.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/9A5BE4306E5598346CEE21A003FCEDA3B05952F4.PNG</Image>
+      <Description>Win a multiplayer match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Xavier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/0D19887E76A23D0A99E8698C37423D278E2BFD9D.PNG</Image>
+      <Description>Mind Control an Ethereal. Single player only.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Humanity's Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/FE5A1EFAF87EE8BB4D86B093A98AFCC67EDA2190.PNG</Image>
+      <Description>Beat the game on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Earth First</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/BEE5E345F15F2AA67F980EDA4728A87735B84E6E.PNG</Image>
+      <Description>Beat the game on Classic difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Our Finest Hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/8AD15E1D76AB10677FFA1AE1B3D775444D14DD6F.PNG</Image>
+      <Description>Beat the game on Impossible difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Lone Wolf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/8AD47C8D3AC983D8E57D786ACBCD2E0D49FF8B6E.PNG</Image>
+      <Description>Clear a UFO crash site with one soldier on Classic or Impossible difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Bada Boom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/69D119066C12BDA1A83B48D174D2DDE21C3A3F11.PNG</Image>
+      <Description>Kill 50 aliens with explosive weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Welcoming Committee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/767859998EFCD2B8AFA6448CD40ED3AECE1FE1FF.PNG</Image>
+      <Description>Kill 150 aliens.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Pale Horse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/743B8109D769A1CD58FC346F44816C2B8B0E1FC1.PNG</Image>
+      <Description>Kill 500 aliens.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Shooting Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/AF9775F0D639A5404388542DA1B5ECF970E2E415.PNG</Image>
+      <Description>Shoot down 40 UFOs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Ain't No Cavalry Comin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/2866F58D21E4D328B6BD5C1AA46F46E0F7B614AF.PNG</Image>
+      <Description>Have a soldier survive every mission in a full game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>As A Scalpel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/7B67DD11072840302E990BD5C7A33FA093698817.PNG</Image>
+      <Description>Earn the "Excellent" rating in every performance category on a terror mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Edison</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/07FC57C8E4998A0B04DD122C7050FD57B472D9FA.PNG</Image>
+      <Description>In a single game, complete every Research Project.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Angel of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/BA1924B1C88ED95904B4DC94E52614CCFE2146F7.PNG</Image>
+      <Description>Kill an alien while flying. Single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>All Employees Must Wash Hands...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/2E10F4F8C0158B999E8DE272916E51F8905E6FBF.PNG</Image>
+      <Description>In a single game, complete every Autopsy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Beyond the Veil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/1599078EC23592BE7CF5374C3DAFA270C00AB9CD.PNG</Image>
+      <Description>Find a soldier with the Gift.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Prisoner of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/7B176B4C5DEF6B6BBD07ABC14538C339F5B46911.PNG</Image>
+      <Description>Capture a live alien.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>The Gatekeeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/DFE96EC251F8484D93FFE81CA932F57659045F24.PNG</Image>
+      <Description>Stun an Outsider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>X Marks the Spot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/D39CDC85C4B4419C5BFA080657AB4B0B457A6442.PNG</Image>
+      <Description>Uncover the alien base's location.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>See All, Know All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/A1FEAACBCC18A54E949BA211479302B0E89373B8.PNG</Image>
+      <Description>Build the Hyperwave Relay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>On the Shoulders of Giants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/95B9D8E7D30A04225B977FF3CEEFD429C5A85FDD.PNG</Image>
+      <Description>Build the Gollop Chamber.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Ride the Lightning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/36AE995BD42E8A7A5C6EA1148348EB1C6321BF4D.PNG</Image>
+      <Description>Build a Firestorm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Eye in the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/361ADCC9FA4E145D8C60D00086A46B49E67B3860.PNG</Image>
+      <Description>Launch a Satellite.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>All Together Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/C58BCA1BDD91FC1D2A0FA77B60750A8B34839326.PNG</Image>
+      <Description>Get satellite coverage over every country on one continent.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Hunter/Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/8EF99658A307DD75C51B2BF7F46FD84124F584D9.PNG</Image>
+      <Description>In a single game, shoot down one of each alien craft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Man No More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/5878AAB56AF291A2552AE227699140A7CD264514.PNG</Image>
+      <Description>Build a suit of powered armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Poison Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/57EB11690F20A54900748A44B9491738C5BE7834.PNG</Image>
+      <Description>Cure poison on five soldiers in a single mission. Single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>We Happy Few</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/83A5D7DA47ECC443BD2ED4CB28AFDD1822FA907B.PNG</Image>
+      <Description>Complete a mission without losing a soldier.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>The Hardest Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/24B60ED4DB9208F196166D0B56CC988513F08DFA.PNG</Image>
+      <Description>Advance one of your soldiers to Colonel rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Worth Every Penny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/E9B025626352B7BD1ABA32AAC3EB019FCAB1DF9C.PNG</Image>
+      <Description>Acquire 1000 credits in one month.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Oppenheimer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/CCA815C8566BEC81460F436827C454F03DC13656.PNG</Image>
+      <Description>Staff the Research Labs with 80 scientists.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>One Gun at a Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/C6B158F80680959F51B27720549886D734B02686.PNG</Image>
+      <Description>Staff the Engineering Department with 80 engineers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Skunkworks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/C1CCC2DAD1500F3AFAF6E7FAB0BDBA7CE4FC6060.PNG</Image>
+      <Description>In a single game, complete every Foundry project.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>You Have 5 Seconds to Comply</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/0A15D6F3AB4565B9A29BBEC24405547BA4819D0F.PNG</Image>
+      <Description>Build a S.H.I.V</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Theory...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/059D43982240042CB980182E2106A5DBD5D90D9D.PNG</Image>
+      <Description>Build a Laboratory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>...and Practice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/BEDC7C983BE13B6FF88B1BD0849136B06C650867.PNG</Image>
+      <Description>Build a Workshop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Wet Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/ADF59A1F83DE8139A7449296C61D73CBE8B9B86D.PNG</Image>
+      <Description>Complete a Very Difficult abduction mission in five turns or less on Classic or Impossible difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>A Continental Fellow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/5ACEB152D3A802C39D8D18BB4081E3950A822557.PNG</Image>
+      <Description>Win the game from each of the 5 starting locations.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>What Wonders Await</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/A2408BBD4125F0DDC343A91C5A7137274F183BBB.PNG</Image>
+      <Description>Complete a Research Project.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Up and Running</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/0E820020AEB919B462187EE9A7DE13D69BFEA5F2.PNG</Image>
+      <Description>Build a base facility.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Combat Ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/6C0E46A463CCED19C21DCAA639381AD274F6A2FC.PNG</Image>
+      <Description>Build an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Drums in the Deep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/80898B0BEFDD198447FC2C6EF579C418A44D56FE.PNG</Image>
+      <Description>Gain access to the lowest level in your base.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Happy to Oblige</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/CABE7F7A1FA73EFD18BE350A362253F455D77E87.PNG</Image>
+      <Description>Fulfill a Council request.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>And Hell's Coming With Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/91ABA0A84D3B6C0776D53CFBF256DE514FA1767D.PNG</Image>
+      <Description>Successfully assault an Overseer UFO.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Off My Planet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/BFDA1569442396F725764077F734B6A991399AB8.PNG</Image>
+      <Description>Recover the Hyperwave Beacon.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Tables Turned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/5E462B3614529658364BD524AE6750ACC0A15ED1.PNG</Image>
+      <Description>Shoot down a UFO.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>And So It Begins...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/25DAC15FDBEB0BFB6BBBFC6B7CA1A823BD05C2F8.PNG</Image>
+      <Description>Complete the tutorial mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>The Volunteer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/1FF13B26BCB68B50293F5583EA265A8E297D2572.PNG</Image>
+      <Description>Make contact with the Ethereal hive mind.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Flight of the Valkyries</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_6D5972D1BA76BD65CE029B4521D78A19214F7913/377F04A9CB5AB74A3E2DAA8F1EB53D485405E3DD.PNG</Image>
+      <Description>Win a mission with an all-female squad. Single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>New Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/D7A14D1D66AD6F475F5EA438E4530C0E9CE75D7F.PNG</Image>
+      <Description>Complete Friends in Low Places.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Bait the Hook</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/271AC590C7BC0D39F2CEE9C925E7B4333D086B1F.PNG</Image>
+      <Description>Complete Confounding Light.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>The Bigger They Are</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/D683A9805745B6E2F248B548BF5CDAE5C53AE7A3.PNG</Image>
+      <Description>Complete Gangplank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>Rising Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/1E1B5EA5A26B8D8BB8F5DEC08DAF7437C0899B81.PNG</Image>
+      <Description>Take your new ally into the final challenge.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR03580_00</GameId>
+      <Title>All Aboard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03580_00_019EC9FD753E24E1950E14DB4439E9AD48130D5711/A39147330F88858159C0C8DEE1F63EFCF7082BE9.PNG</Image>
+      <Description>Complete Confounding Light with more than 3 turns left on the timer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

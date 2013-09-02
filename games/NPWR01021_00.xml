@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01021_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Green Day: Rock Band</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6E39BB73056A717B90F1ACE851866DA364D3AF04.PNG</Image>
+    <TrophiesCount Total="49" Bronze="34" Silver="12" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Good Riddance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/B54BAAEBED23EF8966702DB248968BA19F25479D.PNG</Image>
+      <Description>All trophies collected. I hope you had the time of your life!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>You Had the Time of Your Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/DD6AA600CE14E0172AA2582094FE949C848609EC.PNG</Image>
+      <Description>Five-star every song in Green Day: Rock Band with any instrument.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>We've Come So Far</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/D61DCA2ACC59AFAEAFC810B2AB57D6A9F0B4E175.PNG</Image>
+      <Description>Earn at least 3 stars on all songs in Green Day: Rock Band with any instrument.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>It All Keeps Adding Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/5BFCA0644440CBEA9189D0911D3C942A25BCE962.PNG</Image>
+      <Description>Score 1,000,000 points in a single song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>I Threw My Crutches in the River</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/B17716A5ABE3F683376A36235379CA70ECB6E162.PNG</Image>
+      <Description>Earn at least 3 stars on any song in Expert difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Hysteria, Mass Hysteria!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/1773C47FB395ACAB77A0701420D303A138FD743C.PNG</Image>
+      <Description>Get a Unison Bonus on the listed songs with 2 or more players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Scream at Me Until My Ears Bleed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/444D30610A0D34D709BF83845786B1A2CDC8754C.PNG</Image>
+      <Description>Use Overdrive 100 times as a vocalist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>In Good Health and Good Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/EC79A1BFDADC04C3F6E58708A0CD222E8DD842AA.PNG</Image>
+      <Description>Earn at least 3 stars on all songs in Green Day: Rock Band as a bassist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Won't Make It for Dinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6BA36D8A8C1F975C396B02BEE321B9AC618BF01E.PNG</Image>
+      <Description>Start a new Career and reach the credits within 12 hours as part of a 4-player band.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Feel Like They're Gonna Bleed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/5C4099BE65E0F5B7F6AFD37692B37D28792C2B80.PNG</Image>
+      <Description>Play through a setlist of 20 songs without failing.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Louder Than Bombs and Eternity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/2A21CDDAE508D026FBCB95D53503D7E8B242B716.PNG</Image>
+      <Description>Hit 100% of the drum kick notes for "Brain Stew / Jaded" on Expert.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>We're on a Roll, No Self Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/377B8FEAEE6D69AB955C3AD7EA43D7F52B74BF80.PNG</Image>
+      <Description>Get an 8x Band Multiplier.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>What's Left of My Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/30F0E224EC3959B4F6608A3AA80EAB0B174BF800.PNG</Image>
+      <Description>Finish any song with Lefty Mode turned on, hitting at least 50% of the notes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>American Unity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/DE858E40C9D846B6D8A5A1B940DD42113DAB07A3.PNG</Image>
+      <Description>Get all unison bonuses in the song "American Idiot" with 2 or more players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Freaky Monkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/3A3AEF7EE1A6181D7F4AD3E1809D52FE1A36B76A.PNG</Image>
+      <Description>Complete Dookie Album Challenge with any instrument.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Award-Winning Idiot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/5F91A27953BD9F79242F364CC498ECCA87956993.PNG</Image>
+      <Description>Five-star every song on the American Idiot album.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Mud Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/55B01B692FC83EC501C60C113171E634404B0776.PNG</Image>
+      <Description>Complete the listed songs without the crowd meter going red.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Trés Cool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/7B5498FB37BDC1C00A8ACE3DFB11CD4597100690.PNG</Image>
+      <Description>Hit 40 notes in one drum fill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>The World Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/E48F597228383C3DE0CFED81DE812254625AFAE0.PNG</Image>
+      <Description>Play a Setlist made up of songs in every venue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Pacemaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6A80A4366D1FA57D3C3878C536447220BF3A9BD1.PNG</Image>
+      <Description>Earn at least 3 stars on "Peacemaker" on Expert Bass.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Not Growing Up, Just Burning Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/F5C95560E3E2FCF6C7F8C3DDEDF115E3E753F8CF.PNG</Image>
+      <Description>Earn at least 3 stars on the listed songs on Expert Vocals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Twiddle My Thumbs Just for a Bit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/E60FEC47DB129489D2DC565E4F040E56A3B8F576.PNG</Image>
+      <Description>Earn at least 3 stars on "F.O.D." with each instrument in Solo play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>St. Jimmy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/66B37E890918EE7FADA40D6211735D8ED18D9A61.PNG</Image>
+      <Description>Get Gold stars on the listed songs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>I Got a Rock 'n Roll Girlfriend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/885DAD25BBC33EB0487ADD395315DC7479A73651.PNG</Image>
+      <Description>Get Gold stars on the listed songs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Your Burning Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/315770875B0925262E7196E8F738A9E576AE7C2D.PNG</Image>
+      <Description>Hit 100% of the notes in the solo of "Whatsername" on Hard or Expert Guitar.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Past the Point of Delirium</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6C9C827107C9506D41ADFA824C3A2E0D9D6A531E.PNG</Image>
+      <Description>Hit 100% of the notes in the solo of "Hitchin' a Ride" on Expert Guitar.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Ability to Operate Machinery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6B5EF14AB817DB398FAB8C338C5B5EAF4B3E4CEB.PNG</Image>
+      <Description>100% the Guitar Solo in "Jesus Of Suburbia" using only finger tapping on Hard or Expert.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Blue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/0DEFA5D9D6E995F17F7A0614A93C22370E1A32BD.PNG</Image>
+      <Description>Get a 95-note streak playing "Last Night on Earth" with the guitar.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Rudy's Can't Fail Cafe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/C1DDB2E7F77F3E1BF1240F90505D3A53791CD7FE.PNG</Image>
+      <Description>Hit 100% of the notes on "Welcome To Paradise" on medium or higher difficulty bass.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Warning: Burning Drums</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/7FE77CA36B58815B27A7572B7378C5863D97B7E7.PNG</Image>
+      <Description>Hit 100% of the drum notes on one of the listed songs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>It's Fun Until Someone Gets Hurt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/2A66EF8ACBF4BE7AAB2AA5FA15663032405E83C3.PNG</Image>
+      <Description>Play "Longview" on Hard or Expert Bass, playing all hammer-ons and pull-offs without strumming.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Make the Best of This Test</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/9627A82178E7AF178907429BE1B3FA0D35C90232.PNG</Image>
+      <Description>Finish all Challenges (Career owner only).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Stage Dive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/F3A6F19A9EA0C39AA9756C0624B4D9DCE803B87E.PNG</Image>
+      <Description>Complete a Challenge in The Warehouse venue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>On a Mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/D9AC7ADB147C5F24E098233DF5C2F8CC9081A8B3.PNG</Image>
+      <Description>Complete a Challenge in the Milton Keynes venue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Stereo in the Static Age</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/1B6B9AC463EA0E65BB93449AE1ADE70EDD90B86D.PNG</Image>
+      <Description>Complete a Challenge in The Fox Theater - Oakland Venue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>This Is How the West Was Won</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/36D182494B899A56418CCAB53ADF8626DA234390.PNG</Image>
+      <Description>Earn at least 3 stars on all songs in The Warehouse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Billboard on the Rise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/95D032FB23583589919D789BE173EE252248644A.PNG</Image>
+      <Description>Earn at least 3 stars on all songs in Milton Keynes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Another Turning Point</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/7DEED376CBD80117D12793CD2F534069D9799CB1.PNG</Image>
+      <Description>Earn at least 3 stars on all songs in The Fox Theater - Oakland.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Live Freaky, Die Freaky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/3FE2D80591B6682621462F5E991E26DD24271661.PNG</Image>
+      <Description>Complete any Challenge with both of the following: 100% a Guitar solo; 100% a Harmony part.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>I Walk a Lonely Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/6AE09A7D4095921AE1780B2FB85F2520D240A254.PNG</Image>
+      <Description>Earn at least 3 stars on "Boulevard of Broken Dreams" with each instrument in Solo play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>On My Own... Here We Go</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/98B19111A46FB5D799A549194146D3023D87EDB7.PNG</Image>
+      <Description>Score 400,000 points in a single song in solo mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>A Very Troubled Youngster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/35114584B08A6740F0F3CE74E3463F5ADFC4F5EB.PNG</Image>
+      <Description>Complete all of Tré's Greatest Hits.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Frank Edwin Wright III </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/A9143242BF5CCD8DA29BB6FF0D0EE66C6473F1FB.PNG</Image>
+      <Description>Complete all the Drum Lessons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Step Up to the Mike &amp; Billie Joe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/F1CE3E3A2756C685314FF8A31053E739FF1E0428.PNG</Image>
+      <Description>Hit All Double Harmonies on any song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Misleading the Choir</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/75D65D8010DA3099278F19C203CF9D6FB00F68FA.PNG</Image>
+      <Description>Hit All Triple Harmonies on any song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Strong Arm, Billie Joe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/11AE76604FD35A10E577351F44E4E8E672F29C99.PNG</Image>
+      <Description>Earn a Guitar Career score of 1,000,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Dirnt Dirnt Dirnt Dirnt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/F5836D64BD2885B24F69381950B5C1E4E144BBD2.PNG</Image>
+      <Description>Earn a Bass Career score of 1,000,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>Sweet Children</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/F4708A6F16DE25661413DD53781ACDD35FE98291.PNG</Image>
+      <Description>Earn a Vocal Harmony Career score of 1,000,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01021_00</GameId>
+      <Title>I Play the !@#% Out the Drums</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01021_00_0065D42D28CA4AC5CC43C1AEC5038E30FB0747275D/1FBDCE465AF125A6C3AF5DA6CAE238F8C362ADF6.PNG</Image>
+      <Description>Earn a Drum Career score of 1,000,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

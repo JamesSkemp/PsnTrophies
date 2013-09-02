@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03554_00</Id>
+    <IdEurope></IdEurope>
+    <Title>DOOM® 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/CEF2B842B3E5FF6E11975753A19CAC65A32F4A64.PNG</Image>
+    <TrophiesCount Total="66" Bronze="64" Silver="0" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Ultimate DOOMer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/4E016AB683BEEC6282A291EBEF6522FBDACB7594.PNG</Image>
+      <Description>Earn all 65 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOMed Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/9BB1262788CE434EE2D5D4D8428DDECF9CF1CA1D.PNG</Image>
+      <Description>Complete the DOOM 3 single player campaign on Recruit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOMed Marine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/AB2D8AFE7083EDE04ABB99BB90DB0DD02ABD5C8C.PNG</Image>
+      <Description>Complete the DOOM 3 single player campaign on Marine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOMed Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/438CC9744B7BC7ADE8614383CABD5D8E5F6212F6.PNG</Image>
+      <Description>Complete the DOOM 3 single player campaign on Veteran</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOMed Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/8C5A3890E6FB2A192325398BDB58A6C92C53A7D6.PNG</Image>
+      <Description>Complete the DOOM 3 single player campaign on Nightmare</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOMed Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/7E106963B9C19C90C02112A28F1F6A7240D7FA2E.PNG</Image>
+      <Description>Collect every PDA in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>I Like to Watch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/78127204D192B859C165A169E53C87DA0D93A0DB.PNG</Image>
+      <Description>Find all video logs in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>That was Close!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/927B84133E67F1F463F25B1F29DE663DA93619B2.PNG</Image>
+      <Description>Kill an enemy with 1 health remaining in DOOM 3, RoE, or Lost Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Goody Finder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/5EBC12A1F533C70C7BF5C68F6FB7C0550B329116.PNG</Image>
+      <Description>Open all storage lockers in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Unarmed Badass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/4039D17783FC63D48A7A560237DEC65607353942.PNG</Image>
+      <Description>Kill 20 enemies with the fists/melee hands in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>To Be or Not to Be</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/FE3D8B206A55B6D5443C24C5EA0615863656709B.PNG</Image>
+      <Description>Kill the scientist trapped next to the Reactor Control Room in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Double the Fun!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/83869AB04FA35B4C761571D512B42F039D8E51BC.PNG</Image>
+      <Description>Kill 2 Imps with one shotgun blast in DOOM 3, RoE, or Lost Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Killing time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/5FA70C9FB36C125C12A3D2570622948A78C7DF0C.PNG</Image>
+      <Description>Score 25000 on Super Turbo Turkey Puncher 3 in DOOM 3 or RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Boomtastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/78D4CAB1D212E2E093064D6CF40231C3ABA11D74.PNG</Image>
+      <Description>Blow up 50 barrels in the DOOM 3, RoE, or Lost Mission campaigns</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Ready for Action!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/B5EBD545BBF9FF66265E4CCBAC30815AA1F4E14A.PNG</Image>
+      <Description>Get the BFG-9000 from Security Chief's office in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Not a Scratch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/9BBBF0967BB1F96DA44785EE394450C611B10851.PNG</Image>
+      <Description>Complete a level without taking any damage in DOOM 3, RoE, or Lost Mission (except Mars City)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>RAGE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/87530AAD7C79F6BCA2AD28D3894C68548CC390CF.PNG</Image>
+      <Description>Find the RAGE logo in the Lost Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Speed Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/18467B28C41746DD445B3C78A3F65ED80498C6CA.PNG</Image>
+      <Description>Complete the DOOM 3 single player campaign in 10 hours or less</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Sticky Situation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/537E90098CD956216C96F98BEA1DECAB7A320A22.PNG</Image>
+      <Description>Defeat the Vagary boss in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Cookie Stealer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/1F631CEFBCADB68A71CC68820892A426E6080C0A.PNG</Image>
+      <Description>Defeat Guardian boss in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>You're Not My Boss!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/BFDBFF2F8ADC464A4E0BCCE684EA894694EC42FF.PNG</Image>
+      <Description>Defeat Sabaoth boss in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Big Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/C19CFF196D2708836E56E1626F59BBE49CC62DD7.PNG</Image>
+      <Description>Defeat Cyberdemon boss in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Bot Buddy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/3EAEADFFC4B56B6A1347FB174B6B5DBBC54F0B30.PNG</Image>
+      <Description>Keep a Sentry Bot alive to its destination in DOOM 3, RoE, or Lost Mission (except Mars City)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Ripped!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/27ED6211846B72DA59D219D5FCB02D77AECBBC9C.PNG</Image>
+      <Description>Use the chainsaw to kill 20 enemies in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>All of Us</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/01ABC25FA18DF1C7893A369CC60DE690D4C90227.PNG</Image>
+      <Description>Find the id logo secret room in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>You Laugh, It Works</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/50F5EC68ECE9C939E209A0C443BD74C7C8902DC2.PNG</Image>
+      <Description>Find the bloody handiwork of Betruger (in Delta 4 Hallway) in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Turncoat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/032B44BE1B0F5AECBF517D00FB2A7D295A0D7DC7.PNG</Image>
+      <Description>Get 2 demons to fight each other in DOOM 3, RoE, or Lost Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Soulfood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/4A44535CE02A3CDCD18FE19D4108479B108D3804.PNG</Image>
+      <Description>Use the Soul Cube to defeat 20 enemies in DOOM 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Evil Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/73688FBBEDA59AF6D38C9D08F041878595AED6DB.PNG</Image>
+      <Description>Complete the RoE campaign on Recruit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Evil Marine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/FFF46E13F996AF5C92537994155F26AC3154F500.PNG</Image>
+      <Description>Complete the RoE campaign on Marine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Evil Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/7EF5418C3583D97465D33360815ED21A51B43CF2.PNG</Image>
+      <Description>Complete the RoE campaign on Veteran</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Evil Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/5045DD6A2539425BDDD42DA5878A9C3207F0B566.PNG</Image>
+      <Description>Complete the RoE campaign on Nightmare</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Evil Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/D9E5C6A1307BCEAA2524A431F23FE04BB2592AC6.PNG</Image>
+      <Description>Collect every PDA in the RoE campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Too Slow, Fool!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/21302B1BF2C9C107CB196FDE62BA5E23449300AD.PNG</Image>
+      <Description>Kill 5 enemies at once while in Hell Time in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Gimme Time!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/1250AFE4BE769BA6F38531ACD2AE9B8F86092232.PNG</Image>
+      <Description>Defeat the Helltime Hunter in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Gimme Power!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/D37FE408D3AE2541DD4A00C3FFC8A4408A55ABF3.PNG</Image>
+      <Description>Defeat the Berserk Hunter in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Shocking!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/5E04404101D77FEDD2B1643303066FDD5D8FF0BC.PNG</Image>
+      <Description>Defeat the Invulnerability Hunter in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Eat This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/DF929CF304A0359E4D3C9595DBE64DC929711C03.PNG</Image>
+      <Description>Defeat the Maledict boss in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Play Catch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/05A25E184AE927C9C6B472AFEA3C4BC3C7DF61A9.PNG</Image>
+      <Description>Kill 20 enemies with projectiles launched from the Grabber in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Fists of Fury</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/8578F98DDAA901A7126DEB10E2D7423F91A28BC5.PNG</Image>
+      <Description>Use the Artifact with Berserk ability to punch out 20 enemies in RoE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Lost Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/443B32C9E34A6570CA2EBC60D67D3832553FAD36.PNG</Image>
+      <Description>Complete the Lost Mission campaign on Recruit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Lost Marine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/02977F7E70011684532896F76B8C4EAB6DA3A1CF.PNG</Image>
+      <Description>Complete the Lost Mission campaign on Marine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Lost Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/7AAE26A055F96B45C7B4152C121180A1A61BB0CB.PNG</Image>
+      <Description>Complete the Lost Mission campaign on Veteran</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Lost Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/EF8A48315C70CF553E6FE770D7FBC1A124CA552B.PNG</Image>
+      <Description>Complete the Lost Mission campaign on Nightmare</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Lost Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/B25AAF29BE9B4C21D7162966F251ADC3ECCE988A.PNG</Image>
+      <Description>Collect every PDA in the Lost Mission campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Telefragged!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/2385314644B8DB8C85817109D0E1C4A69A62283D.PNG</Image>
+      <Description>Kill an enemy player by jumping into a teleporter after them in DOOM 3 Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Crushed!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/E1A7133AE546DA3D23CBBE6DBC54068D343E5A70.PNG</Image>
+      <Description>Catch an enemy player in the Reactor of Frag Chamber in DOOM 3 Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Ninja Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/63B5CF7C3AF79B1EAB60B212B84DC30DBE9D8897.PNG</Image>
+      <Description>Kill 5 enemy players while using Invisibility in DOOM 3 Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Clean Sheet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/CD69C2419B2E7DA5A0AA22D12F7C905BBD506874.PNG</Image>
+      <Description>Complete a DOOM 3 Multiplayer match without dying</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>Berserked!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/C88B6C1AEC6BB7DA16AFE4924556C7E0A8319126.PNG</Image>
+      <Description>Use Berserk to kill a player in DOOM 3 Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>2 Deaths - 1 Gun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/DCDC6D3536644B11094F4D2AD5F79892D02EDC5A.PNG</Image>
+      <Description>Kill two enemies in the same room with a rocket in DOOM 3 Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Neophyte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/003DED65D1001751D163232178407F84E8BDB987.PNG</Image>
+      <Description>Complete any level of DOOM in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Episode 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/7C0FBD71AA1024A00A5825301BF01687EABBDBF3.PNG</Image>
+      <Description>Complete DOOM Episode 1 on 'Hurt Me Plenty' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Episode 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/9FDC0D74091ACD744A0EC3A5151113F6DA0C10B8.PNG</Image>
+      <Description>Complete DOOM Episode 2 on 'Hurt Me Plenty' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Episode 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/AEEE8A8F2ABA44C35AF5522D2B2B81467DAB9192.PNG</Image>
+      <Description>Complete DOOM Episode 3 on 'Hurt Me Plenty' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Episode 4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/48EA18BCD3EEF549A98F52728759A6194D775007.PNG</Image>
+      <Description>Complete DOOM Episode 4 on 'Hurt Me Plenty' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Rampage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/A385B5EE39CCE6A9CFD6A1E2572D6D5AB9C92063.PNG</Image>
+      <Description>Complete all DOOM levels on 'Ultra-Violence' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/CEDC163DC0EABC0D763A017AFB8FB5B9D2294E2B.PNG</Image>
+      <Description>Complete any DOOM level on 'Nightmare' in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM: Burning Out of Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/E2A659658697A73ECC4A475DABC5C6947B5852A1.PNG</Image>
+      <Description>Complete any DOOM level with 100% kills, items, and secrets in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: Just Getting Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/4E37BC20419ECBA55422DBAFA32212FB0CFB1B7E.PNG</Image>
+      <Description>Complete any DOOM II level in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: From Earth to Hell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/ED7350CE7770CED0AD9477C642A9B7BD02AE0974.PNG</Image>
+      <Description>Complete all levels in 'DOOM II: Hell on Earth' in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: And Back Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/9DD68F7F878DA9E9337FFCB7D3ED6CE88BA16F23.PNG</Image>
+      <Description>Complete all levels in 'DOOM II: No Rest for the Living' in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: Superior Firepower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/757C40E336D7C9CEAD3AE506A59768F8EAB2599C.PNG</Image>
+      <Description>Complete all 'DOOM II: Hell on Earth' levels on 'Ultra-Violence' or higher in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: A Really Big Gun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/C95008AA4DB2C59DFD6C8A4F8FD77A2489D36FD2.PNG</Image>
+      <Description>Find a BFG in DOOM II single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: Burning Out of Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/ADE8E6F558C738988EF827A853CAF92AD81E6B76.PNG</Image>
+      <Description>Complete any DOOM II level with 100% kills, items, and secrets in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR03554_00</GameId>
+      <Title>DOOM II: An Important Looking Door</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03554_00_84F899FDF2370C14EDC4FB3A120BF651FC7A5D29/6831692E5D529B642CC8A0581E1ED76363B33872.PNG</Image>
+      <Description>Find a secret area of a DOOM II level in single player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

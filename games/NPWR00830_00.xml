@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00830_00</Id>
+    <IdEurope></IdEurope>
+    <Title>RAGE®</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/4E3BB05075CF5940405A7C6E390D919A0A1952CA.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Master of the Wastelands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/2323A12048229E4FBF08074F862BA0C31F61D5E5.PNG</Image>
+      <Description>Earn all 50 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Arts and Crafts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/F241E0C8326BBD4CFA95ACF49BE4B2140B34F8BF.PNG</Image>
+      <Description>Construct 10 Engineering Items</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Tinkerer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/272C10F036AE11EAA9BDE66DEE775526926B5FEB.PNG</Image>
+      <Description>Construct 50 Engineering Items</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Passive Aggressive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/6E15A4429F57A9E5BEECF8D5251E4D883A59CEE1.PNG</Image>
+      <Description>Get 3 kills with a single Sentry Bot</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Three Birds, One Bomb Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/835840ADB2EF2F87ED97ADD1F5DC26806073191B.PNG</Image>
+      <Description>Kill 3 Enemies with one RC Bomb Car</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Keep 'Em Coming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/DD3787B488CC67A0EC0F2DDFC0D13262E72B3593.PNG</Image>
+      <Description>Get 5 kills with one deployed Sentry Turret</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Mechanocide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/2D83CE8F2176B138183A87A93BEE80C1BAF84EBA.PNG</Image>
+      <Description>Kill 100 Enemies with Sentry Bots, Sentry Turrets, or RC Bomb Cars</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Jetpacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/57FB15D38AF155F7DB2C32EEAF505D93A1953222.PNG</Image>
+      <Description>Kill an Authority Enforcer during Jetpack descent</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Silent But Deadly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/5211E285FFBBE242FE7510303F86E21F793BC7B5.PNG</Image>
+      <Description>Stealth kill 10 Enemies with the Striker Crossbow</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/807ACB6DEEEF1D03BE5E134748C94F7BAD15A479.PNG</Image>
+      <Description>Kill at least 3 Enemies with a single Mind Controlled Enemy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Decapathon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/A0B89659BA3816B8EF9B96BB68B0659E2E36A29C.PNG</Image>
+      <Description>Get 10 Headshot kills with the Wingstick</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Open Minded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/3CCF06F6C6B247419B4F0BEE429280BD9527D876.PNG</Image>
+      <Description>Get 10 Headshot kills with the Sniper Rifle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Jumper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/74537A91F1CA8C94C5F02CC62D70F8EFFE1E64EC.PNG</Image>
+      <Description>Perform all 18 Vehicle Jumps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Gotta Have 'Em All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/8760BF0B0E772A76A5CE6E37F6D9ED089F0B1EF1.PNG</Image>
+      <Description>Collect all Playing Cards on one play-through</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Master Chef</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/BF5DC60AFABAAD5D085AA5EBD6D2263BB92FA24D.PNG</Image>
+      <Description>Collect all Recipes and Schematics in one play-through</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Hardest Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/EECFD2B6C61E245C2756547193DA39ADB72858DC.PNG</Image>
+      <Description>Beat Teague's hardest Deck</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>JACKPOT!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/EFE6B98F7718A389D3BFB12B9CF9B0E2020127D2.PNG</Image>
+      <Description>Roll 4 Targets in the first round of Tombstones</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Just a Flesh Wound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/F2D9DEB6A5387EFAFA170F58CD8F5C9FC95F18CB.PNG</Image>
+      <Description>Complete the final round of 5 Finger Filet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Deliverance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/264C2E76A06E0719ABE6C910E7393D654EB49B92.PNG</Image>
+      <Description>Complete the final round of Strum</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Minigamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/A91C4FFA441F49C69ED6D1218AB50E55D8029F81.PNG</Image>
+      <Description>Win all Minigames</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Lead Foot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/D5D095BC277C76A8CDD16FED85DAD8DD1E8D1D6D.PNG</Image>
+      <Description>Win a Race in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Rage Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/AFD618F94D78C7545AEC8F3D9D98A82C6C1E90A2.PNG</Image>
+      <Description>Win all Races in the Campaign</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Demolition Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/F7CF2BF9F9920F23C6C3C856A76AD3CF3E48A724.PNG</Image>
+      <Description>Destroy 100 Enemy Cars</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>It's Good!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/FB84965663FE95753F873B116B052A55E4C0D9AB.PNG</Image>
+      <Description>Score each of the 3 Field Goals from the ATV</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Roadkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/8CA7407D52AA369FC0F807D1C6F55BF0DBA641BF.PNG</Image>
+      <Description>Run over 10 Mutants</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Ghost Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/76D34863A22294772F56919094471E58FFB463EC.PNG</Image>
+      <Description>Complete Ghost Hideout in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Waste Management</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/03C293963298E98B758A51548F119C6E42D0C857.PNG</Image>
+      <Description>Complete Wasted Garage in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/18AB1C8C376A5330207BD603FA783AD8E5DE8AA7.PNG</Image>
+      <Description>Complete Mutant Bash TV in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>It's Alive!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/4F432BEAC8F84DCF9C2F7A5B48460D5D69FCAAD7.PNG</Image>
+      <Description>Complete Dead City in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Wellness Plan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/5D8FCCEF62DFB0860DFC4BEEE3D4812E3444DB93.PNG</Image>
+      <Description>Complete The Well in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Debunked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/45D173717AFC29215497F9A24D7BFA14342D3369.PNG</Image>
+      <Description>Complete Shrouded Bunker in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>ytiC daeD</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/4D8BDDB662FECA059CDEFB838E1BE88CDAB525B2.PNG</Image>
+      <Description>Complete Dead City Reverse in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Jail Break</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/0F209628D938A9542D04C586309E488D7B93F2F7.PNG</Image>
+      <Description>Complete Authority Prison in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Vault Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/BA76BB840F89AFF59ABB72CA32E9FA7903B9B728.PNG</Image>
+      <Description>Complete Gearhead Vault in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Power Struggle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/6C5B11FD196CD3053393F4C225CFA05F4535C103.PNG</Image>
+      <Description>Complete Power Plant in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Decrypted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/2CC5DA244C8357DC8DF8914EFA3F1307E2D0E488.PNG</Image>
+      <Description>Complete Jackal Canyon in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Mutie Blues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/1FC23CD253C2B22BFC91B922B228C37FDEE772BE.PNG</Image>
+      <Description>Complete Blue Line Station in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Bringin' Home the Bacon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/298C780161CEFA25CBB0BF3BF60D8085641BC79D.PNG</Image>
+      <Description>Earn 750 Dollars in one episode of Bash TV in the Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Mr. Oddjob</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/116FEC83542C5945F803078AEFC84B7AF0C01D6B.PNG</Image>
+      <Description>Complete 5 Job Board Quests in one play-through</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Dev Graffiti</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/5462A4DD33366AB9C2348EACA6F6E9E734AD0253.PNG</Image>
+      <Description>Find the secret Developer Graffiti Room</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Hey, not too rough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/948FA5A4AC30A3D571B4939978BD05BA8872F3CB.PNG</Image>
+      <Description>Finish the Campaign on any difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Hurt me plenty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/5EC6F87731F35636FB0FDA21AB63A90406BA9BA1.PNG</Image>
+      <Description>Finish the Campaign on at least Normal difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Ultra-violence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/D9A34FFE033A23D72D6E301B056813B0AFA497A9.PNG</Image>
+      <Description>Finish the Campaign on at least Hard difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>RAGE Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/2A3623D84E2E329D12BEFC70EC524728C9336D20.PNG</Image>
+      <Description>Finish the Campaign on Nightmare difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Obsessive Compulsive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/7745509A888AAE0A34BFF8CF95C3240217B788CC.PNG</Image>
+      <Description>Reach 100% Completion in the Campaign</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>The Legend Begins...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/B60E37A7E2503AF96C642C430F618122E7A78E04.PNG</Image>
+      <Description>Complete a Legend of the Wasteland</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Anthology</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/FB3B99F38CEA774FDAF1B28C5130931C7496A4B0.PNG</Image>
+      <Description>Complete all Legends of the Wasteland</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>A True Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/BFB751906A972DED1DDC804E79DE57E1A0594944.PNG</Image>
+      <Description>Complete a Legend of the Wasteland on Nightmare difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>No Room for Sidekicks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/6485F04F855D7117D00B8BA160408FA35796C8D2.PNG</Image>
+      <Description>Complete a Legend of the Wasteland without any player(s) becoming incapacitated</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>Fresh Meat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/73F4F6FF60473C3A8AB233A7DE57A7892175C402.PNG</Image>
+      <Description>Complete a public Road RAGE match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00830_00</GameId>
+      <Title>MVP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00830_00_0AFF24379EA83350E2164745EB20CC41DDF821EC/BED75BA1F54C7A2E58BF70E970EB1E30CF588CB5.PNG</Image>
+      <Description>Get first place in a public Road RAGE match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

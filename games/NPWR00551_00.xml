@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00551_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Overlord II</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/0386EF193584A2A91EF8DC7FB950EA802CC84503.PNG</Image>
+    <TrophiesCount Total="50" Bronze="37" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/7EA9263F9D7DAE087F8C1A9E102FE366D66E5E10.PNG</Image>
+      <Description>Unlock all Trophies available in Overlord II.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Rescuer of Kelda</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/18B6D9CD912824FF64494A28DBED51C39D8991C0.PNG</Image>
+      <Description>Rescue Kelda from Nordberg.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Juno’s Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/659C9BB78539C8EDABEA765F696E9BBFAFC58AF6.PNG</Image>
+      <Description>Rescue Juno from Everlight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Corruptor of the Queen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/21EB81FB8E09035D04A13368118ED60BB568F54E.PNG</Image>
+      <Description>Corrupt Queen Fay to turn her into Dark Fay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Ghost Bringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/1D180CEFCE45FBAFBB60BA517BF0A0AAD0A602EE.PNG</Image>
+      <Description>Kill Dark Fay to turn her into Ghost Fay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Tyrant of Nordberg</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/3A56414C83B58CB4D2C5DA321F24C2B6BAA6F02C.PNG</Image>
+      <Description>Complete full Tyranny over Nordberg through either Domination or Destruction.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Tyrant of Everlight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/6EE34BA41D4E2889A9AA9CF4AE03398420EF052D.PNG</Image>
+      <Description>Complete full Tyranny over Everlight through either Domination or Destruction.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Kelda's Special Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/D362177B35969085100BA9554A2BC26C95F1EE4B.PNG</Image>
+      <Description>Buy gifts for Kelda and woo her into becoming your 'special' friend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Dark Emperor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/F6B8E324DC78F62F65573762D5B24117A8ED112B.PNG</Image>
+      <Description>Kill Solarius.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Perfect Horde</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/C87F965B651E19A2AD005CBBC664CC704478AE0C.PNG</Image>
+      <Description>Fully upgrade all 50 Minions in your Horde.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Industrious Magic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/9ECC76BD4565A0380FA35DFE2006B3696291432E.PNG</Image>
+      <Description>Achieve 50 kills by overcharging your Evil Presence Spell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Big Chopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/2E98F921280DCE88FFEDBA75EF24840D486AD4D6.PNG</Image>
+      <Description>Achieve 50 melee kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Red Rescuer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/3E884B7A24E2F8F0EA3931BF91B9976451C566CE.PNG</Image>
+      <Description>Find the Red Minions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Green Grabber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/813AF3E12EB05E3B4865FD8E3695EEF4F8709D02.PNG</Image>
+      <Description>Find the Green Minions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Blue Bringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/E1D7614A5C683CCB46318367D0AF853FF89F6B01.PNG</Image>
+      <Description>Find the Blue Minions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Master Builder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/99B3A358B39519BFEB8DDC0F90D297124B637AC4.PNG</Image>
+      <Description>Build 50% of the Tower buildables.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Tyrant of the Tower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/7A39457484C084E4E2612795ED6480282A9BFAB3.PNG</Image>
+      <Description>Build 100% of the Tower buildables.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>The Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/82901D15E0CF05C7017A60947C67FFF6CE61B93C.PNG</Image>
+      <Description>Achieve a 100% Domination Tyranny rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>The Destructor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/BD955C4C4B0A7FA74D7E9464EE7B9956BCB76191.PNG</Image>
+      <Description>Achieve a 100% Destruction Tyranny rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/E0CA253623467A021DC84E28525B7651747DA775.PNG</Image>
+      <Description>Obtain all the Tower Objects in the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Crystal Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/59BB19DFFD2875CED8548BE0DE2EF531074AAA2C.PNG</Image>
+      <Description>Collect 50% of all Dark Crystals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Ultimate Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/25056DAC89E5D954D88726FA749271E61F664DA8.PNG</Image>
+      <Description>Collect 100% of all Dark Crystals.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Gnome Grinder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/C6B39BB37D68D3541B9582E4794819ACDA7AD6EF.PNG</Image>
+      <Description>Kill 1000 Gnomes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Scrooge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/C46FD0610FF9378DB3D48223903D7A51DE5C901D.PNG</Image>
+      <Description>Collect 50,000 gold.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Juno's Special friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/5BCFFCE27D28D10F6303BA3B6F8C44BE0DC4EF49.PNG</Image>
+      <Description>Buy gifts for Juno and woo her into becoming your 'special' friend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Rock On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/3466C119A7973FAEA81DDE40BFA67CEF985D4336.PNG</Image>
+      <Description>Kill 15 or more enemies with a single Catapult boulder.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Dark Fay's Special Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/BFD72F44D8F3D1F5815559D134B4040CE0C46B3E.PNG</Image>
+      <Description>Buy gifts for Dark Fay and woo her into becoming your 'special' friend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Ghost Fay Special Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/9F19B35F81B6A4F0DB8A18578432257631DB8683.PNG</Image>
+      <Description>Buy gifts for Ghost Fay and woo her into becoming your 'special' friend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Snatcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/7426F43FBA219918C738983241C999273EDE7094.PNG</Image>
+      <Description>Win one Pirate Plunder map.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Pillager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/87100AFC4D756A76AD8D0DB1813C251E2A31470B.PNG</Image>
+      <Description>Win ten Pirate Plunder maps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/DDDF9C277C4FA6585C080ABE0586B44F4C26A53F.PNG</Image>
+      <Description>Win one Dominate map.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>The Big D</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/6D38F61B25E6924524B58CCA86BEE1E94362B68C.PNG</Image>
+      <Description>Win ten Dominate maps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Adversary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/24AFC220454C30C4724B6467BEED94503670E88A.PNG</Image>
+      <Description>Kill an opposing Overlord 20 times in one versus match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Armed and Dangerous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/BAAA2C48A2CF614CA5BA9C222C8448373B203B46.PNG</Image>
+      <Description>Forge one weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Blue Steel Look</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/874EE040FAF5294E1ECCB88FF3C5B0172D1DED7C.PNG</Image>
+      <Description>Forged the Elemental helmet and armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Minion Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/28D3DB4A641D60637B64B629465AF54ED83A7D3A.PNG</Image>
+      <Description>Rescue all the Minion crew from the spider webs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Weapons Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/257CCE8FA25555330804078B586183BD055F1E48.PNG</Image>
+      <Description>Forge three weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Kitted Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/E3DDDC10FC674250FAA3CD3D13AB3D73BE6B2C9F.PNG</Image>
+      <Description>Forge the Infernal helmet and armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Mayhem Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/91FA8F7D8163E2F79C4EC6276957F9BE03E22A16.PNG</Image>
+      <Description>Cause mayhem during the Prelude.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Minion Harvester</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/FB7B67007869B06EDEB52B55F9596665819ADB01.PNG</Image>
+      <Description>Gather 10 Lifeforce orbs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Minion Gatherer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/270B62E30E15297043284436E403B0033778D39D.PNG</Image>
+      <Description>Gather 250 Lifeforce orbs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Minion Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/6B4EEC2C8CE04C86D6D7FDD153C6FD307BCE9865.PNG</Image>
+      <Description>Gather 1000 Lifeforce orbs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Minion Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/7F79CC1A2EA80B6166D3282ED2A3DA33AD902B16.PNG</Image>
+      <Description>Gather 5000 Lifeforce orbs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Mount Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/8166BA6E455DABA1932158F7F297A3C2B1003BD5.PNG</Image>
+      <Description>Discover and use all Minion Mounts in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Town Razer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/1C3181AAAAB45A963849999D51FB4A1D848B0B00.PNG</Image>
+      <Description>Destroy one Town.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Walking Apocalypse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/8B2ED333B0DF83C6324BEDBD21426BCF6F14D768.PNG</Image>
+      <Description>Destroy both Nordberg and Everlight.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Slaver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/DC1D7583F5E63EC06AFEC00E6A19A276DB60D4FD.PNG</Image>
+      <Description>Enslave one Town.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>New World Order</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/BE33DB9C57863CAB1AFACDAE7AEBA247353CE722.PNG</Image>
+      <Description>Enslave both Nordberg and Everlight.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Ladies' Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/0C0D8962344AB5BC66E8C38DA6EA06C8D7873446.PNG</Image>
+      <Description>Find a way for you and your three Mistresses to become 'special' friends.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00551_00</GameId>
+      <Title>Seal Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00551_00_00B21F90673AD2081EDBF2EF41417B89CB8D393942/4A89C1CB0A83E866E8EDE44A6D1D26C98601F778.PNG</Image>
+      <Description>Kill 100 baby seals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

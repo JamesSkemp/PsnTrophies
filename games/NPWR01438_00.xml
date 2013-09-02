@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01438_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dead Space™ 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F06A540EC24320FC320EEBEC3E27912E148DA29A.PNG</Image>
+    <TrophiesCount Total="59" Bronze="47" Silver="8" Gold="3" Platinum="1" />
+    <TotalPoints>1215</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Final Frontier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/E998261E28062DCF36EC070AD41CFDA56AC7C5D5.PNG</Image>
+      <Description>Earn all Trophies in Dead Space™ 2</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Patient on the Loose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/43794A51C0E70497401DA715C78AA6458A924D39.PNG</Image>
+      <Description>Get your first Suit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Derailed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/C28EEE06F11875B5C68A14295EC884C1FE280858.PNG</Image>
+      <Description>Survive the Train Sequence</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>One Small Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/9A564D92775EC041173C3F3713777B419EF39A79.PNG</Image>
+      <Description>Get through the first Zero-G area</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Clever Girls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8BD522EE45D1AB91B7344EE771E6E80B07517569.PNG</Image>
+      <Description>Survive your first encounter with Stalkers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Torment Me No More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/DD6D2FF8332C19B14C355A9E4C5ADED99CE2FE0F.PNG</Image>
+      <Description>Kill the Tormenter</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Graduate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/43B09CB2E934F4B961984CD76DC16F520083AE70.PNG</Image>
+      <Description>Win the fight at the School</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Elevator Action</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/AF77D0D903698BDAC12BBDEEBB90AD41655CF770.PNG</Image>
+      <Description>Knock off every Tripod during the Elevator Sequence</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Shut Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/55E71614035B19F36DBAE54D9D12BA58159B8CE5.PNG</Image>
+      <Description>Defeat the AI</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Powered Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/03F5BE7645B1307D41BF97B84CD6914EA98FD133.PNG</Image>
+      <Description>Complete the Solar Array Puzzle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Hornet's Nest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/C89DF3D644A2BB95AD2D69D01A44E22FFD8F5976.PNG</Image>
+      <Description>Destroy the Tripod Nest</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Operation!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/5D94A890F9098B741BAAD1D9BCB77A48F3C82656.PNG</Image>
+      <Description>Snare the Shard with the Ishimura</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Knock Knock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/232EB654FDBC7BEE7C67B523E122AB8AA3516C9F.PNG</Image>
+      <Description>Complete the Drill Ride</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Final Sacrifice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/7D68649C0C0E64BE3B1C94CB6D089D6ADE54F99B.PNG</Image>
+      <Description>Destroy the Marker</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Fugitive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/15FD671E3773212E7D11AB7868AF9D911B7EE2CA.PNG</Image>
+      <Description>Escape the Facility</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Cross your Heart, Hope to Die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/5805D23845ECB2B180502F9F363EC8DD3AA5081E.PNG</Image>
+      <Description>Survive the Eye Poke Machine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Made Us Whole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/0AD3F329C218F6AA9105951151A14EF773865D71.PNG</Image>
+      <Description>Complete the game on any difficulty setting</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Mission Impossible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/3E32A365C1B5C5E338891DB600D164CE1BF6B7BF.PNG</Image>
+      <Description>Complete the game on Zealot setting</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Romper Stomper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F9EC97B2BC1120309B9A2B57EA285C94F1F407C5.PNG</Image>
+      <Description>Stomp 10 Containers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Vacuum Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/DB0132997221F5DB0B810E05EC574F8EA465714A.PNG</Image>
+      <Description>Decompress 20 Necromorphs without getting sucked out yourself</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>...And Stay Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/9D97DDC821D3CE9E59B1E3A24B4E2D3CFF26A782.PNG</Image>
+      <Description>Kill 25 crawling enemies with Stomp (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Think Fast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/79E2DE6E3B74D40CC1467928585A5F4E7A97243E.PNG</Image>
+      <Description>Kill 30 Necromorphs with Kinesis objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Nanny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/21C0FA857D79F2DED5143F61AF1C38AA910030C6.PNG</Image>
+      <Description>Kill 30 Crawlers without detonating them</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Frozen in Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/D582ACBBE8A40867FE19E4D81A96BBD7B0BE596C.PNG</Image>
+      <Description>Kill 50 Necromorphs while they are in Stasis (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>First Aid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8A43EB61CC8B6B82DB6E0E34A81E2D6193B3F847.PNG</Image>
+      <Description>Use Quick Heal ten times (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Epic Dismemberment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/2F76F903BE0313A5D710549C02F6C4D2EF31CC54.PNG</Image>
+      <Description>Dismember 2,500 Necromorph Limbs (single player only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Looking good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F52962A389A1E23B2B7F75B6ECD991F4AABB6FDE.PNG</Image>
+      <Description>Purchase the Advanced Suit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Fully Outfitted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/88A97868C2DE4CBFE68ABBAAE41036AFE7EE8441.PNG</Image>
+      <Description>Upgrade your RIG and Stasis completely</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Picking favorites</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/CCD121082401F7CCBDF64E048BB0710EC056761B.PNG</Image>
+      <Description>Upgrade 1 Weapon completely</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Fully Loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/BD93163188BB1574A19D93ECD44F5E893D9F9DF4.PNG</Image>
+      <Description>Simultaneously have four completely upgraded weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Sampler Platter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F6ED7304A60AAC82DF5BF28B81D25C532A48DA1D.PNG</Image>
+      <Description>Kill a Necromorph with every Weapon in the game (single player only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Lightspeed de Milo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/3B1F09218961772177C37CDDF2975925DD9329A8.PNG</Image>
+      <Description>Dismember the Lightspeed Boy Statue</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Collect Peng</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8E832060C9A9794067553C64D63B78B4B0B78FE7.PNG</Image>
+      <Description>Find the Peng treasure</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Librarian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/71B4C80AECA27FC91612668E1B0C66735B42A6CA.PNG</Image>
+      <Description>Collect 100 logs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Electrician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/0770BECD1082924A0F09D15D14384D5F985730EA.PNG</Image>
+      <Description>Collect 10 Semiconductors</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Engineer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/FBCD1DE927D666D298FF9AF9D9DC018A84E07CD2.PNG</Image>
+      <Description>Collect 10 Schematics</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>My Boom Stick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/5D015F35A4F8B0001D22E273EE95E109CA4A6955.PNG</Image>
+      <Description>Kill 6 enemies at once with Line Gun's Alt-Fire (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Shock Therapy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/BCE9539B706037536A733E030416C79F95CB1C7B.PNG</Image>
+      <Description>Impale an enemy with the Javelin Gun and use its Alt-Fire to shock 3 others (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Lawnmower Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/353AE2ACA493803830405ADBAB0ED41FD25DDE7F.PNG</Image>
+      <Description>Kill 4 enemies with the same Ripper blade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>It's a Trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/2523D222BFE5D627009A86EBC833897F1CA253C5.PNG</Image>
+      <Description>Kill 20 enemies with Detonator Mines in a deployed state</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Necro Flambé</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/E13E44B54217FC019D4FAC8406879440719093F8.PNG</Image>
+      <Description>Kill 50 enemies using the Flamethrower</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Peek a Boo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/C86180BFD4B690E5DDF42E9279FF78B1A2471D9F.PNG</Image>
+      <Description>Kill a Stalker with the Seeker Rifle while in Zoom Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>C-Section</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/D39E4B9886E39FC042CDC881ED1E031B9F7316FE.PNG</Image>
+      <Description>Knock down an enemy with Contact Beam Alt-Fire then kill it with Primary Fire before it stands up</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Going for Distance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/BECF03657B2BF3BFCBFEAC04DD1782E3F22B6B75.PNG</Image>
+      <Description>Impale an enemy and make him fly through the air for 17 meters - it must stick to the surface</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Taste of your own Medicine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/39504756FC7093A5876B98B0398C91D74B189461.PNG</Image>
+      <Description>TK Impale a live Slasher to a surface using a Slasher's arm - it must stick to the surface</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Skewered in Space</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8E3E089A16868019F9656C864D0572B7FD5DF5F5.PNG</Image>
+      <Description>Impale an enemy into a Decompression Window to cause it to blow out</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Hard to the Core</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/11107ECE81D2651FDBB72463F7322519A1B6A589.PNG</Image>
+      <Description>Complete the game on Hard Core setting</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Clean Cut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/CF48DE144682445B1C1C11C57D7FF1B8BBF51438.PNG</Image>
+      <Description>Sever all three tentacles of a Lurker with one Line Gun Primary Fire shot (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Brute Juke</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/4ECE191D8DEAEF8419E9E4766D3A87F682764820.PNG</Image>
+      <Description>Kill a Brute without taking damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Shoot the Limbs!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/A20D90094112823D664B9EDE79D7A862A82D9004.PNG</Image>
+      <Description>Dismember 25 Necromorph Limbs (single player only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Bouncing Betty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/25F6644191E89ADABC5EB13F7F0D9ECD3A8D9510.PNG</Image>
+      <Description>Kill a Cyst by catching its Mine and throwing it back</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Betrayal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/F0AB4256F36C66BC0CFB3B9B0FE86DA57D5BE601.PNG</Image>
+      <Description>Severed: Complete Chapter 1</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Sacrifice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/327BCC6C1B7F64FD23CEDD2D63EEDC5D4497E0ED.PNG</Image>
+      <Description>Severed: Complete Chapter 2</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Ship Shape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/AC0CF0607A288E62FEA67DE70191593149CA62E1.PNG</Image>
+      <Description>Severed: Take out the gunship within 30 seconds</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>The Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/04755F5E29A60725D6D1B1CB717F50E19A0690F8.PNG</Image>
+      <Description>Severed: Complete on Zealot difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Remember the Alamo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8D099F7A2A40627A09CC20522380E6F02328D05F.PNG</Image>
+      <Description>Severed: Kill 16 or more enemies in the final last stand combat sequence</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Peng Me Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/040B3B410EAD351A8EC19153F4D8E889C030EAAE.PNG</Image>
+      <Description>Severed: Find the Peng treasure in Severed</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>King of the Hill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/10E6AF0FBC647E9098A193C663AE6FDB50313958.PNG</Image>
+      <Description>Severed: Defend the quarry platform until the door unlocks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01438_00</GameId>
+      <Title>Grind House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01438_00_00FA51215680801CFB1609E62AF608E5B9FA763BA1/8A2CD4EBFEEA965437B8B75D1E6A0D7368EE0F4A.PNG</Image>
+      <Description>Severed: In the grinder room, cause an enemy to die in the grinders</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

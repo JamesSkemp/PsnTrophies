@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01140_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Bodycount®</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/D1C4DD01A20C21511FF2A2C547EE3FA26B2BEB00.PNG</Image>
+    <TrophiesCount Total="42" Bronze="29" Silver="8" Gold="4" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>All Bodycount® Trophies Won</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/2C818D9902281CF25246963A48FD547F7B7BDDDB.PNG</Image>
+      <Description>Win all Trophies available in Bodycount®</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Welcome to Africa - Tutorial</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/937A9138C1DB081DBAD9FE4933497FE100293DAB.PNG</Image>
+      <Description>Complete the Induction mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Wind of change</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/55BA44D5BD74A07BCD3D20171F48301DED3FAE05.PNG</Image>
+      <Description>Achieve all objectives in Africa</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>A very bad feeling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/54A61490E5A61728095C6DAE40FE9A8EF94D50CA.PNG</Image>
+      <Description>Survive the first encounter with the Nemesis</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Wishing this was Vegas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/6F91387B0A20BAF422D61BD194C196D0D86EA6A9.PNG</Image>
+      <Description>Achieve all objectives in Asia</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>You FTW</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/CAB457149B89E042A20848065ACA7B8F956AEAB5.PNG</Image>
+      <Description>Break into The Target's Weapons Nexus</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Sleep when I'm Dead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/A0E605B154CC6DDBC7923FE565749AA39EC18CB3.PNG</Image>
+      <Description>Defeat the K-8 Nemesis Widowmaker</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Easy-peasy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/71DC586E373C3A7B5E6800EA987CC7748979C6AD.PNG</Image>
+      <Description>Complete Single player campaign on easy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Bullet dodger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/A904635F2AFD19C3D8A0122D9807CD0E0553E244.PNG</Image>
+      <Description>Complete Single player campaign on normal</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Warmonger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/D6304B350A6733D99786513B99FF05CC96D530A7.PNG</Image>
+      <Description>Complete Single player campaign on hard</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Military intelligence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/9A7B6C8A462CC281FD3E3F19C5A6B5F96DBBB036.PNG</Image>
+      <Description>Collect highest value Intel following multiple skillkills</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Finger on the pulse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/9B094D63AE693BE629C67307FE286B11BF37DE43.PNG</Image>
+      <Description>Upgrade OSB Pulse Wave</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Lighting their fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/1268E02DD078183BC543D39DD31CBAB04790311F.PNG</Image>
+      <Description>Upgrade OSB Explosive bullets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Bullet Repellent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/FE2932E44AFE7ED47B6A9430F876C7E61BF39958.PNG</Image>
+      <Description>Upgrade OSB Adrenaline</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Planes and Flames</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/ABA30CA7BE57679C484791C9DE78745AAE2B870D.PNG</Image>
+      <Description>Upgrade Airstrike in OSB</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Distance warfare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/7DE642D19AB73681526011F1591732B5E4087AF4.PNG</Image>
+      <Description>Take out a Sniper with a grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Stealing is wrong, kids!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/1170731B55F28B5C291EA72E177DC7D149F66849.PNG</Image>
+      <Description>Take out 10 Scavengers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Bad medicine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/9928BF495BF019428D9E4EAC06925D02718ADC5D.PNG</Image>
+      <Description>Take out ten Medics</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Hitman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/3DCD2504CA8BC11A2ECF145CAE0273EDB490157B.PNG</Image>
+      <Description>Kill 10 enemies with a headshot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Nowhere to hide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/881F3DBEA44A6D268C4A6B305C9D6358AC5698B3.PNG</Image>
+      <Description>Kill 10 enemies through cover</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Up close and personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/F2300EFA7B1F7F01F2FE862D62D4948D45D7851A.PNG</Image>
+      <Description>Kill 10 enemies using melee</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Robert Ford style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/18D3BF2AC29903CC05E967C412D18F2C6A0EA8CD.PNG</Image>
+      <Description>Kill 10 enemies from behind</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Boombastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/6BF1E1C025E59FBF05E17C30FEFA6C8743B7060B.PNG</Image>
+      <Description>Kill 10 enemies with explosives</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Hot Potato</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/EA1486ED10866F4B1928E2FCDBDEB4751B9386C2.PNG</Image>
+      <Description>Kill 10 enemies with grenades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Leg frag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/A678AB70A2CDB36BD8D6A8DA3F80A49854DF107F.PNG</Image>
+      <Description>Kill 10 enemies with mines</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Last breath death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/C70BBE555EB03465AD112F869A794BEB45A40819.PNG</Image>
+      <Description>Kill 10 enemies while health is low</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Bullet with their name on it</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/6B1B95661D00FA44EA1BDCF0B075122E56A67302.PNG</Image>
+      <Description>Kill 10 enemies with the last round in your weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Under their nose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/5847F56E2CF026B6362169177EB8D96E8CB295D0.PNG</Image>
+      <Description>Surprise kill 10 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Multiboom-doom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/8C21BB9161323B5B43644B78EA71D765F6D774B8.PNG</Image>
+      <Description>Kill 3 enemies at once with a single grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Network weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/CCE98C33A9D1408893C99F48511359FB42372B4F.PNG</Image>
+      <Description>Skillkill 10 enemies in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>The Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/543CE830B8F11F829AA9FE8CEB8605C854B5A962.PNG</Image>
+      <Description>Skillkill 25 enemies in a row</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Rain of fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/DD04D9701E8B477FA3FBAAD93B9F3528A9386407.PNG</Image>
+      <Description>Kill 5 enemies at once with an Airstrike</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Online can of whoop-ass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/A4940F6AA0ABEF4A6C3ACB6B84FD6FB4D434EA8A.PNG</Image>
+      <Description>Kill 50 enemies in a co-op mode siege</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Never say "Die"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/14F17E329883E8962C769AC1EECF2865D6152EED.PNG</Image>
+      <Description>Kill 100 enemies in a co-op mode siege</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Don't call a doctor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/91E6C80A117758A8180BBF145520EE882FC96E23.PNG</Image>
+      <Description>Survive the Medicenter siege</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Kept at bay</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/D324F914E7E5BF9335300A0C2446F1264ADC4194.PNG</Image>
+      <Description>Survive the Pirate Bay siege</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Out of the darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/6E70F815CBCC85084B4E0F1DE842A65C0379EC4E.PNG</Image>
+      <Description>Survive the Mine siege</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Beat the street</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/5F3CC20EA3FB7E1E3CA66416DDFC4E4DA46D705D.PNG</Image>
+      <Description>Survive the Street siege</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>2nd place equals death!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/0489910E095F43863E4E0B61579CFC967C211BE6.PNG</Image>
+      <Description>Win a Deathmatch</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Team Bodycount!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/0146CA9277B4AFEFD2F23BF3D1875171F63938E9.PNG</Image>
+      <Description>Win a Team Deathmatch</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Killed 'em all</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/9C66B0056A21ED490FDF321C3C8ECFE41B4AA9AA.PNG</Image>
+      <Description>Win ten Deathmatches of any type</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01140_00</GameId>
+      <Title>Kilo-killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01140_00_18D03662934D6CCABE3B4BD94A6F4C6D6EE25CE1/2EF14B33B331EFD07E2041558C631D9F5DEA263E.PNG</Image>
+      <Description>Score 1000 online kills</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

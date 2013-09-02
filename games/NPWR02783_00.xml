@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02783_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sonic CD</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/9AB13AC55894A2B3CBEB5751810D50420962DC11.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>88 Miles per Hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/D6F03C3DF8CCE9147CDB57F1D211EDEEB4213CBC.PNG</Image>
+      <Description>Travel through time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Just one hug is enough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/165A8C221696DA882275C030AAEDC3176CA2493B.PNG</Image>
+      <Description>Get a hug from Amy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Paradise Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/173C7353F8901CE7806535D4617F378C7EC57C95.PNG</Image>
+      <Description>Complete a zone in the Good Future</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Take the High Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/0875C1369B5182D821B66D7B594A34A6C801F117.PNG</Image>
+      <Description>Pass the upper Signpost in Collision Chaos Zone 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>King of the Rings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/699B7B62E706653FC7455B512118D8C424DEC162.PNG</Image>
+      <Description>Collect 200 Rings</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Statue Saviour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/458B4FDF0245A729DA14D33B090E090D06AEDC17.PNG</Image>
+      <Description>Find the angel statue in Wacky Workbench</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Heavy Metal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/759D362D984E827CF20F90344C05360E6FD7CA3E.PNG</Image>
+      <Description>Defeat Metal Sonic without getting hurt</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>All Stages Clear!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/CF5005A506838A66980DC0A3812A78B485A17987.PNG</Image>
+      <Description>Finish the game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/1D5800BEFDAB3F6C2A1E2B736AF46E8C26587C75.PNG</Image>
+      <Description>Collect all the Time Stones</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Dr. Eggman Got Served</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/E64D6980EE65835D13225F79D3FAEEA8AEF6B41B.PNG</Image>
+      <Description>Destroy Dr. Eggman's final machine</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Just in Time!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/5631B37434D6B6FE412C76EAF0D99A71344907D9.PNG</Image>
+      <Description>Complete the Time Attack mode in under 25 minutes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02783_00</GameId>
+      <Title>Saviour of the Planet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02783_00_34E7B82CBC6C4337E5B32A14917E3873990238CB/97F484FF987CE9E2A064F7E0466FE8B5AAC51E82.PNG</Image>
+      <Description>Destroy all the robot teleporters and Metal Sonic holograms in the past</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

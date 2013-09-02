@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01506_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Prince of Persia: The Sands of Time</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/9B74FC8CA34FEFF57ABED7A5B288DD948584C073.PNG</Image>
+    <TrophiesCount Total="16" Bronze="0" Silver="6" Gold="9" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Prince of Persia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/B0C2F728775B78037A25F4A95FE618D18114E458.PNG</Image>
+      <Description>Obtain all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sand Bearer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/DBE12E272F3B5CC94FCE48D2AF05C09DB08B36B1.PNG</Image>
+      <Description>Obtain the Dagger of Time</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Secret of Agrabah</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/027F71B2B81F623A5E6195C1A8EBC125BFA5B214.PNG</Image>
+      <Description>Find and drink from all hidden fountains</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Full Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/EAB30734B025F171BD09C35CBDABDFC7237A9285.PNG</Image>
+      <Description>Activate castle's defences</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>One Hard Decision</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/E74408AC1D65D34E4F30F7FC2019B044B0E0B44B.PNG</Image>
+      <Description>Defeat your father</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sands of Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/72D84B1E8C210FA965DDC88FA9591C6BC869DC8D.PNG</Image>
+      <Description>Play the game for over 10 hours</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sword of Strength</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/665206DA3F0A6980A6EF34A1EC9E2FB963B02842.PNG</Image>
+      <Description>Obtain the first sword</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>The Elevator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/A01AA05B14F59888F02DD6214512C81B30BCCA70.PNG</Image>
+      <Description>Survive the elevator fight</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Ultimate Sword</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/0D00159D6926B124ACE1EA73ADD27AF7CC0E826B.PNG</Image>
+      <Description>Obtain the third sword</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>The Big Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/C0E9AD9F6FDA2D76C2C63680C50C0B0F07646E3B.PNG</Image>
+      <Description>Kill the vizier</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Prince of Sand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/FEDEF2431D5E932EA9529EFF5E31139B8C7A4BF5.PNG</Image>
+      <Description>Finish the game</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sand Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/374224BA9702AE7BA80F1059E46E13F1410654EB.PNG</Image>
+      <Description>Kill 150 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Master of Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/1FAA9CBF72EB03C4E42963AF2B025BCEA5DA78B5.PNG</Image>
+      <Description>Rewind time 200 times</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sand Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/9A6052214F75089F0BCA9FDF0FDB28CAC85D3966.PNG</Image>
+      <Description>Kill 300 enemies</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Game Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/ED443F3E3B2C05B6F65EBFD60963D7A80467DC62.PNG</Image>
+      <Description>Complete the game rewinding the time less than 20 times</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01506_00</GameId>
+      <Title>Sand Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01506_00_005156F95E23C20413FF136D8659154D20A3512894/52F7776669E32023C5B466D2B88D719C31D286B7.PNG</Image>
+      <Description>Collect all 48 Sand Clouds</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,482 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00755_00</Id>
+    <IdEurope></IdEurope>
+    <Title>FIFA 10</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/88114E76783751E65E955DCE1E56C05DCB5792C6.PNG</Image>
+    <TrophiesCount Total="52" Bronze="34" Silver="14" Gold="3" Platinum="1" />
+    <TotalPoints>1200</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Football Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/8D0E6F72A79DD8FDA6DF5C6E5B3B67B2E3E238CC.PNG</Image>
+      <Description>Unlock all other trophies (excluding additional content trophies)</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Shooting Boots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/425A3512F960D26F11105A4163643A4B992E2A0E.PNG</Image>
+      <Description>Score 5 goals in 1 Arena kick-about</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Off the Woodwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/E06F8616E4DB0D1F25C01D04B98033DE50687AEB.PNG</Image>
+      <Description>Score off the post or cross bar in a match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Still Practicing?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/AD28AFFE53CA7DBC287AEF0789BC9D6DDFF1DFF3.PNG</Image>
+      <Description>Score 20 goals in 1 Arena kick-about</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Camera Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/6493D1A6A17AFE432D82E0F18CC20BE06239206F.PNG</Image>
+      <Description>Upload a video to EA SPORTS™ Football World</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Hard Earned Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/43A47A9C6DAD86C32E780F7D6D9CFFFF2FD0402B.PNG</Image>
+      <Description>Beat a 5 Star team with a ½ Star team Online or when playing Professional difficulty or higher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Grind it Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/3ADB2C29B190714A68557920BBC03D1FACFBBDE5.PNG</Image>
+      <Description>Win a match with 10 men Online or when playing on Professional difficulty or higher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Cup Upset</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/7E43CE9F85DF7135DFBE69F78276F3FD02F5F0C1.PNG</Image>
+      <Description>Win a 16 team Tournament with a 1 Star team when playing on Professional difficulty or higher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Wheeler Dealer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/B8E2BDB4528652BCA53A755DDE9890BAAB5BB8B1.PNG</Image>
+      <Description>Buy 50 players in your Manager Mode career</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Challenging Schedule</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/12A5B170EB8A25BF2A56ED87E632DFDDBD7B993B.PNG</Image>
+      <Description>Complete a Manager Mode Season without simming a game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Good Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/4CDE188CDE8BE868CB165B2738268654FDE1176A.PNG</Image>
+      <Description>Create a goal for a Friend with a cross</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Real Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/C768F47B9A819F51ED9EC3E5C5704BE00AF2EB7C.PNG</Image>
+      <Description>Play for over fifty hours</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Well Travelled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/E29B27E213E30737B458D179A82D6D8F75654483.PNG</Image>
+      <Description>Win a match in every stadium</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Total Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/6722D1EE7D98057D28D1F54BE97AAB53B5FD77BD.PNG</Image>
+      <Description>Win a match with fully manual settings (no assistance can be switched on)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Top of the League?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/95CEED85971705D1148EED54690F12712DBE4898.PNG</Image>
+      <Description>Win a match in a Friends League</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Photographer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/62439596A2407331E9593B944675C9CE18F1BCCD.PNG</Image>
+      <Description>Upload a Screenshot to EA SPORTS™ Football World</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Lounging Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/ED70F0CE648B10578A717F85C014F73560A8D877.PNG</Image>
+      <Description>Score 2500 points and win 5 Badges in a single Lounge Mode match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>A Star Is Born</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/BB53C89E1DAA01B4128BDBC0C9F7D27712C85921.PNG</Image>
+      <Description>Create a Virtual Pro</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Around The World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/2C6992E460459D78CBA70312AEC24750BF035BDD.PNG</Image>
+      <Description>Play a match with a team from every league</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Always Available</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/AFD33E16A66F1559902C5F618DD744A382EE9A79.PNG</Image>
+      <Description>Complete a season in Be A Pro: Seasons without simming a game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Underdog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/392F232EDE84F136C221506C6A3EBE52C770CCC0.PNG</Image>
+      <Description>Win an Online Head to Head Ranked match using a weaker team than your opponent</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Experimental</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/E2909B0F8BA6953B985D18A9650E268FDDC83EFB.PNG</Image>
+      <Description>Play 5 consecutive Online Head to Head Ranked matches using a different team</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Gutsy Call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/8A804271B75689DA91FEAE3726221DB595973A56.PNG</Image>
+      <Description>Take an Online Head to Head Ranked match to extra time playing as a weaker team than your opponent</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Ton up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/39179DE84958F07DCB101BDA927BF7D35AFA5675.PNG</Image>
+      <Description>Win 100 Online Classic Ranked Matches</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/B709C2F04D9D5FD22AE0349367019E616906EFCC.PNG</Image>
+      <Description>Play a Pro Club Championship match as a full team (10 players)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Good Support</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/9B1D4834BB3C4F6EC6E8FAC5AD5D1F7F2299900C.PNG</Image>
+      <Description>Play an Online Team Play match as your Favourite Team</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Time For A Testimonial</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/114B668CBF6B92D536E51373C813332317579047.PNG</Image>
+      <Description>Play 500 matches with your Virtual Pro</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Skilled Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/5A220AE52E225AB8DCB84EC61E2B53E798E0D0C2.PNG</Image>
+      <Description>Unlock 100 EA SPORTS™ Football World Accomplishments with your Virtual Pro</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Looking Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/1175EC13AA8DAF099CC962477629176259B0C9D0.PNG</Image>
+      <Description>Download your Game Face from EA SPORTS™ Football World</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Recognise Anyone?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/33CE9CB53C817EDC51202A1BDE892FAD488CD10B.PNG</Image>
+      <Description>Download your Club member Game Faces from EA SPORTS™ Football World</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Double Champs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/782D4C6651E4A39A72AA58FFFCCBB8AB0AB216DB.PNG</Image>
+      <Description>Win consecutive League titles in any top tier League in Manager Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Climbing the Ladder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/F808223E28B8DC1A612FA739432C6E54ABA80481.PNG</Image>
+      <Description>Win consecutive promotions with the same Club in Manager Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>The Treble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/7CCE2943A22A59E0E2229698B137FA703A1A3207.PNG</Image>
+      <Description>Win 3 trophies in 1 Manager Mode Season</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Established</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/D8E2F69BE7E92EE3C29ABA16DBE16362D66B0F66.PNG</Image>
+      <Description>Become a 5 Star Manager</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>No Pressure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/3C4CA8DF12CB9929940D1AD13E465A6848B997C7.PNG</Image>
+      <Description>Achieve 100% Board Confidence at any Club in Manager Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Window shopping</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/2B2CEEC560B0B1D87F0890AC11A326D480E627DD.PNG</Image>
+      <Description>Visit the FIFA 10 Store</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Theatre of Dreams</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/901AC76489B3F6FD53A09303D54500118C2486EC.PNG</Image>
+      <Description>Upgrade your Stadium Manager to Level 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Globetrotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/0A77B2276618B421CE83F17E19AF296B1064566E.PNG</Image>
+      <Description>Win titles in all 5 major European Leagues (England, France, Italy, Germany &amp; Spain)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Phoenix from the Ashes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/20C804963FADF83CF0524C73AB32273002925093.PNG</Image>
+      <Description>Make a 5 Star team out of a 2 Star team or lower within 5 seasons in Manager Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Good Form</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/CFC78B5B64AA8593B1AE4050FB6779ED7B094CE9.PNG</Image>
+      <Description>Play 5 consecutive Online Head to Head Ranked matches without losing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Practice Makes Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/89251FB5C2E7CFF162CD58F3B898830938D3EB7D.PNG</Image>
+      <Description>Work on your skills in Practice Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Limited Resources</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/70A4F1E375AF8A7F4FC45B9000F157C7BACF294E.PNG</Image>
+      <Description>Win a League or Cup in Manager Mode with a 1 Star team or lower</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Tournament Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/D8E168385C2BB90BA2CF977EC6A0ECB50CADEAF9.PNG</Image>
+      <Description>Win a trophy in Ultimate Team mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Match Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/1FF79622786C39CAC23FE4560A29EC8B0F8B6A36.PNG</Image>
+      <Description>Win 10 Matches in Ultimate Team mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Tournament Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/87900A2922A7644422B4A6B20650BDB5B007D6D9.PNG</Image>
+      <Description>Win 10 Trophies in Ultimate Team mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Tournament Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/86227BEE97EF5E0026DFDBA5F89102BB6ABB1271.PNG</Image>
+      <Description>Win 25 Trophies in Ultimate Team mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Perfect Chemistry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/B70496D9FC5DFB3B9091C5E2FC5B1CE8585ECEDE.PNG</Image>
+      <Description>Win a match in Ultimate Team mode with a 100 Chemistry squad</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>International Unity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/A05C9203F81D630BFBF8260439F60842036EBB11.PNG</Image>
+      <Description>Win a Ultimate Team mode match with a 100 chemistry squad where no player is from the same nation</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Coalition of the Winning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/97F9F7A93C7EEB9056845ED22B091BD81674E678.PNG</Image>
+      <Description>Win a Ultimate Team mode match with a 100 chemistry squad where no player is from the same club</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>A Good Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/971CFDA9598AC952EDB25422FFFBA8ADC2D274D2.PNG</Image>
+      <Description>Open 10 Ultimate Team packs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Pack Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/0CB5D3E409925F82032721DB59B22B9B3786ECC3.PNG</Image>
+      <Description>Open 100 Ultimate Team packs</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00755_00</GameId>
+      <Title>Resource King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00755_00_141C1E9E188AD9AC4CD7C595EF2329B9496B2D1C/F54699F8BAE4E166A8E75A77975680EBD0F2F5F5.PNG</Image>
+      <Description>Open 500 Ultimate Team packs</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

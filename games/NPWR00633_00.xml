@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00633_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Star Wars™ The Clone Wars™ Republic Heroes™ Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/031DAE6061767B4D176247B60AB41D9FF275446D.PNG</Image>
+    <TrophiesCount Total="50" Bronze="36" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Republic Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/88E39F38C176116D746EEC9A76526D49CAEDD150.PNG</Image>
+      <Description>Collect all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Refresher Course</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/B0C28EB128AE7D056E20294C937AEFC7BF3B2804.PNG</Image>
+      <Description>Finish the Prologue Mission: Master &amp; Padawan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Girl Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/B6AE10FE48AEFFF2B8F46A3D19BE1926369EC9BA.PNG</Image>
+      <Description>Finish all Jedi Missions as Ahsoka</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Double Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/899B5AEF02242BB9C4043D306236E0BDAA0C67EE.PNG</Image>
+      <Description>Perform a Droid-Jak at the same time as your partner</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 1 Padawan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/92D5CA09B6C01CD34CBF8DC8ACE3F0520C4DBB3C.PNG</Image>
+      <Description>Finish all Act 1 Missions on Padawan Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 1 Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/5E8D5B9263A5DB6F6E58D87E720EAD616511E3AD.PNG</Image>
+      <Description>Finish all Act 1 Missions on Master Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Nobody messes with...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/2BAD7385BCEA5861B88A1F2F0718DF4B921F9CAC.PNG</Image>
+      <Description>Finish all Clone Missions as Cad Bane</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Droid Hopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/09287A19053129EC82A1E1FB5DA69EC7784D518A.PNG</Image>
+      <Description>Destroy 25 Droids by Jumping from Droid to Droid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 2 Padawan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/2E637FFF19BF6C5B40F2C821CE2744C82A4618A7.PNG</Image>
+      <Description>Finish all Act 2 Missions on on Padawan Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 2 Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/7B1867FF5E089A39A8E9A66DD4FFE8160147A7E4.PNG</Image>
+      <Description>Finish all Act 2 Missions on Master Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Two's company</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/59223F69620B76434F8873566EF1085D533A8ADA.PNG</Image>
+      <Description>Finish a mission with another Player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Dance of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/145FBE65F93A962711113D1CFFE25FF6F65A99E2.PNG</Image>
+      <Description>Destroy 25 droids while they are dancing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 3 Padawan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/F16F05A5D5C7E7C2E816C0E42704037FE6EA3F1B.PNG</Image>
+      <Description>Finish all Act 3 Missions on Padawan Difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Act 3 Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/EF047D5BAD652839711EEE3AA81FBB6066C27A3E.PNG</Image>
+      <Description>Finish all Act 3 Missions on Master Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Heroic Alliance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/1F5645903119D1E4F2D053CC51D451994723D783.PNG</Image>
+      <Description>Finish a mission in co-op with a combined score of over 10000 points</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Youngling Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/3DD2DF6ABAFD9D1C08C6CF1CAA06F22E1ACEC94E.PNG</Image>
+      <Description>Get at least a Bronze Medal for every challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Republic Heroes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/B28D652C4551683677071A33BF2C59AC118315A9.PNG</Image>
+      <Description>Finish all missions with another Player</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Master Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/EFC0F3DFE46E865CE20D22EA6492DC3E7169C7AD.PNG</Image>
+      <Description>Get a Gold Medal for every challenge</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Jawa Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/39B63277D5EE9F12199631C2BE9206E62E66AF6A.PNG</Image>
+      <Description>Collect an Artifact</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Jawa Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/44B17314A3BB9071876E7F9F406511C456C021B3.PNG</Image>
+      <Description>Collect 25 Artifacts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Jawa Lord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/35392C518D83C5EF0F7D16C11ADF991BC4B69325.PNG</Image>
+      <Description>Collect 50 Artifacts</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Come back soon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/3356F05E5BB528448D4AD489ADA88DB4705C7F30.PNG</Image>
+      <Description>Buy a Hat or Mask</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Combat Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/FC2B2D8B5DE6CD81C4DE1FC2F1D55CAD4430CC17.PNG</Image>
+      <Description>Buy all Combat upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Droid Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/2BA323FD1131E87374513C60CF0AE3D096DB3183.PNG</Image>
+      <Description>Buy all Droid-Jak upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Dance Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/8DB08EE7DD9BDF8AF9A873BECF780420702B70A1.PNG</Image>
+      <Description>Buy all Droid Dancing upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Can't Touch Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/CA8998C443F1AA7D0D0D046533F64583BDEC925E.PNG</Image>
+      <Description>Defeat Kul Teska on Behpour without either player dying</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Dressed for Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/2BED41326DB8B92E3C2B2940296D143C87362176.PNG</Image>
+      <Description>Buy every Hat &amp; Mask</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Jedi Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/AD1142FD7BC5520D5B7E943BF09B87F4E64C0A41.PNG</Image>
+      <Description>Get a Gold Medal on a Jedi Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Clone Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/BBD9E6AEE943FF2E0DB96059771DE06B89A262C5.PNG</Image>
+      <Description>Get a Gold Medal on a Clone Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Jedi Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/2C06ABE955809D79EAFBF64C944E2EE2437F4BEE.PNG</Image>
+      <Description>Get a Platinum Medal on a Jedi Mission</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Clone Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/12528A001BA5776D2F8972FA5D0DDE892FF6B50E.PNG</Image>
+      <Description>Get a Platinum Medal on a Clone Mission</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Droid Disruptor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/F988FF42D6E42137CDCD99AB46648429843B37DC.PNG</Image>
+      <Description>Get over 250 points while controlling a single droid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Demolition Derby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/A207E627B24185DCFDCCB52227F8ACA13660A912.PNG</Image>
+      <Description>Destroy over 100 droids with Droid-Jaks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Droid Dynamo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/257A72DC614DB6B266EB60B3F19A04AA9FAE4F19.PNG</Image>
+      <Description>Get over 100 points while controlling each type of Droid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Dynamic Duo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/502EC3B457C2E9DF764BC5BB9B0EA9E604AC69FF.PNG</Image>
+      <Description>Finish all Jedi missions as Anakin &amp; Ahsoka</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>High Achiever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/A9405F14393D3BFC36615DB6B01BE0DDDAFDE9D1.PNG</Image>
+      <Description>Get a total score of over 200,000 points</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Time to kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/37BE4CEB5CD6D929ADC1794353F040AAF0885539.PNG</Image>
+      <Description>Get a combined best time for all missions under 200 minutes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Scrap Lord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/6D78EA0E4B710B328674839D15BC0019E143E1AA.PNG</Image>
+      <Description>Destroy 5000 droids</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Campaign Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/7C61E40E906D1F3B89A0E53DBC18F199E928F1DD.PNG</Image>
+      <Description>Get a Gold Medal for every mission</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Bowling Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/EF9233B433B0A5279CB0ED3C960A2D0CC8EC0D11.PNG</Image>
+      <Description>Destroy 10 Droids with a rolling Destroyer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>My Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/FEDB662F500BAC40BED0D227A217382883564D10.PNG</Image>
+      <Description>Destroy 10 Droids attacking your partner</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Force Crusher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/5080CB63C3BEFC5432176CF97AC976860D1182C4.PNG</Image>
+      <Description>Destroy 50 Droids with a mounted Force Kill</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Watch your step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/FA33B65AD0963C9B04B1F49042A7AF0B18AC9E02.PNG</Image>
+      <Description>Push 50 enemies off an edge to their doom</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Grand Slam</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/D819C67C7F40FB1F810F9D7984ECBA0B3220D1AE.PNG</Image>
+      <Description>Destroy 25 Droids by doing a jump attack off another character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Up close and personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/763FE84D49232B2145D5036E9716B6BAB1665C0D.PNG</Image>
+      <Description>Destroy 50 droids with a clone melee attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Tag Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/8A753FEBA6CE747ACEA4D1D12168DFBD065431B4.PNG</Image>
+      <Description>Destroy 100 droids your partner has stunned</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Handle with care</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/6781001E04F30BECD23EC4CB82B9B31E84172ADD.PNG</Image>
+      <Description>Destroy 20 droids with explosive props</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>I got one!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/9B38B128E88E8CBAF105F2CD11F4CA899F5285A4.PNG</Image>
+      <Description>Destroy a Gold Droid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>Gold Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/C3911282798E69FA153B01AB275ADE23137A8254.PNG</Image>
+      <Description>Force Kill one of each type of Gold Droid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00633_00</GameId>
+      <Title>No Favorites</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00633_00_00079A12FA1F44516C9A7EA2E4F5D5F9E3453EA9D2/990C94DA1FDE40D40605A746ADADC5B46B2BA46D.PNG</Image>
+      <Description>Destroy at least one droid with each Droid-Jak</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

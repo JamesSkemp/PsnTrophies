@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03734_00</Id>
+    <IdEurope></IdEurope>
+    <Title>F1 Race Stars</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/513F6796C6C2A4533C3568C923F16DA140C57007.PNG</Image>
+    <TrophiesCount Total="65" Bronze="45" Silver="14" Gold="5" Platinum="1" />
+    <TotalPoints>1545</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Race Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/906DFF03F5D57BBD77E6D0C08AA3D29C706D9F07.PNG</Image>
+      <Description>Unlock all 49 trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Taste of Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/ACC4C9C82C2224B6CA8F10C8F4EF401C5154332B.PNG</Image>
+      <Description>Win an event (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Red Carpet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/82D1C5CE9461714D82587523370B8DA367BA1E36.PNG</Image>
+      <Description>Take a locked shortcut</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Career is GO!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/9A6639653606ECD213D177D55B134A8193AF85B2.PNG</Image>
+      <Description>Complete the first championship of your career</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Career 25%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/A5F8BEA4650DA0A0A6D8350E927DE5F1D89918D9.PNG</Image>
+      <Description>Complete 8 different championships in your career</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Career 50%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/3481C14F8849D624CEDA93A7A0AA370297B8D6F7.PNG</Image>
+      <Description>Complete 15 different championships in your career</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Career 75%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/C42AC330824EB8B69CA47EAC485611822AB3C7C1.PNG</Image>
+      <Description>Complete 23 different championships in your career</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Career 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/D790E5AC9A0E3F4D65DDBBF5F62AA79554B795F5.PNG</Image>
+      <Description>Complete 30 different championships in your career</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Shelf Promotion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/0C591F5EBB8CF5CF798EBCE1405A46317D982F7D.PNG</Image>
+      <Description>Fill your career trophy cabinet</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Your Friends are Cool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/64BC03FC62BC96B90C22053D4ED534D0F03AC92D.PNG</Image>
+      <Description>Complete a championship in your career in a splitscreen team</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Internet Famous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/1EAA0FB7E84CA29C96D3F9543B1164A1C66CECC7.PNG</Image>
+      <Description>Win an online event (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Fish in a Barrel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/C36B4B9FECB6E2998E4620098DB3FAAA6ACAAB99.PNG</Image>
+      <Description>Use power-ups against 3 drivers who are within range of the safety car (globals not included)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Heavyweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/A10F74CB47A939EB7102AEE9DD1EC39CAECF3A07.PNG</Image>
+      <Description>Affect 3 drivers with a single Pulse</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Fully Automatic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/A80E7C85CE1ADC38D6E77DB6BF4E697CD5DEED86.PNG</Image>
+      <Description>Hit the same driver three times with a 3x Ricochet Bubble</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Whoops!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/39A73A3D85EBE9260B2160409AF4EF78E1465033.PNG</Image>
+      <Description>Hit yourself with your own Ricochet Bubble</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Scientific Method</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/A06A7AE38D885DA7C4364685D021B6C0F3A54DFC.PNG</Image>
+      <Description>Make an impact with each type of power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Nailed the Jump</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/7B58995695E338052F2A239A7E161BA2C0C99D64.PNG</Image>
+      <Description>Trigger a jump boost</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Jump Boost Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/528EDF7333D55D8518D3011F15D59EFB2C86FBF8.PNG</Image>
+      <Description>Trigger 50 jump boosts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Slipstreamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/8C30B410582681B194B948CEF2C29B611FBB4C00.PNG</Image>
+      <Description>Slipstream past a driver</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Slipstream Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/047F93AB8127D6238E0BBF68CF1C16D4CFEB7D5C.PNG</Image>
+      <Description>Slipstream past 50 drivers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Shortcut Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/85943F54C4827EBE75B45CA9E977539BA53CA080.PNG</Image>
+      <Description>Take every shortcut in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Abu Dhabi Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/8765DA9C18F5F5A0ADAF9607C472CB5C502F05AC.PNG</Image>
+      <Description>Win an Abu Dhabi event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Australia Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/FD0066E578D63C59C314B3A412D3DA2F0A8581C7.PNG</Image>
+      <Description>Win an Australia event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Belgium Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/4AE8557D53F04581FA2D824999251D11FE37042A.PNG</Image>
+      <Description>Win a Belgium event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Brazil Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/13018EDE235615F9DADE0367B352825A88ABA148.PNG</Image>
+      <Description>Win a Brazil event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Germany Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/ECD10671CC8CEEC68117847A6A0D65ABA476EBC6.PNG</Image>
+      <Description>Win a Germany event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Great Britain Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/D54CF2A8E1B5AB2731E2F5A19B4B4E536F6E8C57.PNG</Image>
+      <Description>Win a Great Britain event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Italy Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/19D3D1169067FA6264D25EC29CCCC3C3ED4078FA.PNG</Image>
+      <Description>Win an Italy event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Japan Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/6BF8396302EFCDC0263D0CDC78A309DA4561897B.PNG</Image>
+      <Description>Win a Japan event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Monaco Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/CEF2C1ECCC4B5398F8A832D9A1D2B47A5130CB4D.PNG</Image>
+      <Description>Win a Monaco event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Singapore Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/98E2EBE449DF39D146DD5FDFAD8EC12A333AF313.PNG</Image>
+      <Description>Win a Singapore event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>USA Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/FA5360FC97CF0819E2A8EA79218F3BD9FE59F00D.PNG</Image>
+      <Description>Win a USA event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Around the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/D9C58ADFA9911130F4BE2D14151F47A2451C21EA.PNG</Image>
+      <Description>Win an event on every track at 3,000cc (no teams)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Qualifying Lap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/5F0E349958A2601C6C53E60D453B46CC9A15025E.PNG</Image>
+      <Description>Set a Time Trial record</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Bronze Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/644692EB1FF0A56AF55CE8DFFD0D61C98124EC9B.PNG</Image>
+      <Description>Earn a bronze Time Trial record on all tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Silver Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/30BFFB7168933D86C25AE995271C5DC3ADF129AE.PNG</Image>
+      <Description>Earn a silver Time Trial record on all tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Gold Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/7049D5F7E19ADAC8B63520CF4043722F05C67667.PNG</Image>
+      <Description>Earn a gold Time Trial record on all tracks</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Player of Games</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/8BE6B6BB9D90B57265D409F93E2801DA687AEE28.PNG</Image>
+      <Description>Complete one event in each race mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Exhibition Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/E4609FC5ECCF900A80053618FCCBB9BCDBA20DC8.PNG</Image>
+      <Description>Earn 1,000 Exhibition points in under 5 seconds</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Vapours</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/4D5A973C1A0BE1D3359DA94CC9DE3C28CAA7963D.PNG</Image>
+      <Description>Win a Refuel event with an empty tank (no teams)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>My House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/4160483360A6C431E9CD11B956796660E8534C86.PNG</Image>
+      <Description>Own the whole track in Sector Snatch</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Causing Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/DBF61E89DCC443A834920A4F3EC5A7B2CB455301.PNG</Image>
+      <Description>Hit another driver after being eliminated</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Shakedown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/B3EABE121FA2BC51FDF8B210315B2BFE21BE6403.PNG</Image>
+      <Description>Make a nearby driver drop 600 points in Trophy Chase</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Ecto-won</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/7E22397BF0B7CC1BB1CE63FB226458FF42AF86D0.PNG</Image>
+      <Description>Beat a friend's Time Trial lap</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Prince of the Screen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/99B0E752F739964C4D7EF9FE09ECC8736C153195.PNG</Image>
+      <Description>Reach King of the Screen level 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>King of King of the Screen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/79D1F8FA0EF5ADC09613789E650E4ABCC2635E62.PNG</Image>
+      <Description>Reach King of the Screen level 6</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Social Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/19C151A2A2A60F4C64F5CCFDCDE3B42A1F96D5E0.PNG</Image>
+      <Description>Complete one event with each constructor</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Pitmaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/0134D1F9577C31C6B063BE8B7EBADD8CBD118E19.PNG</Image>
+      <Description>Repair in the pits 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>They See You Rollin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/AFB2417FB6F4060F41FEA53C49455E37EC055434.PNG</Image>
+      <Description>Earn 3,141 badges</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Bingo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_25E59445CE784A01931790FF68F2433C6E93D41D/4776C7EC330EDBEF42BB68F2FA2DB4CDEE7592C5.PNG</Image>
+      <Description>Use a power-up against every opponent on the track (globals not included)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Canadian Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/0958292A885388E05C341B28E48F9792779CC3A7.PNG</Image>
+      <Description>Earn a Gold Time Trial record on Canada</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Road Trip: Canada</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/3FAA2A8E81F28EA83E2A34009A14A280C87CC6A3.PNG</Image>
+      <Description>Win an online race on Canada</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/C7A88E06402CF5C9006C565129E260A70B9BB094.PNG</Image>
+      <Description>Collect 200 trophies on Canada</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Canada Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/A961E58E51C5601779192EFD1D87E495E9DF9BE2.PNG</Image>
+      <Description>Win a Canada event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Maple Highway</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/F3B6A06E0A749BDA9EBA7B492C0EA782940C262C.PNG</Image>
+      <Description>Take the locked shortcut on Canada</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Chinese Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/E13C9FFBB2B8A3A23948B022E6B153723E5B8CF3.PNG</Image>
+      <Description>Earn a Gold Time Trial record on China</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Road Trip: China</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/C4C88D926E732B055DE56E27FCFFBA6797BB09D4.PNG</Image>
+      <Description>Win an online race on China</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Gate Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/44FAF3C7862D4614BF45BDD70B39D5EDA55A97F4.PNG</Image>
+      <Description>Pass through 100 gates on China</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>China Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/3A1F95C9EA7B1AA63B942E2C043A2075D0A0E1A1.PNG</Image>
+      <Description>Win a China event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Dragon Dance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/00AE69C2889CFEB27811A7FA610E8DBA4809399F.PNG</Image>
+      <Description>Take the locked shortcut on China</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Indian Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/51A7A7F2F7F9F2BA9D5A018CBAE7C3C629594D76.PNG</Image>
+      <Description>Earn a Gold Time Trial record on India</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Road Trip: India</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/125516C1E42AF57F5B0421C6718C42BC2FD52F63.PNG</Image>
+      <Description>Win an online race on India</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Fuel Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/D677A48995CC25CFB7D94A408D3D5893489AC507.PNG</Image>
+      <Description>Collect 50 fuel cans on India</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>India Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/64A6B099976EA194DF1C5443AACEB22DB6603169.PNG</Image>
+      <Description>Win an India event at 3,000cc (no teams)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR03734_00</GameId>
+      <Title>Lotus Garden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03734_00_01A7DFCC27F5AF9616AEAB3AFDE79C7445157FDAD1/1D490D1DED1CBE839D0134217659EF17553F931E.PNG</Image>
+      <Description>Take the locked shortcut on India</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01526_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Prince of Persia: Warrior Within</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/979190FA856A844F327334A8DB7584E29BA8E8E6.PNG</Image>
+    <TrophiesCount Total="20" Bronze="2" Silver="10" Gold="7" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Warrior Within</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/D5E43ACA5CE4D9B8002191770CE6874E10BA1AF4.PNG</Image>
+      <Description>Obtain all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/3D514EEB6EBEB9DCBD456788CDE353E305B73609.PNG</Image>
+      <Description>Complete the game on Easy difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/6BF04B58588C81246D7D934586A09776943D9D02.PNG</Image>
+      <Description>Complete the game on Normal difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/279543F33351775C902EE1706748E245C544CC9B.PNG</Image>
+      <Description>Complete the game on Hard difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Secret in the Sand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/6C4936A1ABD54FE08F0D01595CA38BFE874C303A.PNG</Image>
+      <Description>Obtain the Secret Ending</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>The Art of Sand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/C717862F036D662782F95BEB0162480DA320C5F1.PNG</Image>
+      <Description>Obtain all hidden artwork</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Time Weaver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/3FD8BE1ED0BE931DF7D413EB45EE3F4EC3B1F29E.PNG</Image>
+      <Description>Use all Time Powers at least once</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Grappler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/DCDD7437370A78A9123F0E9815148E6C187EF706.PNG</Image>
+      <Description>Grab and throw 100 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/F8F16335EAE152F08D59E96C31B6972EE5F70CD0.PNG</Image>
+      <Description>Decapitate 150 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Land on the Horizon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/F0575046A3B2B5E7213D988CB16201A1DFA5A183.PNG</Image>
+      <Description>Reach the Island of Time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Maximum Capacity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/B5A054BC98999E53DF2C5BBF766FB406711D947A.PNG</Image>
+      <Description>Get all life upgrades</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Water Sword</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/D219B8FD6582830C31400D01251873D91777A245.PNG</Image>
+      <Description>Obtain the Water Sword</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Dual Wielder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/DDE79CFACEA3C8CCE0910B2FA3B20C23A4040A1D.PNG</Image>
+      <Description>Kill 100 enemies using a dual weapon technique</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Rock 'n' Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/330F35357AB8F3F5D0DE62EB69E4E99A1A58BDE5.PNG</Image>
+      <Description>Defeat the Giant Golem</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Legendary Creature</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/6DFD717EAD7EDF6AC6A22CD769B3DBBDE65EC07E.PNG</Image>
+      <Description>Defeat the Griffin</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Royal Battle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/512A94F7A8ADA83F2AA8E9EC511AAEB57435CBAC.PNG</Image>
+      <Description>Defeat the Empress - Normal Ending</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Black Sand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/590B0F683E48536AFCD96341BD45F28692B2D37D.PNG</Image>
+      <Description>Defeat the Dahaka - Secret Ending</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Undefeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/F707061E5799F44212CE0F61FAACC6BFF463638C.PNG</Image>
+      <Description>Complete the game in any difficulty without dying</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Adventurer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/90B521BB390B3562D55CD994C99A307E02A93AB5.PNG</Image>
+      <Description>Play the game for 10 hours</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01526_00</GameId>
+      <Title>Throwing Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01526_00_001599E10C1CFF6002A2CEB2050AFF54CE3F1F23A4/814A31D28911B7CE161A95053FE66A7631290FB2.PNG</Image>
+      <Description>Throw weapon at enemies 50 times</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
