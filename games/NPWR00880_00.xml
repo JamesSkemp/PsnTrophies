@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00880_00</Id>
+    <IdEurope></IdEurope>
+    <Title>MEGA MAN 10</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/A84971AA575AEDCE254F97A3DF1A0F78DB58A549.PNG</Image>
+    <TrophiesCount Total="12" Bronze="5" Silver="7" Gold="0" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>WHOMP WILY!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/EA40F1DC632856B34CEC9F57705B9BE9B245DCDA.PNG</Image>
+      <Description>Clear the game once.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>BLUE BOMBER</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/7A734AB59AAA250C74452416C8E94762CFD72DD6.PNG</Image>
+      <Description>Clear the game in under an hour.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>SUPERHERO</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/D4BE6742640C7CB88D4120A720E3B52A754C9822.PNG</Image>
+      <Description>Clear the game on HARD.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>HARD ROCK</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/F44EDA3F2E34DF9C2DA8B8732FBDA0AFCA2CCEDF.PNG</Image>
+      <Description>Make it to a boss room without getting damaged.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>HEADBANGING</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/6ED296AEA0A7D580CF87A1756979A8A2BBDA5EF1.PNG</Image>
+      <Description>Defeat the 8 bosses without your helmet on.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>DESTROYER</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/153C4B9A19E95F1CD801683FF7D798675F783418.PNG</Image>
+      <Description>Defeat 1000 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>WORLD WARRIOR</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/A77443A3E048495A573716F7D32A99520116A772.PNG</Image>
+      <Description>Defeat one of every type of enemy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>TRUSTY SIDEARM</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/C29101BA5751DBCE78E9FCD24A54A35385F1B1F3.PNG</Image>
+      <Description>Defeat the 8 bosses with just your default weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>NO COFFEE BREAK</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/5FAED74D5ADC8751E0218DB266870ECCCD87D33D.PNG</Image>
+      <Description>Clear the game without using any energy, mystery, or weapon tanks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>TENACIOUS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/B0F8B0BDCD05F8E82C341BA7631E267EEC8E95BB.PNG</Image>
+      <Description>Clear the game without continuing.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>INVINCIBLE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/9CA1CCAD53010D80DFCB5A575E981D7E73E2CB13.PNG</Image>
+      <Description>Clear the game without dying.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00880_00</GameId>
+      <Title>MR.PERFECT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00880_00_54CAB5A306664BED135717CDC741E9D28C290989/B2890F89310C3DF5ED6F7ADD4647723859009538.PNG</Image>
+      <Description>Clear the game without getting damaged.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

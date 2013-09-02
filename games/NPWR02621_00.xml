@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02621_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PlayStation® All-Stars Battle Royale</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/22C5BFED41EBD917DC2942BB9C5D308BF2BDC434.PNG</Image>
+    <TrophiesCount Total="55" Bronze="45" Silver="8" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>All-Star Legend - You've Only Done Everything</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/9D332DE3CC0EDD5EA23974F14AEB267F8E1FE302.PNG</Image>
+      <Description>You have successfully earned all other trophies in the game. Congratulations!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Trial Combatant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/D134DB9B4B2548BCF0BC4029BBEBCD3732B48BB9.PNG</Image>
+      <Description>Complete a Combat Trial</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/044A2DDF881374752C107F393DC3817B97A3C52A.PNG</Image>
+      <Description>Complete Arcade Mode on Legend</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Fundamentals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/9D8580EF4E2112EAD874CE0A532D962C18427F21.PNG</Image>
+      <Description>Complete the Basic Tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Character Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/9434AC469280AECC4AD0AEC26404C4375C9D45D0.PNG</Image>
+      <Description>Complete a Combo Tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Showing Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/94D0C5C3DBD61590407103ADAFBBA83804AF66CF.PNG</Image>
+      <Description>Show off your Minion during a game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Triple Kill!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A6DFC932959F6DC61FC1C58A56CD696A79F2426C.PNG</Image>
+      <Description>Earn a Triple Kill in a match-made online game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Team Sweeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/B3FEAE428357CAFA98112526717D6403604B2128.PNG</Image>
+      <Description>Earn a Double Kill in a 2v2 match-made online game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>We have Overtime! - Working Weekends?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/95F23F064696B9F5F0DC6E84AB12FA260E2753AF.PNG</Image>
+      <Description>Enter Overtime!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>3x OVERTIME!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A4E961015C302FADE67118C0461A58993DBC153D.PNG</Image>
+      <Description>Enter 3x AP Overtime!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/1BB83AC40F42713942DC875CFCE313E9D08002C1.PNG</Image>
+      <Description>Win a Versus Match against a team of three AI opponents</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Combo King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/E4157283AF90DC8A200DB4407F7CE64C8A6563AC.PNG</Image>
+      <Description>Land a 50+ AP Combo in Practice Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Combo Virtuoso</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/49340EFB3FF625A54BE7798D0926B79DE432CB3B.PNG</Image>
+      <Description>Land a 70+ AP Combo in Practice Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Ultimate Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/39E71F189436D45C02BAD03D1B9492DEE868C63F.PNG</Image>
+      <Description>Perform a Level 3 Super Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Two for One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/3F1710DD6D45180AA1916DF2BDA768DE8B190B58.PNG</Image>
+      <Description>Earn a Double Kill with a Level 1 Super Attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Three for One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/6A6945593963D7C6E0349154EE6495F7E332B19A.PNG</Image>
+      <Description>Earn a Triple Kill with a Level 1 Super Attack</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Friendly Competition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A3BFFA8A47686874F56834EF0E10F26BC0EE808E.PNG</Image>
+      <Description>Complete a Versus Match against an online player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Tournament Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/DD0A31FBAB448B0759EB952C4DCA7680204BCC34.PNG</Image>
+      <Description>Complete an online Ranked Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>First Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/8D095BDD82B0A259658F23C722E5CEEB81C1C1A4.PNG</Image>
+      <Description>Earn a Kill in a match-made online game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Victorious!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/86609B8E3276AC438AF8779EFEDD5CA772F7EC5A.PNG</Image>
+      <Description>Win a match-made online game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The God of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/0B7F9441D1EED12AFA298DFE17CD83E0EA4AFF82.PNG</Image>
+      <Description>Complete Arcade Mode with Kratos</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>I Gotta Believe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/55F54FB008E64FA5993C2DF9452FC28DDACCC712.PNG</Image>
+      <Description>Complete Arcade Mode with PaRappa</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Cake, please!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/37F1AD266130E857CF8077730B0B00FB1CE299B4.PNG</Image>
+      <Description>Complete Arcade Mode with Fat Princess</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Oh Boys and Girls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/649851F4F81D86CF924B50164F45F308A357106F.PNG</Image>
+      <Description>Complete Arcade Mode with Sweet Tooth</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Helghast Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A46B6046016C025F70E90FB14D1976166ECA67B3.PNG</Image>
+      <Description>Complete Arcade Mode with Radec</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Thievius Raccoonus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/4C3CDFD59CB2F24FEE3DB2F5F1195430C84A2978.PNG</Image>
+      <Description>Complete Arcade Mode with Sly Cooper</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/7A10C1C9308DD2A509E41CCFFF281E2203FB5E06.PNG</Image>
+      <Description>Complete Arcade Mode with Nathan Drake</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Greatest Conduit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/08D6E73BE778FBD159C573CE5F60B1B923C38F4C.PNG</Image>
+      <Description>Complete Arcade Mode with Cole</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Friend of the People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/6A0177FBA103B175D2A80ECEB695032B98E56C00.PNG</Image>
+      <Description>Complete Arcade Mode with Toro</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Monkey Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/903A124C9ACCF8113BF76953BB7ACE0F46E4D589.PNG</Image>
+      <Description>Complete Arcade Mode with Spike</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Intergalactic Heroes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/25A2B5E88CDD4F80DD32F4DC09AD1A01595C2D8C.PNG</Image>
+      <Description>Complete Arcade Mode with Ratchet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Eco Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/302944D07B6B76F82E3570E76A9052746CF961FA.PNG</Image>
+      <Description>Complete Arcade Mode with Jak</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Let's Make a Scene</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/1CB7B5C1DEF337E7AB17D2B43FE1B60628C4744F.PNG</Image>
+      <Description>Complete Arcade Mode with Sackboy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Revengeance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/8C6D9D980D6B617EB64D6715EB32B2E0FD20FBD8.PNG</Image>
+      <Description>Complete Arcade Mode with Raiden</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The Iron Fist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/398EBE599DC86860DCB6A56B63DBB7D143669302.PNG</Image>
+      <Description>Complete Arcade Mode with Heihachi</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Mr. Bubbles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/C3AC4D20F3BA61EB7DAE2D2070A0A217E076BCC2.PNG</Image>
+      <Description>Complete Arcade Mode with Big Daddy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Demon Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/4957F317851CCECE80382D39F12B31D4FB039EDF.PNG</Image>
+      <Description>Complete Arcade Mode with Dante</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Demon of Empire City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A44DD7922168978D16A51D75AC9AB6BD6BA700A9.PNG</Image>
+      <Description>Complete Arcade Mode with Evil Cole</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Heavenly Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/F3CC01512BE80CA3816D37EBCE7D6E487431F2AA.PNG</Image>
+      <Description>Complete Arcade Mode with Nariko</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Hero of Gallowmere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/DF3F5DA82AE7230B5AFB6704B710ABEFB8F27F5E.PNG</Image>
+      <Description>Complete Arcade Mode with Sir Daniel</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>This is Living</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/D4C1F0867162B478D40F33B021714A1D4E2A459E.PNG</Image>
+      <Description>Win a match-made online game without dying</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>I Chose The Impossible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/2B19985216EEF7E2CAD297631D59D0A0CB8FCB60.PNG</Image>
+      <Description>Perform a Level 3 Super with Big Daddy on 'Columbia'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Master of the Ray Sphere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/03E6AF10FB39D8B3386B7C54C7593A29EF1B40B5.PNG</Image>
+      <Description>Perform a Level 3 Super with Cole or Evil Cole on 'Alden's Tower'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Interpol HQ Break-In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/CBA33EC726F701EEDC9724EF30D346359B1074CF.PNG</Image>
+      <Description>Perform a Level 3 Super with Sly Cooper on 'Paris'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Kerwan’s Capital City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/C1A860721E32396E7AB0C54B3CB3453C76FC0E04.PNG</Image>
+      <Description>Perform a Level 3 Super with Ratchet on 'Metropolis'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Ally of Larry Da Vinci</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/C4F2DDAF15206CE6E2AA83B2CF7828082B09049C.PNG</Image>
+      <Description>Perform a Level 3 Super with Sackboy on 'Dreamscape'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Calypso’s Wishes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/08B27BE225FB5B8BC79CC7B72CF08FBDF1400312.PNG</Image>
+      <Description>Perform a Level 3 Super with Sweet Tooth on 'Black Rock Stadium'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The Doctor Is In...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/6F8C249DE3F8505D86E6B4467816D336159BAEDB.PNG</Image>
+      <Description>Perform a Level 3 Super with Ratchet on 'San Francisco'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Student Becomes the Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/08446073407276EEDBF41A93FD5E5E2C9BEB7A3F.PNG</Image>
+      <Description>Perform a Level 3 Super with PaRappa on 'Dojo'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>REX versus RAY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/A93FEA4593C3DD7778148C1F76E4BCD03F799170.PNG</Image>
+      <Description>Perform a Level 3 Super with Raiden on 'Franzea'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The Peak Point Helmet Blues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/8D237AEC25E004DCA21607C03D6032840875762F.PNG</Image>
+      <Description>Perform a Level 3 Super with Spike on 'Time Station'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Samos’ Sacred Site</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/71B39C080C54FE6FF65704E6700FDC912053137F.PNG</Image>
+      <Description>Perform a Level 3 Super with Jak on 'Sandover Village'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Sic Parvis Magna</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/19D8E857BBCCEF12D27416D99F2D18300DAC95E8.PNG</Image>
+      <Description>Perform a Level 3 Super with Nathan Drake on 'Stowaways'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Autarch of Helghan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/3D0CD7A3AB0F4D13C13DB2F2DD150B481FBF535D.PNG</Image>
+      <Description>Perform a Level 3 Super with Radec on 'Invasion'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>Palace of the Underworld</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/0E20F511ABEBEBCDA7FBE5C67FF2BD094A7F0A36.PNG</Image>
+      <Description>Perform a Level 3 Super with Kratos on 'Hades'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

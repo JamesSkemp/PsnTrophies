@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03771_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Angry Birds Trilogy</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/5B7F4C874B0C33760E920B73011D24E84D6DE6B6.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Angriest Birdiest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/74A89DB237835274C356AE8676433FDFA843FC5A.PNG</Image>
+      <Description>Get all Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Squeak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/007F9B9FA2BDE5498ED9D255A5DF4468500C099A.PNG</Image>
+      <Description>Smash a pig</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/DEB22D74395117697586D44E09BB4B2A515C96DA.PNG</Image>
+      <Description>Smash a distant pig with a direct hit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Bacon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/C5BACC16C01AB943D083822C8F07154E0D67C9A9.PNG</Image>
+      <Description>Smash 1000 pigs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Stardust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/6F5231D608749029AF6E94C21E683DC14A7F1189.PNG</Image>
+      <Description>Collect 500 stars</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>You are a Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/CF4A5EE33722EF85307DBCB214229102B8E8D136.PNG</Image>
+      <Description>Get 3 stars in any level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>You are a Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/0C61C9AC91081C20F52DE243333CDFE74C89861F.PNG</Image>
+      <Description>Get 3 stars in all levels in an episode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>You are Elvis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/DBB5D8585FF931D82C3E5E579BC3827732282F86.PNG</Image>
+      <Description>Get 3 stars in every single level</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Tiny Eagle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/F17EA916BA073F8303C248645CD99C5AB56E090D.PNG</Image>
+      <Description>Get 100% Eagle score in 5 levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Mighty Eagle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/2CDF1EB7AEE05DA0852841B9E5F4822D73C0720C.PNG</Image>
+      <Description>Get 100% Eagle score in every single level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Poached Eggs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/D2DF0256B5EE618903A949F7D088D9F5CFCAC490.PNG</Image>
+      <Description>Complete Classic Episode 1 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Mighty Hoax</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/1B5F3558A9B19D261F1278CB6473A329F3D27E27.PNG</Image>
+      <Description>Complete Classic Episode 2 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Danger Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/0D0FAC5555594A95A504A951C909A9605942E2BA.PNG</Image>
+      <Description>Complete Classic Episode 3 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed The Big Setup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/2C45CE2F02B5304C3F546AB3D1CA30DB2156321A.PNG</Image>
+      <Description>Complete Classic Episode 4 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Ham'Em High</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/4EBB3014F2CE3942C4DD25C3AF6C6345D54EBEA7.PNG</Image>
+      <Description>Complete Classic Episode 5 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Mine and Dine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/8635CCD844363B841E21DA89DA7E218F7911273E.PNG</Image>
+      <Description>Complete Classic Episode 6 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Trick or Treat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/6B85327562D0203D2D8AD284021D4369FB6A920D.PNG</Image>
+      <Description>Complete Seasons Episode 1 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Season's Greedings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/331D3759D55F0C62FD553C4234A20DBD1C68331C.PNG</Image>
+      <Description>Complete Seasons Episode 2 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Hogs and Kisses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/EAB40E71977F8B38A670B2B19A12FFA23047DF2A.PNG</Image>
+      <Description>Complete Seasons Episode 3 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Go Green, Get Lucky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/7082468831AB185AB2E9D7C1129D32AC84F86217.PNG</Image>
+      <Description>Complete Seasons Episode 4 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Easter Eggs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/E71A5261518DD8E5B133E2C40683B7E7D1CA246C.PNG</Image>
+      <Description>Complete Seasons Episode 5 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Summer Pignic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/5890A0EBB8A35CFAAA2ED77FC17C7AF9183F1609.PNG</Image>
+      <Description>Complete Seasons Episode 6 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Mooncake Festival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/CE4CA32A3EC295E539449F5903272E2371D092F4.PNG</Image>
+      <Description>Complete Seasons Episode 7 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Smugglers' Den</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/468DA5433AF5FF7EAF7AAF35F6EAF90F8BB630F8.PNG</Image>
+      <Description>Complete Rio Episode 1 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Jungle Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/B05295875891E6DEAFB4DEF936F93DD85A15A078.PNG</Image>
+      <Description>Complete Rio Episode 2 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Beach Volley</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/0CD0EA9ED2E7FE80A825EBFC67728E8C61310176.PNG</Image>
+      <Description>Complete Rio Episode 3 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Carnival Upheaval</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/BFE4DDF3EE32122AED8502B5FA9386823F7FD4C3.PNG</Image>
+      <Description>Complete Rio Episode 4 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Airfield Chase</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/722E058968F0747D0BFF7FDBA54C7EDFA96FC84A.PNG</Image>
+      <Description>Complete Rio Episode 5 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Completed Smugglers' Plane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/024F8FD75AD91681F3A40F9792C21B3DC9CD22BD.PNG</Image>
+      <Description>Complete Rio Episode 6 (without the Mighty Eagle)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Worldwide Angry Bird</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/CD83BCBA23EA6F182A56B5EEE2A7C88370F8D03B.PNG</Image>
+      <Description>Complete all Episodes (without the Mighty Eagle)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Block Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/DE3778D13A63D332FF79838B48A8A09D4AD2E007.PNG</Image>
+      <Description>Smash 5000 blocks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Block Annihilator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/1AC0506F35EE1020AF6588F1461E2656C0F5D4EB.PNG</Image>
+      <Description>Smash 100,000 blocks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Woodpecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/E5EA6A4DEDF54FDDC1C40215E031E6162A9AC653.PNG</Image>
+      <Description>Smash 5000 Wooden Blocks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Gravel Factory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/D922D9A526BFC41417E57A4C8671ECC16F4A517E.PNG</Image>
+      <Description>Smash 5000 Stone Blocks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Icebreaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/86F97A31385269231DCA5DB377D388E1B2C7B226.PNG</Image>
+      <Description>Smash 5000 Ice Blocks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Pointastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/A0CDF369B052E02BA8667BB2F6230CEB654508B2.PNG</Image>
+      <Description>Get 10,000,000 total points</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Egg Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/E299331A178BA4E8A769FC49B5CBA968F842DDB6.PNG</Image>
+      <Description>Unlock 5 Golden Egg levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Egg Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/3509D01D26E818A02D8779247C8A76D6035E456A.PNG</Image>
+      <Description>Unlock all Golden Egg levels</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Egg Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/05A203C4D84E4AA3AAD20908F95DB94D7892D31A.PNG</Image>
+      <Description>Complete 10 Golden Egg levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Egg Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/91DB5CF8D1304CBCA573D76C75DC696115D0140B.PNG</Image>
+      <Description>Complete all Golden Egg levels</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Splash of Flavor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/2847F2B43BF5B9DDA67B6F6A35EABAA078BB2E15.PNG</Image>
+      <Description>Collect 10 Rio fruits</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>River of Flavor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/560FE73B64535DB0F3660C51B27A7BFB9198BD24.PNG</Image>
+      <Description>Collect all Rio fruits</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Blockpocalypse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/30A527B758F81DCF9EEAC3C313348279C3B34D70.PNG</Image>
+      <Description>Smash 50 blocks with the first bird (before launching another bird)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Voyager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/F39576A9CEA2C96D73D28A8F43A785EAF82F56CD.PNG</Image>
+      <Description>Launch 5000 birds</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Squawkward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/758C073113495794A8E4ABFD16CBCA3C91325832.PNG</Image>
+      <Description>Launch 10 birds backwards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Wright Flyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/01EF90EB50B7EA51C4D919400CAD3E0A601130D2.PNG</Image>
+      <Description>Make a bird fly 200 meters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Spirit of St. Louis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/F68ADED73A8DDC720194822D8A2472097D854D15.PNG</Image>
+      <Description>Send birds flying 100 km</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Hyperefficient</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/6EDDF7E5998BB1DEF485FA053EFE0930C31164CC.PNG</Image>
+      <Description>Finish a level with a single bird</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Pig-friendly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/3E3D18AAECD91EBC338224CB09D672085193D600.PNG</Image>
+      <Description>Fail a level 10 consecutive times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Supper-Effective</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/0B5FFD71B8398BFDB34FFF4F1B3071CB464BACA1.PNG</Image>
+      <Description>Clear out a level completely (without the Mighty Eagle)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03771_00</GameId>
+      <Title>Scramble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03771_00_A48368B650B45BD0BE085B4C134C4C01700AD7C0/17930CAF44A5CFEBB06E5387F9F44643D79742C2.PNG</Image>
+      <Description>Have 5 different birds in play at one time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

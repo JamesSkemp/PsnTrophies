@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00891_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Transformers: War for Cybertron</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/A631FE1467D832695524CC28F7B4AD097B9FFD15.PNG</Image>
+    <TrophiesCount Total="51" Bronze="37" Silver="12" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Vector Sigma Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/E40CB3374260A01C94C8A0D100CF3E1CF232273A.PNG</Image>
+      <Description>Unlock All Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>A Prime Problem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/97FB526B31C0EC97FBA15EAB1C2BBBD0089EAC8E.PNG</Image>
+      <Description>Complete Defend Iacon on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The Last Prime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/6F2B273412EBE83432418D24936E955D3E573D43.PNG</Image>
+      <Description>Complete Kaon Prison Break on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>You Got the Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/7D9936882F4C45000E75B7438C99403072296349.PNG</Image>
+      <Description>Complete To the Core on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The War Within</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/FE3384B2111784968E0EA1E911F647BECC25616F.PNG</Image>
+      <Description>Complete Aerial Assault on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The Harder They Fall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/23E81CE5FD9D3172EC199C6A449C85674C7CA453.PNG</Image>
+      <Description>Complete One Shall Stand on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Paging Ratchet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/E67944A7FECAA2F5A186926B460E43656D00CB11.PNG</Image>
+      <Description>Revive 5 Autobot soldiers in Defend Iacon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Beak Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/FC86C05CEF4C8F9324F7CFB627AC6FE57ED85B8A.PNG</Image>
+      <Description>Shoot the 3 Hidden Laserbeaks throughout Kaon Prison Break.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Slugfest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/220151085D68059B47D691FAD52D6655324A886B.PNG</Image>
+      <Description>Save the Slug before it is executed in To the Core.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Powerglide Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/11A282BD849F13999EB3B91BB209C6A6F103ED63.PNG</Image>
+      <Description>Fly through the coolant tunnels in 23 seconds in Aerial Assault.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>First We Crack the Shell...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/B4D292A8D5BCDAF27F970F634A8615C3BECD916D.PNG</Image>
+      <Description>Get smashed by Trypticon's hand as he falls into the energon goo in One Shall Stand.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Autobot Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/25EAB8BC5AD3164F8F1382A453D6A32F6B223D0A.PNG</Image>
+      <Description>Autobot Campaign Complete (Easy).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Autobot Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/F41B8246D461BA77A390195829F2C19DD3E29D44.PNG</Image>
+      <Description>Autobot Campaign Complete (Medium).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Autobot Prime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/B739928850908910D5A945A54AA508DFC017C8CE.PNG</Image>
+      <Description>Autobot Campaign Complete (Hard).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Dark Awakening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/761044CFD0DDC2A9249A2C2506F5DA51CD368CB7.PNG</Image>
+      <Description>Complete Dark Energon on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Starscream's Brigade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/1388583B74D731DA915DA6DC124EDDEC3326D12F.PNG</Image>
+      <Description>Complete Fuel of War on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The Fall of Iacon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/A054B8131CDCCA7E6B92255C4AD66FF7BD834019.PNG</Image>
+      <Description>Complete Iacon Destroyed on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The Secret of Omega Supreme</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/FA0CAC193EBBA32C4F8E0EFA6CBFC07F93371FEB.PNG</Image>
+      <Description>Complete Death of Hope on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Victory is Mine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/6D05E37F327EA911771F4E39EFA4D302FFE37951.PNG</Image>
+      <Description>Complete The Final Guardian on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Your Lucky Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/090A1C353A9118FAB44965917DF6FA570C747251.PNG</Image>
+      <Description>Kill all but 1 of the neutral prisoners in Dark Energon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Thief in the Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/1B9B93783295639AD3DD573773D8850870424E8B.PNG</Image>
+      <Description>Find and disable all security trip-wire switches in Fuel of War.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Chaos Bringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/89C46E25ABAE024310654B9E10C54045E12DD64E.PNG</Image>
+      <Description>Destroy the planets in the Stellar Galleries in Iacon Destroyed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Motormaster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/8370FA8424999E4034587922A2322DA1A2A80FA5.PNG</Image>
+      <Description>Race across the Chasm Bridge in 33 seconds in Death of Hope.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Devastator!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/5466781D8935B98055FDDBE1C684B92B94669C54.PNG</Image>
+      <Description>Destroy all cover in the arena in The Final Guardian.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Decepticon Grunt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/2A9B744AE09AB0FEECC9C0F60779F93180303813.PNG</Image>
+      <Description>Decepticon Campaign Complete (Easy).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Decepticon Seeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/6B5710F43B2D3C9C7871BA365CE1196401BE44DA.PNG</Image>
+      <Description>Decepticon Campaign Complete (Medium).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Decepticon Warlord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/6CB8EC148F34BBA2D95ABC13D93B053D581AA9D4.PNG</Image>
+      <Description>Decepticon Campaign Complete (Hard).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Till All Are One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/F7FC6F7D7E3BE2040CEC136D681D2C60CE2BCBB9.PNG</Image>
+      <Description>Complete both Campaigns (Any Difficulty).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Brute-a-kiss!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/CEEC63B7B0CD3E633AF7240FDBE2BDD14690AC02.PNG</Image>
+      <Description>Ignite a Brute's back 5 times in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Footloose and Fancy Free</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/B724E943C6AE0B717BB69BE31B8481C1FC035904.PNG</Image>
+      <Description>Destroy a Jet Soldier's foot thruster 5 times in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>That's No Mirage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/FD026747CB626535E64434F9C1B24F1A481E3941.PNG</Image>
+      <Description>Headshot a Cloaker when it is invisible in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Targetmaster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/711D35DCD22955B5559AAC76493318CA9F65528B.PNG</Image>
+      <Description>Kill 2 Snipers in 5 seconds in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>There Are Parts Everywhere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/51C87BBF9AFE41B31C3FD2B59DD6166422170798.PNG</Image>
+      <Description>Multi-Kill 3 car soldiers at once using an explosive weapon in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Blast-arachnia!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/8A457DA2E0CA3E03E49F540E22830A472777F054.PNG</Image>
+      <Description>Destroy 100 Spiders in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Fire in the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/EA54689A8F33894A98A4E9420841E67C944E23B7.PNG</Image>
+      <Description>Melee-kill a Jet Vehicle in the air in Campaign or Escalation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Friends to the End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/73DBDFC1A07997FB7C2FDD7BA5E1F23497867BF8.PNG</Image>
+      <Description>Finish any level in Co-Op.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Unlikely Allies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/44CE71BAF85C8DA4AC881643EA0C662E50AFB354.PNG</Image>
+      <Description>Finish any level in Competitive Co-Op.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>More Than Meets the Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/B19C9957A36F2EF7C9F4D52BB949E016C4D3CFFB.PNG</Image>
+      <Description>Earn a 1st Place MVP award in any Multiplayer mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>You Got Spark, Kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/269ACEE9C4FAE760B553D6C0F4B7B13947E62B84.PNG</Image>
+      <Description>Reach level 5 in any single class in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Spike's BFF</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/54D2920BA7E9F9D42256C0A9D8D5B7398C629CB2.PNG</Image>
+      <Description>Reach level 25 in any single class in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>The Kup's Half Full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/199B061C40AB1204B0EB9A1A14E7321387030098.PNG</Image>
+      <Description>Reach a combined class level of 50 in Multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Only the Strong Survive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/18C51AD724436050961E1B91270A4B91FFC08D14.PNG</Image>
+      <Description>Reach a combined class level of 75 in Multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Top of the Scrap Heap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/D1D7872DC754221DB0B9D65222D5730D99A1E1B9.PNG</Image>
+      <Description>Reach a combined class level of 100 in Multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Prime Directive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/30B53CFA4428BBB2172462ECA288E02BA73EE2BC.PNG</Image>
+      <Description>Unlock Prime Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Powermaster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/F91F87BBFB1A1E9D50071FC8D33B6EDE6341AC75.PNG</Image>
+      <Description>Spend 25,000 Power in Escalation mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Heavy Metal War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/44FB96FCCA9E6DAF76EACE5F76A095DEA13E9D19.PNG</Image>
+      <Description>Complete the 15th wave in Escalation mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Scavenger Would Be Proud!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/D08D88C55B2E33031DDFABD3A270359852E568DF.PNG</Image>
+      <Description>Destroy all hidden Autobot symbols in the Decepticon Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Grimlock, Smash!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/BD0EFCD0624541E3C466716E9E6368BD3CD48468.PNG</Image>
+      <Description>Destroy all hidden Decepticon symbols in the Autobot Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Action Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/EECF05B71A78F1AECBB7D192EE7F5CEDC39F3B38.PNG</Image>
+      <Description>Get 10 kills using detached turrets in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Wait! I Still Function!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/D8824AC4442024C8A834778ACAB6CB0A9957424B.PNG</Image>
+      <Description>Get 3 kills while downed in a Co-Op Campaign or Escalation mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00891_00</GameId>
+      <Title>Ramhorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00891_00_0037865A52CD96F197E677EA931863BA8E087374B4/0347628EF5F740AF586F4F1B47D55C01AE12A801.PNG</Image>
+      <Description>Ram-kill against an enemy who is stunned by an EMP grenade in Campaign or Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

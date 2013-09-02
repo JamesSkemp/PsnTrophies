@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01271_00</Id>
+    <IdEurope></IdEurope>
+    <Title>RAZING STORM</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/D038AFE6B2BC759FD0FB7C343863AC9A7A00DBC4.PNG</Image>
+    <TrophiesCount Total="44" Bronze="30" Silver="10" Gold="3" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Storm Razer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/6D5F72641F3FD3909CB16CEBCED42538D5F77CDA.PNG</Image>
+      <Description>Earn all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Arcade Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/213A3FDEABEC90E536FF4769EA47D40AE3DE7C95.PNG</Image>
+      <Description>Clear Arcade Mode Ranking Play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>No Rest for the Wicked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/C3FA34EC344FCFD97D76A434388F443C8D9A26CE.PNG</Image>
+      <Description>Get 500 continual hits in Arcade Mode Ranking Play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Speedster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/45E84136CF2EB4DB530E68F32DF0DCBCF0FE651C.PNG</Image>
+      <Description>Clear Arcade Mode Ranking Play within 16 minutes and 0 seconds.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/C34AB8E38A504486DB9E3CFB7ACF1E6BC9B6C95F.PNG</Image>
+      <Description>Clear Arcade Mode Ranking Play using no continues.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Rack 'em Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/37D957D4751188370AEAFA07646EB37C8BF4AB13.PNG</Image>
+      <Description>Clear Arcade Mode Ranking Play with more than 3000000 points.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Prologue Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/A2E8C8E6C09FD61FDA5B62305B0E8A8C0AFC8F1A.PNG</Image>
+      <Description>Clear the Prologue in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Stage 1 Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/2E9AC2EB79E6C8E488F54F75FA3C507F49C1241A.PNG</Image>
+      <Description>Clear Stage 1 of Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Stage 2 Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/BEDA1ECA56E147E6A62B83CD384F2226D5602E7F.PNG</Image>
+      <Description>Clear Stage 2 of Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Stage 3 Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/A3E74A60A8F059658722D5533B800B9B8E6FE18C.PNG</Image>
+      <Description>Clear Stage 3 of Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Stage 4 Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/75521532C0DDEFA625EA5C4A55BC5E99F6E64FA6.PNG</Image>
+      <Description>Clear Stage 4 of Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>View from Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/A78528F693007F81F61A0ADCEFD477E26C028131.PNG</Image>
+      <Description>Clear all Story Mode stages on HARD difficulty (Note: Setting the difficulty below HARD during any of the stages will not unlock the Trophy).</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Prison Lockdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/93906B60ECEDB4EF151A1E3D205ABB52AFBB2ADE.PNG</Image>
+      <Description>Eliminate more than 7 prisoners in the Prologue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>White Noise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/9056313031B22574F170ADF3F2A1A403CF899C62.PNG</Image>
+      <Description>Destroy all TVs airing Paulo Guerra's speech.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Right Between the Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/F7D1625A88302B72C1473A0A379C8B80D5B20E49.PNG</Image>
+      <Description>Take down 10 enemy soldiers or more with head shots during the first sniper sequence of Almada Penitentiary.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Perfect Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/DDC57AE011AD30D652E615C79F899364DB82C456.PNG</Image>
+      <Description>Clear stage with the Pathfinder at 30% life or more.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Elevator Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/64E6FDE2F2293426F0CAF94CC2AD4AF2155D05CC.PNG</Image>
+      <Description>Take down all enemies in the first or second elevator sequence of Girasol Factory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Camaraderie Lives On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/580A76E86E73B649B8515BE069CC8F4EE2801A44.PNG</Image>
+      <Description>Get all dog tags in Story Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Rookie Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/B7DD4C95890429DF86BA21A8EEB2700FE9B8CA10.PNG</Image>
+      <Description>Clear Stage 1 of Sentry Mode with more than 30000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Veteran Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/644C5FD064A9EF8E82F17930D49F92C39DB2E162.PNG</Image>
+      <Description>Clear Stage 2 of Sentry Mode with more than 35000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Head Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/648DEC50BB1AC4B5251994BFAAAA600460B54318.PNG</Image>
+      <Description>Clear Stage 3 of Sentry Mode with more than 40000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Eagle Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/C89E36DD68F3EDC93429AD6D4E1079333E292EFE.PNG</Image>
+      <Description>Clear Sentry Mode with 80 Head Shots or more (limited to All Stages mode).</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Consistency Counts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/E376AFBCE76CA2E8BFAFF34D65058E1FDEC537FE.PNG</Image>
+      <Description>Clear all stages in Sentry Mode with a total score of 100000 points and an accuracy of 70%.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Perfect Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/87030397A7B492F3FF18D4FB251901E433EE3310.PNG</Image>
+      <Description>Clear Sentry Mode with a score of 100000 points or more (limited to All Stages mode).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Maintaining the Peace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/F058ACCF73ABB50EDD49382313484F765426D329.PNG</Image>
+      <Description>Clear Sentry Mode by eliminating all militia troops (limited to All Stages mode).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Perfectionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/51B82553D30559159AC1A204513C2FF140927045.PNG</Image>
+      <Description>Score a perfect on all Sentry Mode stages (limited to All Stages mode).</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Online Sampler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/7C77336FCA9300546307BC6321FF17BA84EBC33A.PNG</Image>
+      <Description>Play all game modes through Ranking Matches in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Weapon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/64145C2990C9CC206342C0503A0EDD8B0BEED6D6.PNG</Image>
+      <Description>Utilize all Special Weapons through Ranking Matches in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Trigger Finger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/5BC557C00A68A55DD516B1DCABE40C3DC7799ADD.PNG</Image>
+      <Description>Get more than 50000 points in Deathmatch (must be Ranking Matches).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>No "I" in Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/C2B4B6925158C787D49288267BAEA415672BE72C.PNG</Image>
+      <Description>Get more than 70000 points in Team Deathmatch (must be Ranking Matches).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Raise the Flag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/502A1B81EE9E0B9C2CFAABBBDA782F1AF4CC40BF.PNG</Image>
+      <Description>Get more than 10000 points in Capture The Flag (must be Ranking Matches).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Hold Down the Fort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/287FD247750314A05481F777E3330EF4084D96D5.PNG</Image>
+      <Description>Get more than 200000 points in King of the Hill (must be Ranking Matches).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Bombs Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/5918FF3015CCBD0E08592E9033656C3B80C0E754.PNG</Image>
+      <Description>Take down 2 enemies or more at once with a grenade in a Ranking Match in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Overkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/B1DCF2F25766C0A2F3DE68D565EC0A3AA43AE503.PNG</Image>
+      <Description>Take down 2 enemies or more at once with a Special Weapon in a Ranking Match in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Head of Special Forces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/500D9605EB5B6145808D14C335B8631A7A0FE53A.PNG</Image>
+      <Description>Take down 4 enemies or more in a row without getting killed in a Ranking Match in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>One Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/79942E111CC745B70CE2D8DF7906763B29088E7D.PNG</Image>
+      <Description>Take down 10 enemies or more in a row without getting killed in a Ranking Match in Online Battle Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Geographical Advantage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/D0D4F566B89B20A5D9BC774C8AE38591C27AC744.PNG</Image>
+      <Description>Take down 200 enemies or more using G Actions in a Ranking Match in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Battle Manual</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/88C8FDF61207CFCFB820BC42116D073EF2AD8C75.PNG</Image>
+      <Description>Take down 500 enemies or more using G Actions in a Ranking Match in Online Battle Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>765</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/7BC980ACBD843C92350D1917D2F869E495F5F9AD.PNG</Image>
+      <Description>Play 765 or more Ranking Matches in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Grim Reaper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/FF46CBB87DC697F0064794B0F39A192E7176478F.PNG</Image>
+      <Description>Take down 7650 players or more through Ranking Matches in Online Battle Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/2C06D0AB410D1E6C566A337D5AA7D6FEC7301608.PNG</Image>
+      <Description>Unlock all Skills through Ranking Matches in Online Battle Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>SCAR of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/5727479B3D484A025C9533199E8BA41AAA5536BF.PNG</Image>
+      <Description>Achieve Level 25 through Ranking Matches in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Veteran Troop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/4D0AD28ED2BA510937B314EDB0165F451546368A.PNG</Image>
+      <Description>Achieve Level 40 through Ranking Matches in Online Battle Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01271_00</GameId>
+      <Title>Battle Hardened</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01271_00_9F4DEB0C457486367283F9CFC6845EBEB1CAA361/5A99C785F72ACCB569E91AAF443DD8FA6A8296DE.PNG</Image>
+      <Description>Reach max Level three times through Ranking Matches in Online Battle Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

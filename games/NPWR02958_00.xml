@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02958_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dokuro</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/45B3B4A086111E981D3A1484DE34FF1732BBDC4B.PNG</Image>
+    <TrophiesCount Total="31" Bronze="16" Silver="9" Gold="5" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Shining Skeleton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/47FB4520EE91E3E2203630CC4626EAF788F9DE4C.PNG</Image>
+      <Description>Earn all other Dokuro trophies to unlock this platinum trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Dark Lord's Treasure Complete!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/77C61F60DBDF632CFE6856A2CE13276D85310F60.PNG</Image>
+      <Description>Collect all coins</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Master of the Castle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/D03D36CE7AFF61E10552291BAE595BFFC7A6E8A5.PNG</Image>
+      <Description>Complete all areas in a total of 250 minutes or less</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>A Cornered Rat...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/74944280291CF50217F19F46FE640BDD41366DB6.PNG</Image>
+      <Description>Defeat 100 monsters in Skeleton Form</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>A Hero is Born</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/309E885824BFAC2E9F3304A84682ABBC4A5B5F09.PNG</Image>
+      <Description>Defeat 1000 monsters in Hero Form</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Go Big or Go Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/E7DC01AB4360939D1BED8FD3D8AA3A0457BD4139.PNG</Image>
+      <Description>Complete stage 14 without taking any damage</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Candlelighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/AD2140BA67432D2547A6EC56F026B546705D64A3.PNG</Image>
+      <Description>Light 4 torches with a single red chalk</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Call Me Speedy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/6C57998FEA60139E26B69AD9E8C820ADA4A7F90B.PNG</Image>
+      <Description>Complete all areas in a total of 350 minutes or less</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Skydiver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/C0D399B27BE4BBAFF345546CB51033042E520CD5.PNG</Image>
+      <Description>Fall from a great height</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/C0C3BF4CD11EB8B7B3D58EAA5D499BC313A8026A.PNG</Image>
+      <Description>Collect 135 coins</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Moneybags</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/E5066738E22524AB1274FE8DF4E00842BA503F5C.PNG</Image>
+      <Description>Collect 120 coins</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Who Keeps Dropping These?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/C15D34A17D6AE3C24901DC054E38DD1FC58E01C7.PNG</Image>
+      <Description>Collect 100 coins</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Hide 'n' Seek</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/F799886AB7E4FAAF9FE57166D7406D7547E00BBE.PNG</Image>
+      <Description>Complete stage 11-5 without being discovered once</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Happily Ever After</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/AF627C42DD560FC37FA855DD2ED432D503D01850.PNG</Image>
+      <Description>Complete all stages</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Dark Lord? No Biggie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/A752D46C1EB5899CB4C915B874773145535F3DBC.PNG</Image>
+      <Description>Defeat the Dark Lord without taking any damage</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/1B2510B21DF3D50C5BBEE4D596880B7A5FF5E24B.PNG</Image>
+      <Description>Complete stages 1 to 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Newby Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/9666670034BB6946AEEB44F7CCBB3E31457FD7E7.PNG</Image>
+      <Description>Complete stages 5 to 8</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/87F02793272037CCDFD4460AFCDB1DB1C3B993CC.PNG</Image>
+      <Description>Complete stages 9 to 11</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Master Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/D0B9BEC484823F1140B721D241E812CDE5614794.PNG</Image>
+      <Description>Complete stages 12 to 15</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Lucky Find</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/C3F12DE37F115CA61D6FB4D8C1CB72B106060E80.PNG</Image>
+      <Description>Collect your first coin</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>I'll Just Hold On to These</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/AE5118825C4852D1855512D7CC32B9D6EBB9CD1B.PNG</Image>
+      <Description>Collect 10 coins</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Numismatist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/B59657E27BD361D90FB73ADBE5560BA0C6806E41.PNG</Image>
+      <Description>Collect 25 coins</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Old-Mismatist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/290B558BD10366881ABF25EEE2805C442989675B.PNG</Image>
+      <Description>Collect 50 coins</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Bulging Pockets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/D170175970BA03D798B60E3FD86ED93C421524D1.PNG</Image>
+      <Description>Collect 75 coins</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Aw, Shucks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/E536857560D4581152EDF04F10EC05BD4C4FCB4E.PNG</Image>
+      <Description>Pick up the Princess 200 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Friends with Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/80EEDE4D5322D2C64DBC4F3EE1BEB66C602819AD.PNG</Image>
+      <Description>Die 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Batting 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/9880994013BE16ADC180C76A817916401F5BE005.PNG</Image>
+      <Description>Successfully deflect boomerangs 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>With Friends Like These...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/9E29B6673ED36737B9C6209620C6FD39CAAD3125.PNG</Image>
+      <Description>Let the princess get knocked out 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>White Chalk Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/8EDA45DE9EC87E3E2A2BC669D3F70C2C12FB3C65.PNG</Image>
+      <Description>Use white chalk successfully</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Red Chalk Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/1AB4695B0826F3BA075C643CBEA0AFCD44FD445A.PNG</Image>
+      <Description>Use red chalk successfully</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02958_00</GameId>
+      <Title>Blue Chalk Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02958_00_FBADA1B37DAC5D039672DC2E4EF33F5C75BD4493/BE10B4E43C6023B11612926C8319CE09D2F6DA9B.PNG</Image>
+      <Description>Use blue chalk successfully</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

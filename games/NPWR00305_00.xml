@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00305_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Bionic Commando</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/C2D2BD7336B49D7D4BFA128231785A72010B02EF.PNG</Image>
+    <TrophiesCount Total="50" Bronze="42" Silver="4" Gold="3" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Go-Go Bionic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/D0B536D55F8677A87138D7A53DB42F0670EC609A.PNG</Image>
+      <Description>Complete all other Bionic Commando Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Blood Trial</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/FEE21E0019DB9DCD993F6D0F09127EBDD015B190.PNG</Image>
+      <Description>Complete "Blood Trial" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Close Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/E969FB2C2F16937FD02AC8079CD05B57FB882618.PNG</Image>
+      <Description>Complete "Close Up" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Leap Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/A7660899ACA1DCDEE9B9DAE268F7A3C9C5AD04A7.PNG</Image>
+      <Description>Complete "Leap Up!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Kaboom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/24F49E83EDF81E5D7A60A18727C48D20DA89D240.PNG</Image>
+      <Description>Complete "Kaboom" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Train Wreck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/4558FACEEB366FF055BD7F6DE24F2090BE66EF1B.PNG</Image>
+      <Description>Complete "Train Wreck" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>I got Hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/6CB472EDCCFD91ABC98A47A51B4812807A69F152.PNG</Image>
+      <Description>Finish the game in Hard mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Swinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/01C51072A7DED85FAF3C9BF0EE7D2077101471A1.PNG</Image>
+      <Description>Complete "Swinger" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Man Locked Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/0106D729C00A47B81C7DF65381668917709E10AB.PNG</Image>
+      <Description>Complete "Man Locked Up" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Stroke of Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/DA53D2EDF64EB9DA61FE4625A5C447515F131E63.PNG</Image>
+      <Description>Complete "Stroke of Luck" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Kick In The Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/5A697152E98B2611E2C8FA9F7E51855801777FEE.PNG</Image>
+      <Description>Complete "Kick In The Back" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Receiving End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/ECD3DAF483905F2AA82DDF8D34E3A876B59ED36C.PNG</Image>
+      <Description>Complete "Receiving End" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Jabber Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/FB8C5C57953D92CC2B73E8C787B9CAACE4712B28.PNG</Image>
+      <Description>Complete "Jabber Man" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Incoming!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/8346FA0A623C04604DD7B08E2440EB843826732B.PNG</Image>
+      <Description>Complete "Incoming!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/0893B9EABB7C9F0C6A64BC0CE0DB2F477474BC27.PNG</Image>
+      <Description>Complete "Slayer" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>I went Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/E1555EE7903765665F4D86752C3D1B64B9DBA65E.PNG</Image>
+      <Description>Finish the game in Commando mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Torn Into Pieces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/3E90E8DC60A6CF78548A65D370DB092A3613A4DA.PNG</Image>
+      <Description>Complete "Torn Into Pieces" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Fair Fight!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/FB3F823447A3959A98CD00E070B5D16054EC1465.PNG</Image>
+      <Description>Complete "Fair Fight!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Cracker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/E01C276160ED752D7B21B0551D224D785BC4FA59.PNG</Image>
+      <Description>Complete "Cracker" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Whoo-paah!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/70702921BB0F235920FB712CF046CEC83039E278.PNG</Image>
+      <Description>Complete "Whoo-paah!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Down To Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/06523B016358A6269EC3F139DDD29841E3B93DFA.PNG</Image>
+      <Description>Complete "Down To Earth" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Rocket Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/1EABD486D48CD111BE204127C8388192C81F957F.PNG</Image>
+      <Description>Complete "Rocket Man" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Two Hit Wonder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/EAA7C899E894D77C71BF0933B03C85A2C519E7F6.PNG</Image>
+      <Description>Complete "Two Hit Wonder" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Explosive Delivery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/1F818E9C08C4497139069F50B58A99A50882DA9B.PNG</Image>
+      <Description>Complete "Explosive Delivery" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>The Pinball Effect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/E9FA34E1F20216E47BB540C560A92F36B1123E43.PNG</Image>
+      <Description>Complete "The Pinball Effect" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Worthy Foe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/1BDD9400C0AAE8E5D450EBE0A4FE5E2B119799C1.PNG</Image>
+      <Description>Complete "Worthy Foe" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Spence is in the Air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/8AEF94ED4C7E1672C24D9536A2C3B60B3462BD80.PNG</Image>
+      <Description>Complete "Spence is in the Air" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>The River</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/00A0167D6E4CB4FAAE6889492C01E763614F8CCC.PNG</Image>
+      <Description>Complete "The River" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Let the Dog Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/18009A2C433A36A3169B33319A596D8A9FB784D1.PNG</Image>
+      <Description>Complete "Let the Dog Out" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Barrage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/CBB1CBB13FA24CB1E82DE8E717713115235E3A6A.PNG</Image>
+      <Description>Complete "Barrage" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Air to Surface</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/C796709FCCAEBC2F69A80EE19A668BC7106FB665.PNG</Image>
+      <Description>Complete "Air to Surface" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Drive-by</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/03147AC58EBBAB998F69F8D9994D8EEABC055391.PNG</Image>
+      <Description>Complete "Drive-by" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Pull!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/449EF0CEC926A0E3A32DB2E25EB2FF571E90F463.PNG</Image>
+      <Description>Complete "Pull!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Come Out and Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/DB6D33A56B0D651168C0CEB82D0E7C8DB90DDEDE.PNG</Image>
+      <Description>Complete "Come Out and Play" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Bionically Challenged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/2E692AB146030FF629214E7A4588167A06A6C44C.PNG</Image>
+      <Description>Complete all challenges in the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Crowd Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/180DF7E10DB9901AC0E602B6916019159841D786.PNG</Image>
+      <Description>Complete "Crowd Control" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Shoot 'Em Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/A572026AB6392DD6B3D8F019633F8B606A81FF29.PNG</Image>
+      <Description>Complete "Shoot 'Em Up!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Out of the Bush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/190A58B67DAB7F424FD7D2347F8E4BA9DF6EB942.PNG</Image>
+      <Description>Complete "Out of the Bush" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Can you dig it?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/45206396171CBF1DA258D76245B72FC3B0CED869.PNG</Image>
+      <Description>Complete "Can you dig it?" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Choke on that</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/4CBD953C62DBF3C61DDA4F5FFB43014F5C28812D.PNG</Image>
+      <Description>Kill Groeder – Kill him for good</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>The Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/5A13F87F6D5F62324AF4612E62D03A7CD46BE99E.PNG</Image>
+      <Description>Complete "The Pitcher" challenge</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Feel the Beat, Y'all!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/DC7DECDDFB0C77CC166C13CC6ABC0DC862C1CA0D.PNG</Image>
+      <Description>Complete "Feel the Beat, Y'all!" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Shellshock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/50FEE46472810A5211C24F0BAF7B6087F715377A.PNG</Image>
+      <Description>Complete "Shellshock" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Headshot Bonanza</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/D53137B62BCF222777CAB5B75CD0D7F1927B851D.PNG</Image>
+      <Description>Complete "Headshot Bonanza" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Poly Cruncher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/4976CE725A36479F8FB1EED59E2A6F991BDFFEAA.PNG</Image>
+      <Description>Complete "Poly Cruncher" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Nemesis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/9EA224C7C34A300719B67F40E1E7FE07A5665851.PNG</Image>
+      <Description>Complete "Nemesis" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Biomech Sweeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/32CEC3198557C11D3D7A1749143AF5C4730DB13A.PNG</Image>
+      <Description>Complete "Biomech Sweeper" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>Whip 'Em Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/C20BAD25EF11D24D03459EFBED7CED2D1108D56D.PNG</Image>
+      <Description>Complete "Whip 'Em Good" challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/A49CA59F739C364CBB9A99A8739043F5371EE152.PNG</Image>
+      <Description>Find all collectibles in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00305_00</GameId>
+      <Title>End Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00305_00_1CFEC0B53F6794349A5F62780F3CDE90E608F661/E57068E410A711705BE6E41F65AB530C8F031940.PNG</Image>
+      <Description>Complete the final mission</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

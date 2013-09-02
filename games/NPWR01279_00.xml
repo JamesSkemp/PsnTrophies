@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01279_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Free Realms</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/6A21AACECA6F65487B45D8CBB78ADD06813C99B4.PNG</Image>
+    <TrophiesCount Total="46" Bronze="24" Silver="20" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Free Realms Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/2115E2AEAA0EA4DFF60379288B2E177BCDEDB30D.PNG</Image>
+      <Description>Earn all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Tower Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/507E8EA9B16CD9B1B45FE99C01CF78D271F2DC4D.PNG</Image>
+      <Description>Win a Tower Defense game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/D5F5F790DD70F41FF774547172F6CA8234C700D7.PNG</Image>
+      <Description>Win a Checkers game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Strategist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/3C97F1E9ECD19C6571C64C1D3D087CD803693369.PNG</Image>
+      <Description>Win a Chess game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/9B52F23B6CE242D9B93C4E843156302004914444.PNG</Image>
+      <Description>Win a Pirate's Plunder match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Relic Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/BB1FB38DD1F331F7C25A7DEC6A49379711A3EF12.PNG</Image>
+      <Description>Win an Artifact Hunt game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Window Shopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/8C09B36A88CDB60F51C7DB5E5525FECAF0A8C0BC.PNG</Image>
+      <Description>Visit the Marketplace</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/ECF3C8CEDE866027972DD75F46750D67C5368D1F.PNG</Image>
+      <Description>Visit the Kart &amp; Demo Derby Garage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Housecaller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/BF67BEC636F00A547DE7DE2170B4C26A4BCD9FE7.PNG</Image>
+      <Description>Visit another player's house</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Barterer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/89E3604F59648DDA40F582EA60A5B708128EADD3.PNG</Image>
+      <Description>Complete 5 player to player trades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Icebreaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/E3327C0D4F9C6D4C91F03E7654E748895600D28C.PNG</Image>
+      <Description>Add a player to your friends list</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Groupie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/B0043A6023AD110AFA3328C27246E9E010FDF46D.PNG</Image>
+      <Description>Successfully invite 5 players to a group</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Guildmaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/2C5C90E97CDA38861F3E2EB5C47C020A0AA3A26B.PNG</Image>
+      <Description>Create a guild</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Stylist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/D031FCADDA582709D747E43981CB63FBD6E37CE5.PNG</Image>
+      <Description>Equip a style card</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Consumer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/BB6EB20FCBFE8DA88CCA68AB621F2B5650C01AAA.PNG</Image>
+      <Description>Use a consumable item</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Pet Whisperer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/1D44167D6CBCEBCD9F573B99A822F423D89C42EB.PNG</Image>
+      <Description>Perform a pet trick</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Mime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/A8F41A520D16CD202B4D3ABB9DB0CD215E6B0556.PNG</Image>
+      <Description>Perform 10 emotes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/DE9A08B8B3BF5C1CD10771AB917D86D3299E4AB5.PNG</Image>
+      <Description>Complete a collection</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Home Improver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/EDE7C17FEFB0CBBA6A0776035783E968208ACB95.PNG</Image>
+      <Description>Place 100 items in a house</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Loser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/732916F260FE913C4C677DCA58CBD325F8ADC536.PNG</Image>
+      <Description>Lose 10 minigames</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Cow Tipper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/903EABB4235B52233CEAEEE4743DFCC945E2F9A1.PNG</Image>
+      <Description>Tip 10 cows</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Pwner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/22A0EE3ADEEDC2DE368A120EF5ECFDE0A3246D58.PNG</Image>
+      <Description>Win a tier 5 combat encounter without getting knocked out</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Quitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/BDAD345E067B73221D9752A597AF5C2A773F84BC.PNG</Image>
+      <Description>Abandon 10 quests</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Duelist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/B9E8F89C2991738411BBCA3FE9215C7DD3F45E41.PNG</Image>
+      <Description>Win 10 duels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>N00b</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/358D9ED992CA94EE7C8B834F3CDB99068A24512B.PNG</Image>
+      <Description>Ask for help from Free Realms Support</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Socialite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/44B0264617B52870FB654DEE245C4F70B21FABBA.PNG</Image>
+      <Description>Add 50 players to your friends list</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/2873849B848939445379C73F678A55457B70FD30.PNG</Image>
+      <Description>Successfully invite 25 players to a group</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Elite Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/1A3CD1CFD8B1C67B06823B7CDACE0CE3BECB68AB.PNG</Image>
+      <Description>Complete an elite collection</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Master Decorator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/30E347DD6CD3EF39F50E9CB6965FCCD9327D1733.PNG</Image>
+      <Description>Place 1000 items in a house</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Big Spender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/FD8A33722B87DA14CEF379642A5826F9083AB5D8.PNG</Image>
+      <Description>Spend 50,000 coins</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Grand Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/43709ABC08AEABFF98F85238C0A15300730861FD.PNG</Image>
+      <Description>Reach Level 20 as an Adventurer</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/410E573B21FA0D43C8528E4F3B69A7D757C463B0.PNG</Image>
+      <Description>Reach Level 20 as an Archer</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Master Blacksmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/0D65A4372F559F86B95B46EEBD1305A5CFA8518C.PNG</Image>
+      <Description>Reach Level 20 as a Blacksmith</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Street Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/A2C736A7715016AC3443C10C79DA66EB89B0D58A.PNG</Image>
+      <Description>Reach Level 20 as a Brawler</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Iron Chef</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/E205299605C9F10B04A02DD6333ED52B0F46AAE6.PNG</Image>
+      <Description>Reach Level 20 as a Chef</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Demolisher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/B762140622D2D2E57591E53D762D45834F3F13A9.PNG</Image>
+      <Description>Reach Level 20 as a Demo Derby Driver</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/45AA971CC4F39F212FCB819D415957BBA762675B.PNG</Image>
+      <Description>Reach Level 20 as a Fisherman</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Speed Demon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/DAA89CFE97B1108FA88861B38228AE713858602E.PNG</Image>
+      <Description>Reach Level 20 as a Kart Driver</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Doctor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/EA57CA203BCF04EEA1054F06A870E49B54B39985.PNG</Image>
+      <Description>Reach Level 20 as a Medic</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Ore Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/04608419B75D845F8B56719FF59A4C509FD38C4A.PNG</Image>
+      <Description>Reach Level 20 as a Miner</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Flying Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/6DE83A73453256ED4490CFEF0D3AC8E1D7AB2C43.PNG</Image>
+      <Description>Reach Level 20 as a Ninja</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Postmaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/0FA05768485EDEEEA2F95CD30FB5E11A44694F74.PNG</Image>
+      <Description>Reach Level 20 as a Postman</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/CC9BF502227CC6513BFBCF8A02EB3428D6B8A345.PNG</Image>
+      <Description>Reach Level 20 as a Soccer Star</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Warlord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/A34D49189A99C56107A7988C223A9A4976834FF0.PNG</Image>
+      <Description>Reach Level 20 as a Warrior</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Arcane Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/20388A4A806A51C9043087D3DAD68F9AD29B55B8.PNG</Image>
+      <Description>Reach Level 20 as a Wizard</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01279_00</GameId>
+      <Title>Celebrity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01279_00_00A1842E3280443FA0C00441E75215A2C384C7CB4D/822CFA89C287EE94F32426F8DB70DAD6DB3A3DF3.PNG</Image>
+      <Description>Add 100 players to your friends list</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

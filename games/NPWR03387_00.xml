@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03387_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Foosball 2012</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/4E9F4FC6090BB22E147202EB2B493397B1B38B69.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Bon Voyage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/E448673D789EAEB17459A8B30892725DCFD6D7EC.PNG</Image>
+      <Description>Win a World Tour match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Let's play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/998B950D0785EB57CE813CE3016595D2A02326AF.PNG</Image>
+      <Description>Win an online match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Around the world in 20 matches</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/E65A8E2D970BF6964E06F88B757CE1CBA78AFBC0.PNG</Image>
+      <Description>Defeat every standard World Tour opponent.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Shutout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/0ACCE55BFF8931F38744704F0425D07D1F72A2B4.PNG</Image>
+      <Description>Defeat an "Advanced" or higher A.I. without being scored on (10 balls or more).</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Jack of all trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/D577FE8F719708448F172BFEE9AA7969D3EC1E00.PNG</Image>
+      <Description>Use all types of trick shots in a single match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Booby prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/800E51FC1FF7FBC8120340E61C9FCCE43BFB28FA.PNG</Image>
+      <Description>Score an own goal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>One Man Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/9AD79A798230B257C102D33274E1835C8716145B.PNG</Image>
+      <Description>Score a goal using your goalkeeper.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>From zero to hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/E6C9E6B492627F5F9CF93AA61842F0C42A69DE8E.PNG</Image>
+      <Description>Go from score 0:9 to win 10:9 in a 10 goal match against Advanced A.I. or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Your Excellency</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/6D4F3F9D84B97C4A3B983BF87E522E4D800FE6FB.PNG</Image>
+      <Description>Defeat every standard World Tour opponent with at least "Excellent" rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Master Blaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/1D5829A4C0EDA1CA785E2A6274F1E581C058CEEA.PNG</Image>
+      <Description>Defeat all Master opponents in World Tour.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Mr Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/1A7DA1A19FF5BCD526D94C2EE347BC0CDF22DF0C.PNG</Image>
+      <Description>Defeat every standard World Tour opponent with "Perfect" rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03387_00</GameId>
+      <Title>Owned!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03387_00_20AE73E268ABE207ED4FCEBDB4F601312E764C38/953B05EBB176DAA3195BC0D94E726A6CFB721520.PNG</Image>
+      <Description>Defeat a Master opponent with "Perfect" rating in World Tour.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

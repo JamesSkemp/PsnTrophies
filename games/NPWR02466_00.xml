@@ -1,0 +1,356 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02466_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Rune Factory: Tides of Destiny</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/067778CC7A4A83C9244005CD718DCB6B6906BA5E.PNG</Image>
+    <TrophiesCount Total="38" Bronze="21" Silver="12" Gold="4" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Rune Factory Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/66ABAC26D0D5602DDF10686471B1C9155B122D2F.PNG</Image>
+      <Description>Earn all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Island Raiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/DFB7E28F378CCADD14EE81A8211BA24F967DE581.PNG</Image>
+      <Description>Use the Plant Golem to raise an island out of the sea.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Island Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/D0964179C9A1A35ADB5C0697B479087EDD4F273A.PNG</Image>
+      <Description>Raise all of the islands out of the sea.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Beginning Salvager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/0FCBD8CD11D012F15BAC08E6E4203672C5181BAD.PNG</Image>
+      <Description>Successfully salvage 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Veteran Salvager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/460B239646DC7A75EEB19B95D2237BDE68258461.PNG</Image>
+      <Description>Successfully salvage 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Master Salvager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/DC48557F7578E47543831E39E4AF844D266F5233.PNG</Image>
+      <Description>Successfully salvage 30 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Rock Hard Riddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/79CC51929160E3A9C6ABF2C37359704A2E78D99F.PNG</Image>
+      <Description>Get to the bottom of why Sprout Island turned to stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Monster Battler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/834831C87B025E2B189214C016576E3C7F3000CB.PNG</Image>
+      <Description>Defeat 100 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Monster Masher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/F075AF169BC1B92082FED7076D97BC86174740E5.PNG</Image>
+      <Description>Defeat 500 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Monster Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/6B47E9F2B60A7458ACC4563F2420A6E0390AE8FA.PNG</Image>
+      <Description>Defeat 1500 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>That Which Monsters Fear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/9FC8226C4FF48D74AE7964A59F8D61D4423D0560.PNG</Image>
+      <Description>Defeat 3000 monsters.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>That Which Monsters Flee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/9FC40813F9E98F0A81E13ED27B470DABE60FA1F5.PNG</Image>
+      <Description>Defeat 5000 monsters.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Giant Battler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/B6E02A54EEE613C72B70B06F1CD0A0DD652A97A3.PNG</Image>
+      <Description>Defeat 10 giant monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Giant Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/F5EF0C10261ED2EF645CB751109C6B73F5C30E3C.PNG</Image>
+      <Description>Defeat 20 giant monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Giant Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/8138603186A75B844019904A08830085D3B912E4.PNG</Image>
+      <Description>Defeat 30 giant monsters.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Golem Repairman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/5DEAEE7AC89119719DA568A5246988EED6649E6F.PNG</Image>
+      <Description>Find out what's wrong with the Plant Golem and get him working again.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Water Temple Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/20683402782C797BD8687F198D97C9099FC132EF.PNG</Image>
+      <Description>Lift the stone curse from the Water Temple.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Fire Temple Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/CAFC981527070634FB39610BF431EDD941142D31.PNG</Image>
+      <Description>Lift the stone curse from the Fire Temple.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Earth Temple Cleared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/7C8E4DF1E0E43CD5CC8B4BE58B2F86E7029FEB65.PNG</Image>
+      <Description>Lift the stone curse from the Earth Temple.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Legendary Golem Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/8D99F04C3041E223F9D307DC803D045A6D7F93E3.PNG</Image>
+      <Description>Defeat the Legendary Golem.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Masked Man Revealed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/DE0D2223E8DDEC9A99B3FD6A09F1F340A46250F4.PNG</Image>
+      <Description>See the true face of the man in the mask.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Beginning Crafter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/BFE5C0D8551F3D106C7E9E6817BC2CB4C3D74A07.PNG</Image>
+      <Description>Successfully craft an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Veteran Crafter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/C9FE8481D95420AAB2F94D4FA369C2B0CF885390.PNG</Image>
+      <Description>Successfully craft 300 items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Professional Crafter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/F142DCAAD4A82E17AF80C5FD774EDCEF8120756C.PNG</Image>
+      <Description>Successfully craft 800 items.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Master Crafter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/5D77282B4755D6BE5C0AF6E223A59FD268F796C4.PNG</Image>
+      <Description>Successfully craft 1500 items.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Failed Chef</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/8515A386B5DFCC126386D47027CCC1AC2B503783.PNG</Image>
+      <Description>Fail at cooking one time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Insomniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/FB899F5816C74819CD86F4E2284D786DAB99F156.PNG</Image>
+      <Description>Stay awake until you collapse at 5AM.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Most Popular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/44311D5AE1969831B1CB9002F661A066652A2D5A.PNG</Image>
+      <Description>Earn the goodwill of many residents on Fenith Island.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Beginning Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/8CBD294F3C7E2E0A4E02336FB3765966B534247E.PNG</Image>
+      <Description>Successfully land a fish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Veteran Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/BC6C834BEA3087FFE54B57715D4794ABDCBB96A1.PNG</Image>
+      <Description>Successfully land 300 fish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Professional Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/A4C6C9586219F21F282030B69E7B979592F546C7.PNG</Image>
+      <Description>Successfully land 1000 fish.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Master Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/6FA0327F5E14099E92A67CFEE0E2918CC9B927C3.PNG</Image>
+      <Description>Successfully land 2000 fish.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Overmedicated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/505B1AC8287EF3A8A0ECBBD66E8114A05C15B279.PNG</Image>
+      <Description>Consume 100 recovery drinks.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Germ Factory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/2599EC09C66B732C62328ADDB0D3B8FF40DF6CB6.PNG</Image>
+      <Description>Catch a cold 100 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Jumping for Joy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/98B6A7AD025E4624CE90955FBBB686CFEE749B0E.PNG</Image>
+      <Description>Perform a double-jump 500 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/464D953B2DB4BF1D4EAB4B804293C7CDE4261F67.PNG</Image>
+      <Description>Win a battle in the colloseum.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/DF381C77BD937B2E796C3908E7A58A52D500BEB5.PNG</Image>
+      <Description>Achieve repeat victories in the colloseum.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02466_00</GameId>
+      <Title>Trophies 101</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02466_00_7D9AD8619DB3AD80092FDCF0E252FE8492A0809D/0EB9147EE09CBA61887E5C115751D15D0F84C9BA.PNG</Image>
+      <Description>Listen to Maerwen's explanation about trophies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

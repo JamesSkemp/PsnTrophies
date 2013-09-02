@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02066_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The Baconing</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/49C5221BC963C549C530A104FB6BACDA387788C1.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Tea, Earl Grey, hot.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/A3D4FA25E6D8D7F8D719FDE1BF15E726FB14E1B4.PNG</Image>
+      <Description>Program a Replicator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Bashing Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/D168C8C3115864AB828C7A2EDB2902701B305BA9.PNG</Image>
+      <Description>Shield Bash 1000 Times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Never tell me the odds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/8DBCACEFCF5F80CC63BAE4604DA1FD1B4EC281D5.PNG</Image>
+      <Description>Perform a 10x attack chain.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Blade Ruiner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/D221A47B27D61AF446971F75EB5B3374C643D826.PNG</Image>
+      <Description>Kill 100 Cyborques.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Who Wants to Live Forever?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/DD8BC284286CAC8262C93139D865D694F3FF54C3.PNG</Image>
+      <Description>Become a God.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Reflectology</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/310488C73BF7FC3F2E4913F4BFA6CAA01C08BE83.PNG</Image>
+      <Description>Reflect 100 Ranged Attacks.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Stay On Target.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/5AD4E13BA8BF73DCF44B4AB2B9ED572B486DB126.PNG</Image>
+      <Description>Reach Level 20.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Game Over Man!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/C38793994C45247EA892B8EEA5FD1D6143DDF45C.PNG</Image>
+      <Description>Beat the game on any difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Are you not entertained?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/60BA6F63F9CBFC1CEA7E48EF7803B35FD7734D3A.PNG</Image>
+      <Description>Become the Tournament Champion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Take a #3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/CCDE4B4D55D0B5D5042090E668EDAADB3BE4478D.PNG</Image>
+      <Description>Find all 41 Outhouses.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Death Blossom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/9F0456383EC57D48AD33D8E0AE7B2769EFE81C32.PNG</Image>
+      <Description>Beat the game on Insane difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02066_00</GameId>
+      <Title>Predator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02066_00_13CB0226B3582422CA7CD2057FD9FBB149064E85/053FDA591D872648529DABA40F8949D3AF7BFF34.PNG</Image>
+      <Description>Kill 2000 Enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02131_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Child of Eden</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/413548CEC2CAD0CFB5438629FD17D45ECD187056.PNG</Image>
+    <TrophiesCount Total="50" Bronze="38" Silver="9" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Purest Shining Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/B252D4473D9B1EE9840D3EA0F0E585BCA3B5960B.PNG</Image>
+      <Description>Unlocked all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Wireframe Web Expands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/23FD65E88E4E511F57D4A964691BCC344F68A4C0.PNG</Image>
+      <Description>Cleared the Matrix Archive on Normal Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Phoenix Rising</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/D164CD93426E3119454D64A3D46E52C41534790C.PNG</Image>
+      <Description>Cleared the Evolution Archive on Normal Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Field Of Dreams</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3194F9C829623E86457E59EB0D30E4300E51E1ED.PNG</Image>
+      <Description>Cleared the Beauty Archive on Normal Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>If The Spirit Moves You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/298A3A9F2EF15D51BFBD3081FE9FF89A83138CB9.PNG</Image>
+      <Description>Cleared the Passion Archive on Normal Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Giver Of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/ED5607EC4E9C6B943A42FC49D3C1C93D30CDD408.PNG</Image>
+      <Description>Cleared the Journey Archive on Normal Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Matrix Archivist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/08E15282A12A839DDE623ADF6E070D63316FA134.PNG</Image>
+      <Description>Cleared the Matrix Archive on Hard Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Great Evolution Round-Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/CACFA876E6A4CFF5020667739A87328B8611D222.PNG</Image>
+      <Description>Cleared the Evolution Archive on Hard Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Shimmering Brightness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/9F80BA814C2BA490AA75888AD393B6C40C22CD75.PNG</Image>
+      <Description>Cleared the Beauty Archive on Hard Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Unforgettable Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/8848D48F666A31EA4C3C04270001A262BF7CB25E.PNG</Image>
+      <Description>Cleared the Passion Archive on Hard Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Journey's End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3C8DD194B894E1E41565F7ED772847B3C1AE3DC0.PNG</Image>
+      <Description>Cleared the Journey Archive on Hard Difficulty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Matrix Completionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/67B48E9E588EED7B0BCBC2506AA1C4B23F205F20.PNG</Image>
+      <Description>Obtained all items in the Matrix Archive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Evolution Pack Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/4D8F17715F5BB7A20A4128C66321BC7AB071F76E.PNG</Image>
+      <Description>Obtained all items in the Evolution Archive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Eye Of The Beholder </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/9C3597BE2B9A3472F128D799D1893E49FC6DB7D5.PNG</Image>
+      <Description>Obtained all items in the Beauty Archive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Endless Passion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/6BD3E7E8B603FC6C24EA8788B726B413EAC542E4.PNG</Image>
+      <Description>Obtained all items in the Passion Archive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Wanderer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/464D237018C49BB78298DBC05028F9492D44ED57.PNG</Image>
+      <Description>Obtained all items in the Journey Archive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Genius Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/09275C523E9EA508B05546B0ECA6A8742C614DA6.PNG</Image>
+      <Description>Cleared the Matrix Archive on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Crackerjack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/77ABC050E5949FD5673EA44622F22076C23655A4.PNG</Image>
+      <Description>Cleared the Evolution Archive on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Thinker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/B04BA49C03099AE25ADBF68BC527E3F4D53D66A8.PNG</Image>
+      <Description>Cleared the Beauty Archive on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Luminous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/17C508A5F53D627D0BE3E9CDA4403ED99E7ECDB0.PNG</Image>
+      <Description>Cleared the Passion Archive on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Radiant Avalon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/F0822BA80EFF22B49EA8FB3E9925AB298F22D185.PNG</Image>
+      <Description>Cleared the Journey Archive on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Absolutely Fabulous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/F46A625B75366BD3C47385EA203DE8B3A6E9B6DB.PNG</Image>
+      <Description>Cleared all the Archives on Normal Difficulty and achieved 100% purification.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Total Eclipse Of The Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/C24FC61FE8B1CCC431D22EFFB536D6CC850A0619.PNG</Image>
+      <Description>Cleared all the Archives on Hard Difficulty and achieved 100% purification.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Pulse-Pounding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/6E185434D3B471003EFAA6030E4705356276CEE0.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Matrix Archive on Normal Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Magnificent Aura</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/DE1F31B5AE76C78E3C31BCF9D6FB7BBE15802745.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Evolution Archive on Normal Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Flawless Beauty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/AF09E971AE3BAD301CBB23E4F6915A3D582B88CD.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Beauty Archive on Normal Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Constellation Overdrive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3AA38567AA02955FB983CF1DDB83FA748F7CA062.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Passion Archive on Normal Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Impeccable Virtue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/7233A565930A91085ABCB50947A4224D7570CC48.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Journey Archive on Normal Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Time Becomes A Loop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/36DA5C10CF383400FA135A8C253BB837C09278E9.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Matrix Archive on Hard Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Calculator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/6F8D739DD7E74A6562870561ECCAD3001DCB4F3A.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Evolution Archive on Hard Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Fireworks From Heaven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3FC554609D693FF5613EE4E8FDB200AF7CD49504.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Beauty Archive on Hard Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>You Sure Showed Them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/6D1E35F7ACC3A02292B209B3291D156644C3BAC1.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Passion Archive on Hard Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Gunslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/07F64E467850504CE90256BBE0BD7C8C01DA9CEA.PNG</Image>
+      <Description>Obtained more than 800,000 points in the Journey Archive on Hard Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Hot Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3D348C00C9217D50B97F707AEA81435A924FB8F8.PNG</Image>
+      <Description>Achieved a total of 100 Perfect Octa-Locks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Skills That Pay The Bills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/E26BF71567C3962F5CBFBB66171EB762D7DFF56A.PNG</Image>
+      <Description>Achieved 10 consecutive Perfect Octa-Locks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Total Enlightenment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/25346343859CAA490CE821CE31AA3B45DF9745C3.PNG</Image>
+      <Description>Euphoria used.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Figure Eight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/CA5A1B196B5CB18650A695D28066DF27093B5F05.PNG</Image>
+      <Description>Purified an enemy using Octa-Lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Feel The Beat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/6E5FF834B138E00FFDA9EE9F2E76AA02BDC64FA8.PNG</Image>
+      <Description>Achieved a Perfect Octa-Lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Hope Springs Eternal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/78D3C8E133683047833A6CA17DE052B4ABEF1C3F.PNG</Image>
+      <Description>Cleared the Hope Archive.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>The Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/AB7889341BDCB26560E402AE82FF10E2F7FA438D.PNG</Image>
+      <Description>All enemy types purified.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Automaton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/A199594572DD1EFF6807D0C478AD9F089DB87691.PNG</Image>
+      <Description>Achieved a 4 Star Clear Rank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Savant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/3017D5201E1A97D77F21ACC1A02989C75B34AD43.PNG</Image>
+      <Description>Achieved a 5 Star Clear Rank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Hierophant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/609BC48EFA23243DD10F78A81440AE75550F089A.PNG</Image>
+      <Description>Achieved a Gold Star Clear Rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Ultimate Compiler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/44F595DB99195D5E32173BB58CE0A781A4476D8B.PNG</Image>
+      <Description>Collected all Reward Items in Lumi's Garden.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Dabbler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/56F33C9BF2D0078DC28011E3A8A76ACEC305B470.PNG</Image>
+      <Description>10% of Extra bonuses unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/FD33555A62EE48A14C3F6FF5EDFB7F7B5592531D.PNG</Image>
+      <Description>25% of Extra bonuses unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>SRSBZNS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/5FE3DC903330156C2DB54AE0C4604133BDE2321C.PNG</Image>
+      <Description>50% of Extra bonuses unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Maniac Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/7955733F8EC89EC18A7C6555D4DC7D4FBDD16249.PNG</Image>
+      <Description>75% of Extra bonuses unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Super Collider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/417E43D3B0390050CAA8D16DDF4040A6AB589DB3.PNG</Image>
+      <Description>100% of Extra bonuses unlocked.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02131_00</GameId>
+      <Title>Master of Eden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02131_00_1B5B77173C68926B08BF685321D9E7644756F43F/327FD27A1AB9F51FA795875E0238B9E3A610DABE.PNG</Image>
+      <Description>Cleared all Archives on Normal and Hard Difficulty Mode with a Gold Star Clear Rank.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
