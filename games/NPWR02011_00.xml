@@ -10,183 +10,48 @@
     <Platform>ps3</Platform>
   </Game>
   <Trophies>
-    <Trophy>
-      <Id>26</Id>
+	<Trophy>
+      <Id>1</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>In the nick of time</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/0FB94488DC6AE7BF25364AFD001B6252DB12138D.PNG</Image>
-      <Description>Disarmed the bomb in under 20 seconds in The Eleventh Hour</Description>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/68FE4AA3E2C804182C90C52EB41101831175ABC6.PNG</Image>
+      <Description>Collect all other Battlefield 3 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Not on my watch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/546F988904F9BF5B1D580BAF5354139FEAF652D5.PNG</Image>
+      <Description>Protected Chaffin from the soldiers in the street in Operation Swordbreaker</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Involuntary Euthanasia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9A5C6A284606B49F9C6523F5D8694E93734E59E4.PNG</Image>
+      <Description>Killed the 2 soldiers before the building fell on them in Uprising</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
-      <Id>25</Id>
+      <Id>4</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>Car Lover</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/297B02A172601D1CD1A6474D3688278AFCA061C5.PNG</Image>
-      <Description>Completed the mission without losing a humvee in Operation Exodus</Description>
+      <Title>The Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/85CBBDAA28855445B7A58253F711AAC95E39727E.PNG</Image>
+      <Description>Completed the street chase in Comrades in under 2 minutes 30 seconds without dying</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
-      <Id>24</Id>
+      <Id>5</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>Lock 'n' Load</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/AA60A0D7F35D99F6130B00E3A2D77B15FC16B596.PNG</Image>
-      <Description>Unlocked all unique co-op weapons</Description>
-      <Type>SILVER</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>23</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Two-rah!</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/1FA7BE2064EF54DC053294ED38327284AC5ECC27.PNG</Image>
-      <Description>Completed all co-op missions</Description>
-      <Type>SILVER</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>22</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Push On</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/749B255F10D4735BE8F86A31D370B52AD76044C8.PNG</Image>
-      <Description>Reached the garage without going into man-down state in Hit and Run</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>21</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Semper Fidelis</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/68082FC35F17090CD2D47AA20FDE1CDD8803FFB6.PNG</Image>
-      <Description>Completed the campaign story on Hard</Description>
-      <Type>GOLD</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>20</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Between a rock and a hard place</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/BFAFCC2662AAC2711460DFDD5A58F4F7B550CCE7.PNG</Image>
-      <Description>Beat Solomon, flawlessly, in The Great Destroyer</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>19</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Ooh-rah!</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/3E76B126FA041B945803677A92251D6F5D4D1BAD.PNG</Image>
-      <Description>Completed the campaign story</Description>
-      <Type>SILVER</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>18</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>FlashForward</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/1F823AFAF39118A50AC01858F375389260BFDA7F.PNG</Image>
-      <Description>Completed Semper Fidelis</Description>
-      <Type>BRONZE</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>17</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Twofor</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/4256D172AB30C1CE696A53372AE8E8909FB3510D.PNG</Image>
-      <Description>Took down 2 enemies with 1 bullet in Night Shift</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>16</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Butterfly</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9B0DB99F53EA440857A6A30B05D7FC349F842E80.PNG</Image>
-      <Description>Took down the jet in one attempt in Rock And A Hard Place</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>15</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>No Escape</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9D0692CB0FF85A6EDA92E1A9B9189BF7C8FA81F4.PNG</Image>
-      <Description>Captured Kaffarov</Description>
-      <Type>BRONZE</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>14</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Scrap Metal</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/630293F50F4ECB7DEF7092CE5A4390E564FC4FC8.PNG</Image>
-      <Description>Destroyed 6 enemy tanks before reaching the fort in Thunder Run</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>13</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>You can be my wingman anytime</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/303383917AF7C7EC78675B8EAA94169C8DA41E62.PNG</Image>
-      <Description>Completed Going Hunting in a perfect run</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>12</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Roadkill</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9B7908A526F16626F0DAF4A41400658736C528C0.PNG</Image>
-      <Description>Kicked the car and killed the soldiers in Uprising</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>11</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>What the hell *are* you?</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/E20143B0DA6C410B045328306E4593DB12E4FDE8.PNG</Image>
-      <Description>Took a Russian Dog Tag in the forest ambush in Rock And A Hard Place</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>10</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Practice makes perfect</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/B6FF90EF56E27B6121DF5CDA720AE0A3C8D41B9C.PNG</Image>
-      <Description>Headshot each of the targets in the gun range in Kaffarov</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>9</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Army of Darkness</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/B1CC176C2B6F19241D627EB6099FAC5FDC303A96.PNG</Image>
-      <Description>Shot out the 4 lights with 4 bullets in Night Shift</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>8</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Wanted: Dead or Alive</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/F1E5C0AEE49D7EE16A8D784BEF574A257039045C.PNG</Image>
-      <Description>Captured Al Bashir</Description>
-      <Type>BRONZE</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>7</Id>
-      <GameId>NPWR02011_00</GameId>
-      <Title>Shock Troop</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/2D4DD776D6AD2045EE67AB7C4D78988FFEB5F654.PNG</Image>
-      <Description>Survived the quake</Description>
+      <Title>This is the end</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/7B12CF272693D5343E79025CE91132B96A2B3582.PNG</Image>
+      <Description>Failed to prevent the attack</Description>
       <Type>BRONZE</Type>
       <Hidden>true</Hidden>
     </Trophy>
@@ -200,48 +65,183 @@
       <Hidden>true</Hidden>
     </Trophy>
     <Trophy>
-      <Id>5</Id>
+      <Id>7</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>This is the end</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/7B12CF272693D5343E79025CE91132B96A2B3582.PNG</Image>
-      <Description>Failed to prevent the attack</Description>
+      <Title>Shock Troop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/2D4DD776D6AD2045EE67AB7C4D78988FFEB5F654.PNG</Image>
+      <Description>Survived the quake</Description>
       <Type>BRONZE</Type>
       <Hidden>true</Hidden>
     </Trophy>
     <Trophy>
-      <Id>4</Id>
+      <Id>8</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>The Professional</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/85CBBDAA28855445B7A58253F711AAC95E39727E.PNG</Image>
-      <Description>Completed the street chase in Comrades in under 2 minutes 30 seconds without dying</Description>
+      <Title>Wanted: Dead or Alive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/F1E5C0AEE49D7EE16A8D784BEF574A257039045C.PNG</Image>
+      <Description>Captured Al Bashir</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Army of Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/B1CC176C2B6F19241D627EB6099FAC5FDC303A96.PNG</Image>
+      <Description>Shot out the 4 lights with 4 bullets in Night Shift</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
-      <Id>3</Id>
+      <Id>10</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>Involuntary Euthanasia</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9A5C6A284606B49F9C6523F5D8694E93734E59E4.PNG</Image>
-      <Description>Killed the 2 soldiers before the building fell on them in Uprising</Description>
+      <Title>Practice makes perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/B6FF90EF56E27B6121DF5CDA720AE0A3C8D41B9C.PNG</Image>
+      <Description>Headshot each of the targets in the gun range in Kaffarov</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>What the hell *are* you?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/E20143B0DA6C410B045328306E4593DB12E4FDE8.PNG</Image>
+      <Description>Took a Russian Dog Tag in the forest ambush in Rock And A Hard Place</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Roadkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9B7908A526F16626F0DAF4A41400658736C528C0.PNG</Image>
+      <Description>Kicked the car and killed the soldiers in Uprising</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>You can be my wingman anytime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/303383917AF7C7EC78675B8EAA94169C8DA41E62.PNG</Image>
+      <Description>Completed Going Hunting in a perfect run</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Scrap Metal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/630293F50F4ECB7DEF7092CE5A4390E564FC4FC8.PNG</Image>
+      <Description>Destroyed 6 enemy tanks before reaching the fort in Thunder Run</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
-      <Id>2</Id>
+      <Id>15</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>Not on my watch</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/546F988904F9BF5B1D580BAF5354139FEAF652D5.PNG</Image>
-      <Description>Protected Chaffin from the soldiers in the street in Operation Swordbreaker</Description>
+      <Title>No Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9D0692CB0FF85A6EDA92E1A9B9189BF7C8FA81F4.PNG</Image>
+      <Description>Captured Kaffarov</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/9B0DB99F53EA440857A6A30B05D7FC349F842E80.PNG</Image>
+      <Description>Took down the jet in one attempt in Rock And A Hard Place</Description>
       <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
-      <Id>1</Id>
+      <Id>17</Id>
       <GameId>NPWR02011_00</GameId>
-      <Title>Platinum Trophy</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/68FE4AA3E2C804182C90C52EB41101831175ABC6.PNG</Image>
-      <Description>Collect all other Battlefield 3 Trophies</Description>
-      <Type>PLATINUM</Type>
+      <Title>Twofor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/4256D172AB30C1CE696A53372AE8E8909FB3510D.PNG</Image>
+      <Description>Took down 2 enemies with 1 bullet in Night Shift</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>FlashForward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/1F823AFAF39118A50AC01858F375389260BFDA7F.PNG</Image>
+      <Description>Completed Semper Fidelis</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Ooh-rah!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/3E76B126FA041B945803677A92251D6F5D4D1BAD.PNG</Image>
+      <Description>Completed the campaign story</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Between a rock and a hard place</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/BFAFCC2662AAC2711460DFDD5A58F4F7B550CCE7.PNG</Image>
+      <Description>Beat Solomon, flawlessly, in The Great Destroyer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Semper Fidelis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/68082FC35F17090CD2D47AA20FDE1CDD8803FFB6.PNG</Image>
+      <Description>Completed the campaign story on Hard</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Push On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/749B255F10D4735BE8F86A31D370B52AD76044C8.PNG</Image>
+      <Description>Reached the garage without going into man-down state in Hit and Run</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Two-rah!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/1FA7BE2064EF54DC053294ED38327284AC5ECC27.PNG</Image>
+      <Description>Completed all co-op missions</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Lock 'n' Load</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/AA60A0D7F35D99F6130B00E3A2D77B15FC16B596.PNG</Image>
+      <Description>Unlocked all unique co-op weapons</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+	<Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>Car Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/297B02A172601D1CD1A6474D3688278AFCA061C5.PNG</Image>
+      <Description>Completed the mission without losing a humvee in Operation Exodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02011_00</GameId>
+      <Title>In the nick of time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02011_00_C5DE885F2E8BB859D77411BB6F4EF63B64F0B8B2/0FB94488DC6AE7BF25364AFD001B6252DB12138D.PNG</Image>
+      <Description>Disarmed the bomb in under 20 seconds in The Eleventh Hour</Description>
+      <Type>BRONZE</Type>
       <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
