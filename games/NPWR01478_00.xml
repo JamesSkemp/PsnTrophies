@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01478_00</Id>
+    <IdEurope></IdEurope>
+    <Title>BioShock Infinite</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DEF5791FB8CC86CFAD8F32AD3FE2BEC8D3BADA93.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="15" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Platinum Columbia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4A1DC43B94942A3CE815C355F5081C653D38F6A5.PNG</Image>
+      <Description>Acquire all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Written in the Clouds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8FA89255682654CEC51E3C33059A1962933049DD.PNG</Image>
+      <Description>Completed Lighthouse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Welcome to Monument Island</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/A3EEF3C25A7472991A581C00C083659EA81C9767.PNG</Image>
+      <Description>Reached Monument Island.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Shock Tactics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/A6B0F2F9335A03B5ECFBFF207BD5839B5E9F0633.PNG</Image>
+      <Description>Retrieved Shock Jockey.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>First Class Ticket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/5AB5989A105A27C470578E03FC0CE0E6046803BE.PNG</Image>
+      <Description>Boarded The First Lady.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Armed Revolt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4EBBC16B20C7DDE251DB56499B741534EA4A31AB.PNG</Image>
+      <Description>Assisted the gunsmith.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Working Class Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3B2C06052F9188F3094207869F68D62A1D2A6E60.PNG</Image>
+      <Description>Completed the Factory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Blood in the Streets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2828C74DF6639942CEF335A7DA6A6924FEB67DCF.PNG</Image>
+      <Description>Completed Emporia.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Higher Learning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/ED25AFBE591A6985AF2B4CE1CF6C0BDC97B5B196.PNG</Image>
+      <Description>Completed Comstock House.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>The Bird or The Cage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3C2970DAB34859564B9F5FC128A7CE6A2CFB6B69.PNG</Image>
+      <Description>Completed The Hand of the Prophet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Tin Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/D25FB8C2A2938C4C0310CB8DE264422DA85DE60D.PNG</Image>
+      <Description>Completed the game on Easy difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Saw the Elephant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DCF5110CEA68547886639E413FE1B2AAC2A3B97D.PNG</Image>
+      <Description>Completed the game on Normal difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Stone Cold Pinkerton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9E6A306724B650B9FE2AE7E113645342634F7F2A.PNG</Image>
+      <Description>Completed the game on Hard difficulty or above.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Auld Lang Syne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/CC633CAA9C0DA2C80B03F5389FA90BC15E3496B1.PNG</Image>
+      <Description>Completed the game on 1999 Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Should Auld Acquaintance...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/D13004BF63CDD708D9B00F61DE68C2060149B46D.PNG</Image>
+      <Description>Unlocked 1999 Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Industrial Accident</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/ECEE637AEDDCD39CD4841F95C2F22EDD6A3031F9.PNG</Image>
+      <Description>Killed 20 enemies with a Sky-Hook Execution.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Aerial Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/691F9B97B03287C3E8B80AE3BFF7FE13F6E655D1.PNG</Image>
+      <Description>Killed 20 enemies with a Sky-Line Strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>A Real Pistol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2D6BF75791AC9897C63EE402F6083C86AB6AC75F.PNG</Image>
+      <Description>Killed 25 enemies with the Broadsider Pistol.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Passionately Reciprocated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/726C7DBEFE74E91EA33E7FBF90E75E90F8C1A713.PNG</Image>
+      <Description>Killed 150 enemies with the Founder Triple R Machine Gun or Vox Repeater.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Street Sweeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/99FA750939AC0A2FD1121EBB75AD09002FEF163B.PNG</Image>
+      <Description>Killed 50 enemies with the Founder China Broom Shotgun or Vox Heater.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Big Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7D9E247738712CC9F80265F19A80AA2F487A3FB5.PNG</Image>
+      <Description>Killed 100 enemies with the Founder Huntsman Carbine or Vox Burstgun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Loose Cannon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E74E0B95871F2E19F45D628C5CE1EA04C43B92FC.PNG</Image>
+      <Description>Killed 25 enemies with the Paddywhacker Hand Cannon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>On a Clear Day...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/7C9E65BEA2AF06828F4884E134602C8B7B502AF0.PNG</Image>
+      <Description>Killed 30 enemies with the Bird's Eye Sniper Rifle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Here Little Piggy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/88EDC67C9B1F531888EACA921DE9F554FF3B64AD.PNG</Image>
+      <Description>Killed 30 enemies with the Founder Pig Volley Gun or Vox Hail Fire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Master of Pyrotechnics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8099180FF6F991C531041409EC6ACDDB90B7A118.PNG</Image>
+      <Description>Killed 20 enemies with the Barnstormer RPG.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Seasoned to Taste</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/5818043D542D5FCDD45583B2A769CDD7B70D1290.PNG</Image>
+      <Description>Killed 30 enemies with the Peppermill Crank Gun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Well Rounded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/80FA831F4E5489FEB1DBC402E74D229B25EE58DD.PNG</Image>
+      <Description>Used all 8 Vigors against enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Vigorous Opposition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3B38276A3ACF94C82FBD43ED9C4584702C2A06DC.PNG</Image>
+      <Description>Killed 75 enemies either with a Vigor or while the enemy is under the effects of a Vigor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>More for Your Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/38B53E84F76F602FDC3A0D647C073E3E614F1743.PNG</Image>
+      <Description>Lured 3 enemies into a single Vigor trap 5 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Combination Shock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/87E714D67D13FD3506F8DFC3665A54C5B55C8578.PNG</Image>
+      <Description>Performed all 8 of the Vigor combinations.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Mind Over Matter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/77900A911E4FF234F626FAA616F05F28467F3BD3.PNG</Image>
+      <Description>Killed 20 enemies using Possessed machines.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Tear 'em a New One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/C270E31D4080FC48013365F2DBE9D5C24C62C82E.PNG</Image>
+      <Description>Opened 30 Tears.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Strange Bedfellows</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/8B18B291504B13D83DC291212C939A3BC7C22792.PNG</Image>
+      <Description>Killed 20 enemies using allies brought in through a Tear.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>On the Fly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/AF651DCF78DACC92E09C1C8E02B9A6F0D0DE3602.PNG</Image>
+      <Description>Killed 30 enemies while riding a Sky-Line.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Bolt From the Blue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/3F9B2616FEF464F77C6B196FB5A1239A2415F0CF.PNG</Image>
+      <Description>Killed 5 enemies with a headshot while riding a Sky-Line.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Hazard Pay</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4FCCAC59BCD65EA0FAFA2927B90A24EF91104950.PNG</Image>
+      <Description>Killed 10 enemies by utilizing environmental hazards.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Bon Voyage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/0A7059D1689B48DADDCD86FBA6300AEF7A166C4C.PNG</Image>
+      <Description>Killed 20 enemies by knocking them off Columbia.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Skeet Shoot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/2C77B419AC0671CD8A82DF70DA22E5B44FACEEC8.PNG</Image>
+      <Description>Killed 5 enemies while they are falling.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Lost Weekend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/DCD24486EA6CD928F38D6FDF853936B388C3379D.PNG</Image>
+      <Description>Killed 5 enemies while you are drunk.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>David &amp; Goliath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/FF2CFB5D940118D7D933B586EBAAA1782A11533C.PNG</Image>
+      <Description>Killed 20 "Heavy Hitter" enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Heartbreaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E86578F23CBAA28E8A1FD1E46CD40151511121E4.PNG</Image>
+      <Description>Killed a Handyman by only shooting his heart.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Dress for Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/B9DB05C21CC41588A978BA244B99C41ED1B82994.PNG</Image>
+      <Description>Equipped a piece of Gear in all four slots.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Kitted Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9F63BAF6FBAA8DCA38382372E349548D1EEE275F.PNG</Image>
+      <Description>Fully upgraded one weapon and one Vigor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Raising the Bar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4A2873BDE889266F8D08367184574411DEFC7ADD.PNG</Image>
+      <Description>Upgraded one attribute (Health, Shield, or Salts) to its maximum level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Infused with Greatness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/36AC740C67B92CF5710F6837D55919B33B037D5C.PNG</Image>
+      <Description>Collected every Infusion upgrade in a single game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Sightseer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/CF1C43461AD8626C0E2663BC42E92DF95DA77014.PNG</Image>
+      <Description>Used all telescopes and Kinetoscopes in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>The Roguish Type</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/E2ABD603F9F3B7A9811BDA34AA850F01D2647E8D.PNG</Image>
+      <Description>Used Elizabeth to pick 30 locks.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Eavesdropper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/4171C0D70284DC6A41F04794AAB085F3243DD425.PNG</Image>
+      <Description>Collected every Voxophone.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Grand Largesse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/B8272350605F4E9C5012C203126D50C977D2D8F9.PNG</Image>
+      <Description>Spent $10,000 at the vending machines of Columbia.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Coins in the Cushion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/9C41A5704BB062F2CD2B95C0CCEE0D93B38CA59A.PNG</Image>
+      <Description>Looted 200 containers.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01478_00</GameId>
+      <Title>Scavenger Hunt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01478_00_00C06E65A82791FA660FF25F63B3FFE709006661F9/BAEECDDF6F7BD1C8678A62BBAA638F35DF1AD878.PNG</Image>
+      <Description>Completed the game in 1999 Mode without purchasing anything from a Dollar Bill machine.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

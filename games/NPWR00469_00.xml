@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00469_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Critter Crunch</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/951A26F95BB71BA2073C854E3F2E10D4D855F619.PNG</Image>
+    <TrophiesCount Total="14" Bronze="11" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>King of the Jungle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/08DA4834C1D6F5470FB61ADB2E6F035125C498ED.PNG</Image>
+      <Description>Complete both Adventure mode and Puzzle mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Challenge Taker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/65AB88FE1E8AD65C2EB012BDB94862B714F3576A.PNG</Image>
+      <Description>Complete Challenge mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>World's Greatest Dad!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/B165A10D1B21F0D94A5AB768204644D6E5C6844A.PNG</Image>
+      <Description>Complete 35 Adventure levels while also feeding Smalls to completion</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Last Man Digesting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/74C14EB084CFA7B646D4DC7F52E6B55DABF8573E.PNG</Image>
+      <Description>Survive to level 9 in Survival mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Smart Mouth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/3B0A6259CBB937B9338385A3C0EC2EB886D0160F.PNG</Image>
+      <Description>Complete a puzzle level with moves remaining</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Puzzle me this!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/27F229D4D481B43805B0DD37E2D9285F61BCC481.PNG</Image>
+      <Description>Unlock Puzzle mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Feats of Constipation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/D57F43FE0015FE75E2400D74045802C07968BBDA.PNG</Image>
+      <Description>Unlock Challenge mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Feeding Frenzy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/B38C2A5BBF9578BE4414C5B8528A9B4CA59C3601.PNG</Image>
+      <Description>Unlock Survival mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Circle of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/971E2849D98CED10E22B0A6C0CA6B76E71A0A1F2.PNG</Image>
+      <Description>Complete 10 Food Chains in a single level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Beverage and Fries</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/155368948CB73F7316EC7328157A84C56F7C6B1C.PNG</Image>
+      <Description>Complete 6 Combos in a single level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Crunchicidal Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/546236024B5A368512E7F87D35258E41D774228B.PNG</Image>
+      <Description>Pop a chain that is 15 critters long</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Wilhelm von Puzzleworth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/513CE3E7721FC232772ABB5A1BAF518AA2BB389F.PNG</Image>
+      <Description>Complete 25 Puzzle levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Smirk Wiper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/D0A0B37C594B8AC2A2E997ABF5EF8722AFC386A7.PNG</Image>
+      <Description>Win an online Versus match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00469_00</GameId>
+      <Title>Veteran Food Eater </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00469_00_007CBE63F073F357DC6F235A7961CF88804BC51476/EF5C3CD0CC47026D490814A8C93BDB801CD5827F.PNG</Image>
+      <Description>Reach experience level 5 in online Versus mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

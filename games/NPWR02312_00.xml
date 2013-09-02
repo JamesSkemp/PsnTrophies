@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02312_00</Id>
+    <IdEurope></IdEurope>
+    <Title>LittleBigPlanet™ Karting</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/8B0233D8EC50D6A76B79C35D3CDD52B9C8F97B7C.PNG</Image>
+    <TrophiesCount Total="45" Bronze="34" Silver="6" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>100% Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/B5147ADB9AD13A7A86698B28259AF6579AACF973.PNG</Image>
+      <Description>Earn all the LittleBigPlanet™ Karting trophies to unlock this platinum trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete LittleBigPlanet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/AB4BA0CDEA3ECEE4F82C6956018B7E612246D9BD.PNG</Image>
+      <Description>Complete the main path of LittleBigPlanet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete Monster Islands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/25E54E7DCA2C31EA8BC9F532DF83ED81272C3FB9.PNG</Image>
+      <Description>Complete the main path of Monster Islands</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete Victoria's Laboratory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/6C11E53368789FA8BB6517662446A739E5855F75.PNG</Image>
+      <Description>Complete the main path of Victoria's Laboratory</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete The Progress Emporium</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/77E398B9C3E653FEF3B1128803A431A7B71F2F72.PNG</Image>
+      <Description>Complete the main path of The Progress Emporium</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete Eve's Asylum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/72F106FC85A892768CB1DE951E9E51969DFCB2F0.PNG</Image>
+      <Description>Complete the main path of Eve's Asylum</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete The Space Bass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/BAD68823BB70F4A2F84889D4FB8E2C80E9A08503.PNG</Image>
+      <Description>Complete the main path of The Space Bass</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete Hoard Garage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/731C3130E46DD52128CFCE795986CBE5B991BFE5.PNG</Image>
+      <Description>Complete the main path of Hoard Sweet Hoard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Aerial Grappler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/CA841DD63AFBB62ED95371C2C8D1B0BB52B0E70A.PNG</Image>
+      <Description>Chain three different grapples without touching the ground</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Flamin' Skid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/09859D254D82F9D92F986CAE5A7720375EB56A60.PNG</Image>
+      <Description>Drift non-stop for 10 seconds without stopping in any racing Story level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>The Brave Defender!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/835704AD76B5DB55C63AA9A26B97B8105B3E35F9.PNG</Image>
+      <Description>Defend against 30 attacks from opponents in any level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Planet Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/FA8573C2D9BCF9E7D96BA102D913BC2588322FE5.PNG</Image>
+      <Description>Star a planet in Story mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Battler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/80250291512FAE70AC617282B30520036EDFA79B.PNG</Image>
+      <Description>Achieve a 5 hit streak in any Story battle level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Showing Who's Boss!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/C8E1447744D65DEF3A45C8B0FC922A4AB712E57F.PNG</Image>
+      <Description>Hit 50 Hoard minions in Story mode with any weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Road Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/D4E9FF3E66E8731F8A1CCA8F794B8F86489D80EB.PNG</Image>
+      <Description>Slap another Sackboy on any level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Big Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/7AEDBFBC53DE0BCB257414EAFE59B08A5B6311C2.PNG</Image>
+      <Description>Accumulate a 5x score multiplier in a Story level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Kart Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/3A8D89A54ADFF44B8B2914B8CC430B6D80C3A797.PNG</Image>
+      <Description>Complete all the tutorials on the first planet, LittleBigPlanet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Just Getting Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/62E6701EA63178DB16D22565FFF27F290463672D.PNG</Image>
+      <Description>Spend 30 minutes in Create mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Scholar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/05DBC625E623A8D2339E2F68F7EA1D5F39E51398.PNG</Image>
+      <Description>Watch all of the creation tutorials from start to finish</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Interior Decoration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/E3A2847461B19CE580336B673B66E9323E14EC09.PNG</Image>
+      <Description>Create a custom pod and save it</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Makeover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/41B5141EFBBEE1888DF3AD2862BB85D2DA4ABB0D.PNG</Image>
+      <Description>Change your costume and save it</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Hot Wheels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/6A8ADA27C9FCEFAAF57E2DF3702D738598FBCD83.PNG</Image>
+      <Description>Change your ride and save it</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Making The Community</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/D8865A665E94E0852DE48E3C03644425BAD4DB25.PNG</Image>
+      <Description>Build and save any level created in Create mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Celestial Decorator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/BD42657F549F80603FE32C1118F9CD644D503C73.PNG</Image>
+      <Description>Create a personalized planet and save it</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Custom Object</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/4880A15F88FBB1C3AF0B745267981385960EB4BE.PNG</Image>
+      <Description>Create a custom object inside one of your levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Arms Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/EBCFAE88895AA5C6E0A42D0782D28F9A4A981A09.PNG</Image>
+      <Description>Create a custom weapon in Create mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Playing the Popular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/A98F990119A83B20D339A64721878E12D0B55F44.PNG</Image>
+      <Description>Play any level in your Recent Activity</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Snapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/619147BA5F9894562FB18B4A763EEA94277DC369.PNG</Image>
+      <Description>Publish a photo taken from any level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Save This For Later</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/CE7B800BDE42293F06A01336B2AFBC36CA558AC4.PNG</Image>
+      <Description>Add a level to your queue</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Get Gathering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/AA9D8083C2D2D67B84A0DDA2B50A2F4A127A9B33.PNG</Image>
+      <Description>Invite three other players into your playgroup</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Active Recommendation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/DDEBBD8841806EA0680390D4C31DCA697DF5EF45.PNG</Image>
+      <Description>Complete a level a friend has written a review for</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>We Have Good Taste</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/63ADCF0A152141123AE3C6DE97A17D6655871CBE.PNG</Image>
+      <Description>Complete a level in Team Picks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>First Impressions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/3E3F3E2C93D901F2A734B69E76CFD45AAF9E560D.PNG</Image>
+      <Description>Complete a level with less than 5 playthroughs and leave a review</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>About Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/A4FEF10FAFBA602DAE8EF95F228B00854C1A8F47.PNG</Image>
+      <Description>Completely populate your profile page</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Better Than You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/62E795018FE9D4C594001EB1DF221315863CF6FC.PNG</Image>
+      <Description>Beat a score posted by a friend on any community level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Online Sampler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/25DD6E7D2A4143EE872C7B5DB84D662F2DA78626.PNG</Image>
+      <Description>Complete 25 community levels</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Finale Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/622F2663544087FD0BBC1466040DF447DC5E3E94.PNG</Image>
+      <Description>Star every 'finale' level in the main story</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Crowd Pleaser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/9162146A1BA36E69858A679DED5AA8716BA7733D.PNG</Image>
+      <Description>Publish a level and have 10 different players complete the level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Online Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/7DC6B97586673D346D1BD579068437E3481A71AC.PNG</Image>
+      <Description>Place 1st in 25 different online levels with other human players</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Dive In!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/F0919491EF20B484B1E1C4C7C9EA29B70623E033.PNG</Image>
+      <Description>Dive into 25 community levels and complete those levels</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Creator Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/86CF64096DDAF342F7D3ABC4F20D7DEF8D238B29.PNG</Image>
+      <Description>Create three cooperative levels and three versus levels</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Complete Story Mode</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/B742CA350775757AB709BB16A4F9826B8FFCAA74.PNG</Image>
+      <Description>Complete the main path of Story mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Story Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/46CA08A833FFA2381A6BB7CD9991F1475922995A.PNG</Image>
+      <Description>Star every level in the Story mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>Building the Imagisphere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/7D778A3988A70A4B636ACF9927DAECC77546917A.PNG</Image>
+      <Description>Spend 24 active hours in Create mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02312_00</GameId>
+      <Title>The Adventures Continue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02312_00_F0B93AA84DBDD758030359C2DACB4A97ED4BF7B6/762FFA26D5D16B342F3F80FEF294D013F9587F5A.PNG</Image>
+      <Description>Complete 100 community levels</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

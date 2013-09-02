@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02261_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Starhawk™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/FB3EB0A2DA1F879B459F4CFAFCCF642E6476FC46.PNG</Image>
+    <TrophiesCount Total="50" Bronze="37" Silver="11" Gold="1" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Starhawk Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/D805E1A9F71947D26189803CAEEB42242ADE8D55.PNG</Image>
+      <Description>Earn every single trophy in Starhawk.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Homecoming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/E2AEEA9A9E274A76DDFB7CE6FDEC45869CE0191E.PNG</Image>
+      <Description>Complete mission 1: "Homecoming"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The Freightway</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/0D058C3C72A3E88B282277D3533B6023B1AEED4A.PNG</Image>
+      <Description>Complete mission 2: "The Freightway"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Harvest Season</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/ED87C9547F2C0BDF706C1F241DAC6BE51223E7B4.PNG</Image>
+      <Description>Complete mission 3: "Harvest Season"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Man vs. Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/87C3B88C178D4C2ED14976CD4FD06E5AD9417A9E.PNG</Image>
+      <Description>Defeat the mech in "Harvest Season"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The Pipeline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/9B59059D3F3E8C2EE0AE5FDC688521EDB90273A5.PNG</Image>
+      <Description>Complete mission 4: "The Pipeline"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The Harder They Fall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/6209C66C48F861C4C950C283AF92A59132303484.PNG</Image>
+      <Description>Defeat the Apex Warrior in "The Pipeline"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Ballard's Crossing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/A42EBBEB858A8FD2E4D1652A72CD8B4C09E573C8.PNG</Image>
+      <Description>Complete mission 5: "Ballard's Crossing"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Train Robbery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/2199A25CB754C83E6B4F741D217980001BA6E2C7.PNG</Image>
+      <Description>Complete mission 6: "Train Robbery"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The Pit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/56C8E3B815309A3DE8CF7168A872C97E3EDDC9EF.PNG</Image>
+      <Description>Complete mission 7: "The Pit"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Making An Entrance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/007A0B168AB0408E1FC574612A1229C892B039D5.PNG</Image>
+      <Description>Detonate the rift bomb in "The Pit"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Ashes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/C3BD6B8A3EC3C1D86F531739A655624FBFF3A2D0.PNG</Image>
+      <Description>Complete mission 8: "Ashes"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Sever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/C7492FFB086A95B10BBEB42F35F32B2BF0D92348.PNG</Image>
+      <Description>Complete mission 9: "Sever"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The Source</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/1C102821964B37DAB7DE8DD18A5A19551ECD7D9B.PNG</Image>
+      <Description>Complete mission 10: "The Source"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Family Reunion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/D9BB52800ABB47A4682F9D2FAD58148D9A04DE49.PNG</Image>
+      <Description>Meet Logan face-to-face in "The Source"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Rest In Peace, Logan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/9676DC29F0CD921286EB486543B1C0D7AE7D35D0.PNG</Image>
+      <Description>Complete the campaign on Normal difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Savior of the Spur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/D31116B6EA7B0E63D3B61D37D9B73A52CB4E5AC3.PNG</Image>
+      <Description>Complete the campaign on Hard difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Only the Beginning...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/6CB964E9056012E11BFC722CCB01FD235935862D.PNG</Image>
+      <Description>Complete the campaign on Mercenary difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>First Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/A1989746AF8C628A12EB063AF14B3DEDBDAFAD87.PNG</Image>
+      <Description>Get your first kill in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Outlaw</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/1078BF4A1548C1592E992824913B93A05B81F65C.PNG</Image>
+      <Description>Get 1,000 kills in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>The First of Many</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/33299374C15DD344315D2FB67478FDB285EDE2EB.PNG</Image>
+      <Description>Win your first multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/7BE4D3D9684AA5090EE2771F1CCB131355F5C0F3.PNG</Image>
+      <Description>Win 100 multiplayer games.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>CTF Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/ADAC7A4E7E197B521C6C6D14336B02466D751DE3.PNG</Image>
+      <Description>Win your first Capture the Flag game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>CTF Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/C021D643963ECD36719854D1EC185009C4A7EB62.PNG</Image>
+      <Description>Win 100 Capture the Flag games.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Zones Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/DE6281B4A4FED20D04C456746FF02D645D087A3A.PNG</Image>
+      <Description>Win your first Zones game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Zones Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/6425E5C3650948F20F3CEFC6C01DA16DEA72D762.PNG</Image>
+      <Description>Win 100 Zones games.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>TDM Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/7D64B3C32D168CEAA0B3FFB07474E6DB750A4FCA.PNG</Image>
+      <Description>Win your first Team Deathmatch game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>TDM Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/9738DCDA5CCCE23B399AC38A7E308D8B72F744E3.PNG</Image>
+      <Description>Win 100 Team Deathmatch games.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Team Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/8C73DE0845F530B5A23B1871B6ED0A12FCFC00B5.PNG</Image>
+      <Description>Play a perfect Team Deathmatch game (top player, no deaths).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Lone Wolf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/B1069C37BF6DA5EEDD2C0DB52855A4B1F4F23E84.PNG</Image>
+      <Description>Play a perfect Deathmatch game (top player, no deaths).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Prospector Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/62355CCB21423448CF18F84B30B5B44D6DD40FF7.PNG</Image>
+      <Description>Win your first Prospector game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Prospector Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/E621C00F00B06088A9673A963D6E842F0526FE1E.PNG</Image>
+      <Description>Win 50 Prospector games.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Perfect Harvest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/76B142C86C72732AD2666A38D1A001EECC663191.PNG</Image>
+      <Description>Win a Prospector game without losing any lives.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Ready Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/FF3A1AE28649AAD933105B3CBE13AE35035EF21F.PNG</Image>
+      <Description>Use Build &amp; Battle for the first time in the campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Build &amp; Battle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/3A9CDF704C88243D02106B279F250003495DAB55.PNG</Image>
+      <Description>Use Build &amp; Battle for the first time in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Curious Builder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/3AEE4D45ABF6937279753407A7A1BED9863B60B2.PNG</Image>
+      <Description>Build one of every available structure in a single multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Prolific Builder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/3CA13B342CAF29EF576EC608B07AE1A6F88E2BF5.PNG</Image>
+      <Description>Build 100 structures in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Mancake!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/BD99C45E19954C48471A9B51C3E15E89E1741B2B.PNG</Image>
+      <Description>Kill an enemy by dropping a structure on them.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Saboteur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/91A70584064F7119BDFCABED96BC35CD396EF220.PNG</Image>
+      <Description>Destroy an enemy vehicle with the Welding Torch.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>ARMed and Dangerous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/CFE3C29BBFC745F92BF61CCA411B846725495C9A.PNG</Image>
+      <Description>Kill an enemy with the A.R.M.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Deadeye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/B90215A7C31D1C76C4DE939D0670AC4B6D75F3B2.PNG</Image>
+      <Description>With the LR-3 Railgun, kill an enemy from more than 2,500 feet away.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Mech My Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/E3B9E5DA57CA4057F666B4AF8069E63EE104B51E.PNG</Image>
+      <Description>Shoot the pilot out of a Hawk while it's on the ground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Out of the Saddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/9B7C361A98C8C2FB01EF5BD919D5706CBEC84C26.PNG</Image>
+      <Description>Shoot the driver, passenger, or gunner out of a Razorback.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Takedown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/A88BB68465F17CCD72B88EEF7DEF0E1E39A07E77.PNG</Image>
+      <Description>Kill an enemy with a melee attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Rear Gunner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/2D98CF5BB337E732630108C8D637724EEAEC5D91.PNG</Image>
+      <Description>Shoot down a Hawk with the Razorback turret.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Eagle Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/E66496BFA0A2DE0E453E6EE164217F3DE2EAAB1F.PNG</Image>
+      <Description>Shoot down a flying Hawk with the Ox Heavy Tank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/B3F3B24DE4D53C5CD27A91EFB6D5F1B37938E3D3.PNG</Image>
+      <Description>Destroy a fully-loaded Razorback with R-Sec proximity charges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Minor Miscalculation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/1FF0639CD0D12244F64DAFF609EBD2FA27D464F8.PNG</Image>
+      <Description>Kill an enemy with his own R-Sec proximity charge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Annoying Little Fly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/02F01C13FA4610C81C032A20C1979C5233AD3064.PNG</Image>
+      <Description>Kill a player flying a Vulture pack by ramming them with your Hawk.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02261_00</GameId>
+      <Title>Long Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02261_00_36F73A5C0BB4B8057D1419733F011C257D7B2545/86C179697ACB2C180798CCA33EF97F646083C685.PNG</Image>
+      <Description>Kill an enemy with a Tetranite Grenade from at least 200 feet away.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

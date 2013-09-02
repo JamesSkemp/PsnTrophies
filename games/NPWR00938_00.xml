@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00938_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SUPER STREET FIGHTER Ⅳ</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/87F3460AA6C3485102453F0DAF98D2AB3C22D65B.PNG</Image>
+    <TrophiesCount Total="58" Bronze="45" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1155</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Trophy Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/68628F056B81A18E3A37C96B7CDEBB55627B065A.PNG</Image>
+      <Description>Attain all Trophies! The path of the warrior demands this from those who walk on it!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Fashion Plate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/E842125A84AA6B8825AB41A95F0A6C10D1B06D76.PNG</Image>
+      <Description>Even a top rate fighter needs to coordinate properly! You gotta get all of the Colors first!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Dan the Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/E0D7B6A281EB19D5156AC350B52EB73A306DCF24.PNG</Image>
+      <Description>Mastery of the Saikyo arts requires mastery of the Personal Action! Collect 'em all, punk!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Entitled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/B54573F6F40424FFC41A63C9E8A7AD96755FD15B.PNG</Image>
+      <Description>A Title does not tell all of a man, sir, but if I were to see one Title, I'd want them all...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Iconoclast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/ED94A36EAC6931E7923B36EC667BAA5035B1CB6B.PNG</Image>
+      <Description>Oh my gosh, those Icons are so adorable! Don-chan and I gotta catch 'em all!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Special Movement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/0A3F84E7E828196247AD6987D27AFF2B1131418B.PNG</Image>
+      <Description>Do a Special Move 100 times! If you're a true student of the Rindo-kan dojo, it's your duty!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>EXtra! EXtra!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/41317EB4DBD9451F76361FC174A6C76940084F45.PNG</Image>
+      <Description>Battle requires courage! Train by using your EX Gauge to successfully land 100 EX Moves!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Super, Man!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/D98A8F95902DDE37C362D75D5293CB816CBE0454.PNG</Image>
+      <Description>To battle is to win a fight with overwhelming strength! Show me you can do 100 Super Combos!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Ultra, Man!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/A0CEDCC210337F1F21ACC4149F78E8188A9B6D18.PNG</Image>
+      <Description>If yer gonna fight, give it your all, pal. Performing 100 Ultra Combos oughta do it, eh?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>It Takes Focus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/329CA55901602C5F4C4314A21042DB3B8D94A1CE.PNG</Image>
+      <Description>Your mission, should you wish to join Delta Red, is to connect with 100 Focus Attacks! </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Superior Super</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/F8137E2082DF0A5454EAEDB5C524AEC8CDB20294.PNG</Image>
+      <Description>Trust your instincts and winning will come easy. Let's begin with 50 Super Combo finishes!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Ultimate Ultra</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/31E6EA0335166F0CB9D8EC412A91D50540DC0619.PNG</Image>
+      <Description>Candy always says you gotta win with style, so go out there and perform 50 Ultra Combo finishes!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Sunspotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/1CD6F67FC0F254D39ABFFF7BE2C7115EE3E7EC34.PNG</Image>
+      <Description>Amigo, perform 365 Super or Ultra Combo finishes against your opponents! The dawn is coming!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Absolute Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/2EFA1371B0617F6FC63B40504C0C5090711EA2B9.PNG</Image>
+      <Description>Lauren's waiting, so how about you finish your fights quickly and get 30 Perfects. Sound good?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Clear Headed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/69E6A8C907BD099A6EBB8ACBFA3DCD5F0278B5F8.PNG</Image>
+      <Description>Hey! Got time to kill? Try to clear Arcade Mode on Medium or higher! That's all you gotta do!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>All Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/13EAB72FF396FB4B46EC5FF73986D2BDC373D6C6.PNG</Image>
+      <Description>To get strong takes lots of fighting! Clear Arcade Mode on Medium or higher with all characters!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Herculean Effort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/B9731D8D674026AB69E8044EFCB8CD96AFCCE79B.PNG</Image>
+      <Description>Can you finish Arcade Mode on Medium or higher without using a continue? Show me you can!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Hard Times</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/81A259A4388B1357A4E1D47A652D1A51EAE9F0E8.PNG</Image>
+      <Description>To escape death is to beat the strongest of the strong. Finish Arcade Mode on Hardest, kid!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Long Time No See</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/CD874B5341081B038BAD81CC6E88A79E432B9F7C.PNG</Image>
+      <Description>Do you wish for defeat? If so, complete Arcade Mode on Hardest difficulty and beat Gouken!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Rival Schooled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/8A89E75F3917CA7250D6549C1B609A8128B38F21.PNG</Image>
+      <Description>See your future by clearing every Rival Battle on Medium or higher with every character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Speed Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/8C22E59183A4D666022CCA61878C2C549652625E.PNG</Image>
+      <Description>Finish each round in Arcade Mode on Medium or higher in 20 seconds or less. Too easy.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Good Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/12285D528952577F6E1CF0B46512DC475F8BB1F8.PNG</Image>
+      <Description>All of nature must withstand a trial. You must clear 10 trials in Trial Mode to succeed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Trail of Trials</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/AC74BCEB4E409CA1C1D94CF6EC24A31B5B464A00.PNG</Image>
+      <Description>There is no shortcut in the art of Yoga. Aim to clear any character's Trial Mode trials!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Trial Athlete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/9E96AE8439E426D118D1E2AE89A4CDD131D76546.PNG</Image>
+      <Description>I shall assimilate all and be all-powerful! Clear all Trial Mode challenges, and so can you!</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Oh! My Car!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/E8439EE7A837AB67D84B9AA9AA9DA23662C0DCC6.PNG</Image>
+      <Description>Hee hee, destruction is so much fun! Score 80,000 points or more in the Car Crusher bonus stage!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Barrel of Laughs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/E55D677FF67F98131E7CCA53914AA9BD1D4D991E.PNG</Image>
+      <Description>No need for barrels without oil! Score 110,000 points or more in the Barrel Buster bonus stage!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>It Begins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/9B2C32A3377EF3837E391B86D72AAFCEEB414274.PNG</Image>
+      <Description>The fight starts here! Set your Title and Icon, and begin fighting online!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>First Timer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/45B413AB74CB0339267BCAF28654ADCF78AA098D.PNG</Image>
+      <Description>I'll never forget my first time for Ryu's sake! Win one Ranked Match! Gotta aim for the top!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Threepeat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/5075133AED030E0ED74ED35ECAA3CDCFABEA9824.PNG</Image>
+      <Description>You think being this good is easy? Let's see you win 3 Ranked Matches in a row, champ!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Fivepeat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/01139F43FBBB53AA7CE4D7FE7D10477253FA81F4.PNG</Image>
+      <Description>This is your real power, child? Show me it's not luck by winning 5 Ranked Matches in a row!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Tenpeat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/9F95092F7154A93A25BC3811EAFA24E640FC0B82.PNG</Image>
+      <Description>Don't hold back your true potential! Win 10 Ranked Matches in a row!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Moving On Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/A099527AF8E7118E31372E5807F0A993D48363E3.PNG</Image>
+      <Description>Ya need to do anything to reach the top of the food chain! Let's see a Rank Up via Ranked Match!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Now You C Me...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/758FD4F7FC4B27156DAD49007AC4AC26F1E8B9FF.PNG</Image>
+      <Description>I wrestle only the strong! You shall rank up to C Rank if you wanna face me, comrade!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>From C to Shining C</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/0544547B9C8217A00C5E83AB8DBA5BCD5E420A4A.PNG</Image>
+      <Description>You think you're good, don't you? Prove it by ranking up all characters to C Rank!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Road to Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/524723C1AAFFB9E948E03A51DC5623F7E3388696.PNG</Image>
+      <Description>You wanna get that fight money? You're gonna have to win 10 matches online first, sucka!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Battle Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/14C120B035C7E2CD94D69BF85268FF6C9183AB28.PNG</Image>
+      <Description>Only winners can attain such beauty. Win 30 matches online and I may share my beauty secrets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Legendary Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/8398B4DC21329AF7329280C90131288DF7A272CF.PNG</Image>
+      <Description>I shall make you the right hand of Shadaloo if you can win 100 matches online!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Worldly Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/C2A47A57EBA0152498EDE8B9C451A753330A9405.PNG</Image>
+      <Description>Let's do this, amigo! Fight 50 matches online, because that's the only way to become strong!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Bring it on!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/0E59D3DAF473F82B7AE018CA07CD248C73B17681.PNG</Image>
+      <Description>No comrade, this will not do! We must become stronger, for our fans! Fight 100 matches online!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>This is Madness!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/D6B39F8E6781E25532376A41D2A80C06AED07188.PNG</Image>
+      <Description>Fighting is fun, huh? Well then, let's aim for 300 matches online fought, OK buddy?</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/A49F2F70493D663E0E0C01CA94470434B4C0944A.PNG</Image>
+      <Description>A 1-on-1 fight is fun, but it's more fun with friends! Try fighting in a Team Battle!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Team Mate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/0E58093515D926F4AF9C677F196B780FAC00CE40.PNG</Image>
+      <Description>Win 1 Team Battle match, and you will learn that teamwork can help you become stronger!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Teamworker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/342FFE8907DCF0328FBC5CB7022B58A06C738513.PNG</Image>
+      <Description>A pro can win with any team. Win 10 Team Battles but don't forget, you have to win too!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Keep on Truckin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/160F14763BD04386E82BD2D22CFE80D598AB51B3.PNG</Image>
+      <Description>If you want to focus on nothing but the fight, entering an Endless Battle is for you!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Three For The Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/4781F23B740965665A256F47E4860E29D52B8261.PNG</Image>
+      <Description>In the pursuit of strength, one must have a goal! In Endless Battle win 3 matches in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Endless Ten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/9E51E93D56F383D6AB49144C6534CD4C3CBDDBD1.PNG</Image>
+      <Description>Throw away your fears and focus on the fight! Win 10 fights in a row in Endless Battle!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Replayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/2049520DCDF631090DD2439AEE70FB1D9D62B401.PNG</Image>
+      <Description>Watch 30 Replays via the Replay Channel! Isn't it fun watching people go at it tooth and nail!?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Endless Lobbyist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/68E60CF021B112227FDEC6CEA8DC562F0E3446EF.PNG</Image>
+      <Description>It's only natural for warriors to seek fights! Create 30 Endless Battle lobbies!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Team Lobbyist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/174ADFC97F3EDB2D9D25BB0B6C6540AC8A988B21.PNG</Image>
+      <Description>Hey mon, battlin' is fun, no? Go out and create 30 Team Battle lobbies and enjoy the rhythm!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Quarter Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/EBC891A8FDABF3F90E54D3181B8512AEA1345785.PNG</Image>
+      <Description>Fight 30 opponents via Arcade Fight Request. It'd be easy with the right bait, he he.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>The Awakening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/85DBACE43F7DD09730AD9F55BDB92B5CB964AB66.PNG</Image>
+      <Description>As if you could ever defeat Evil Ryu in Arcade Mode on the hardest difficulty.  See for yourself!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Birth of the Oni</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/1098AEDE05C33C5054BC1F50754E2727AC8C266D.PNG</Image>
+      <Description>To surpass the power of Oni, you must defeat him in Arcade Mode on the hardest setting.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Just Enough!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/5BE626C90CBC2A92EF91F035F889F838A1D9FF92.PNG</Image>
+      <Description>Dude, just clear Arcade Mode on Medium or higher without using a continue with Yun!  Piece of cake!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Up to Snuff</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/19E1CB0AEF2525EB1375C8C3449F0FEFCC4A5CFF.PNG</Image>
+      <Description>Clear Arcade Mode on Medium or higher without using a continue with Yang. It's simple!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Overwhelming Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/6C58D5ED01FB52E0328E0BFDA6E0A2491414BBC3.PNG</Image>
+      <Description>If you seek power, clear Arcade Mode on Medium or higher without using a continue with Evil Ryu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Transcendent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/C461D5D929A5C01C40F34DA68D67F657435D80B8.PNG</Image>
+      <Description>Ascend beyond oneself by clearing Arcade Mode on Medium or higher without using a continue with Oni.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>Prep Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/3A02D53519975687447A659715AA4076771A9F96.PNG</Image>
+      <Description>You need study materials if you wanna make your battle plan. Follow one player in the Rankings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00938_00</GameId>
+      <Title>New Threads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00938_00_82737FF37D39276579AA26C9E01B2396B8767128/F1B00B02E979C59BC299BFD24513C0A5841761DE.PNG</Image>
+      <Description>Use a new Title and Icon, and fight in one online match. Right on!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

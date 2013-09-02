@@ -1,0 +1,662 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01500_00</Id>
+    <IdEurope></IdEurope>
+    <Title>DCUO Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/C29D6B41BEDEDFFC7B526B9134C82E7499F81138.PNG</Image>
+    <TrophiesCount Total="72" Bronze="37" Silver="21" Gold="13" Platinum="1" />
+    <TotalPoints>2355</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Winner Takes All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/8D03BDE97217F0715188A8745FD6C3CD6C8750F5.PNG</Image>
+      <Description>Acquire all hero and villain trophies in the classic game</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Tanks Very Much</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/81E5280278061199720E17ED3C7A9C4C3FD2C700.PNG</Image>
+      <Description>Achieve level 10 and gain the Tank Role</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Mission Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/79A0A0A1B01237B759577448E1A04DA5B4172FFD.PNG</Image>
+      <Description>Achieve level 10 and gain the Controller Role</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Knight for Justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/A56291F2CACDED98BA78A1111D69B3E0599A253F.PNG</Image>
+      <Description>Achieve level 30 as a hero mentored by Batman</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Warrior of Truth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/A337B20C17769E72A2F651955A6E97910BE45A2E.PNG</Image>
+      <Description>Achieve level 30 as a hero mentored by Wonder Woman</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Champion of Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/D50D2BED6BDA6CC59B83573C4892754993D00B33.PNG</Image>
+      <Description>Achieve level 30 as a hero mentored by Superman</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Acrobatic Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/B2035AC6EA66095F4394D77A872E2F8B0939A87F.PNG</Image>
+      <Description>Achieve level 30 as an acrobat</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Fearless Flier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/3F785A1A7A2C7F41D6D26B59C3CB6B6EE9D655B0.PNG</Image>
+      <Description>Achieve level 30 as a flyer</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Speedster Supreme</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/976A86B587B8B6CAF361DC98F1C3EBE19033B615.PNG</Image>
+      <Description>Achieve level 30 as a speedster</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>The Healing Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/85D4BAA1E0BC15E82103A053EB74D6F67023C597.PNG</Image>
+      <Description>Achieve level 10 and gain the Healer Role</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>The Queen's Favorite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/0A3CDB5FCA308434334601F92C05C8F9BEC5F7A8.PNG</Image>
+      <Description>Achieve level 30 as a villain mentored by Circe</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Criminal Mastermind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/DE8C976014178D531A4838269125971338B7C1AA.PNG</Image>
+      <Description>Achieve level 30 as a villain mentored by Lex Luthor</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>The Joker in the Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/EF5FE3767854C216F66B5448C243EA9B7845A448.PNG</Image>
+      <Description>Achieve level 30 as a villain mentored by the Joker</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Platinum Pace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/551B5A3D249CF3E677537703146219E9F1E7BFD6.PNG</Image>
+      <Description>Earn a platinum medal in any race</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Parole Denied</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/4C4D7C26F86494A17A0B7428772E57F5B6F07F59.PNG</Image>
+      <Description>Defeat Red Lantern Vice, Yellow Lantern Lyssa Drak and Evil Star in the Oan Sciencells</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Parole Granted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/82E7AB92695B3355A5381EAFD96A2D4D4687196F.PNG</Image>
+      <Description>Defeat Red Lantern Vice, Green Lantern Guy Gardner and Evil Star in the Oan Sciencells</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Not that Repulsive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/FC18318F33A75A1A403FA77DAD743E1CF8BEAA68.PNG</Image>
+      <Description>Defeat Vice in the Coast City Duo without restarting the repulsor</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Willpower Outage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6C7D02A2D1A24D92108881A07094A0793474D014.PNG</Image>
+      <Description>Defeat the Scion of Will before the Sliceclaws power it up</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Illogical Reasoning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/461864628C12D23C37ADF3FEF2500C92D41CDC02.PNG</Image>
+      <Description>Beat the Final Confrontation as a villain without using any Logic Batteries within the Hangar at Ferris Aircraft in Coast City</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Low Battery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/AB795FE71BDFA9E0139690A46C5DFA5948F7D7DE.PNG</Image>
+      <Description>Beat the Final Confrontation as a hero without using any Logic Batteries within the Hangar at Ferris Aircraft in Coast City</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Conviction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/76D62B9B973A3E2717A60121E33D854FFA5E3F1E.PNG</Image>
+      <Description>Complete Oan Sciencells without being knocked out</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Intergalactic Planetary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/5B7BE4EE36A74429DE79D53A3B7E91A338F3D617.PNG</Image>
+      <Description>Collect all styles in the Sector Agent set</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Planetary Intergalactic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/543C5970175E073A71E48BFC087B96BE05FE1726.PNG</Image>
+      <Description>Collect all styles in the Sector Incendiary set</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Fight for the Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/1C18846801F685434D442140290DC70731C0E0DC.PNG</Image>
+      <Description>Complete Coast City Duo, STAR Labs Alert, Coast City Alert and Oan Sciencells Alert</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Rogues' Gallery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/7C003A6989A5D91DABE971F9FA12E7F8B44CF64D.PNG</Image>
+      <Description>Complete all of the Rogues' Wanted Posters</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Crash of the Titans</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/CD1B75B90AFB43A4DF382E296F7BF61CBD901B02.PNG</Image>
+      <Description>Complete all of the Titans' Bounties</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Two Tickets to Paradox</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/A76B093381ACA11532E9E96711D92FD651E2AE5D.PNG</Image>
+      <Description>Seal both types of Massive Speed Force Ruptures</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Prime Timeline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6300B3C763F2AE373FDF870BD2A99C857E051299.PNG</Image>
+      <Description>Complete the Massive Speed Force Rupture Event</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Reap the Rewards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/B22F52C58B6D764BC0E94865D5545E13836A340C.PNG</Image>
+      <Description>Defeat 100 Paradox Reapers in Central City</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Play On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/627FBE6C4119B549EC30FA9372F7F02FDBC44342.PNG</Image>
+      <Description>Complete the Cosmic Treadmill: Flashback Duo without destroying any Sonic Emitters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>For My Next Trick!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/8F42A64F590EAFA44A0D68B40C097BA3F5CC21AB.PNG</Image>
+      <Description>Defeat Abra Kadabra while all the Riot-Bots are active without being knocked out</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Quickly, Into the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/E28D3BC49DEBA4EE22F48B013B642644777A80B4.PNG</Image>
+      <Description>Complete the Cosmic Treadmill: Flashback Duo in under 7 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>They Used to be Adventurers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/B1CA595E2750A13C9DB66F205F7FE3CAE5BC3895.PNG</Image>
+      <Description>Ensure all three Colossal Archers reach the front lines at the Paradise Court battle in the Themyscira: The Gates of Tartarus raid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Olympian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/63EEC5E25B0458E9554072AD6A9E9680CBB8A1A0.PNG</Image>
+      <Description>Complete the Themyscira: The Gates of Tartarus raid in 20 minutes or less</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Prime Numbers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/D7615AF48C56DC9D47E6055BAC8044A3AC8395D2.PNG</Image>
+      <Description>Defeat all three Prime Avatars without destroying any of the Brainiac Spawners</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>In Prime Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/1D38B8F40B17174657FA691277D4B3A6899CA195.PNG</Image>
+      <Description>Finish the Prime Battleground Raid in 15 minutes or less</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Bottle Opener</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/5FCA2143905CDA4E923B16A821713A61CBB12BA4.PNG</Image>
+      <Description>Complete 250 Battle for Earth Duos</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Guilty On All Charges</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/337866A88055AA4E57A3AED35D59D36F8ABBFEC7.PNG</Image>
+      <Description>Allow all Sentences to run their full course when fighting the Supreme Justice in the South Gotham Courthouse Alert</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Timely Closing Arguments</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/C8200EFAEEB237213B4E3D8C878EA5DADEFD5BE2.PNG</Image>
+      <Description>Defeat the Prosecutor and Defense Attorney within 10 seconds of each other in the South Gotham Courthouse Alert</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Jury Tampering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/075B2009405167217E52804B866E9217D7E2836E.PNG</Image>
+      <Description>Stack the jury with 12 humans, not allowing any Brainiac Jurors to be transported to the Bailiff in the South Gotham Courthouse Alert</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Uncover the Truth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/DC95D159023F65F8C53C62A559E4D42BBA42C85E.PNG</Image>
+      <Description>Complete all of the Collections, Briefings, and Investigations available in the Battle for Earth DLC</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Let's Get a Rally Going!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6593C22A1921D8DD644F11C98636B9FE6A43FD1E.PNG</Image>
+      <Description>Rally 50 iconic allies in Assault: Headquarters arena matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Making a Name for Yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/F2E9DF6CDB4585C8550CD5A1100B98F548BDE06B.PNG</Image>
+      <Description>Knock out 50 iconic enemies in Assault: Headquarters arena matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Putting the Safe Back in Safehouse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/294054DEC661D77496CA807811C0AA03A928B788.PNG</Image>
+      <Description>Win 100 Assault: City Safehouses arena matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Space Invader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/45275971C5E99ADE04137F08256BFC7E91809FA5.PNG</Image>
+      <Description>Unlock Ursa, Power Girl, Amon Sur and Kilowog Legendary Battle Arena Avatars</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>The Armor Makes the Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/5FDE0B14ABF572FE87A47130A90ED6F7829388BE.PNG</Image>
+      <Description>Collect all styles for the Knight PvP Battlesuit</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Knight Moves</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/7313C620A0D051F9EA146312291E9FAA9C419B4C.PNG</Image>
+      <Description>Collect a complete Checkmate PvP Battlesuit</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Together We Stand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/17EACC69A5B71DF33E26A415A464BB88A539B656.PNG</Image>
+      <Description>Complete the Assault: Headquarters arena match without letting any iconic allies get knocked out</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>This House is Clean</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/5FB51EE98C7BCAE545325A683B21CDD3E327C9B9.PNG</Image>
+      <Description>Complete the feats: My Life as a Robot, Hostage Negotiator, and Spacial Delivery</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Not Even a Scratch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/54FDF6A496286A6AE7031A2520B11415E5E909A0.PNG</Image>
+      <Description>Defeat Ra's al Ghul in the Unpaid Dues operation without allowing Felix Faust to take any damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>A Soul Beating</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/A0A473EDD48377F25CF10E74DDF6C5CBF6BB4221.PNG</Image>
+      <Description>Defeat the Fused Soul at the end of the Soul Alchemy operation in 3 minutes or less</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Organic Gardening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/9E947FAEF77226675AD7DC49247DD377A3BAE2CF.PNG</Image>
+      <Description>Defeat Swamp Thing in the Seeds of Rot operation without destroying any Children of Nature seed pods</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>No Bedtime for Bozo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/4AA0D226C424852D5964DEDED7490B4F4CC5789B.PNG</Image>
+      <Description>Defeat Tala before the Bumbler Hellthrall is knocked out during the Black Dawn operation</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Fate in the Balance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/2DADE363FF4C90736EC58F72F24E60AC4630B9E1.PNG</Image>
+      <Description>Complete the wave event at the start of the Wayward Souls operation without letting Doctor Fate get knocked out</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>How to Train Your Wizard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/125CEEA295A6BFD5769BFFF0449EBDB22DBB79AA.PNG</Image>
+      <Description>Unlock the Doctor Fate and Felix Faust Legend Battle Avatars</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Runes to My Memory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/602C932D9DA9C97E55F132320B9B48426ABBB237.PNG</Image>
+      <Description>Collect all styles in the Runes of the Norsemen set</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Spirited Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/53E1EEFADCD3C6B6B1391F0C3F24F74EEFF6668F.PNG</Image>
+      <Description>Complete the With a Vengeance operation without letting any spirits disrupt the summoning circle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Riot Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/A806E0EBF1169FCAE5234F9DB417A1CC5B6D0C22.PNG</Image>
+      <Description>Complete all of the exterior missions at Stryker's Island</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Ace Chemicals Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/F7ACC0AE99AEE73AFF4725C0A5F2ABB63EA4988A.PNG</Image>
+      <Description>Complete all of the exterior missions at Ace Chemicals</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>A Fistful of Arkham</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6091EF1B691EBF83F4638B4479150CB0ED32DD07.PNG</Image>
+      <Description>Complete all of the exterior missions at Arkham Island</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Factory Direct</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/70E7EBDE75ABB509ACAFDF42B9B34A8A2EE197A4.PNG</Image>
+      <Description>Complete all of the exterior missions at Steelworks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Interior Designer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6CC7109A2D88749DD53525126DA4C52133E41174.PNG</Image>
+      <Description>Unlock Free Placement Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>It's a Shutout!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/4B68C2D4D87CE9A68E10D73466948DDC46B20CE5.PNG</Image>
+      <Description>Win 5 consecutive Lair PvP Battles without letting your opponents win a single round</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>All Their Base</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/5FB1052837C322BC123207160EC0569924259F1C.PNG</Image>
+      <Description>Win 1000 Lair PvP Battles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>The World of Fashion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/8E51D6D64F1225161AEC08C37B6A438F45018207.PNG</Image>
+      <Description>Complete the feats: I Can HAZMAT, Don't Pick Up Hitchhikers, Lost and Foundry, and Maximum Security</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>25th Century Model</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/C05E5FF07EB093C4B1F247735172BB193B71518C.PNG</Image>
+      <Description>Collect all styles in the Time Traveler set</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Missiles Missed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/D1816C3923031AE39B1A2FCA9D0EE26CD5DEC9FD.PNG</Image>
+      <Description>Complete the iconic boss fight inside Wayne Tower without anyone being hit by the missile barrage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Volatile Hostiles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/0AA91D7F7631F7866EC003AE20C13A8C6D9836F1.PNG</Image>
+      <Description>Defeat the Nexus Omega Drone inside the Nexus of Reality without allowing any Volatile Robots to explode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Leave Them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/689EE80638E696CA3C3681FF0C87C1B248C72779.PNG</Image>
+      <Description>Defeat Jor-El on Krypton without defeating any of the House of El reinforcements</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Silent Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/6A2F9BBA0CBBC66FCB534335145D942F91FC1E9E.PNG</Image>
+      <Description>Disable three control panels in the Iconic Anomaly: The Hunt solo instance without alerting any mobsters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>Controlled Collateral Damage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/B45886049B50E7F8D41305260B85ED3B8620D871.PNG</Image>
+      <Description>Complete the Iconic Anomaly: Test Subject #1 solo instance without any scientists getting knocked out</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>72</Id>
+      <GameId>NPWR01500_00</GameId>
+      <Title>An Epic Odyssey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01500_00_0039A063784BBA7272175B3E70B2C6270D00681E7F/8E36E7313C4CF63308FE400E41A66499120A489D.PNG</Image>
+      <Description>Defeat the Paradox Tyrant in the Paradox Wave raid without closing any of the Speed Force tunnels</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

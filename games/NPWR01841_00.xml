@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01841_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Resistance 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/D80B66578061D6BCEF033D39B1ED56F6CB9021B2.PNG</Image>
+    <TrophiesCount Total="59" Bronze="53" Silver="4" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/67048E5E37FC07350581153CBA4E04DD444E1617.PNG</Image>
+      <Description>Obtain all Gold, Silver, and Bronze Trophies for Resistance 3</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Brutal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/9CE2A2EFC71AE1B3D2C4BD9779E7737ADEA13C73.PNG</Image>
+      <Description>Complete Campaign Mode on Superhuman</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Irresistible Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/812DF3D80B471233B77AB12DDA95531A5AE1CA23.PNG</Image>
+      <Description>Complete Campaign Mode on any difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Master Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/5C6233154B9C352D1D9016D83DAE54F9FF1784FA.PNG</Image>
+      <Description>Fully upgrade all weapons in Campaign Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Archivalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/2BF9D907208B8708FE9FCA54DD68E2A883135BEF.PNG</Image>
+      <Description>Collect all journals</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Silent Partner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/150AE6C0E73157AC99792EB33A6551419F80566C.PNG</Image>
+      <Description>Damage the same enemy in Cooperative Mode for 100 kills</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Short Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/2DE94B7562CC4F52885E438342520207EF2B86EF.PNG</Image>
+      <Description>Defeat the Stalker in under 60 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Zookeeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/A26DD5012CE5A1258948394D2766EE8FE8E0210D.PNG</Image>
+      <Description>Kill the Brawler in Haven without taking any damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Gardener</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/7B09EB19FE3178D9113A5E33080F6224C0A1DD70.PNG</Image>
+      <Description>Destroy 100 blast roots</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Slaybells</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/8D81DCA3AB4159264F6784C201179E2812E29139.PNG</Image>
+      <Description>Make Santa and his reindeer fly</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Bouncer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/7801826223BBECA4711C2967DB66AD9A344E12C9.PNG</Image>
+      <Description>Keep Chimeran forces from entering the Brewpub</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Calm Under Pressure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/E488B2CFDABFEF7E3F4F79D0896FF55CCCC268B4.PNG</Image>
+      <Description>Defeat the Brawler in the Post Office in under 2 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Snipe Hunt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/BC6E1F7F18808E8C25F0010AA51F5F0DF32EDCDC.PNG</Image>
+      <Description>Collect all Deadeye rifles without dying while fighting the Widowmaker in St. Louis</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Roops!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/A00D96ACBB04D9E34BC785B8C7DB340542633893.PNG</Image>
+      <Description>Knock a Hybrid off the cliffs in Mt. Pleasant, PA</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Frickin' Laser Beams</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/A49BBB0205BBACDB580CE16B10FDFED5A0A2CD48.PNG</Image>
+      <Description>Get to the first mineshaft without being hit by sniper fire in Mt. Pleasant, PA</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Vehicular Manslaughter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/6B9A84306DD27AE349CC9912A810BAB17D9E4638.PNG</Image>
+      <Description>Destroy 10 Warden vehicles while on the train</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Hello Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/4346F1CCB63103BD22B04E545301FE033D0DC29B.PNG</Image>
+      <Description>Kill 5 drivers without destroying their vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>BARF!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/4A0727A60B56C0916453DE79494A1FCB8F32625D.PNG</Image>
+      <Description>Make 6 Wardens puke at the same time in the prison</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>One Eyed Jack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/79B907608C419B9118440168D53B0E1A927294C9.PNG</Image>
+      <Description>Find and kill 'Jack' in Graterford Prison</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>No Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/2F2B5D47B42F9003AACBBB15C0FE83401D42C670.PNG</Image>
+      <Description>Destroy all Warden vehicles in the motorpool</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>In This Together</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/03D710EED671236274185BD15985FD08B6964C12.PNG</Image>
+      <Description>Defeat the Widowmaker in Times Square without killing a single Hybrid</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Good Fences</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/150B926300CC8C29CE273C682564276379700226.PNG</Image>
+      <Description>Don't allow any counter-attackers into the Washington Square base</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Up Your Arsenal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/542458BC47362A829587687464DA51620D7F9976.PNG</Image>
+      <Description>Get a kill with every weapon in your arsenal</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Overload</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/B11B52221A259BECD377AD2DC1C2464112179761.PNG</Image>
+      <Description>Use the EMP to take down 10 Steelhead Auger shields</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Cheap Shots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/F3223FC1A972F777CC44DD641CE92511BB6A7B72.PNG</Image>
+      <Description>Kill 25 enemies firing the Auger through an object</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Grenadier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/19BEB1F89856D0A4356F375240F0BFF650534030.PNG</Image>
+      <Description>Kill 3 or more Military Chimera with a single grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Raining Limbs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/592801821B2208C4B8B16B7D5691494B1E1B3CE6.PNG</Image>
+      <Description>Kill 25 Grims using only grenades</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Corpse Wagon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/5497C9D808A908DC0F350E5C51F3296D50BE60CD.PNG</Image>
+      <Description>Detonate fallen Leeches to kill 25 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Bloodborne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/BAA2DD3171777212D97F0D7B21AD9A84AF1B6E4C.PNG</Image>
+      <Description>Kill 3 enemies simultaneously using a single mutated body</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Grasshopper Unit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/411041CC7F5A6ADB7741B4E0CCD496391ABF3CB0.PNG</Image>
+      <Description>Kill 5 Longlegs in mid-jump</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Sandman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/98E6C12ADFC4572EE95166C534CB7326B1D9A700.PNG</Image>
+      <Description>Kill 5 Grims in a row with only headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Body Count</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/DC25ACE6162A6AFC4063FC11B0F9DE5A55184267.PNG</Image>
+      <Description>Kill 1000 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/74BC4E985890525BDFC9B6D95CF2A2A45AF9A149.PNG</Image>
+      <Description>Simultaneously burn, freeze and poison 4 separate enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Nothing But Net</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/B3360A6A17D8FC9179510751DEE5C4CC333D3C64.PNG</Image>
+      <Description>Score a basket by lobbing a grenade through a basketball hoop</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Medusa</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/C02ECE5E841BF6E6BCB62F5426CAAEAB4EC88153.PNG</Image>
+      <Description>Freeze 5 enemies and destroy them with a single blast of the Cryogun's secondary fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Bull in a China Shop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/B173695D0D07C8CCB3E286DEA93907A2547626CF.PNG</Image>
+      <Description>Freeze and melée kill 3 Ravagers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Weaponsmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/FAC0F2EF8AB467F10F9F0141D987F023BBFCE95B.PNG</Image>
+      <Description>Upgrade 5 weapons in Campaign Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>This is my Rifle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/4222C9B0C867FC9FACA6A3DA4E2C54610A42649A.PNG</Image>
+      <Description>Fully upgrade one weapon in Campaign Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Backstabber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/E9AAF832F1D22A848A6BE1C536306FF809178BC7.PNG</Image>
+      <Description>Kill 20 enemies with melée while they are idle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Toast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/E70F511DDC6EBB7A7AF16D0BF3217788E45A931E.PNG</Image>
+      <Description>Use the upgraded Deadeye secondary fire to kill 2+ enemies, 5 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Counter-Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/A5BC7C054804186B1D17A31780E3F8FC7E64B12B.PNG</Image>
+      <Description>Use the Deadeye to kill 20 snipers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Electric Avenue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/5311A6B1A2BED3919FF0F2516A51FB68FEA6B45D.PNG</Image>
+      <Description>Use the EMP to take down 25 drones</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Warp Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/99244629F5AC311EA0FD0C3C361A103D8B7E87E8.PNG</Image>
+      <Description>Use the Atomizer secondary fire to kill 30 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Feeling Lucky, Punk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/4C0BC7584264FEBC71A7A5041FBD9E63FBA8172E.PNG</Image>
+      <Description>Detonate multiple Magnum rounds to kill 2+ enemies at once, 5 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Fireworks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/BF134D6B42194A7807C3A4A1E08D3BC7967E1D09.PNG</Image>
+      <Description>Use the Wildfire secondary fire to kill 6 enemies in one shot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Boom Stick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/F3C6B5522EC044BBD256D127F477B224C342672F.PNG</Image>
+      <Description>Use the upgraded Rossmore secondary fire to set 6 enemies on fire at once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Tag, You're It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/87D3050A5A7B97BA7143488F1D7890385037E7BA.PNG</Image>
+      <Description>Kill 40 Bullseye tagged enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Opportunity Knocks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/7CBE275977306FB990632645D2EF4DD3784112DA.PNG</Image>
+      <Description>Kill 20 enemies with environmental objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Expert Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/61EDEEDB3C52383B506A42CEBEB0DADDA2A2AFFC.PNG</Image>
+      <Description>Get 50 headshot kills in Campaign Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/E642E61D565AF6D6095A134956606D3CB4AD20E3.PNG</Image>
+      <Description>Collect 10 journals</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Bookworm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/F375AD4EA830E79BDDC8E6F5E00BE10E1A9E4318.PNG</Image>
+      <Description>Collect 50% of the journals</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Waste Not</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/2CE81BB7EA18059ECF2A6114A7076E6369909AB9.PNG</Image>
+      <Description>Get 5 headshot kills with one Deadeye clip</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Shoe Leather</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/569DC0B1656F4FAEE13F195A794ABA94AA88D9FC.PNG</Image>
+      <Description>Travel 30 km on foot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Land, Sea, and Air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/AFD5182B2067B9F2DBBD5A587305E2D4304A66C4.PNG</Image>
+      <Description>Travel in 3 different vehicles on your journey</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Buckshot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/D19C6D7830C42E03B5293154AD527282F73A0309.PNG</Image>
+      <Description>Kill 2+ enemies with one Rossmore blast</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Access Denied</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/8D03489D89BE0B99CC4A734FA1515D59948DD9F8.PNG</Image>
+      <Description>Absorb 1000 damage with Auger shields</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>From the Hip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/7CB31F312EB4D8C23510DC2C64508E59A5C7FD2C.PNG</Image>
+      <Description>Kill 50 enemies with the Bullseye or Marksman while moving, without using zoom</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Chamber Full of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/11CBBD0A18389D488AE791592A69FF6C09DC19AB.PNG</Image>
+      <Description>Kill 5+ Hybrids at once by using the HE .44 Magnum secondary fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01841_00</GameId>
+      <Title>Helping Hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01841_00_AA5E25F8DD9A2BCB8EFCCEC5F5758EE99489ED0B/BAA9E4731383815E8A6BA0844BF9438B7DDFA089.PNG</Image>
+      <Description>Revive a Co-op player 20 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

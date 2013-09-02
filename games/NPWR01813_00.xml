@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01813_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Need for Speed™ Most Wanted</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/8A71D4F3589296F2EB1DAC5F913DA7AC25D6E45A.PNG</Image>
+    <TrophiesCount Total="47" Bronze="35" Silver="9" Gold="2" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>None More Wanted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/A68F84CCBE6F89CA0D82344F5810AC6CA4A999A0.PNG</Image>
+      <Description>Awarded for successfully collecting all Most Wanted trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Most Wanted Rides</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/8CAB41F241980BE3E3892BA64D2A9D2E147DCAF0.PNG</Image>
+      <Description>Own all the Most Wanted cars (Single Player) </Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Got to Smash Them All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/F0B135DFF47DAEAB4D6720B73989E683C7658658.PNG</Image>
+      <Description>Smash every Billboard </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>The Gatecrasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/6BCA539B9CA7F7C70BDD47B924E7721649CD7E72.PNG</Image>
+      <Description>Break through every Security Gate</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Love Them and Leave Them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/F233C9C5A35DB0583BCE6AB2399A955B5E12B0B9.PNG</Image>
+      <Description>Drive every Car</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Networking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/F8A419CDD5CE31B1EC9195E1097F79F6DCE85D0D.PNG</Image>
+      <Description>Find every Jack Spot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Cameraman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/F7506347B4F1ED440EC33FFD94B5748A80E9F6F5.PNG</Image>
+      <Description>Trigger every Speed Camera</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Go Pro or Go Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/7BC7A0DDB4B6F84E0573ABC4737E1BA56CC0BE3C.PNG</Image>
+      <Description>Unlock all the Pro mods on a car (Single Player) </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Feeling the Need</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/9B1000A5CC6C7548E52142A121C0D4EC83D817BF.PNG</Image>
+      <Description>Empty a full nitrous bar without hitting anything</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Fix Me Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/003E013B1800C503AFEC1F2133845FBE3D42D5EB.PNG</Image>
+      <Description>Use a Bodyshop to paint or repair your car for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Switcheroo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/E2E72918035CFA35A739D719160E6ECEDC6488E6.PNG</Image>
+      <Description>Use a Jack Spot in a Pursuit (Single Player) </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Kitchen Sink</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/D2F64492B47554BCD63B336EB2A2A21AC867D4B4.PNG</Image>
+      <Description>Use a Billboard and a Jack Spot to successfully evade a pursuit (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>The Heat is Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/3B391D54BFDE329297EC648B774800C4100D15DC.PNG</Image>
+      <Description>Escape successfully from all Heat levels </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Social Climber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/A838C6E82EED121B059DAD96A343F8AA29D7DDFE.PNG</Image>
+      <Description>Get 5 or more NFS friends </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>How Do You Like Me Now?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/3F4FEA2C28CA578DBF34480A10D6138039EB99AD.PNG</Image>
+      <Description>Beat a friend’s Autolog Recommendation </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Moving On Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/4F9B1AB1AC839E0C6D94071B91EB6BCAA1CD95A9.PNG</Image>
+      <Description>Move up the Most Wanted List for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Nothing Personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/B02B2D49FD357B7E66019ECC7B8F4E2A32AE7ECB.PNG</Image>
+      <Description>Takedown a friend in Multiplayer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>After Market</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/B6CBC8A026E4A294675CCA8A9AC5CC2A4A7A937B.PNG</Image>
+      <Description>Unlock a mod for a car in Multiplayer </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Licensed to ill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/284512FA0E6C5F36FBFB01F2F08E06A87C0AE7A1.PNG</Image>
+      <Description>Customize your license plate and number in Multiplayer</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Mix Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/C2C8918E94CD7882B321CA64BED9359CC3C47C28.PNG</Image>
+      <Description>Play a Custom Speedlist you have created (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>The Modfather</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/491B5B23F16938416DB9A50B70D919FB70F91B7F.PNG</Image>
+      <Description>Unlock 3 Pro Mods in Multiplayer  </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Second is Nothing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/ABCC11078F2C4FD79C55942300FFCC6A30FBBFD6.PNG</Image>
+      <Description>Finish first in every race, in every car (Single Player)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Rim Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/78E25C733765B3E28BF0EE5914C386ADEC83DB9B.PNG</Image>
+      <Description>Escape the cops with at least one blown tire</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>In Your Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/6C26F8FC5CB9DB5F4C01AE7DFE8F5A1F2263BFDC.PNG</Image>
+      <Description>Smash a friend’s face on a billboard and beat their jump distance</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Pit Stop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/C287D16FBE6F9E27299AA2E65C0B813029FB8828.PNG</Image>
+      <Description>Repair a burst tire at a Bodyshop </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Alpha Dog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/09F3069519A68EC466E06029A51947A6A6DD89FF.PNG</Image>
+      <Description>Shut down Most Wanted car number 10: Alfa Romeo 4C Concept (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Charming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/CB4397D9C8DEC316214DEB9AAD8B365828057251.PNG</Image>
+      <Description>Shut down Most Wanted car number 9: Shelby COBRA 427® (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Blackout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/CCEC1A33EC958EED291503ABC85F41DC55D0B5AB.PNG</Image>
+      <Description>Shut down Most Wanted car number 8: Mercedes-Benz SL 65 AMG (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Lexus Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/057EF1E07710C6A7D6B26E67B8CCCFC13EBF9B47.PNG</Image>
+      <Description>Shut down Most Wanted car number 7: Lexus LFA (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Track Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/CB106D5AAD23E8B190B6FDFAEC3007614F71FF3B.PNG</Image>
+      <Description>Shut down Most Wanted car number 6: McLaren MP4-12C (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Arachnophobic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/924516BF12DF49E7CD80E0773CCF41FFB436874B.PNG</Image>
+      <Description>Shut down Most Wanted car number 5: Porsche 918 Spyder Concept (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Main Avent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/0D71026AE9ED6956BF72A78A665D8FD2CC1120B8.PNG</Image>
+      <Description>Shut down Most Wanted car number 4: Lamborghini Aventador (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>White Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/3853F65789B74C4E4193FCCEDCBF31935029113A.PNG</Image>
+      <Description>Shut down Most Wanted car number 3: Bugatti Veyron Super Sport (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Mighty Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/BE6027C7716ECB86D9FE6FCD6CF09D516356F9DE.PNG</Image>
+      <Description>Shut down Most Wanted car number 2: Pagani Huayra (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Don’t Blink</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/4C7B0193F08C57059591ED66F269B5E108967935.PNG</Image>
+      <Description>Shut down Most Wanted car number 1: Koenigsegg Agera R (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Gotcha</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/C6C4378AA578DEE13E0BB4D52226CC22C813706E.PNG</Image>
+      <Description>Get Busted for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>First Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/4F6E7FDFC38388E640533B2892A65A1BB34A1959.PNG</Image>
+      <Description>Takedown your first Cop</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Troublemaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/B65D5A3AA3810B4CF0250779D966436A1C43C61E.PNG</Image>
+      <Description>Takedown 50 Cops</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Slip the Cuffs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/239FA92E9D378EADD5C06C962BBE41D99107AAE7.PNG</Image>
+      <Description>Drive through a roadblock without hitting it</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Battering Ram</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/5B808076B8A8ECF0149BE2AF89CFD01EBACFA12F.PNG</Image>
+      <Description>Smash through a roadblock without crashing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Sidewinder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/8E9C0C4AD723C50CFE9F8374E58BF85E5072AF8C.PNG</Image>
+      <Description>Do a 250 yard (228.6 meter) drift</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Mauled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/DA0F74F82CEC8628E272C3C138A1B509D6F6B7B0.PNG</Image>
+      <Description>Wreck 10 cops in a single pursuit in the Ford F-150 SVT Raptor</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Beast from the East</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/6E0FCDA7D955475262C6D7F808F80D391D380E73.PNG</Image>
+      <Description>Escape from the cops in the Marussia B2</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Iron Boots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/1D19CF93267FE270C549CB91205ED83AF5CCA5AD.PNG</Image>
+      <Description>Drive over 5 spike strips with re-inflates equipped</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/AD24EDFF13DD1DDCA422DDBD114AC7F9FF3CD178.PNG</Image>
+      <Description>Takedown every racer at least once in a single race</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Escape Velocity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/676BB64C16049F38012A188E5807D5F0A07BE4EE.PNG</Image>
+      <Description>Jump over 200 yards (182.88 meters) through a Billboard </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01813_00</GameId>
+      <Title>Fast Forward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01813_00_7760E5553965FFD12EA56429215F0220AC9698F0/EA46A23FD6596451902E8B29739473D1355E6EB1.PNG</Image>
+      <Description>Trigger a speed camera at over 200mph (321.97km/h) </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

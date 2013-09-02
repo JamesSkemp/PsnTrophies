@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02411_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Killzone 3 Multiplayer</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/B670186FEAB37DC8FAB7BB30B9933FEE0A986CE8.PNG</Image>
+    <TrophiesCount Total="42" Bronze="24" Silver="14" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/CF7C045AE4D54EEE41689CE2781D8BD9E241A3F9.PNG</Image>
+      <Description>Collect all Killzone 3 Multiplayer trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Up Close &amp; Personal - Brutal Melee another player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/82AC0BFCC0E994F46404E8521A54DBBF6D27EFC3.PNG</Image>
+      <Description>Used the Brutal Melee move against another player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Team Player - Play a match as part of a squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/7C8828D46F39CDBA33E99BB7DB16403DA2135D09.PNG</Image>
+      <Description>Joined and completed a match as part of a squad</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Grand Slam - Win a match in 3 multiplayer modes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/B14228624193980A995BFCBBABC979EE33919BC3.PNG</Image>
+      <Description>Won a match in Operations, Warzone &amp; Guerrilla Warfare modes</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Pilot's Wings - Mid-air kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/B31CEBE5DC6178BB69A78C1C1DA0099ED42BB625.PNG</Image>
+      <Description>Got a mid-air kill using the Jet Pack in any multiplayer mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Iron Man - Get a kill with the Exo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/2EBE8568A92899DBC5ED87939235AF9F7B3A7DC4.PNG</Image>
+      <Description>Killed a player using the Exo in any multiplayer mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Medic! - Revive another player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/C20752CD736FF196A2239D4ACF7EA13103E8FB97.PNG</Image>
+      <Description>Revived a friendly player for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Handy Man - Repair an object</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/F8A789689B128FE216223370B1B1599E9926E54F.PNG</Image>
+      <Description>Repaired an object for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Now You See Me - Kill using Cloak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/5BC0D8793005AF6C3B6647F5ECFE9523AFEBAC93.PNG</Image>
+      <Description>Killed another player while cloaked</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Spy Game - Kill using Disguise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/ED44DFFF704040275268A5FEB30B02AD3ABCB4CD.PNG</Image>
+      <Description>Killed another player while disguised</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Turf War - Capture a Tactical Spawn Area</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/8EA8698EE03BCFE91B158339119E9AFB332AE859.PNG</Image>
+      <Description>Captured a Tactical Spawn Area for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Demolitionist – Destroy objectives</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/4D0B6797E02B0DA65521973051F6AB498F8965A2.PNG</Image>
+      <Description>Demolish both buildings by winning Search &amp; Destroy as ISA and Helghast in Salamun Market</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Tactical Mastery – Help capture Tactical Spawn Areas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/B1891BF788CC3E81BA42C677D0FC5528A52A9E81.PNG</Image>
+      <Description>Be playing at the moment your faction secures all four Tactical Spawn Areas simultaneously in Salamun Market</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Death By Proxies – Proximity Mine kills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/0461630381FF0576E44D6B6524BC80A837E6CDDF.PNG</Image>
+      <Description>Using Proximity Mines, kill two enemies within one minute in Blood Gracht</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Blood Streak – Kill streak </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/957528819378B3A5DB8D85706BA836A43BDAB438.PNG</Image>
+      <Description>Get a 5 kill streak in Blood Gracht</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Brutal Footsteps - Silent killing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/5F5F47E76E3561037A4CB0A0453EF721B220298E.PNG</Image>
+      <Description>With the Silent Footsteps skill active, Brutal Melee an enemy player</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Little Big Weapons – Kill with secondary weapons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/B57CBD829E09F4179824B1F9CF0452D86632C73F.PNG</Image>
+      <Description>Get 15 kills using secondary weapons in a single match</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Automata For The People – Automata destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/654112FCE1F81FE652277907EE626A5080860A0A.PNG</Image>
+      <Description>Destroy an enemy Sentry Turret, Sentry Drone and Medi-Droid in the same match</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Jetpack on Exo Action – Destroy Exoskeleton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/D857C6AAABF525FAF0D720E327B285465E5D8F13.PNG</Image>
+      <Description>Destroy an enemy Exoskeleton with your Jetpack while in flight in The Junkyard </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Exo on Jetpack Action – Kill a Jetpack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/22AB12784D5C590431597C8ADB71A0614E52C6D6.PNG</Image>
+      <Description>Kill a flying enemy Jetpack with an Exoskeleton in The Junkyard </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Deadly Threesome – Triple Kill </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/2333732111320D436EAF37305E803668050CF006.PNG</Image>
+      <Description>Get a triple kill while playing in Stahl Arms</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>I See You – Minigun a Marksman </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/E25F544E078CC93C387E93411B79D720F28B2947.PNG</Image>
+      <Description>Kill a Marksman with the Mounted Minigun in Stahl Arms</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Highly Decorated – Unlock Ribbons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/8723FFAC555A694882F4CCA23B05A1D1EBA5081D.PNG</Image>
+      <Description>Unlock all Ribbons in a single match while playing Operations or Warzone</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>5 for 5 – Lots of guns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/F5424C1F7616D2EDC7789B350EC2ADE3B1F0CC04.PNG</Image>
+      <Description>Kill 5 enemies with 5 different primary, secondary or explosive weapons in a single match </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Jack of All Trades – Kill all careers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/A41CB4AD7193C95C40210E4838CF8FAFB4A051AC.PNG</Image>
+      <Description>Kill one enemy of each career type in a single match</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>No Go For Launch – Deactivate missile launch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/A7CF9213D8FECAA4B3CCF94EE7CA66307A4399C1.PNG</Image>
+      <Description>Deactivate the missile launch while playing in Lente Missile Base </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Exhausted  - Get killed by missiles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/2F37E33731333F3869C60B9A7967B1DA5A7BBC49.PNG</Image>
+      <Description>Get killed by the exhaust from the missile launch while playing in Lente Missile Base</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Bullet Spam – Kill with the Minigun pickup </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/81533068959EDBF818BD6CA1536B8D815371C8DE.PNG</Image>
+      <Description>Get 5 kills with the Minigun pickup in a single match while playing in Mobile Factory</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Mini-Gone  - Kill a player with the Minigun </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/25A56BBC88CBA3E944F6DCA095D816681109195B.PNG</Image>
+      <Description>Kill any player that is using the Minigun pickup in Mobile factory</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Radec's Revenge – Kill the ISA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/F31A4BC8197F098ADA52673F3E5C1BFC64E7180F.PNG</Image>
+      <Description>Kill 5 different ISA players in a single match while playing in Radec Academy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Turn Back Time  - VC9 Missile Launcher kill </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/750325DAC904703CEBAC7A72CEE9D03277A107C2.PNG</Image>
+      <Description>Get a single VC9 Missile Launcher kill in Radec Academy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Jetpack on Jetpack Action – Jetpack killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/4645255BC8BDDC2CD5E2F08677CEBAFF7E8B9E01.PNG</Image>
+      <Description>While flying in mid-air, shoot down and kill another flying Jetpack player in Tharsis Depot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Frequent Flyer – Fly for 60 seconds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/82E34299D32635C3E125B072CE6A88E621B42A07.PNG</Image>
+      <Description>With a Jetpack equipped, fly for 60 seconds or more in Tharsis Depot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Hacker – Hack turrets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/FECE931E15C5B3765A0F3715D3440463DD97BED7.PNG</Image>
+      <Description>As an Engineer, successfully hack 3 enemy turrets in a single match </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Tag. You're It.  – Kill using the Recon ability</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/0BCB527D9A05E72AF7B2FDA5B989E940D4372E1A.PNG</Image>
+      <Description>Kill 3 enemies within a single activation of the Recon ability while playing as a Tactician</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Cloak and Fragger – Kill Marksmen </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/BBE05BABA78B3724BAB300A8FD5A004C7A2A9B7F.PNG</Image>
+      <Description>While playing as a Marksman, kill 5 enemy Marksmen in a single match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Taken From Behind – Brutal Melee from behind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/9C27B3B07E8717798E7C7244D180E2C595E3EC1F.PNG</Image>
+      <Description>Brutal Melee 3 enemy players from behind while disguised in a single match while playing as an Infiltrator</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Immortal  - Survive bleedout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/D19130A4B3293302BEFCE1708EC2BEA6E3E8B85A.PNG</Image>
+      <Description>With the Field Medic Triage ++ ability active, survive bleedout 5 times in a single match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Career Minded I - Rank up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/04EE839B1C6B11C38E85800ABC1E486480C86C29.PNG</Image>
+      <Description>Reach the rank of Lieutenant I</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Career Minded II - Rank up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/C07FA2B134B5042DD9DB1D7C4D7D0910C76D94D4.PNG</Image>
+      <Description>Reach the rank of Brigade-General I</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Wasting Away I - Kill enemies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/1FAF9EC30653CB7A6A7E178CDF2CB3831ED4AF4E.PNG</Image>
+      <Description>Kill a total of 500 enemy players online</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02411_00</GameId>
+      <Title>Wasting Away II - Kill enemies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02411_00_6B63582ABAB1DC936148650348D2BE76394A5234/518616A6306B9E3264EB6797E9BD8E9749C4BA67.PNG</Image>
+      <Description>Kill a total of 1000 enemy players online</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

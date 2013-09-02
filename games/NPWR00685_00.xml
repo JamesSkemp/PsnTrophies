@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00685_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Army of TWO™: The 40th Day</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5CF74A59B615029EF658ECF852F1AC6490510A83.PNG</Image>
+    <TrophiesCount Total="59" Bronze="44" Silver="12" Gold="2" Platinum="1" />
+    <TotalPoints>1200</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Better Than Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/F20127B4B0D7A53B6571FD38B8D8982ED9AD3C8E.PNG</Image>
+      <Description>Earn all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Not What I Thought It Was</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/706143BB9B58E81AA9AD6D4210FD69BF519726AB.PNG</Image>
+      <Description>Complete Chapter 1 on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>A Steep Descent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/055BC645109F27BD1621BD4C63AB259681631621.PNG</Image>
+      <Description>Complete Chapter 2 on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>A Decent Animal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/69C528966AC08E5C7A569C696507E2554C9006F7.PNG</Image>
+      <Description>Complete Chapter 3 on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Emergency Room</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/A355018758F1714AE7B661F9C897308447600139.PNG</Image>
+      <Description>Complete Chapter 4 on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Gone Shopping</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/3D79626F52C60158C5ED8B2188F823E435746D0D.PNG</Image>
+      <Description>Complete Chapter 5 on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Survivor?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/A489188651B2AD4C5D62C4624B17A45A660ADA19.PNG</Image>
+      <Description>Complete the game on any difficulty level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Softcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/08998A387E0588E38CB550E9622FBAFE940B68C9.PNG</Image>
+      <Description>Complete half the game on hardest difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/BC5D546837873884A7BA36A2A1E6B417FE7E5B9C.PNG</Image>
+      <Description>Complete the game on the hardest difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Meat Bag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/393A3B4DB49E575D0E2D467892466949A0ABBA22.PNG</Image>
+      <Description>Use 15 enemies as human shields</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Chaaaaarge!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/799A17DD4E9BEEC722F815317F11A6D69A32166F.PNG</Image>
+      <Description>Charge through 20 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>The Beast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/B2101749234C403591C02D6315ED302658F99A5B.PNG</Image>
+      <Description>Kill 6,666 people in Campaign</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Grenadier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/63F165445839D6DFBF114D34F6568E478A3DFB12.PNG</Image>
+      <Description>Kill 3 or more enemies with a single grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Pistolier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/CD31E2C1E73ECC88C9815B9F11943D5CAED0A632.PNG</Image>
+      <Description>Kill 150 enemies with pistols</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Old Faithful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5CC6B460E83812589C211CA67406939EB2B200F0.PNG</Image>
+      <Description>Kill 400 enemies with assault rifles, submachine guns or shotguns</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>One Shot, One Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/BE2C31228BC5D7536F2262416A059F075A2C1CEE.PNG</Image>
+      <Description>Kill 100 enemies with a sniper rifle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Quick Draw</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/9237F6C1B3F76BA6ECF1E6771EA7E234CC343D31.PNG</Image>
+      <Description>Kill 25 enemies with a quickdraw from mock surrender</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Open Hand Slap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/E16CF025F4F685A8BEE2A0691E6A13C7E4045004.PNG</Image>
+      <Description>Kill 50 enemies with a melee or bayonet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Unbreakable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/585021BC3DBF0D554891D60800741664E0E1EA3E.PNG</Image>
+      <Description>Survive an entire level without needing to be revived on normal difficulty or above</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Not So Bad After All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/8ED97092E891EE15D0E13BF707C13C46C21EBA79.PNG</Image>
+      <Description>Tie up 15 enemy combatants instead of executing them</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Healer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/A831B33F00721A217DA5256CD8827042218CB4FD.PNG</Image>
+      <Description>Heal your partner 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Co-Op Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/8EF70DBC4C862CE3BF1D33F4FD620DB0EF1DEE26.PNG</Image>
+      <Description>Co-op snipe 5 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Attention Grabber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/E373CC7843274EDEE2301708FB3C1B24F5DAB05D.PNG</Image>
+      <Description>Allow your partner to snipe 5 guys while in mock surrender</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>In Synch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/EA831FCA23D1C80230FEA41F65ADF5DB0C3FE4D1.PNG</Image>
+      <Description>Kill two enemies with simultaneous quick draws while in co-op mock surrender</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Pumpkin Patch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/AC95FC4043FEB79A0DE4D4825A61724CC9D5103E.PNG</Image>
+      <Description>Shoot 2 enemies in the head with a single bullet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Rock, Paper, Scissors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/3E8F57E8A2361E072C9B532DD32F65632EB3D85B.PNG</Image>
+      <Description>Beat your partner at rock, paper, scissors 3 times in a row</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Total Fist Bump Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/133A953191EDEEB0ACFDB9EE2F33B78AE725E94B.PNG</Image>
+      <Description>Finish the game as best friends</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Total Fist Bump Deflation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5E374FD9695919DD408F3495FC187EFCA1A02F49.PNG</Image>
+      <Description>Finish the game in a fractured friendship</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>The Truth Is Right Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/088C479BED9948B64FD17258AC393ED0293CD704.PNG</Image>
+      <Description>Listen to all of the radio broadcasts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Loot and Pillage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/556BC633A5A9E15549406D31229D858C21BEDB6C.PNG</Image>
+      <Description>Collect $1,000,000</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Full Arsenal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5F85005A9FABCC3517615AA5B615F653E18726E9.PNG</Image>
+      <Description>Collect all weapons and weapon parts</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Touch Not A Cat But A Glove</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/54BDAB30CBD15B04E56B15846A05E00651925D3B.PNG</Image>
+      <Description>Shoot all Maneki Neko cats in the game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Hate Monger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/94AA9FE59F7855B2F8868D7240497E5B526B8D71.PNG</Image>
+      <Description>Customize a primary weapon to high aggro</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/B354F42158C1BC4FCBFFC88FEB37E1348D887DAA.PNG</Image>
+      <Description>Build a gun using 3 homebrew parts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>The Optimist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/AE050F0838F31199E1CFAFF7D856B325D71C8F44.PNG</Image>
+      <Description>Make a positive coop morality choice</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Purist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/DE1ED4EFF8770ED465B2FC78D14B19CD2040FE2E.PNG</Image>
+      <Description>Make only positive choices</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>The Pessimist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/DBA0B5DD1E5F3D99D34FC4F36A4796DA49C19809.PNG</Image>
+      <Description>Make a negative coop morality choice</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Heartless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/2DBC82A7100C2A138F9F57C727C4B83166CFD351.PNG</Image>
+      <Description>Make only negative choices</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Humanist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/6FD486E50423809EAD05369F5D586249DE5D0F5E.PNG</Image>
+      <Description>Save every hostage</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Future Visions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/3971B21B341BB0C72AF0833E608D7CC6C7F6EC36.PNG</Image>
+      <Description>Unlock all potential futures</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Fresh Meat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/BB289EE973FEAF527E8A71DDB6E0FFC39F8BDE4C.PNG</Image>
+      <Description>Versus: Revive your partner and perform a partner reload during the same public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Fancy Meeting You Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/C5E92E989411A21FF128C7EB98663E9CD9FDC028.PNG</Image>
+      <Description>Versus: Invite a friend before joining a lobby to play a public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Big Game Hunting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/54827054C614751EFF54D550E4D5530B88944043.PNG</Image>
+      <Description>Versus: Kill both members of a single partnership during a public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Job Seeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/A57BEF783C366BE8175FAF43C91C3379D27C102E.PNG</Image>
+      <Description>Versus: In public matches, kill a player with either the primary or secondary weapon from every weapon kit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>DIY PMC</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/F77E2AD7CE8CBFFDAFD5657FA5A4A929A43D0D7E.PNG</Image>
+      <Description>Versus: Create a custom facemask online (www.armyoftwo.com) and wear it in a public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Death Dealer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/C0E7675063BC7209F59FE38F2819229DA39256ED.PNG</Image>
+      <Description>Versus: Kill 10 players with headshots on a single map in a public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Power Couple</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/72352EE66AB41EE78BF4B0E97B901E6C77863612.PNG</Image>
+      <Description>Versus: Earn the highest partnership score in a Co-op Deathmatch, Control or Warzone public match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>All Guns Blazing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/F2F4993DE5C10534A0E9EF2F1FD55F22CED40D33.PNG</Image>
+      <Description>Versus: Kill a player with every weapon, including special weapons, in public matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Bound For Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/7233649ACC0F4740023599792709206A63744E71.PNG</Image>
+      <Description>Versus: In a public match, survive an entire Extraction map without suffering a single death on your team</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>King Of The Hill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/D14D449B4ECA8F8E6FBD71B356CB59F445C6AE20.PNG</Image>
+      <Description>Versus: Win a public match on every map in Co-op Deathmatch, Control and Warzone</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Survival Of The Fittest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/914B15A774348398DD305E68ED8ADB1079B08599.PNG</Image>
+      <Description>Versus: Complete all 16 rounds of an Extraction game in a public match</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Men Of The People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/E5E7D9D8C08E62ED5135A8DAC429A5E6E218B457.PNG</Image>
+      <Description>Escort all hostages to safety</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Pick A New Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/57534EDD6D77FB8D6A03A2FEE4C7F7E92FF4E054.PNG</Image>
+      <Description>Find one new mask in The Chapters of Deceit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Hit And Miss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/DDD2F638D13271138114C02821E38E6E152C635E.PNG</Image>
+      <Description>Complete Chapter 8 on any difficulty level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Train Wrecked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/5AE24DBCE9CC8CFED78C6772D3D93972723BA7A6.PNG</Image>
+      <Description>Complete chapter 9 on any difficulty level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Paging Dr. Wu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/7F2269585F7256EF28637F4E6AE52221B5EE121B.PNG</Image>
+      <Description>Protect Dr. Wu from the FDI foes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Good Guys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/8510DC7BCF54F8171E0D227A6805D50F0CBFAB3C.PNG</Image>
+      <Description>Positive morality choice. Choose to let the traitor live.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Good Fellas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/3E105F97EC8F3D8C8129BEDAFADE58D22FDC4AFF.PNG</Image>
+      <Description>Negative morality choice. Choose to execute the woman</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00685_00</GameId>
+      <Title>Can It Really Be That Simple?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00685_00_001329443F60A270A130F7947FF47BF4B8211E9658/309C451FF0CD3C678FDEF8E5FF91C561E1C998BA.PNG</Image>
+      <Description>Kill the FDI leader. Could it really be this easy?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
