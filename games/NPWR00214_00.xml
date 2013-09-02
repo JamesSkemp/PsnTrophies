@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00214_00</Id>
+    <IdEurope></IdEurope>
+    <Title>MotorStorm®: Pacific Rift</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/2A908419EAAD7E3CAB1ECF5951A5D5810188426F.PNG</Image>
+    <TrophiesCount Total="66" Bronze="50" Silver="11" Gold="4" Platinum="1" />
+    <TotalPoints>1440</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Over Achiever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/CF99A82631BFAB75A545A6E5A5C637268B438CB4.PNG</Image>
+      <Description>Unlock all the other 49 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>The Money Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/B2961707C174DFA57F6558786B9B81F546B190A9.PNG</Image>
+      <Description>Boost Explode over the finish line to win 10 races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Track Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/17CBC24A9CBBBB941936F2C2433D6C9F126EA3F8.PNG</Image>
+      <Description>Win 5 races on each track</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Just Getting Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/F357268D235BA500A29219EE5631093F0285CE10.PNG</Image>
+      <Description>Race for a total of one hour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Time Sink</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/DDCBCCF2A1481DA4F3032E0237A77BDF94CC35F4.PNG</Image>
+      <Description>Race for a total of 10 hours</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Stuntman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/3670AEEC6334BF87742B7D580508F013345091C4.PNG</Image>
+      <Description>Successfully land a jump of 185m or more</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Race Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/08DF2E8A636051D53F492298EA133FE4E6236608.PNG</Image>
+      <Description>Take part in 250 races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/8508AC191AC2A4E208228DE96C6167848C9BD8AC.PNG</Image>
+      <Description>Travel a total of 500km</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Hazardous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/49EF6A26B2B796C9FE17790DDF5EFE0E5937473E.PNG</Image>
+      <Description>Wreck your vehicle 250 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Friendship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/A0C06FECA16D6CDFEBBEEA79D4ACFEF62B7AB117.PNG</Image>
+      <Description>Complete a Split-Screen race with 4 players</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Ghost Rider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/CCE89797611BB67D5A71ACFD27AA4CF999DA80F4.PNG</Image>
+      <Description>Beat 48 developer's ghosts on Time Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Tumbler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/BC64657A92D13166241E3796F4F9DA39A8986242.PNG</Image>
+      <Description>Perform an impressive Barrel Roll</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Bully</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/C07DD93EB237E4EB558F7BBE6D0609FEFFA1814B.PNG</Image>
+      <Description>Successfully punch or ram 100 vehicles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Lightweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/D92C35F749EEE61146421DDCBBEC83714F883710.PNG</Image>
+      <Description>Win 50 races using a lightweight vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Mediumweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/BE6994C3A7ED59D68DD6B44342C48F9DD8019F2D.PNG</Image>
+      <Description>Win 50 races using a mediumweight vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Heavyweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/BD5ED21AD55F95D3B9674B99DFBC6E40C0F0183C.PNG</Image>
+      <Description>Win 50 races using a heavyweight vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Pugilist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/BA48D4C535F717813EC0E41CE677068CB7EFA9A2.PNG</Image>
+      <Description>Punch 5 competitors in a single race and go on to win gold</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Close Call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/A5BC2BF9F3AABC3FE8DA496EB71E1253520A2682.PNG</Image>
+      <Description>Win a race by a margin of less than 0.1s</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/AC2F18F5D6AF96A9EBF5152476590411A801E1CC.PNG</Image>
+      <Description>In Eliminator escape from last place 10 times with only 3 seconds to go</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Freestyle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/4F6555E4CCB30DD2B6BA349A9E5E252612E648C0.PNG</Image>
+      <Description>Create and win 10 free-play races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Hire Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/2D0F550D90A4472706DB945FD8AD4D904939664D.PNG</Image>
+      <Description>Beat all 128 original developer ghosts in Time Attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/856EFBF5DD06EBF01B36F753B6C72F39432F8E60.PNG</Image>
+      <Description>Win 250 races</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Spoilt For Choice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/27BEC2666E16A7ADD7729613A512DE6E3A9A3BD3.PNG</Image>
+      <Description>Reach rank 3 in the Festival to unlock all 8 vehicle classes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Bike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/8B9020E1454CDA07BBDE7351E5B336ECE83BAB99.PNG</Image>
+      <Description>Win 5 Festival races using a Bike</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>ATV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/0AE15B9F77D5FBAA59E831D2F5B3EC1E51E2437E.PNG</Image>
+      <Description>Win 5 Festival races using an ATV</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Buggy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/4E7C75B99E9074C4DE32DF823D83C888F58429C7.PNG</Image>
+      <Description>Win 5 Festival races using a Buggy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Rally Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/6E129F781F411E1391FE30F1CEFE8FF6F3144AC8.PNG</Image>
+      <Description>Win 5 Festival races using a Rally Car</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Racing Truck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/C29DA44B2CBABFBB8D18935283EFB9485FAF7E8D.PNG</Image>
+      <Description>Win 5 Festival races using a Racing Truck</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Mudplugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/4A4FAE7E1443559D12AC6FF10759F6999F69447F.PNG</Image>
+      <Description>Win 5 Festival races using a Mudplugger</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Big Rig</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/98B425A1E10AEF94B501DBDE946D9090F0850513.PNG</Image>
+      <Description>Win 5 Festival races using a Big Rig</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Monster Truck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/DE0717B6E7341731AFCD64898D0E7A085F2813E6.PNG</Image>
+      <Description>Win 5 Festival races using a Monster Truck</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Necessary Roughness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/3EBBFAD63BB0598337A9F6ACC352F352513E0CA4.PNG</Image>
+      <Description>Knock down 10 dismounted drivers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Tortoise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/B6F88B6A6884C291641623B157D69AFDB11FE7B3.PNG</Image>
+      <Description>Win a race without using boost</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Speeder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/9A2E76A46D9891CE12D22674F640A77A785EB03D.PNG</Image>
+      <Description>Unlock all 16 Speed events</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Wreck-Less</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/96B792FAE09347A07D0116B3CA2E41C22DE5AF8D.PNG</Image>
+      <Description>Unlock all 16 Eliminator events</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Last Man Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/A906D01CD3DE0194BF5E2FF2687EE0346EE6702D.PNG</Image>
+      <Description>Win all 16 Eliminator events</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Speed Demon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/91A4A7122E40286CC1C982A42D2DE0C10D1B09DF.PNG</Image>
+      <Description>Win all 16 Speed events</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Can’t Touch This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/065C2E15FF234A5F86037E66B1FB4B1A290A6412.PNG</Image>
+      <Description>Win any Rank 8 race without being wrecked</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Runner Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/F92F9DF627D6CBAB9F054573CFEEC29640499495.PNG</Image>
+      <Description>Win 96 Silver Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/952DA9837CE18E4D135A75A47D065F72FE850BF8.PNG</Image>
+      <Description>Win 96 Gold medals</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/AE30929057E26631E1B5E8668A1FFAA49CABC429.PNG</Image>
+      <Description>Complete a ranked Online race with 12 players</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/348034C9A433FB85552F434E94BDBC1B7F99A39D.PNG</Image>
+      <Description>Complete 50 Online ranked races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Casual</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/CF891810F4AA1FBF6A4D86117C09C69F31A72BD4.PNG</Image>
+      <Description>Complete 50 online casual races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Immortal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/B60C5AA5A92F962F6207653A330A596F38F7300E.PNG</Image>
+      <Description>Win an Online ranked race without wrecking</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Ranked Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/E2CD2C886F9B37A64004DFD7E10B51F8CB030B8A.PNG</Image>
+      <Description>Win 3 Online ranked races in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Beginner's Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/6219EF936073A26C9BE306976CAFC334E58DECCD.PNG</Image>
+      <Description>Come 1st in an Online ranked race</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/46D57D8228D6EDE29EDFD85AF8B42B680404533D.PNG</Image>
+      <Description>Reach Online rank 2 (Rookie)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/1A740F5DF98BEB4C4C5AEF263498FE222C0E0379.PNG</Image>
+      <Description>Reach Online rank 3 (Veteran)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/E25C65CC71DFDD2B1B97D4AA939EA703C4CEE41D.PNG</Image>
+      <Description>Reach Online rank 4 (Hero)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/59BF1F64165180E1BD2676FAC0A2AA55DD4E356D.PNG</Image>
+      <Description>Reach Online rank 5 (Legend)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Bike Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/A4CE576BDFC4CBC7B808332BD8C62E149054438E.PNG</Image>
+      <Description>Qualify and Race All Bike Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>ATV Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/51839E119AAB66658133BA99ECFCB779D411F062.PNG</Image>
+      <Description>Qualify and Race All ATV Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Buggy Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/DA694C1C6B89FEF0019CF7BE57FA6A81297E9DD6.PNG</Image>
+      <Description>Qualify and Race All Buggy Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Rally Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/73D4301BC079CBF8926B1616FCACF20781CA2FFA.PNG</Image>
+      <Description>Qualify and Race all Rally Car Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Racing Truck Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/42B9705BE357EADF21AC941F05A5B838A91CEF1D.PNG</Image>
+      <Description>Qualify and Race All Racing Truck Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Mudplugger Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/CD2EC0176A71EF1CE11ACDA4DCB2C82AAFF72CF7.PNG</Image>
+      <Description>Qualify and Race All Mudplugger Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Big Rig Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/1F4EA473AC6E91C29781560AFDC8DBAB8D003A17.PNG</Image>
+      <Description>Qualify and Race All Big Rig Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Monster Truck Weekender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/020A57AEDE6B403CC7AB388CFE192325E5CE6B6E.PNG</Image>
+      <Description>Qualify and Race All Monster Truck Rival Races</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Six Splitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/9A61B7D8B58383D99A026857DE5CCFD0AE43E8D6.PNG</Image>
+      <Description>Play a Split-Screen race on all six SPEED tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Over Qualified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/A8EA6257E2D312FA46E56894715305543834B7DF.PNG</Image>
+      <Description>Beat Developer Ghosts on all six SPEED tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Sand and Sulphur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/E8789E4B732AE4E9A80EABCA9487320F2AA390B7.PNG</Image>
+      <Description>Win an Online race on each of the six SPEED tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Distinguished Character</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/3DC73B893301F563CD5C29168D2986E67CAC4AEB.PNG</Image>
+      <Description>Win online with each DLC character on any DLC track</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Further Qualifications</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/84C36177E12041F545308921B8C2721D90326A3A.PNG</Image>
+      <Description>Beat Developer Ghosts on all eight ADRENALINE tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Surf and Turf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/03926DCF73FF852412000192F2EA8755827C1BAD.PNG</Image>
+      <Description>Win an Online race on each of the eight ADRENALINE tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Eight Splitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/703D5980890ADFE2404174D15467C701015426EE.PNG</Image>
+      <Description>Play a Split-Screen Race on all eight ADRENALINE tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR00214_00</GameId>
+      <Title>Hardcore Heaven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00214_00_C6BF476E5E95D67306462BF26C216AF934F5549C/D8492785E59A258BFD2C54AA529817CF691B5732.PNG</Image>
+      <Description>Hardcore Freeplay – Win on all eight ADRENALINE tracks (full grid)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

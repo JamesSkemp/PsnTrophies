@@ -1,0 +1,266 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01263_00</Id>
+    <IdEurope></IdEurope>
+    <Title>THE FIGHT™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/BD86E2932D23CD7D4A26403F837F03506B65CF0D.PNG</Image>
+    <TrophiesCount Total="28" Bronze="13" Silver="8" Gold="6" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/97BEF6B6A8293867F45DD623CDED456CDE751E6A.PNG</Image>
+      <Description>Win all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Thunder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/9BA31C39E841859C5FDD7F58C87D73A88618A358.PNG</Image>
+      <Description>Land a really, really hard hit</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Lightning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/B755555D3CAB73364C61A36AEB2E8BD95F02DD9E.PNG</Image>
+      <Description>Knock someone out really fast</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Lucky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/80F411BA4B29D0311700332667993682B1D6F82A.PNG</Image>
+      <Description>Win a fight with less than 5% health remaining</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Clubber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/880FABE2C384713773A8CA5ACC74CB73B43B5641.PNG</Image>
+      <Description>Knock out 10 opponents with the Hammer fist punch</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Dizzy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/E001DDEECB84B0CDD898E39E714AE917824DF6E5.PNG</Image>
+      <Description>Knock out 10 opponents with a spinning move</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Bear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/82306FA9AD39A17852D364C3A78916FBC918AADC.PNG</Image>
+      <Description>Knock out 10 opponents while grabbing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Surgeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/C9E3E9409A39862C07D07B78809A6ABE4237A96C.PNG</Image>
+      <Description>Win a fight with a hit percentage above 95%</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Saint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/54998130F28B418188F0C9BD69A84FFF465559D8.PNG</Image>
+      <Description>Win a fight using only clean moves</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Sinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/70189965BBB6CA3511E9CE4FD3FD99DE27F52C81.PNG</Image>
+      <Description>Win a fight using less than 30% clean moves</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Punisher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/31DC448B16D8850A91FDCB0AE444BE49A58EDFC5.PNG</Image>
+      <Description>Stun an opponent 6 times, and then win the match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/0350A1C7400BD49E10BF129A55625ECAC1CC062F.PNG</Image>
+      <Description>Throw 25 punches in 15 seconds, landing more than 50% of them</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/6DB0932F7628AE37306AF50C3EC980C0C0EF1078.PNG</Image>
+      <Description>Win a match with more than 99% health remaining</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/62BEC2D75A31DA8929E935707C383EF2541226B4.PNG</Image>
+      <Description>Defeat an opponent with 50% higher rank</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Rampage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/AA5FD4F75B0F4CA4BB3B97FCF3962CF8CDDE2463.PNG</Image>
+      <Description>Win 10 ranked matches in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Upsetter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/F8BEF1AEDC9290A063A5E62152DDC5893BA7F581.PNG</Image>
+      <Description>End someone's 5+ ranked online victory streak</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Tank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/93DDDA890E157B57B3D4E2932EE7924AE250C9B0.PNG</Image>
+      <Description>Take a lot of damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/D3F496F6381AA11E59C00DEBDC2909B0AAF79D92.PNG</Image>
+      <Description>Reach top rank in an online tournament</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Everlasting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/980B3FCABA3615205763757591441E5FC42C76F9.PNG</Image>
+      <Description>Reach top rank in an online tournament, and defend your spot 5 times</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/3317F6DBBD63778AAE133B7C23D187B6F92F4C4A.PNG</Image>
+      <Description>Make a lot of money</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Prodigy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/4CF1A9BF543EC2C72D0663241B159887A73033B7.PNG</Image>
+      <Description>Complete all the career events</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Nails</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/03EDC033BEA3B7282D54922700FCEE41F8D46BD7.PNG</Image>
+      <Description>Nail all the career events</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/41724482F2BD5D925CCA450248BC37C588D93AF6.PNG</Image>
+      <Description>Reach a really high rank</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Dynamo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/6F4BECF9CA361CA411DE0EF94817A48CED9FD161.PNG</Image>
+      <Description>Survive a lot of rounds of Endurance sparring</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/BAEB30B64EDDDC0C769B14A0A88D69C0BD5076D6.PNG</Image>
+      <Description>Upgrade your skills a lot</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Highroller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/C7594D00C5810809DAD1DEF1937D7899DA6A9FB5.PNG</Image>
+      <Description>Win a lot of online bets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/C4796EC8BA58EA74D63223F09A6745B53FEB53A0.PNG</Image>
+      <Description>Get stunned 6 times, but win the match</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01263_00</GameId>
+      <Title>Bank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01263_00_7711AD84AC0779BC2B136CBFC2EB02889FC611FF/550D8BC9F9DFDF6CBA456DF9443DEC6F8055432C.PNG</Image>
+      <Description>Have a lot of people bet on you and win</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
