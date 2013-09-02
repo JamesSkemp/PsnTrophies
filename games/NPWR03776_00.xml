@@ -4,9 +4,9 @@
     <Id>NPWR03776_00</Id>
     <IdEurope></IdEurope>
     <Title>Guacamelee!</Title>
-    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03776_00_00EDECE356458C53F960AE3A640F972E7B3411F416/74B7AB88F435BB82F089A3152CA72AF4B5DCB080.PNG</Image>
-    <TrophiesCount Total="48" Bronze="39" Silver="5" Gold="3" Platinum="1" />
-    <TotalPoints>1005</TotalPoints>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03776_00_01119124140D1EC2E7D95E27D8A01F7BD85B659203/EEE281356177FBB1C3C352040C4C34CFF11A5659.PNG</Image>
+    <TrophiesCount Total="54" Bronze="42" Silver="7" Gold="4" Platinum="1" />
+    <TotalPoints>1200</TotalPoints>
     <Platform>ps3,psp2</Platform>
   </Game>
   <Trophies>
@@ -441,6 +441,60 @@
       <Description>Access the alternative ending (collect all orbs)</Description>
       <Type>GOLD</Type>
       <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>Which came first?</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_49.png</Image>
+      <Description>Enter egg mode while playing as the Pollo Luchador</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>I feel empty inside</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_50.png</Image>
+      <Description>Collect a health orb as the Skeleton Luchador</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>Bag o' bricks</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_51.png</Image>
+      <Description>Throw an enemy while playing as Juanita or Tostado</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>GREETINGS, FELLOW CHICKEN</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_52.png</Image>
+      <Description>As the Pollo Luchador, find and talk to each of the four giant chickens with the green sombreros</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>Heroine-ism</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_53.png</Image>
+      <Description>Defeat Calaca with Player 1 playing as Juanita</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03776_00</GameId>
+      <Title>Bone on bone</Title>
+      <Image>http://www.psnapi.com.ar/images/sony/newtrophies/NPWR03776_00_54.png</Image>
+      <Description>Conquer the final column of arenas in La Caverna del Pollo as the Skeleton Luchador</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
     </Trophy>
   </Trophies>
 </PlayStationGame>

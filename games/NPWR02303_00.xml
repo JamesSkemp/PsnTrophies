@@ -4,10 +4,10 @@
     <Id>NPWR02303_00</Id>
     <IdEurope></IdEurope>
     <Title>PAYDAY: The Heist</Title>
-    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_D3B9066D726AC698420E25AFC48BB0940B89DEF1/97A97D6315FFF4693979591947A5590F53C5AC31.PNG</Image>
-    <TrophiesCount Total="35" Bronze="18" Silver="11" Gold="5" Platinum="1" />
-    <TotalPoints>1050</TotalPoints>
-    <Platform>?</Platform>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/CB0DFE240C17AEFC664DF63E24D95DD3557B1514.PNG</Image>
+    <TrophiesCount Total="41" Bronze="22" Silver="12" Gold="6" Platinum="1" />
+    <TotalPoints>1230</TotalPoints>
+    <Platform>ps3</Platform>
   </Game>
   <Trophies>
     <Trophy>
@@ -322,6 +322,60 @@
       <Title>PAYDAY</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_D3B9066D726AC698420E25AFC48BB0940B89DEF1/15E32A0B65C8F25C5BE46EAB36B45C2817855A90.PNG</Image>
       <Description>Aquire one billion dollars in total cash. One. BILLION. Dollars.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>Crowd Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/2017A0DF7083C235CE149DA95305F9B7EBD8590E.PNG</Image>
+      <Description>Beat COUNTERFEIT without letting any hostage escape or die. To complete this challenge, you will have to have played the heist from the start.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>Detective Gadget</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/061F879B44A7E00C314308E92B6B5F95F6F44F52.PNG</Image>
+      <Description>Beat any heist using the STRYK Pistol, AK Rifle, GL40 Grenade Launcher, Toolkit upgrade, Sentry Gun equipment and Big Game Hunters crew bonus. To complete this challenge, you will have to have played the heist from the start.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>Quick hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/6ACAF965A6401C905AC65DBDEE9E652ED368FBAB.PNG</Image>
+      <Description>On COUNTERFEIT, manage to defuse all C4 charges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>The Saviour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/F3473DA807D426CB00E00794FA2B8A13D8B9F6A6.PNG</Image>
+      <Description>On UNDERCOVER, place 20 planks by yourself on windows, vents or fences.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>Blow-out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/194C23B7D4B65205B488B7220338E4CB58CCC402.PNG</Image>
+      <Description>Beat UNDERCOVER with everyone in the crew only using the GL40. To complete this challenge, everyone in your crew will have to have played the heist from the start. Using melee does not count towards this challenge!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02303_00</GameId>
+      <Title>Pacifist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02303_00_01035BF636B3E15C97DC09F53DEE443099D009252D/DB65C142CFF08151BA5573D2E08C3749BF89B6E2.PNG</Image>
+      <Description>Beat COUNTERFEIT on hard difficulty or above without killing any law enforcers or civilians. To complete this challenge, everyone in your crew will have to have played the heist from the start.</Description>
       <Type>GOLD</Type>
       <Hidden>false</Hidden>
     </Trophy>
