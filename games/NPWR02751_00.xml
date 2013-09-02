@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02751_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Back to the Future: The Game</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/1E210FD2EFCEBE74C0520C189BA7899339271A82.PNG</Image>
+    <TrophiesCount Total="60" Bronze="52" Silver="6" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/0438F5F0B65BB0B64EE369338E843D5959424718.PNG</Image>
+      <Description>Earn all trophies in: "Back to the Future: The Game"</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>A Bicycle Built for Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/4BBBDC0A9C5FE4D3319FECC0481CA4713B8FE97E.PNG</Image>
+      <Description>Rescued Doc from Kid Tannen.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Back In Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/1961B3919E32925D0CD9C5DAB1289B0FED5DC287.PNG</Image>
+      <Description>Traveled back in time to rescue Doc.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Grandpa Got Served</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/CC282CC20EC94809758DC3B075D577C2A160C07F.PNG</Image>
+      <Description>Delivered the subpoeana to Arthur McFly.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Junior Bootlegger Badge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/0C1B5C474514841ADC9313FC3D6B250D2C372BD2.PNG</Image>
+      <Description>Managed to get 190-proof alcohol delivered to Emmett's.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Jailbreak!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/AD113EDF36618062687247645F65E70FEA1792BB.PNG</Image>
+      <Description>Acquired Emmett's Rocket Drill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Doc's Legacy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/A2FFB29F6A131DCBBE2FFF249CEC0C8386275DBC.PNG</Image>
+      <Description>Got Doc's Notebook back from Biff.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Hello, Young Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/F94CD355B3F7065E2F10AD03622B571B8CC84386.PNG</Image>
+      <Description>Talked Emmett into completing the Rocket Drill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>A Plausible Explanation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/0BA2C9B3C67C7A9124C0B10D36A2559C668DD711.PNG</Image>
+      <Description>Discovered the origin of the "new" DeLorean.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Fuelamaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/0776E1C1EF7D1E449DB7B024D8FD65C257CF69A4.PNG</Image>
+      <Description>Flawlessly mixed up a batch of Emmett's Rocket Fuel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Fate In Flux</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/F279305265782DFDDEBB5187C30E1ECBAEAB8B03.PNG</Image>
+      <Description>Heard about the curious fate of Marshall Strickland.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Hi Bob!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/78BFA366272E4A26DCC5ECF52065D820B36B9566.PNG</Image>
+      <Description>Namechecked "Back to the Future" creators.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Deja Marty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/E392731162EBF476C181D126666F04A2DCAF4DF6.PNG</Image>
+      <Description>Perfectly repeated dialog while repeating Doc's temporal experiment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Kid Restraint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/7B77532D7E7377341477D019D3158617337D6613.PNG</Image>
+      <Description>Defeat Kid Tannen.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Escape Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/3CA21AAD7699AA862D82C4BBF3D036FCC129D9DD.PNG</Image>
+      <Description>Find a hidden passageway.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Police Blotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/4FBD1C7D76598DC7044D9429B8A269094016C24F.PNG</Image>
+      <Description>Dry a cop out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Moll Mender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/8B8042EF1E1277BD415DA9D046E5DDD8F525CB97.PNG</Image>
+      <Description>Get a gangster's girl to do the right thing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Tannen Tamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/13C6E694B9C0249494E971580551FDCDC9998F01.PNG</Image>
+      <Description>Defeat the Tannen Brothers in six jumps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>A Minimum of Panic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/97E7B9F32D4EE2B33FDFD4B14317B1E0717A6D0C.PNG</Image>
+      <Description>Rescue Arthur with minimal fuss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Art Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/3A32B52705FDA9FCB94DF21763A10E8C98AA5A6C.PNG</Image>
+      <Description>Track down a missing accountant.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Tuned Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/E2628F1515D21BE1722B1532BD00DDD452066F6B.PNG</Image>
+      <Description>Enjoy a full set from Hill Valley's leading songstress.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Door Prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/A1E8B696F5578BD9BF78304045003E37DA518145.PNG</Image>
+      <Description>Break the password code without cheating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Chucklehead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/2AF759537011CF40C51B84E060231C484AF5380B.PNG</Image>
+      <Description>Find "Chuckles Lenart".</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Demystifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/4FF5E5E80A50AC8A4B425A9DA0E1EE687BAFEDDF.PNG</Image>
+      <Description>Get a full explanation of your situation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Final Solution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/A0B9A7E120E2462C8269A97D043D5D70CE8705DD.PNG</Image>
+      <Description>Layout Biff and escape the speakeasy.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Hope You're Insured</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/11B8E439FFA1A9D0076C9281F16CF4A2E0BD2AC9.PNG</Image>
+      <Description>Use the DeLorean parts to enter Hill Valley.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Intervention</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/15BB67EC78D881CB80DCFBE2CB3558C443544C75.PNG</Image>
+      <Description>Got caught with Lorraine's booze.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Seven Minutes in Heaven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/B7B01D0748ED38AFBC78D8E3BB5887235B436AAA.PNG</Image>
+      <Description>Got caught making out with Jennifer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>All Good Dogs Go To Utah</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/433B883A8EE0715D34086F87C865764F80BB35B9.PNG</Image>
+      <Description>Got caught with Einstein.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Into the Garbage Chute, McFly-boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/57700B9FD2552A34B55E245B04748DFFB5346BC2.PNG</Image>
+      <Description>Jumped into the Decycling Bin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Hill Valley Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/5C6BE1E3F4E94F05B342936AFB56F8B5B65C8B71.PNG</Image>
+      <Description>Listen to all tourist audio guides in Hill Valley.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>One Bad Apple</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/D717846F9E2524DA254677341684601123F3A054.PNG</Image>
+      <Description>Collect every Demerit in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Marty and the Pinheads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/253263592E72C6FDA40B57C8DF72BDB1A04E0668.PNG</Image>
+      <Description>Use the spray can to paint Marty's band name in the alley.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Hidden Treasure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/D9C0DD46FF9B1EBD97EFE05123A3CE5FE4DA5A7E.PNG</Image>
+      <Description>Examine every container of contraband in the speakeasy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Ruin it for Everyone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/9488D56C2DBB75D09CCC1B21163F50CF4806C4ED.PNG</Image>
+      <Description>Coax Edna out of the courthouse with the buzzer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>To the Expo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/9F6C4859838C45BF474ED41015CB9A34E73AC32F.PNG</Image>
+      <Description>Marty and Emmett head to the Expo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Your Own Personal Frankenstein</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/C671E639EB1A39B1AE39A03820DBAF60581438DA.PNG</Image>
+      <Description>Gave Emmett his Epiphany.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Breaking Up is Hard to Do</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/123BC225A2BF50D6015040DEE6667783486AEDDA.PNG</Image>
+      <Description>Broke up Emmett and Edna.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Free Citizen Brown!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/F9BA3087C7B0BD38E2371616FF9442056F8E8FFF.PNG</Image>
+      <Description>Rescued Citizen Brown from the Citizen Plus program.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>The Power of Love?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/08408D14A29BA3C5D6824030C1D82BBEB7CE5AAC.PNG</Image>
+      <Description>Escaped from Marty's cell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Let Them Eat, Um, Cake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/FAB657C6FCEE5A24EAA7842E14B46113F7E80B18.PNG</Image>
+      <Description>Offered algae cakes to everyone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Edna Was Right!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/B3C1508A71A5934A3081997EBE662A74DA3CB003.PNG</Image>
+      <Description>Revealed the Hill Valley hooliganism rate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>The Other Woman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/D275EE50D08AD8DB2DA6938F2BA2EE793ECB2545.PNG</Image>
+      <Description>Got Trixie ready to make Edna jealous.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Like a Not-So-Fine Wine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/7268C777589969F541C3F7E376AA41BA4BED19A0.PNG</Image>
+      <Description>Messed with Emmett's cleanser.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>A Not-So-Beautiful Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/E70E638B01386C3F998279B1C48BE9B5D5D7C45C.PNG</Image>
+      <Description>Crafted a mind map of Emmett that reveals him to be a "Degenerate Criminal."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>An Uncomfortable Truth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/48BF2236DF9508A87560DA214E2E43AE54C1BC81.PNG</Image>
+      <Description>Emmett is prophetically honest about his marriage prospects.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Timely Traveller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/94F5ABC951519691F2AA5A8FED7F2260AE9282FC.PNG</Image>
+      <Description>Take the fewest possible trips to Emmett's lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>There's a Moose?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/8C1117C5B5DAC99535DA6D5D35E3AB8711C74971.PNG</Image>
+      <Description>Get a good look at Trixie's postcard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>The Future isn't Written</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/4CF2F85AB49368F04BCA64E8B9E53806D932B30E.PNG</Image>
+      <Description>Returned home.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Emmett Finds His Muse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/A7832A4FBF9090AEE243634509AB20ACF162F589.PNG</Image>
+      <Description>Emmett completes his spectacular failure at the Expo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Crackpot Mended</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/D9A571A3BA9C2B129F4071AD127D99447C4BF6A8.PNG</Image>
+      <Description>Restored Edna's memory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Raising the Bar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/2289F33D12B61C29AE68192453074D9A890D0B9B.PNG</Image>
+      <Description>Prevented the Great Hill Valley Fire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Green Gobblin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/B426098A7746FDE1697FFCCE331B73667C68DC35.PNG</Image>
+      <Description>Treated Desert Edna to an algae cake.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>A Prickly Pair</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/5B68C89C50E0FDEEA972F05FE5CF1A3105511474.PNG</Image>
+      <Description>Had a conversation with a cactus.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>No Backups</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/7F52A78F65FEB809A25D8469DFD16DE351C0D64C.PNG</Image>
+      <Description>Complete the glass house maze without going back up the stairs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>False Impressions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/FC43571E5D7439CC7C1988F824275256BFCFC150.PNG</Image>
+      <Description>Impersonated three people over the phone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Get it on Tape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/0603FFF65623B39619CCC9AB2268FE62DA7770E7.PNG</Image>
+      <Description>Recorded everyone at the Expo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Full Fair</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/F9C55C249B511366C4F76D0E424A628B1F4FC469.PNG</Image>
+      <Description>Get your money's worth at the Expo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Two-Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/D0EC24E6840FED8F79B0115E9875F89DF011B4FD.PNG</Image>
+      <Description>Solve the saloon puzzle with no more than two trips to the second floor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR02751_00</GameId>
+      <Title>Moonwalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02751_00_E226D82CDE98623947CA83D3C7AF13BB11DE0086/B3344410022F4C8585AE6E76ECB784A805E416A8.PNG</Image>
+      <Description>Busted a move, 80's style.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00856_00</Id>
+    <IdEurope></IdEurope>
+    <Title>LEGO Rock Band</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/3971EBEBF954DB8A2AED872800D0221B2EC2578E.PNG</Image>
+    <TrophiesCount Total="50" Bronze="37" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Rock the Universe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/00E16FACD1B3094E5208F55D83C93B039E2F33C9.PNG</Image>
+      <Description>Collect all bronze, silver and gold trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>New to the Scene</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/067DF90CA6A15F539F90F41C6CD887531AA5984A.PNG</Image>
+      <Description>Complete your first gig on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Tour de Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/F63C017B5F8C450E136B5A69322436B28CEA2E59.PNG</Image>
+      <Description>Play at every venue on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Veteran Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/D90AC7078199395E99E735CCC00C7A231B44DDAB.PNG</Image>
+      <Description>Complete all gigs on the World Tour (except for the Rock Marathon Setlist and Endless Setlist)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Long-Distance Rocker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/65C16FDB0927C1E72B23DA76576954169BBD5F7F.PNG</Image>
+      <Description>Complete the Rock Marathon Setlist on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Endless Shameless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/78B456F824116D7D05C5181EC55153F543A61858.PNG</Image>
+      <Description>Complete the Endless Setlist on the World Tour</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Got Wheels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/471EA4AAA8E5C376DF0066EB02FD236A52588EEF.PNG</Image>
+      <Description>Purchase the 2nd vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Sea Legs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/55CABC3B98BF7B3A46842FBFCCD8F7150706E045.PNG</Image>
+      <Description>Purchase the 3rd vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Rotary Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/1DE7BE2499467590D83EA3F9D49FD31AA935102E.PNG</Image>
+      <Description>Purchase the 4th vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Open Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/D1DAD35C8B3651C3634CBD265CC96CC3B734B52F.PNG</Image>
+      <Description>Purchase the 5th vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Walking on Air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/9344501D1418E3C2A89330BF8E2D4343449F19CC.PNG</Image>
+      <Description>Purchase the 6th vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Into the Deep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/2360384AE3305E01A18E02660417ABEB520762B4.PNG</Image>
+      <Description>Purchase the 7th vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Jet Setter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/21CA7103E64E73E69A12B10FDE54EC8B3AD77794.PNG</Image>
+      <Description>Purchase the 8th vehicle on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Teleportation Nation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/BDACD78CDC53F6F6042E3B17EF890884B9CCAC51.PNG</Image>
+      <Description>Unlock the Teleporter on the World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Rock the House Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/6A5FC61A4B0047D3742BE3C088FA48AD73EC9C48.PNG</Image>
+      <Description>Complete the Wreck 'n' Roll Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>The School of Shock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/95B38D4E60C857619143B2BE074CD50A0E0F199F.PNG</Image>
+      <Description>Complete the Shock Band Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Kickin The Tentacles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/2D6B50B82AA8B7A70873EBC931D1986CC42F7297.PNG</Image>
+      <Description>Complete the Rocktopus Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Rain King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/C9430972A69F4D48821E1D05868F4C98063875B6.PNG</Image>
+      <Description>Complete the Rock the Crop Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>No More Mr. Ice Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/F3A7197F0B230F99985A0C95C50831D63778A3DC.PNG</Image>
+      <Description>Complete the Rock the Boat Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Dooyafinkhesaurus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/E9BB43D38F8AB8B59A24C22B8232AC69D6CDB21C.PNG</Image>
+      <Description>Complete the Securi-T-Rex Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Royal Command Performance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/91FF19ECD44DF3E08F09BB73523C433EDCFFBB06.PNG</Image>
+      <Description>Complete the Kings of Rock 'n' Troll Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Start Me Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/467DDEF4CE6A0A50AE24305CEFC9EAE983929E49.PNG</Image>
+      <Description>Complete the Rock-It Fuel Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Armageddon Outta Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/D383F05368183266817F448BBD55322CE896EF3D.PNG</Image>
+      <Description>Complete the Stop the Rock, Rock Power Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Roadie Revolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/0C7F9523ACFC86D1813BF1BD490E596E3BBCA7B2.PNG</Image>
+      <Description>Hire a Road Crew</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Pencil Pusher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/65D5975EE77106189020F5EBA6E79ED875FC9F3C.PNG</Image>
+      <Description>Hire a Band Manager</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>You're Hired!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/CCEB8273953A44D2B8BA24AAA8A64A1FA9263CC1.PNG</Image>
+      <Description>Hire an Entourage member</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>#1 Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/D5BD90037810C85BD7B604DE752A0B431131FBD5.PNG</Image>
+      <Description>Hire all Entourage members</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Hovel, Sweet Hovel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/3DA0D48FCAD38E316E4E76463297774EDDDD07FA.PNG</Image>
+      <Description>Purchase one item of rock den furniture</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>House Proud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/61AB2197D93E3A03CD147CAAD87846783F52D9AB.PNG</Image>
+      <Description>Spend 100,000 studs on rock den furniture</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Luxury Living</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/9DFD8B63DAAAB9D6F63FF237A4CF00FF09810F1F.PNG</Image>
+      <Description>Spend 1,000,000 studs on rock den furniture</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Bare Essentials</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/79C4543595C238E61700AB13AD8563C0CB5AC36D.PNG</Image>
+      <Description>Purchase an item of clothing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Appetite for Apparel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/234A9F73928ED8B15E8489D4956FD1E70598735E.PNG</Image>
+      <Description>Spend 100,000 studs or more on items of clothing</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Fashion Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/B702A794354A837337E14B74B15549D9A9C1B78E.PNG</Image>
+      <Description>Spend 1,000,000 studs or more on items of clothing</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Gear Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/4E4FB64D8DCA6247CA9BA1BD33BCB223301A323A.PNG</Image>
+      <Description>Purchase an instrument</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Instrumental</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/0534926F33C54EC0883B735B8DC8C8B814F6E74B.PNG</Image>
+      <Description>Spend 1,000,000 studs or more on instruments</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Local Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/5B09638DFC6909B757AD03436398ED44943F1EFA.PNG</Image>
+      <Description>Get 100 fans</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Fan-TASTIC</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/93641148CDEE6A44AB1FCADE9D1F74B01FF6863B.PNG</Image>
+      <Description>Get 1,000,000 fans</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Twinkle, Twinkle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/2851C76525006C68E04737921360A3242A3CA9BA.PNG</Image>
+      <Description>Get 100 Stars</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Super Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/E79A7ED07963EC1B0F08211BF8438611B97429E7.PNG</Image>
+      <Description>Get 1000 Stars</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Universal Acclaim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/7A4728B467FDD52B1321E8265C40F065FCC6A221.PNG</Image>
+      <Description>Complete the Story</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Flawless Fretwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/A41AE6C0D65AC152676111AA9F015E71CC8AC640.PNG</Image>
+      <Description>Score 100% notes hit as a Guitarist</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Flawless Drumming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/8312502FAE148F1E1B5E5895C2480A0156EF9AF4.PNG</Image>
+      <Description>Score 100% notes hit as a Drummer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Flawless Singing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/0099F3B37707F137046B37CF2B7C381E706E62A7.PNG</Image>
+      <Description>Score a 100% rating as a Vocalist</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Flawless Groove</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/C8F41D8DEF645C564E9DAD8D504D7D3CED7A0D1D.PNG</Image>
+      <Description>Score 100% notes hit as a Bassist</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Stud Farm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/57E0F98C082D299EFF3DF0BD1EFE66BAA4350858.PNG</Image>
+      <Description>Achieve a 100% Stud Recovery during a performance</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Brian MAY Be Jealous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/653DE06A0C6D300152AE9598AAB15DB00979B409.PNG</Image>
+      <Description>100% a guitar solo on Expert</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>The Final Countdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/5EA180AD50F2485C0A6596FB3C31E5B48D5C92ED.PNG</Image>
+      <Description>Score 100% on the Guitar Solo in "The Final Countdown" on Expert</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>All Four One!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/FF9393F27BE7501D83EB988B57206E1AC5405D8D.PNG</Image>
+      <Description>Complete a song with four band members</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Practice Makes Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/5087C151D71803DD3476497A9CF4230DAA56948A.PNG</Image>
+      <Description>All four band members score 100% notes hit</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00856_00</GameId>
+      <Title>Solid Gold, Easy Action!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00856_00_001A9083B9F766C33012C1AF032BD8CEF213F953C7/7A18B75CC1274519D5626233ED3562ADD581DCEF.PNG</Image>
+      <Description>Gold Star any song</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

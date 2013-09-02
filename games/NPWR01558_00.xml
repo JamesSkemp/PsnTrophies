@@ -1,0 +1,394 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01558_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Majin and the Forsaken Kingdom™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/DF264C562B24EE77F16821428629908308941DC8.PNG</Image>
+    <TrophiesCount Total="42" Bronze="24" Silver="15" Gold="2" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Platinum!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/42A7EEE3D4DC512976D4961E7A168F0C9819432E.PNG</Image>
+      <Description>You've acquired all the Majin and the Forsaken Kingdom™ trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Majin Rescued</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/6D16C52368C86E9DC3E2A685FF476727CAD859E9.PNG</Image>
+      <Description>Save the Majin</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Escape from the Dark Castle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/C55DA09871E672811EDCE8A4D5FBC242D9A70067.PNG</Image>
+      <Description>Escape from the Dark Castle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Caprakan Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/6E61A81F8D9383AB57F9BE994A00E9CB76335ACF.PNG</Image>
+      <Description>Defeat Caprakan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>B'alam Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/476DF66D6E32CB07AED253C0AA1FCF5A68383C64.PNG</Image>
+      <Description>Defeat B'alam</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Tlaloc Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/80EDCF62FFD0A68D631EEA97E093918D2CF69A9D.PNG</Image>
+      <Description>Defeat Tlaloc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ixtab Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/93FE3386F4CC25D1A6550455558F025BB601E395.PNG</Image>
+      <Description>Defeat Ixtab</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>King of the Darkness Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/B35E89B9FE8500F8D85A46ADF2D0914482A6253B.PNG</Image>
+      <Description>Defeat the "Creator of All Darkness"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Peace in Q'umarkaj</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/A19D07C6080AB2DF9384591008C95878FAE21859.PNG</Image>
+      <Description>Go to the true ending</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Master of the Majin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/234EF0A8D6DEF9218645047696D2F832B4711DA3.PNG</Image>
+      <Description>Give the Majin more than 500 orders</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Majin Healer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/F0E60B3AD78FD905693937488E1A04CC87B9136B.PNG</Image>
+      <Description>Feed the Majin over 10 Blue Fruit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Wind Majin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/DD01F475E127AA4BE90F1997C3D95E0304C8C646.PNG</Image>
+      <Description>The Majin acquires "wind" ability</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Lightning Majin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/67806B2172C28F74A6E6EDEC55E035E8DE8E351D.PNG</Image>
+      <Description>The Majin acquires "lightning" ability</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Flame Majin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/7EAB4CA63A9225F0D6C3E84EF9F4975C4299D15E.PNG</Image>
+      <Description>The Majin acquires "flame" ability</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Purifying Majin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/4E8A1CEC41EAF2EACFCC19CA7155BB9F746A4FB2.PNG</Image>
+      <Description>The Majin acquires "purification" ability</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Health</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/D248055805436B31899030ECBF669B18F28D09EB.PNG</Image>
+      <Description>The Majin's "health" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Strength</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/79B492092B7C80E52A751AA67FEC326D748196BF.PNG</Image>
+      <Description>The Majin's "strength" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Wind Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/A96D50614618BA82CA85D6B1F072E4897FD37BB8.PNG</Image>
+      <Description>The Majin's "wind" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Lightning Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/D504F7AF1CC0E0B282BA4B4E193F594A4CD6A576.PNG</Image>
+      <Description>The Majin's "lightning" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Flame Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/F15A89E699EF9AC18797B2E8E02B6F0119AF5F44.PNG</Image>
+      <Description>The Majin's "flame" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Ultimate Purification Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/777E0DC6E4F5F99727F55F92057B5C96D69D1455.PNG</Image>
+      <Description>The Majin's "purification" ability rises to maximum</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Dark Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/682FD66E034B974CF5B37289C0EC84C8AC790BE0.PNG</Image>
+      <Description>Defeat over 100 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>One of a Kind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/86B3EF94196F3AEF862B44B8EA18065ED03745A3.PNG</Image>
+      <Description>Defeat over 500 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Trap Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/C8956E4A25CF0523FF95B21DC01AE77C7311CDC5.PNG</Image>
+      <Description>Defeat over 30 enemies with traps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/487D1C5C548F6A5FE97837485C322CCF28641328.PNG</Image>
+      <Description>Open all treasure chests</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Immortal Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/03C32619A92A41298E7D0EA3B67EA6D48D22334F.PNG</Image>
+      <Description>Have the Majin revive you 3 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Chatterbox</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/C335177DBE0642F71ACAA59F92B3D2D4F235F9D6.PNG</Image>
+      <Description>Talk to the Majin 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Majin Bodyguard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/952ABFF278144C5E9928CB6F8C71EA6EF04DCAC0.PNG</Image>
+      <Description>Help the Majin out when he's in trouble 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Majin Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/B6E298ECFD73E5BB72212B7B77B67C552E7F9D1A.PNG</Image>
+      <Description>Help the Majin out when he's in trouble 30 times.
+</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>One Enthralled by Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/9A510D6AEE8F6258B4345E3F84726EC3924F8ACB.PNG</Image>
+      <Description>Become "haunted by darkness" 10 times.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Headlong Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/9F1D566FDA280F25A953716CA261A80171576E4E.PNG</Image>
+      <Description>Attack shielded enemies 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Sneak Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/C889D47E541CBBF8766A27535A20CB3BAA9F872A.PNG</Image>
+      <Description>Defeat 50 enemies with sneak attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Combination Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/90E45C3DE325E1FCF8EEA34670903EEBFD7B85B4.PNG</Image>
+      <Description>Defeat 300 enemies with combination attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Finish Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/0714DE9178907C72B22541E261C2CB75F15AB1BE.PNG</Image>
+      <Description>Defeat more than 50 enemies with finish attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Battle Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/4B6258A4C14B850499388DBF4EFD7D8BAB9492FB.PNG</Image>
+      <Description>Defeat 5 or more enemies at once using a finish or combination attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Wind God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/86CE2386DB8CDF84C35E97CA9DF8D884D837CC5F.PNG</Image>
+      <Description>Defeat over 10 enemies with a wind finish attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Lightning God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/914031F0E2F5B94CF968C6CEAF3E09C462B95A11.PNG</Image>
+      <Description>Defeat over 10 enemies with a lightning finish attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Flame God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/EE0D520615A99143AC007168CAEC97BAA4A23CF2.PNG</Image>
+      <Description>Defeat over 10 enemies with a flame finish attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Purification God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/E43F04B94B65206A22CC9E1E9BCBFFF987AF330D.PNG</Image>
+      <Description>Defeat over 10 enemies with a purification finish attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Cosplay Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/75FD4ED4A92781820CF3EED1070B2932C5F5F7E0.PNG</Image>
+      <Description>Get 3 full costume sets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Cosplay Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/EE22051DA9DF1A6452020B2AEE4F8E88088236C0.PNG</Image>
+      <Description>Get all costumes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01558_00</GameId>
+      <Title>Brave One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01558_00_C6F82AFA986D31C00FF1A93E8EB8CC23A28023DC/3B37D5F48E414219CC3BF505F05DF882946719C8.PNG</Image>
+      <Description>Raise Friendship level and Tepeu's level to max</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

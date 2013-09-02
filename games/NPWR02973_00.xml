@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02973_00</Id>
+    <IdEurope></IdEurope>
+    <Title>TEKKEN TAG TOURNAMENT 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/93F36F3901F55789CC1321D469A6B9F830A4485C.PNG</Image>
+    <TrophiesCount Total="50" Bronze="36" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>All Hail, Tekken Incarnate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/9CB8ECF49A44CC5EB4225606708AEBBC0E943CF2.PNG</Image>
+      <Description>You earned everything.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Be Still My Iron Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/2795F3EC140877B0D13EFE2D832F5BEE74E2880A.PNG</Image>
+      <Description>You won a ranked match in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Tug at My Iron Heart Strings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/D6DE8E8C2D1C131F1EDC02F5D5F9AFC99DF49C5F.PNG</Image>
+      <Description>You won a player match in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Iron Heartache</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/C12B3421911BAF45BFA37C1D46585B09E5B8398B.PNG</Image>
+      <Description>You fought 3 times in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Tekken Black Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/A15D744F77D458537E39B45B5383B61B7B21CB6B.PNG</Image>
+      <Description>You earned 1st dan in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Enter the Vanquisher!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/DE7D6DB524E149547F9CDFF49E9654DDE1914623.PNG</Image>
+      <Description>You earned Vanquisher in Offline Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Behold the Tekken Lord!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/525F5CA5825CF1FDA03272BF919F0016741DEF31.PNG</Image>
+      <Description>You became Tekken Lord in Offline Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Preeminent Partner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/789519CBB29082F35271259C6A4C07D2BD932C44.PNG</Image>
+      <Description>You cleared an Offline Mode arcade battle with a partner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Solo Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/EB728680DA5A2A8B4284576707A1C0EF35B0DD77.PNG</Image>
+      <Description>You cleared an Offline Mode arcade battle solo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Tenacious Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/9290F07AC7537823E982F52D88659746513C5A66.PNG</Image>
+      <Description>You won 3 team battles in Offline Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Super-Speed Fists</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/9BFCD77260FA7DC5183FF79158CE35524B0C4166.PNG</Image>
+      <Description>You cleared Offline Mode Time Attack within 20 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Proof of Your Existence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/D374B993666D89D5BE339FED2FC8314A101FCF08.PNG</Image>
+      <Description>You won 10 consecutive battles in Survival in Offline Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Lead Coach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/E305B9FC4D482F108E451B29C5CA505C8528DF77.PNG</Image>
+      <Description>You dealt a total of 1000 damage in Practice in Offline Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Touch-Up Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/D0785A1687C744635FC27B91F0C846469736C26A.PNG</Image>
+      <Description>You customized a character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Dance to Your Own Beat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/21EC707A5D6062144B220BC8710D9DB2905CCE5C.PNG</Image>
+      <Description>You changed the background music using TEKKEN TUNES.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Movie Buff</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/B40E1941042B0E14467C74C9C96E9385B34354BB.PNG</Image>
+      <Description>You unlocked 40 characters' ending movies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Combot, On Standby!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/A13F513407E5C12AA5E027AF6925326C59F8B686.PNG</Image>
+      <Description>You cleared Stage 1 in Fight Lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Combot, Move Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/676504DF03024F67A6DE169EFF2E7D61D74A1E0F.PNG</Image>
+      <Description>You cleared Stage 2 in Fight Lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Combot, Engage!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/A335E3C3E7A4E9512C67DCB7AA829BE3E13C62D6.PNG</Image>
+      <Description>You cleared Stage 3 in Fight Lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Combot, Annihilate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/DF6B3C1462ED22D4E931563009C3F68B780B3A18.PNG</Image>
+      <Description>You cleared Stage 4 in Fight Lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Combot, Return to Base!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/A44548131F0F8A877CEA379D1DA4596BFC3A3B69.PNG</Image>
+      <Description>You cleared Stage 5 in Fight Lab.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Super Combot DX Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/578421E60C8057B23B19A97305DF5F32C256C995.PNG</Image>
+      <Description>You unlocked all the content in Fight Lab.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>PERFECT Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/EC6157E97DCB095790BF58B7217C51281AB1444A.PNG</Image>
+      <Description>You won a PERFECT battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>GREAT Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/7ECB388FEA11E5733A6F70AF9429CBACB691F467.PNG</Image>
+      <Description>You won a GREAT battle.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Secret Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/D7B480B251BF9B9DDBC25C51FAF19C0352FA0312.PNG</Image>
+      <Description>You used an item move.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Who You Gonna Call?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/10C57DB71560F3761539963BAFF7115489C65C8E.PNG</Image>
+      <Description>You defeated 30 ghosts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Bazillionaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/686608C9A9CCBBFFB7E7CD9577164F84AC15254E.PNG</Image>
+      <Description>You earned over 10,000,000G total.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Fortunate Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/E3FBB12C51B06A5440CE8DEFAC90F33F100ECAEB.PNG</Image>
+      <Description>You earned 3 Lucky Boxes.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Escape Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/5DD41900784289E141A3CF4E414E3F32E5228340.PNG</Image>
+      <Description>You successfully completed 10 throw escapes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Dish Best Served Cold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/D288256A6FDAF2A7B0088D5A5A6094BEB8025CC7.PNG</Image>
+      <Description>You pulled off 3 reversals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Stick It to 'Em</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/F78971324E8D44525C8A2FF836BFB4F6957C221C.PNG</Image>
+      <Description>You pulled off 10 homing attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Below the Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/504A92704E0E19FAD8087FFCB9B4580A93771CED.PNG</Image>
+      <Description>You pulled off 3 low parries.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Oodles of Ukemi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/C189BA19B0747BFDA0699A32989A7B02EDE1DA80.PNG</Image>
+      <Description>You pulled off 3 ukemi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Insane Juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/4FD89BD544011D9DA3D4332CA7EF08DE5B58DE39.PNG</Image>
+      <Description>You dealt more than 62 damage in a midair combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Flying Butt-Kicker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/71D8796DC7A3415551BED25D1540637C6D442EB1.PNG</Image>
+      <Description>You pulled off 3 10 hit combos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>The Original Bouncer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/6335B02F511E6C256B2E2CB7EBB365324F4A846D.PNG</Image>
+      <Description>You pulled off 10 bound combos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Master of the Tag Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/7DCAE404BF8010ABD2EFDBFF2930D6F3F3B0FA9E.PNG</Image>
+      <Description>You pulled off 10 Tag Combos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Master of the Tag Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/8283BAABA359202E76157DD53271A1B5C1B101DF.PNG</Image>
+      <Description>You pulled off 10 Tag Assaults.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Master of the Direct Tag Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/2CCE64D32E8B6F167737AEB8BEC34004603F8A86.PNG</Image>
+      <Description>You pulled off 3 Direct Tag Assaults.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Master of the Tag Throw</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/DE839A3E73958929D2B1F8C3B7C85143E2A0DB7D.PNG</Image>
+      <Description>You pulled off 10 Tag Throws.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>True Friendship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/87BEB4299288A157113169F2CC0CB1D1C7317C34.PNG</Image>
+      <Description>You pulled off 3 Tag Crashes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>The Best of Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/1E2C3591F99B3A1117E554C028F4BAC48B64E549.PNG</Image>
+      <Description>You pulled off 3 partner-specific Tag Throws.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Impressive Moves</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/141297A64AE5B66A766B2B9CBA9F276D0CE75DA8.PNG</Image>
+      <Description>You pulled off a GREAT combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Fickle Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/E1747696297949875390CB8E8D02D59073267462.PNG</Image>
+      <Description>You switched places with your partner 765 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Watch Your Step!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/8F98FDD2DE111F5A4E64FF3AD240D3BE0202B170.PNG</Image>
+      <Description>You broke a floor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Renovation Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/65A93C44133795FFB08A86E8793169A7B81C6827.PNG</Image>
+      <Description>You broke a wall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Geronimooo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/F87CB910C6F8E5E589A8A0FEE847E2A9D9B70AFA.PNG</Image>
+      <Description>You broke a balcony.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Avoid Flying Heads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/E0E0A4995336A7A355AC9144D6FBAAFCAE16BFB2.PNG</Image>
+      <Description>You escaped from Alisa's Spam Bomb move.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Doused But Not Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/A8AABB2B81C1E0E7D405B4ED4E9B7EB763745F56.PNG</Image>
+      <Description>Your upper body got wet in the Fallen Garden stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02973_00</GameId>
+      <Title>Bad Date</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02973_00_39C9ADD428CDEE4ACA1B35FC14E25626E13DF30F/E02E0F962A22C7BBFA39BC1C052B8011AFF3D370.PNG</Image>
+      <Description>You dropped a damsel into the pool in the Eternal Paradise stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

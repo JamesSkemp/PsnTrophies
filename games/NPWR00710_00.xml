@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00710_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Fritz Chess</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/F91208BF29A4C7B61F889C81AFE5777F672E95EB.PNG</Image>
+    <TrophiesCount Total="37" Bronze="24" Silver="7" Gold="5" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/B10E211CEA28D86E291C332D1F7BC2D46569029A.PNG</Image>
+      <Description>Collect all the trophies in Fritz Chess to unlock this platinum trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/00B8FD43E167C4E9CDAA41C5918AD7D00B5F145F.PNG</Image>
+      <Description>Win 1 match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Up and comer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/4E5DE059160213222A0F5CFD793E80501E469D19.PNG</Image>
+      <Description>Win 5 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/FB421EB25A66CAC19106BC32C2DE339A0EF4DF24.PNG</Image>
+      <Description>Win 10 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/BDE5EF6A9D69FF9D623743C6124A12378FA4F76E.PNG</Image>
+      <Description>Win 15 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/95E3023DE800F461B021BD6615B2B59A5F785286.PNG</Image>
+      <Description>Win 20 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Venerable Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/483849B0B4F4BCB2A68A710458C64D0E28B3D0CB.PNG</Image>
+      <Description>Win 25 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Quick and deadly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/B32281A80D0E27B6E682953166A81E9F67FF4180.PNG</Image>
+      <Description>Win 1 match without Time Limit in under 10 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Fastest shooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/603AD1AF40C20A3AD8FE9C6728777507A4D59570.PNG</Image>
+      <Description>Win 1 match without Time Limit in under 5 minutes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Bully</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/5D7A66FFAAED3BACD6A05DA0464A4353C467AAA6.PNG</Image>
+      <Description>Win 1 match against an opponent with an ELO less than 500</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Conniver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/06BF98E26551877EAE97B96922F091BBC65ED787.PNG</Image>
+      <Description>Win 1 match against an opponent with an ELO 1000 or higher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Giant killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/8477DB56488720D18B5979FBC0F91DF457B9774C.PNG</Image>
+      <Description>Win 1 match against an opponent with an ELO 1500 or higher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Legendary Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/0649BDE6651BA945E4B552725E35A1CDFFC76355.PNG</Image>
+      <Description>Win 1 match against an opponent with an ELO 2000 or higher</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>David against Goliath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/BBED483C680AB892CDE98B2B76EDD0121D12CA2D.PNG</Image>
+      <Description>Win at Free Chess against an opponent with an ELO higher than yours</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/2A125C5A1578F8DA36EBFB1CD1296C93F91472E4.PNG</Image>
+      <Description>Solve 10 puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Disciple</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/284E3D99EA30D3239F477BA32F4B4A0EE1631FB7.PNG</Image>
+      <Description>Solve 30 puzzles</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Scholastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/C12377B06CC41A47AD1963C488E122FD83281963.PNG</Image>
+      <Description>Solve 45 puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Knowledgeable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/EE47C5AC57725D498F1AD51A4CDA5D5C1CA3006E.PNG</Image>
+      <Description>Solve 60 puzzles</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Tough opponent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/9DA340927CA4FD3F3667F8A80978CC2D62672470.PNG</Image>
+      <Description>Win 30 matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Respected opponent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/F0F31CD41D5DC710017E578FB315744B38C06EFA.PNG</Image>
+      <Description>Win 35 matches</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Duelist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/BA293ACEE8BA8D6ECCB56EF7C0FF00D6DE5CACA8.PNG</Image>
+      <Description>Win 40 matches</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Devastating attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/1D93F2FD057F61E48BE31CDC06B533C212CD743F.PNG</Image>
+      <Description>Capture all the pieces in a game of Classic Chess</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Chess Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/A543EAD2FA4897F8587459FF45A027D693D3FA5F.PNG</Image>
+      <Description>Play 20 games</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Crazy about Chess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/E2F6AC1EEAC98A9327F2E97D69D293F3EB284B09.PNG</Image>
+      <Description>Play 50 games</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Chess Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/9B7993A37C135BDD555F7DDE2DD303697E3B033A.PNG</Image>
+      <Description>Play 100 games</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Gored Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/AE6B717135175E6956E51598EF5034B876023910.PNG</Image>
+      <Description>Defeat the Guard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Brutalized Brute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/F9CBC446F0F9A5BCBDC042ACF407E3A7FEBCE4FA.PNG</Image>
+      <Description>Defeat the Brute</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Jeered Jester</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/194EF1C2C5BCC57325740994FE42E4F8830D6D39.PNG</Image>
+      <Description>Defeat the Jester</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Mashed Merchant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/1962EA25F400B9DEDBEC92E0B76AE8C1782F85BE.PNG</Image>
+      <Description>Defeat the Merchant</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Hurt Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/805462282ADC385C7275BB6E8BF4975770A0E380.PNG</Image>
+      <Description>Defeat the Hero</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Splattered Spy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/0792BBFA3DEE5821877C1B803D9351FABDC41843.PNG</Image>
+      <Description>Defeat the Spy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Baffled Bishop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/910F668AF417DFBF5BE567A999D2B21D775A1F2E.PNG</Image>
+      <Description>Defeat the Bishop</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Noxious Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/0D37D0CE55780EDDED7386D2DC8C487ECD92F306.PNG</Image>
+      <Description>Defeat the Black Knight</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Crazed Queen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/EF5385A2F7CB1E4B359C89ECACAC4273CB2E7AE7.PNG</Image>
+      <Description>Defeat the White Queen</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>KO'd King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/E10721C072495E1B17C261E39A07CED40656BCD3.PNG</Image>
+      <Description>Defeat the Black King</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Chess King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/9A805204D414564B6161596DF73ABEC26E7F9F2C.PNG</Image>
+      <Description>Complete the Adventure Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00710_00</GameId>
+      <Title>Character celebration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00710_00_00185EF6F732CAC1C85900AE511A8FB866D23AD99A/1FFE87E9120CC2C14D96792F36A19EAD195981E9.PNG</Image>
+      <Description>Play a game with the Adventure set</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

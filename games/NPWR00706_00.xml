@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00706_00</Id>
+    <IdEurope></IdEurope>
+    <Title>BUZZ!™ Junior: RoboJam</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/814109418824A8F60C58CF0D393933F321D4E52F.PNG</Image>
+    <TrophiesCount Total="11" Bronze="5" Silver="5" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Mallet Masher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/9CBC9D2C7A9F922BEFCF214628BA66779A141BE5.PNG</Image>
+      <Description>Score a minimum of 4200 points in single player mode in Mad Mallets. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Mallet Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/0526DEB9F30CFF4BB8A24157E456014DF2701BF1.PNG</Image>
+      <Description>Score a minimum of 6600 points in a single player game of Mad Mallets.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/E9181538FDA61B3E8C6E9E7C01359393A5EA1269.PNG</Image>
+      <Description>Finish a race in single player without blowing up in Nitro Racing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Front Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/38719A88ADDFDA911F3DC753335D0F0D5080E1D1.PNG</Image>
+      <Description>Win all races in Nitro Racing in single player mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Fastest Finger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/F5495A2F20FE3C6FE03BBBCF92A11B41D6131AB9.PNG</Image>
+      <Description>Score a minimum of 3500 points in single player mode in Odd Bot Out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Eagle Eyed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/2D940BD60EF29372913FDA115274C082A089A4D3.PNG</Image>
+      <Description>Score a minimum of 6500 points in single player mode in Odd Bot Out.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Feathered Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/392820D267B0637A773E584CB0813977D4C55001.PNG</Image>
+      <Description>Score a minimum of 2500 points in single player mode in Pillow Fight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/38B887B72E9836C4476BDDB2CBEE98AADDBEA422.PNG</Image>
+      <Description>Don't get hit once in a single player game of Pillow Fight.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Risky Robot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/A49AB6AD550FD3AAE5E2D070ED3486C4E892AD1B.PNG</Image>
+      <Description>Score a minimum of 1800 points in single player mode in Piston Peril.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Nerves of Steel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/D6DB3C3D96EC3D0E137626F416A1D8A37D9E6D21.PNG</Image>
+      <Description>Avoid getting crushed in all the rounds of Piston Peril in single player mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00706_00</GameId>
+      <Title>Super Bot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00706_00_00A24081B6938C25904D4174D9FE1FFC6C8421E4F4/9C3CFCFC07A3DECE3931A41FD404168D11D7DFD3.PNG</Image>
+      <Description>Win a standard single player game with the AI bots set to hard.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

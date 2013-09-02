@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03650_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Wonderbook™: Book of Spells</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/4E985A1288E28E76F5D75531BFD8E834565B7334.PNG</Image>
+    <TrophiesCount Total="36" Bronze="20" Silver="10" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>First Edition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/2F1FDBB57B63884EF4FAE268E3545DB31D1B48E9.PNG</Image>
+      <Description>Display the virtues required to master the 'Book of Spells'.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Swish and Flick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/0049905DC30D9489E98E22FF7E5F4E489E0711D7.PNG</Image>
+      <Description>Successfully cast the Levitation Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Budding Herbologist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/83FD793E47423F0C1191D73BCCDAEE1B23FCBAAA.PNG</Image>
+      <Description>Re-pot the Mandrakes in the Levitation Charm practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Aguamenti!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/94B14BFF6BA0E5C31846603CCFFD9BD7187A65C9.PNG</Image>
+      <Description>Successfully cast the Water-Making Spell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Alohomora!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/F7BA80DE1FD4582CEE4178A23C243EC3CDA93931.PNG</Image>
+      <Description>Successfully cast the Unlocking Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Lumos!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/2FF296C846151C69CDF5775F54AB6F74D333EFEC.PNG</Image>
+      <Description>Successfully cast the Wand-Lighting Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Light relief</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/9DC6E282E5A0EAD47150CFCAD13C095D406DBA51.PNG</Image>
+      <Description>Fend off the Devil’s Snare in the Wand-Lighting Charm practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Teach us something please</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/EC0B709A1E2ACB3D8A7813DA798F92A6B8055DFA.PNG</Image>
+      <Description>Pass Chapter 1 test and prove you know the first set of wizard values.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Incendio!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/10166668D8CBC4BEDBD5F939333210879977B5CC.PNG</Image>
+      <Description>Successfully cast the Fire-Making Spell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Fight fire with fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/FFE051DA839FD4F839DB681D4D0A9DF0B735DEF8.PNG</Image>
+      <Description>Defeat the dragon in the Fire-Making Spell practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Feathered friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/D542F6485253117C25E693E6686955CF0C02F14D.PNG</Image>
+      <Description>Successfully cast the Bird-Conjuring Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Aparecium!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/991267494790639A801614F370E20D10F75CCAB7.PNG</Image>
+      <Description>Successfully cast the Revealing Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Extra pumpkin pie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/C7CDC3E37530988B727D5CAE754E62314426417D.PNG</Image>
+      <Description>Successfully cast the Engorgement Charm and Shrinking Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Pick on someone your own size</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/DC01E73419852381BA7CA402657324E58A67CAF5.PNG</Image>
+      <Description>Help the Knarls teach the Gnomes a lesson in the Engorgement Charm and Shrinking Charm practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>If you’ve a ready mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/8259D7E3D66759ADDAA7052E08F556C181787AC4.PNG</Image>
+      <Description>Pass Chapter 2 test and prove you know the second set of wizard values.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Defodio!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/AC54D7E76FD3ED092DE8861B7C56F3F1D47FDB2E.PNG</Image>
+      <Description>Successfully cast the Gouging Spell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Buried Treasure </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/49393BCCED2875B616BD2285B49FB02F5F9884B7.PNG</Image>
+      <Description>Find some treasure buried by the Nifflers in the Gouging Spell practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>No need for Spellotape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/D281D38A5B8ECCC4BC81E0FA3009B7D7610E760C.PNG</Image>
+      <Description>Successfully cast the Mending Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Practical Household Magic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/3877FEFDF705859820F02A59BC27C363CC3BB3FD.PNG</Image>
+      <Description>Successfully cast the Scouring Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Protego!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/9C4BD9D04DDA317D4635364E45B3B02003AA7D7C.PNG</Image>
+      <Description>Successfully cast the Shield Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Unafraid of toil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/72F94E43654ECCAFC1EFAFAF860F664EBDE41AA8.PNG</Image>
+      <Description>Pass Chapter 3 test and prove you know the third set of wizard values.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Accio!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/A4D19290FC4BF0D262AB8ACB7C7DB930AD55C080.PNG</Image>
+      <Description>Successfully cast the Summoning Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Checkmate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/C69E9CC8244C5B712A41B2A9AA3F56C0E5DBA9B4.PNG</Image>
+      <Description>Summon the wizard chess pieces in the Summoning Charm practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Diffindo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/8BD530376796BAADC903406D58B43CFF9395F81A.PNG</Image>
+      <Description>Successfully cast the Severing Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Impedimenta!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/E68CD0242E9E75C70E259A62A6609BA881AC97C2.PNG</Image>
+      <Description>Successfully cast the Impediment Jinx.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Stop right there!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/00BC6969DB41F9D1DAE33387F0187F04A3CC6D95.PNG</Image>
+      <Description>Stop the Gnome in the Impediment Jinx practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Hard knocks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/30E41377216122E57F85A1ACF2EBD304558A9914.PNG</Image>
+      <Description>Successfully cast the Hardening Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>On Solid Ground</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/B23695A1A8D2A7C770983BAD7F86D13E6F7A0420.PNG</Image>
+      <Description>Foil the Nifflers in the Hardening Charm practice.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>By any means...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/6216E0CE1D33CA4F3ED399D61C3F40E95968257C.PNG</Image>
+      <Description>Pass Chapter 4 test and prove you know the fourth set of wizard values.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Expelliarmus!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/70094FDB1C0D5D09796646D611C8838AC1132494.PNG</Image>
+      <Description>Successfully cast the Disarming Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Reducto!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/6B8381EEA6F8B3F600EDCDE292E61817DCB09344.PNG</Image>
+      <Description>Successfully cast the Reductor Curse</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Stupefy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/93376588415DFFFBF1153C71368A29E05E3215F6.PNG</Image>
+      <Description>Successfully cast the Stunning Spell.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Duellist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/602E608741EEC44FD9B08D8ABBC8B356498B4D16.PNG</Image>
+      <Description>Defeat the wizards using the duelling spells in the practices for Shield Charm and Disarming Charm.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Expecto Patronum!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/5209175C31A38D08BE353F14E0165A7B3A1CB86C.PNG</Image>
+      <Description>Successfully cast the Patronus Charm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>True Patronus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/81C79F415AA06D4945E4807B05070E0B13E017EF.PNG</Image>
+      <Description>Make your Patronus appear in the safety of the classroom.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03650_00</GameId>
+      <Title>Pure nerve</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03650_00_4D3BE1CB6D605A72A00ED6ADD6B86FD3F1C8C21E/AB9C56A0DE37CD28FE4B32327D88B2D95F198EA1.PNG</Image>
+      <Description>Pass Chapter 5 test and prove you know the final set of wizard values.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

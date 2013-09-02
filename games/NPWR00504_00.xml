@@ -1,0 +1,438 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00504_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SAW</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/26D2D83C94680FC64AFB62EFCCE621FE6CEBF699.PNG</Image>
+    <TrophiesCount Total="47" Bronze="31" Silver="13" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Congratulations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/EFC5748C8DE6A54F584820F4917190746EE7B799.PNG</Image>
+      <Description>Acquired all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>It's A Trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/90FD3CCB4AE3D37E77C8A5A8C8F14385FAB844A4.PNG</Image>
+      <Description>Complete Reverse Bear Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>What Was That?!?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/81D310B11F2C1AA6D295D3DC9D1041A88E96AE24.PNG</Image>
+      <Description>First encounter with Pighead.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Damaged Goods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/6E5DDE20CBA219D407743A43EC6767A30B88DBFD.PNG</Image>
+      <Description>Release Amanda from her Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Hit And Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/C22EE04047726560CC9A004E7CE0A13F4AA6BE27.PNG</Image>
+      <Description>Release Jennings from his Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Absent Parent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/3DD370E1EEACF16BCCA1546251386E04A602F9AA.PNG</Image>
+      <Description>Release Melissa from her Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Aphasia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/5AE41EB4E862C6CC537F3B6CDF598A4F76E1882D.PNG</Image>
+      <Description>Release Oswald from his Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Eager Student</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/1BB2017033AEF313D65EC3EF8F3A15F572788650.PNG</Image>
+      <Description>Release Obi from his Trap. </Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Born Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/528CC24448B033A4536E1FCA0093867C133AF829.PNG</Image>
+      <Description>Release Jeff from his Trap.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Violence Begets Violence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/2156E9F852563A8B2C2A209DC93965AC16D365DE.PNG</Image>
+      <Description>Kill the Pighead.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Never Truly Free</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/56AB0BDA0AA5D7594AE4C888C7655BFC9B7A5604.PNG</Image>
+      <Description>Complete game using Freedom Door. </Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Cost of the Truth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/DB5611237132D3CBCBACD3FE369CB4D3D4B8510E.PNG</Image>
+      <Description>Complete game using Truth Door. </Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Treasure!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/4335D0FB37710EEA1D8D4BF02B20A9D99D791E20.PNG</Image>
+      <Description>Unlock first container.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>It Was An Accident</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/770F806628D005FF9B319A9BB31385EC8BAB174A.PNG</Image>
+      <Description>Kill first minion. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Self-Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/3205A68B3331753C4FE47C0078503010A3458D47.PNG</Image>
+      <Description>Kill 10 minions. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Duress</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/7432DEB48539B6E6DD856304018F27E7F4852656.PNG</Image>
+      <Description>Kill 20 minions. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Just Experimenting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/055D98646EA1C68108C231CC5E33804CEB6D24EB.PNG</Image>
+      <Description>Used Health Syringe for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>I Can Stop Anytime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/2BC12ADF7B9A4C4A4C835E0B79AB3220C4DF4CB5.PNG</Image>
+      <Description>Used 20 Health Syringes. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>You've Wasted Your Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/4CC27A099C3FE8C3039C5F3F06FACEF99BA85BD2.PNG</Image>
+      <Description>Idle for five minutes. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Would You Like To Know More?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F99C8A9A2752DA53193FFDF7A49FC47D07E3A300.PNG</Image>
+      <Description>Find your first Asylum File. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Who Is The Jigsaw Killer?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/CCE01A757A0900039495F960C746D2C547CEFDB0.PNG</Image>
+      <Description>Find your first Patient File. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Darwin Would Be Proud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/2D4A7B846CAA5E60956B61C86BE4495582E46E3B.PNG</Image>
+      <Description>Died once. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Kill Or Be Killed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/809E346A481D8286AAC05443F9606ED6BD9FBF98.PNG</Image>
+      <Description>Killed a Collared Minion with a collar detonation.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Give Me Five!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/1FBE2C5333F613E3A1BE9FBD156C31F0742B5AEC.PNG</Image>
+      <Description>First kill with a Mannequin Arm. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Homerun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/D30FD34E49B174052B2A62D5C28179EDEE16CCA0.PNG</Image>
+      <Description>First kill with a Bat. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Sometimes It Sticks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/AE578C57D5021E8FD1551C31B0E6F3B87380A070.PNG</Image>
+      <Description>First kill with a Nail Bat. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Cleaning Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/4F8CFA8B5214E098EDEC720DE424C3DAEF6069B2.PNG</Image>
+      <Description>First kill with a Mop Handle. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Pipe Dream</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/53EDB8D9E9B873C17DE28EFCED0AE4326011E25E.PNG</Image>
+      <Description>First kill with a Pipe. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Surgeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/AD82A846335D66811143DB3B639492EEEF2116F2.PNG</Image>
+      <Description>First kill with a Scalpel. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Penetrated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/358F0A1AC3C4F3C032EC1E77797F304AB186A85D.PNG</Image>
+      <Description>First kill with a Syringe.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>You've Been Served</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/C1D4CF006C8A9EFFA368100659FE8E7850C6F393.PNG</Image>
+      <Description>First kill with a Table Leg. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>You'll Need This Afterwards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/8973F1A94B3610D24C71BDE825322F9D6198677E.PNG</Image>
+      <Description>First kill with a Crutch.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Grave Digger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F97413FBACEF7CDE6EFD1642BD17E37F7CB244B7.PNG</Image>
+      <Description>First kill with a Shovel.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Lights Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/DF1676F06B38D5DCFCA5BEEDDC5F2A29295DD792.PNG</Image>
+      <Description>First kill with a Table Lamp.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Hatchet Job</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/A74EFE4FA90C2A91AD3EDA85D66BFC990A868F1E.PNG</Image>
+      <Description>First kill with a Hatchet.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Fire Hazard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/1AE96C1F20CCC69C69A46AF687157ADF74F8F3DA.PNG</Image>
+      <Description>First kill with fire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Splitting Headache</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/D154F80018146AFAC69E75D9423979E7AF997BA8.PNG</Image>
+      <Description>First kill with Scissors.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Say Hello To My Little Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/99B41FF55D5B06E60FD64F82D44614CB28A9DC14.PNG</Image>
+      <Description>First kill with a Gun.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Wait For The Boom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/C8053B86B0280EC993CF153B2512A37EB7506009.PNG</Image>
+      <Description>First kill with an Explosive Mine.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Whoops!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F8EB629CF2CDE3CC79233573AE3991E86A3976AB.PNG</Image>
+      <Description>First kill with a Stun Mine.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Choked Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F7827D4E302361025EC0C72B664612A01264A852.PNG</Image>
+      <Description>First kill with a Gas Mine.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>I'm In Charge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/56FF9BA4159BB481B09D8D7BA8C64D94CCBC64F6.PNG</Image>
+      <Description>Fought first NPC.  
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Curb Stomp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/93EFEDEAAC6189D93986A2E12B3AC7D4D3B3F387.PNG</Image>
+      <Description>Stomped first Minion to death.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Merciless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F7A0978A8D7A13F5914E6CB5AB89783C2124AB5C.PNG</Image>
+      <Description>Stomped five Minions to death.  </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Forced Entry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/CE0C71B9A675AD707BACBF25321D00B0A3C01586.PNG</Image>
+      <Description>Unlocked first door.  </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Locksmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/F6E0BE67E8E4AB60EB16EA77C29013EC7196355D.PNG</Image>
+      <Description>Unlock 5 locked doors.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00504_00</GameId>
+      <Title>Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00504_00_00C92F821E2A64CD97C616B25467A76A280DE336D1/6FD0380CECE00582965BB38EC2DF4BD644B3E726.PNG</Image>
+      <Description>Unlock 20 locked doors.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00497_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Mortal Kombat vs. DC Universe</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/0FEEAE70FA3F605BAF478C69FAE1166208F8E025.PNG</Image>
+    <TrophiesCount Total="43" Bronze="34" Silver="3" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/7CD501F6B9F751F6B03BFB152DA237E15A3BCDB0.PNG</Image>
+      <Description>You Unlocked All Trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Worlds Remade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/302DC407D82504483B2B899E7084EF4287616169.PNG</Image>
+      <Description>Complete Mortal Kombat Story</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Universe Reborn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/5ECB4A72E3B14303918A30A889DBA8CF505BDC80.PNG</Image>
+      <Description>Complete DC Universe Story</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>DC Arcade Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/A090CFEACEC5D5991F8A474379B3D30F170F12A7.PNG</Image>
+      <Description>Complete Arcade Mode with all DC characters</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>MK Arcade Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/DC76A226130CA8FFFC80B7B16C33F6C1D05A559E.PNG</Image>
+      <Description>Complete Arcade Mode with all MK characters</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Ultimate Evil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/CBC3635ED3CD93B9726AEA783FBF71CFF15DB5C7.PNG</Image>
+      <Description>Complete Both Mortal Kombat and DC Universe Story Modes</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/3E0D3B9DB489F1640F7231BC24242CBC5C367D57.PNG</Image>
+      <Description>Play 200 Versus matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Fatality!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/565EE8CD9648520DFE288C4A3C8D0B5DE91FEA6F.PNG</Image>
+      <Description>Perform a Fatality!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Heroic Brutality!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/1A3D0AC85222B5BC31B451B370146E007BFC2887.PNG</Image>
+      <Description>Perform a Heroic Brutality</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Finisher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/AC260E07D42E4C10315295C43AC8D02F7E5DD658.PNG</Image>
+      <Description>Perform all Fatalities and Heroic Brutalities</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Combo Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/1F3EB68DFAFFE69892BDCD985D536BC9A78F0E16.PNG</Image>
+      <Description>Perform a 10-Hit Combo in Arcade Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Tarkatan Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/8AC889167705AE2D62C39CB75634E9C0A5AC82D6.PNG</Image>
+      <Description>Complete Baraka's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Caped Crusader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/F944FD3B107DD2181794AB263B59C2BD8EDCDEAB.PNG</Image>
+      <Description>Complete Batman's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Cat Burglar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/31022A68924534BC47E72B8C30ACB2BD8E23D136.PNG</Image>
+      <Description>Complete Catwoman's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/DC7D81B3850215E03CD32F2B77E47D64C3915CD4.PNG</Image>
+      <Description>Complete Deathstroke's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Fastest Man Alive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/6F1A6611252F717071DAA9C0B5E2E814BD3D57A4.PNG</Image>
+      <Description>Complete the Flash's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Green Lantern's Light!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/9668B43437D252F308B3DBB34B9ABDAE48FF5167.PNG</Image>
+      <Description>Complete Green Lantern's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Bring It On!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/44DF5D102445A63BA555E15CBC5D16297D05BAD6.PNG</Image>
+      <Description>Complete Jax's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Clown Prince of Crime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/A93ABC5599AF7D23AB940FAFFB13775DF3D4579A.PNG</Image>
+      <Description>Complete the Joker's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Mercenary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/D55B4AA8DCB4E542F7B86177182CEBA7F959D9DC.PNG</Image>
+      <Description>Complete Kano's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Outworld's Princess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/A80CB0C87637D2361AF79E934723CA1314426A1F.PNG</Image>
+      <Description>Complete Kitana's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Evil Genius</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/C9F79875D3BAD23E300AF63D5BA574EA8EF6CD0B.PNG</Image>
+      <Description>Complete Lex Luthor's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Shaolin Monk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/83E9752FB036997D3C072C78AE5CCEFC60117B3A.PNG</Image>
+      <Description>Complete Liu Kang's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Thunder God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/17B44FF937493E19321F79268BC2C472D047084E.PNG</Image>
+      <Description>Complete Raiden's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Get Over Here!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/E07A4D341C4C93CCEE07A8B4B0BC1D3117183FCF.PNG</Image>
+      <Description>Complete Scorpion's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Master of Souls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/CEA1D186893A7A273B8969CD2BEEC22C4E9EBA97.PNG</Image>
+      <Description>Complete Shang Tsung's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>SHAZAM!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/1C7CF276BB7EA748820345EA49F944E7BCAF0ACC.PNG</Image>
+      <Description>Complete Captain Marvel's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Special Forces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/DF99C68DAA75B2A776E0B0186F254F6DFFA61197.PNG</Image>
+      <Description>Complete Sonya's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Grand Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/6030522138C037AEC610017E608E6EADAC3AC34F.PNG</Image>
+      <Description>Complete Sub-Zero's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Man of Steel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/8732B1FEBDA4C3D142D0D8374E3CB0F0610149E2.PNG</Image>
+      <Description>Complete Superman's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Princess Diana</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/DD13B96B2060937C6068880AF35E7405E398F304.PNG</Image>
+      <Description>Complete Wonder Woman's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Omega Effect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/C1BC344AB70E8F11C70BCAD9C080D01033793244.PNG</Image>
+      <Description>Complete Darkseid's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Emperor of Outworld</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/34C0EFEA6DE573C12DC0343367829E5D7E86A005.PNG</Image>
+      <Description>Complete Shao Kahn's Kombo Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Arcade Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/2D0E1CAB4330FF045E6219CBEF9B8679CFCF7220.PNG</Image>
+      <Description>Beat Arcade Mode on Max Difficulty Without Continuing</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Supreme Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/9DC9D00BB512875043CB75277657A2DD73BB6A70.PNG</Image>
+      <Description>Complete all Kombo Challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Super Moves Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/8DD26809BBB71A94A60B1585B6DEA5C715E31E9B.PNG</Image>
+      <Description>Perform All Super Moves and Promoves</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Mortal Kombat Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/32C22A173DC3E9313C05FD7D92FDA8CA6DFDFE4A.PNG</Image>
+      <Description>Finish Arcade Mode with a Mortal Kombat Character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Super Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/FB9E916A857D5F82D845E0D375DF7DDF3BF926C9.PNG</Image>
+      <Description>Finish Arcade Mode with a DC Universe Character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>The Pugilist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/6A6F5CE34EB3E2CDC902CB41221B0FC2C0A2FBD2.PNG</Image>
+      <Description>Perform Klose Kombat</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Free Fallin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/F21E967E9B884D2603213F123F6090A72469C667.PNG</Image>
+      <Description>Perform a Free-Fall Transition</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Less Talk, More Fight!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/959708D25515B0EF5A8AE47F188E62C1DD718459.PNG</Image>
+      <Description>Win a Chat Room Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Relentless!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/37D30B3AE342981369D051C109101BE3FB1AD2CE.PNG</Image>
+      <Description>Play 100 Chat Lobby Matches</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00497_00</GameId>
+      <Title>Humiliation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00497_00_003D9BE623FA7B315252FB8CC9DF123471657F4D79/D3D42557A433958D65CFD63CA5DCDBE7942A66AE.PNG</Image>
+      <Description>Get a Flawless Victory Online</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

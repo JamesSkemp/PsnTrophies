@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01439_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SAW 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/ECC80ABB6AC4D950FA902E147E1E069AFFCEB3D2.PNG</Image>
+    <TrophiesCount Total="51" Bronze="39" Silver="9" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Congratulations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/799B906F77A4ED1BA4B60AB570DE31114A91ACC6.PNG</Image>
+      <Description>Acquired all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Henry Jacobs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/62DF3B3D55A929F3ACFD4D22B98E771300AAF3EB.PNG</Image>
+      <Description>Freed Henry from the trap</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Sarah Blalock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/CD8158798B973DBEA030B0DA5F950F5CF476E29F.PNG</Image>
+      <Description>Freed Sarah from the trap</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Joseph Poltzer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/0749C210610F0218A5544B6765B349F5B9B6CC72.PNG</Image>
+      <Description>Freed Joseph from the trap</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Carla Song</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/08842D3CE79FF4568009B47F4BE1CA6943E4A494.PNG</Image>
+      <Description>Freed Carla from the trap</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Solomon Bates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/85F51EA2CC9C69F6EAEF06CB217D7A229BF0B022.PNG</Image>
+      <Description>Freed Solomon from the trap</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Battering Ram</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/B12BE7E67FC722FE5CA41B2D95BFB1FBA4DF3999.PNG</Image>
+      <Description>Defeated "The Bullish Man"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Now THAT'S using your head!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/EC9DBE3A96BDF0B6EF1369B1E5DFC24BE1AFAE93.PNG</Image>
+      <Description>Escaped "The Bullish Man"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Third time's the charm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/4858EFB4C19E334B3A3A1F9A15632A80F9B04C21.PNG</Image>
+      <Description>Subdued the "Bullish Man"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Hedgehog's Dilemma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/97593344578573AE1FC185FE481E66739AE77F07.PNG</Image>
+      <Description>Donovon died</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Firefighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/C1057CF7FD8A2B52F13EA73F812E47C9927BEA9F.PNG</Image>
+      <Description>Barry died</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Did I fire 6 shots or only 5...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/E4EB2464D10A0A3AF6B363FC0526252E0E9FC796.PNG</Image>
+      <Description>Joseph died</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Hands Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/BA5C258695CFC4107A98F42956A12718F5FA57D9.PNG</Image>
+      <Description>Zeke died</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Start with the Corners</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/BDD6697A2BD324BAC648008A240E2AE6819DB0D9.PNG</Image>
+      <Description>Found your first puzzle piece</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Puzzle of Flesh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/46B7B8D7DBE2015C15EF6D4E94D6B8B3CC774EB5.PNG</Image>
+      <Description>Found 1/4 of the puzzle pieces</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Starting to come together</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/EC3E1708AFFDC7371EA7C225C0A2198E4FC7E7CC.PNG</Image>
+      <Description>Found 1/2 of the puzzle pieces</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Putting it all together</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/C3FEDF5D5786BEC1AAEF506B9077CB14BD1C1258.PNG</Image>
+      <Description>Found all 25 puzzle pieces</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Paper-Mache</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/1EC1330AAF32F0B8609381435A44EE2A1AB56100.PNG</Image>
+      <Description>Found your first Billy Puppet</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Puppeteer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/C9D0394644CAD7058A71E72F67CA0E2487698330.PNG</Image>
+      <Description>Found all 7 Billy Puppets</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>A Little Background</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/9B77E0C8A74E0DD3C41765D0C305400FAD5682E2.PNG</Image>
+      <Description>Found your first Case File</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Some light reading</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/50DED3E065AD56FBC15F4140B8F3162B67038C52.PNG</Image>
+      <Description>Found 1/4 of the Case Files</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Half the story</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/8E44DB34F3B1D30FB58C9A4DC0869B9A8F56E773.PNG</Image>
+      <Description>Found 1/2 of the Case Files</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Journalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/60986EF8CF25A1DCD52F12D088033C0A6618B3A3.PNG</Image>
+      <Description>Found all 50 Case Files</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Play ME!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/69EE29D4490CB062C1ED1D3E067CA911D49CE808.PNG</Image>
+      <Description>Found your first Audio Tape</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Mix Tape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/90A53315CCFA211A7A030243495D85B25E9793E6.PNG</Image>
+      <Description>Found 1/4 of the Audio Tapes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Easy Listening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/A18C7BDBC36D59B1C94059BA7EA37F748AA57240.PNG</Image>
+      <Description>Found 1/2 of the Audio Tapes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Reel to Real</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/4278CD1DD8A8AE015A972E6B4D32F351C8A360FF.PNG</Image>
+      <Description>Found all 20 Audio Tapes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Router</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/EEB261202E5CEDD51BA71E6568A0A11E7BD56BBF.PNG</Image>
+      <Description>Beat the best time for the Point to Point Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>P2P</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/84A2CF30CFC4D7EC3259A05C816DD057B84A8523.PNG</Image>
+      <Description>Beat the best time for the Point to Point Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Electrician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/25C2A03EB35AFA503AA524FCB83183371B70E5F3.PNG</Image>
+      <Description>Beat the best time for the Polarized Circuit Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Jury Rig</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/4069D0B2F68A70B91753CEFE15B7AF6059E772A1.PNG</Image>
+      <Description>Beat the best time for the Polarized Circuit Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Chromatic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/4F6334626DDFCFEA341F88056EE3472EECB027A5.PNG</Image>
+      <Description>Beat the best time for the Kaleidoscope Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Thinking Three Steps Ahead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/607F77507244F15390539898A1D744FBD910463D.PNG</Image>
+      <Description>Beat the best time for the Kaleidoscope Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Gear Grinder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/560C44C39A825BCDA328C3DC61799B9E8318A9A0.PNG</Image>
+      <Description>Beat the best time for the Jigsaw Box Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/163279DC1EF4FB025985E23EEC3A106C74173EB2.PNG</Image>
+      <Description>Beat the best time for the Jigsaw Box Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Running like Clockwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/68EB1CAF1A92C97F880EBA6073711960F66A45AF.PNG</Image>
+      <Description>Beat the best time for the Weapon Case Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Second Amendment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/7C1D05635803BBA603763142DAB5E0F6B9A7A708.PNG</Image>
+      <Description>Beat the best time for the Weapon Case Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Tumbler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/D2FBCF46FE21C443F3843A80550BB2B51FF64FFA.PNG</Image>
+      <Description>Beat the best time for the Dial Puzzle Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Forced Perspective</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/1D58AF0B08D5489892EF3664D6FE49AD20D2DF45.PNG</Image>
+      <Description>Beat the best time for the Dial Puzzle Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Connect the dots...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/8A0298A9F4C47A846E127620DFC3985DB0AFAC2E.PNG</Image>
+      <Description>Beat the best time for the Lights Out Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Burned Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/CAEF84B48D68371906A75CAEF1C4CE0101254ED3.PNG</Image>
+      <Description>Beat the best time for the Lights Out Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Smooth Criminal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/335C82455BDD425EAF786E04FE7F0DC373075B3F.PNG</Image>
+      <Description>Beat the best time for the Lockpick Minigame (Normal)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Master Thief</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/D9E4FEEE8670FA530995DED0ECBFBD1495CBBF2A.PNG</Image>
+      <Description>Beat the best time for the Lockpick Minigame (Insane)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Compassion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/CF9AEA011962080CB269D0E2F52E4BE2D9972173.PNG</Image>
+      <Description>Saved a person that you didn't have to</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Would you like to play a game?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/1A32B3C70A42B26A8E8AF655BBAB5741E472F303.PNG</Image>
+      <Description>Completed the Eye Surgery Minigame</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>You wasted your life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/7493198DA47079AC864A458F156BA0F09CD628F5.PNG</Image>
+      <Description>Played on Christmas</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>It must be SAW</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/5BE47BDF031EC45395A8CB7BAD99D862222AB242.PNG</Image>
+      <Description>Played on Halloween</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Path of Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/8A0519523AA384B45FCC8A8D866B81FCB3490225.PNG</Image>
+      <Description>Campbell survived his test</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Path of Flesh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/17B7B98B34266D8CC9C14DCD37D48580062943DA.PNG</Image>
+      <Description>Campbell did not survive his test</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Brought to you by,...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/4609FCAB73AD40914FBF62B66948E4638D7B1BB7.PNG</Image>
+      <Description>Watch the credits without skipping</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01439_00</GameId>
+      <Title>Old School</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01439_00_00A4FD5B0B3717B422FBAEE21BE27F69A1F036580A/0B00D31A102F153342F4D05DC45DA86913EA94D2.PNG</Image>
+      <Description>Entered the legendary Konami Code</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

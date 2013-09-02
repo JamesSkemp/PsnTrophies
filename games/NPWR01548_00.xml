@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01548_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Super Hang-On</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/752989291ABB055FAC1D77665DF6CE60BD0B7058.PNG</Image>
+    <TrophiesCount Total="12" Bronze="9" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>The Goal Is Just the Beginning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/8A12E9A7E1EACB2151833812F53E8020C035293A.PNG</Image>
+      <Description>Finish a course.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>In Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/B0106A1D59E20B72CE71BD545D26433F0D5CE63C.PNG</Image>
+      <Description>Ride for 1 minute without hitting anything.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Always Full Throttle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/F519CC3886FB659BE6BD0F21C510211FF12507B4.PNG</Image>
+      <Description>Ride for 1 minute without braking.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Eat My Dust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/290426AF02E36071FDCCE2B20D9472FEABCE15BC.PNG</Image>
+      <Description>Pass 100 rival riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>I Meant To Do That...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/2E7934F708AC9BC26A833E15CB5192D439B0FE3C.PNG</Image>
+      <Description>Crash 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Melodies of the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/C615388008E822448F246346AB622BD40736DBB7.PNG</Image>
+      <Description>Listen to all 4 songs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>One With The Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/9265554F5055A8EC24534814C5383796F998BBDA.PNG</Image>
+      <Description>Hit 324km/h using turbo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Totally Radical!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/3DD1D4C0D7C9479AC26D4E4AD799312A9B438F5F.PNG</Image>
+      <Description>Ride for 10 seconds on turbo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>So Close</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/6AB8F95CCC15423E2E87BF09DE4B098ABE0BD17E.PNG</Image>
+      <Description>Run out of time just before a checkpoint.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>The Kiss of Fate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/6BDD1BC6B43167B2F7F2E7025D1A66014A0D4241.PNG</Image>
+      <Description>Cross the checkpoint with 1 second left.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Unforgettable Name</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/2AD0868F7972759250435E9881C8F714ED0CB99C.PNG</Image>
+      <Description>Fill a track ranking with a single name.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01548_00</GameId>
+      <Title>Thank You! Thank You!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01548_00_0BF7E7E907870F13ACE1F01F964035096630B1EF/B62C06639D9DD3728CFB3D4A048FAD4F0F36493A.PNG</Image>
+      <Description>Crash your way through a checkpoint.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

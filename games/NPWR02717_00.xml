@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02717_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PooYoos - Episode 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/A1E0128645D859442C52B6C422BC35B003CA04DC.PNG</Image>
+    <TrophiesCount Total="7" Bronze="3" Silver="2" Gold="2" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Sly cat!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/92C5BF6DC5D200063D78E89D917CD32ADF2CEF6A.PNG</Image>
+      <Description>For playing the Plant game in Big PooYoo mode, with no mistakes from beginning to end (minus the tutorial).</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Super pig!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/9729813D0F0443F93C3448156018B98E4016AC05.PNG</Image>
+      <Description>For playing the Color game in Big PooYoo mode, with no mistakes from beginning to end (minus the tutorial).</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Kitten!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/B54010301B24BA273DDEF9C730578687AB46A096.PNG</Image>
+      <Description>For playing the Plant game in Little PooYoo mode, with no mistakes from beginning to end (minus the tutorial).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Little pig!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/6D8F15DB457912A7EFD66503062C3C2D2941AE00.PNG</Image>
+      <Description>For playing the Color game in Little PooYoo mode, with no mistakes from beginning to end (minus the tutorial).</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Everybody in the water!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/6AFAF5385DED76BA7864B1588697FCD7EB84700D.PNG</Image>
+      <Description>For playing the entire Water Workshop without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Plant Workshop!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/F4C4CB2C0FB18A0D180448BFC72B0E333F336835.PNG</Image>
+      <Description>For playing the entire Plant Workshop without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02717_00</GameId>
+      <Title>Color Workshop!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02717_00_5F83ABCFF02B832A6DCD345FBBA31841AEEA01F6/81A05E7F669E83EEE3D93F5C27ADBAD6609341D8.PNG</Image>
+      <Description>For playing the entire Color Workshop without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

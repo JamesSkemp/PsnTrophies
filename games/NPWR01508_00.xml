@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01508_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Rush'N Attack Ex-Patriot</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/81558382C75E746FE4F06281D79FD3E3454ABD14.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Path of Justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/E7189D214E10CA3EFEBCBFB3B75AA706BD12D6B1.PNG</Image>
+      <Description>Finish the game on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Path of Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/A245BDE2D185A40F68538CE58BD95A169E066A40.PNG</Image>
+      <Description>Finish the game on Veteran difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Bonus Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/113360E2FB02099A85228F0BC03D7A06F6D07CBA.PNG</Image>
+      <Description>Find and collect 36 bonus Ulyssium.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>No Mercy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/B404F15C07EB15A563604A6B359B5D6FD2BDB385.PNG</Image>
+      <Description>Finish all three chapters with combat rank S in story mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Martial Art Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/34D2456CBD6AC752F9FBB89F5AF2D04CC4501F4E.PNG</Image>
+      <Description>Unlock all combos.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Carnage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/3066E1AB79FC93DAA9EF5BEA5109823EBAF2A434.PNG</Image>
+      <Description>Kill 300 soldiers in story mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Rank Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/2487193EE44AEF79E02A5E0365FF6CECC2BA7F4F.PNG</Image>
+      <Description>Kill the Prison Boss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Rank Major</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/D974446CFC44BCFC5EEEF93A8CBC8F78EB163C99.PNG</Image>
+      <Description>Kill the Laboratory Boss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Rank Lieutenant Colonel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/FCCDBEE689A3E792ABF110B20A19107D07BE99A2.PNG</Image>
+      <Description>Kill the Nuclear Base Boss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/F679CA0D2D9334D1BE5BA0321DA21CA60BC3EDA9.PNG</Image>
+      <Description>Kill 50 soldiers using stealth in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Combo Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/9F44E7C04E244F237455754159C132763790805B.PNG</Image>
+      <Description>Kill 50 soldiers using combo attack in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01508_00</GameId>
+      <Title>Hollywood Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01508_00_3B02085C656979F367A56ACC6B15FFD2AFFACE90/F1AB32A9AC6B24EB26841C00ABBCB6A8ADDD637C.PNG</Image>
+      <Description>Get spotted by security cameras at least 10 times in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

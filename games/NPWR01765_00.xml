@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01765_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PooYoos - Episode 1</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/895AC7AF6C094C94009EC91501D903E909DC4DE6.PNG</Image>
+    <TrophiesCount Total="7" Bronze="3" Silver="2" Gold="2" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>The clever rabbit!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/2583D649FFA50EAFB69EE35DCEEDBC79AA9A7DC3.PNG</Image>
+      <Description>The rabbit game in Big PooYoo mode, without any mistakes from beginning to end (excl. tutorial)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>The super turtle!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/735E26D03B31B5A187A9926802CCD8CBD63ED68E.PNG</Image>
+      <Description>The turtle game in Big PooYoo mode, without any mistakes from beginning to end (excl. tutorial)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>The little turtle!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/2690ADC3A53754A13FB8A5D3EDE2D6D77A0BE731.PNG</Image>
+      <Description>The turtle game in Little PooYoo mode, without any mistakes from beginning to end (excl. tutorial)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>The little clever rabbit!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/C5BD9E2A86123B5A3A3637FC368A3714E6029C8C.PNG</Image>
+      <Description>The rabbit game in Little PooYoo mode, without any mistakes from beginning to end (excl. tutorial)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>Hooray for music!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/20F30A1F74708434F22BB4824CA8CBA1FA0D2E69.PNG</Image>
+      <Description>For having played the whole Music Workshop, without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>Clear blue sky!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/23D824609AFCE283A778E62764B9294B1F878E04.PNG</Image>
+      <Description>For having played the whole Sky Workshop, without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01765_00</GameId>
+      <Title>Magician's apprentice!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01765_00_1FF1F01196E9B2B8E925CDC2A75C17DC98CF3A1D/74109B2C3FD820B1BCDC5014FD234CBF970FD26D.PNG</Image>
+      <Description>For having played the whole Magic Workshop, without skipping any activities in the Pause Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

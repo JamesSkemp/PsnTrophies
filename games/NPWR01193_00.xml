@@ -1,0 +1,557 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01193_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Marvel Super Hero Squad: The Infinity Gauntlet</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/779A07186295A2CF4148E580398103E7A4C526B6.PNG</Image>
+    <TrophiesCount Total="60" Bronze="44" Silver="10" Gold="5" Platinum="1" />
+    <TotalPoints>1410</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/9CE64A4C77568210F5B804FF1CFFD0D79A057D30.PNG</Image>
+      <Description>Earned all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Power Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/8B5C0D7B511319F81380CF6DBFAF645D6971B9CF.PNG</Image>
+      <Description>Collected the Power Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Rhythm Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/BFDF9FBFEE451D3CA36B0DB99F3886FDB05EC32A.PNG</Image>
+      <Description>Collected the Rhythm Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Mind Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/AF42CA5BF8CC3DEE8664D811FC9AB8873B3962DB.PNG</Image>
+      <Description>Collected the Mind Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Time Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/BEEB7562AD72B27624966764370E230F51A8C944.PNG</Image>
+      <Description>Collected the Time Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Soul Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/70F318A334C94647D74C4F3022BA53FA0DB205DB.PNG</Image>
+      <Description>Collected the Soul Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Space Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/4B0CEDB2AC694D8A464CCF44036C9ADCABE9019B.PNG</Image>
+      <Description>Collected the Space Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Reality Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/D0C48CB0E3178210CD6A3F0A6A67BB4DE8DAF7EA.PNG</Image>
+      <Description>Collected the Reality Stone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Large One!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/45B318CBCB1C3DE6D89AF16E4FA1E4755835F0AA.PNG</Image>
+      <Description>Saved the Skrull Throne World from Galactus.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Lost, then found, then lost again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/6C6210E4F945478F79098AAD93F73A003AEE998B.PNG</Image>
+      <Description>Defended the Helicarrier from assault… but lost the Infinity Stones.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Overmaster’s Underworld</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/95A0159EF9A5AE979D2DB2EC91FE28BA9E5BCA9A.PNG</Image>
+      <Description>Infiltrated Thanos' Hideout.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Nothing is Forever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/226A4008EF8C2D5F2EDC88CC014D398B85936376.PNG</Image>
+      <Description>Saved Super Hero City and redeemed Silver Surfer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Squad Initiate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/2497DBFEBD3101A661101D4FCF15F3D93CA18910.PNG</Image>
+      <Description>Completed Story Mode on Easy Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Squad Member</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/9AD12FE1BFA8135E28CE0E781F0170ED2429C88C.PNG</Image>
+      <Description>Completed Story Mode on Normal Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Squad Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/0E7338B484241036F98AE7F1307712F79ECFB464.PNG</Image>
+      <Description>Completed Story Mode on Challenging Difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Patience is a Virtue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/B9CFB8A538FFB44334A3714DF2A0677C868CB2AD.PNG</Image>
+      <Description>You waited calmly in Grandmaster’s Green Room.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Safety First</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/545C0C2C3FC2437B2523BB45C2A46FF2880A95BA.PNG</Image>
+      <Description>Defend the S.H.I.E.L.D. Building without losing a power node. 
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Jump Hero!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/40953069325DA39AF816E5D98614C3984E3E3B1F.PNG</Image>
+      <Description>Barrel Jumping Hero.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Elite Hack Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/790547135C13C768E4E9E9FE86BD42B90E5CB170.PNG</Image>
+      <Description>Completed every hack challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Robo Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/E5772156B21E1CE794BCBE197A4D785C44E27B92.PNG</Image>
+      <Description>Completed every race challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Challenge Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/3EA0A97B4C872EA634B35B6B891BDC5669696A44.PNG</Image>
+      <Description>Completed each challenge at least once.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Stark Certified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/793683C8C47FBD4FE1A4B7DDA2B8006822CED5E9.PNG</Image>
+      <Description>Completed all of Iron Man's Heroic Feats.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Deadly Darling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/D273C8BA4F67840780805BF76C5297A0D5F4A0AB.PNG</Image>
+      <Description>Completed all of Black Widow's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Slice ‘N Dice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/31610DAD15362EDCD4C5A7472EA4B74BB0D2835A.PNG</Image>
+      <Description>Completed all of Wolverine's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>T-Rex Nino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/A77120025FCD631339E32A17452D972FE6CCC0DC.PNG</Image>
+      <Description>Completed all of Reptil's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Hulkster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/E6AA79EA8740E5BB6420B49765009334B9E676B5.PNG</Image>
+      <Description>Completed all of Hulk's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Law and Order</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/CA18B3FB533D7F2D377CD6FEE1A7E3E80D798F48.PNG</Image>
+      <Description>Completed all of She-Hulk's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Human Rocket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/7DFCF6213856CCE439B1D88A14565FAEF49A26DE.PNG</Image>
+      <Description>Completed all of Nova's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Mightier than Thou!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/B1B364AE953DF15D77D05B972ABE60E4489EB534.PNG</Image>
+      <Description>Completed all of Thor's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Clearly Forceful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/68D2ABFA5E405E03835A764A7928E3E75EF40FD3.PNG</Image>
+      <Description>Completed all of Invisible Woman's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Woman with Vision</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/C551F78AD332A874B4AC331CCFC6B80B16ABFFEE.PNG</Image>
+      <Description>Completed all of Scarlet Witch's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Flying High</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/5256F0B748BDDCE306EB8DE532D07FD648E5B198.PNG</Image>
+      <Description>Completed all of Falcon's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Speed Thrills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/43C583B9E83AB8D77817D6B6E44C8AF391EC37C4.PNG</Image>
+      <Description>Completed all of Quicksilver's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Webslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/662BD355A520148C9A6C3DE776255425DF0918BC.PNG</Image>
+      <Description>Completed all of Spider-Man's Heroic Feats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Super Achiever!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/9CF571427C66F414293BE83EEBAF21163FBBC4EB.PNG</Image>
+      <Description>Completed all Heroic Feats!</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>You've got the Super Power!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/D70A9BBE2EBBF99DD6C558FCD6DDE2CDB3E2C512.PNG</Image>
+      <Description>Collected all Power Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>You are feeling the Rhythm!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/0D7FE7EA7F0EBBA756FD8BD608A81220AF1EE5A0.PNG</Image>
+      <Description>Collected all Rhythm Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Time Management!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/8D4A7DE483A538A17250A90458220BB83A644C52.PNG</Image>
+      <Description>Collected all Time Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Mind over Mind Fragments!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/491BB044667F6FC05DE59B0B92477F8982AC3DDF.PNG</Image>
+      <Description>Collected all Mind Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>The Soul of a Hero!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/A38D307DAFE9F66B6D741D5E86E3DF4803115C91.PNG</Image>
+      <Description>Collected all Soul Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Shiny Space Fragments!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/398F71518755AEED05ADC701DCEE8659080A2C43.PNG</Image>
+      <Description>Collected all Space Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Reality Fragmented!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/3DD391A59221142F4F08D3C8D3D0AF385466D7B6.PNG</Image>
+      <Description>Collected all Reality Stone Fragments.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Fragment Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/1D4638FE50D2EE9A00088A1152BC5FDE93274289.PNG</Image>
+      <Description>Collected all Stone Fragments.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Heroic Attack!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/E55DA8B5FF6463E0A7C2E99AF307713784AB18EC.PNG</Image>
+      <Description>Performed a Heroic attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Heroic Hero!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/00D0E7C3A31B880D228E7F00EF96545B0C03CEC3.PNG</Image>
+      <Description>Defeated six or more enemies with a single heroic attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Deflected!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/DBB8EACF00B93C6D90BFCD91386B3C0B16E215F5.PNG</Image>
+      <Description>Reflected an enemies attack back at them.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Take that, Villain!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/A64B0CE416A5EBCA9A03CC13244D214ACF31C163.PNG</Image>
+      <Description>Defeated an enemy with a parry.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Super Hero Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/3E04B615F7D91EA2A7740B492B0B761794075D10.PNG</Image>
+      <Description>Revived a teammate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Super Revive Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/3F9286890A82D4DE57E6444B53882A14E2B2C24D.PNG</Image>
+      <Description>Revived a teammate 10 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Hero Punch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/59DE1091C7E4946A0270B5544B06345335646371.PNG</Image>
+      <Description>Broke through the defenses of a defending enemy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Big Red</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/3A86E1D12E986BE91AB176AFA14743E993156843.PNG</Image>
+      <Description>Completed all of Red Skull’s Heroic Feats. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Cap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/D09A932BCDA7BE0B4D0A08EBAA2612FBC92FEAD7.PNG</Image>
+      <Description>Completed all of Captain America’s Heroic Feats. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Not just a side kick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/E76BAC39CF5C55F263BEC37E9AF3D9EA3A00132E.PNG</Image>
+      <Description>Completed all of Bucky’s Heroic Feats. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Mad Titan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/F5AA1B90BAE78D95E73E413272351693ED3C4B66.PNG</Image>
+      <Description>Completed all of Thanos’ Heroic Feats.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Last Titan Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/08792F1424D39BF073A3EF63B0A335113F5EA493.PNG</Image>
+      <Description>Survived the Trials of Thanos.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Flawless Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/9875496479098D3DFB5832D982F7E43A852780F8.PNG</Image>
+      <Description>Fought flawlessly through one wave of Trials of Thanos. </Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Doom's Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/960F489E769273B823B12AEBC434873B72621F8F.PNG</Image>
+      <Description>Completed all of Dr. Dooms’ Heroic Feats.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Stinky’s Masterpiece</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/2D07A27AAC6ACE590DBE4256491E270D3BCDB867.PNG</Image>
+      <Description>Completed all of Abomination’s Heroic Feats.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Fear the might of Doom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/E774305B4FE5AA8ECE8129659BD9BBF0C2C2A66E.PNG</Image>
+      <Description>Defeated 50 Doombots as Doctor Doom.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01193_00</GameId>
+      <Title>Best laid plans</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01193_00_008FFCF96203E18B13F8AC12EABAECD6C41D78B076/8941436392177EF0E075149180A61F5B6F03CB82.PNG</Image>
+      <Description>Escaped from the Helicarrier.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
