@@ -4,10 +4,10 @@
     <Id>NPWR02621_00</Id>
     <IdEurope></IdEurope>
     <Title>PlayStation® All-Stars Battle Royale</Title>
-    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/22C5BFED41EBD917DC2942BB9C5D308BF2BDC434.PNG</Image>
-    <TrophiesCount Total="55" Bronze="45" Silver="8" Gold="1" Platinum="1" />
-    <TotalPoints>1005</TotalPoints>
-    <Platform>?</Platform>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_01F784CFE14D28DC29F91A557F849C767D73AE0D21/F12F1A44AA4EB5F9098AFAA0CDE01EEBEFFAF16C.PNG</Image>
+    <TrophiesCount Total="56" Bronze="45" Silver="9" Gold="1" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
   </Game>
   <Trophies>
     <Trophy>
@@ -503,6 +503,15 @@
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_F76780E9F66943BD39BF7D05B338EBB3B4988530/0E20F511ABEBEBCDA7FBE5C67FF2BD094A7F0A36.PNG</Image>
       <Description>Perform a Level 3 Super with Kratos on 'Hades'</Description>
       <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02621_00</GameId>
+      <Title>The Heavenly Goddess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02621_00_01F784CFE14D28DC29F91A557F849C767D73AE0D21/ABB88174B8FAEC0C684B7D2FD175EBAEB1B7FCAC.PNG</Image>
+      <Description>Perform a Level 3 Super with Nariko on 'Fearless'</Description>
+      <Type>SILVER</Type>
       <Hidden>false</Hidden>
     </Trophy>
   </Trophies>
