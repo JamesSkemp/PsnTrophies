@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01282_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Ricochet HD</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/2267EEFBC0C163C88FD94FFA05007D6C9686A9EB.PNG</Image>
+    <TrophiesCount Total="12" Bronze="4" Silver="8" Gold="0" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Brick Shooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/ED99B15A77186FD7BB42EE028BD9352E0D6DF7B9.PNG</Image>
+      <Description>Shoot 100 bricks with a laser, blaster or missile.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Frantic Juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/4D628BC059FAF62A53CC46056AC8DBBD54603452.PNG</Image>
+      <Description>Keep at least 3 balls on the screen at the same time for more than 8 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Power Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/2FB0E7A7CC2960BA01B9F5628C6111A2DA7C71EC.PNG</Image>
+      <Description>Earned when the player has caught 25 power-ups in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Power-up Zen Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/16351ED7F98D3BBA8CE86A0B7BFC7F60DE114895.PNG</Image>
+      <Description>No power-ups collected for 10 levels in a row. This can carry over between planets.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Longevity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/220E8918E8288F772A7E58BA5C3A11A887FA1F16.PNG</Image>
+      <Description>8 levels in a row played on the same planet without dying once. Cannot be earned on Easy or Kids difficulty settings.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Amazing Breath of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/BE900CE6C8053E2DF278BB77B4A78A33873F7867.PNG</Image>
+      <Description>30 levels in a row played without dying once. This carries over from one Planet to the next. Cannot be earned on Easy or Kids difficulty settings.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Straight Jacket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/90B99BA9451EEFFB07EF53BC14BDE235C4F8EB85.PNG</Image>
+      <Description>Beat 10 different levels on the Insane difficulty setting in a single game on the same planet.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>World Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/CC0F6AFD1788910018D71BEC6B93AF34843DEDDA.PNG</Image>
+      <Description>Awarded for finishing all Ricochet HD planets.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Helping Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/11AB050D90F2EA08497976E40A03D77A556F955D.PNG</Image>
+      <Description>Beat 20 levels with two players playing at the same time in any multi-player mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Co-op Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/6387E12E012966642740056D3128B082A9B72343.PNG</Image>
+      <Description>Awarded for completing all level sets in Cooperative mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Hoard of the Rings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/F40D60B6AA9853FD00F04B316132D7F77B86E197.PNG</Image>
+      <Description>Collect all 5 of the golden rings on all 10 levels of the same planet in a single game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01282_00</GameId>
+      <Title>Ring Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01282_00_0746802A6DFB3540EFAF8BE3DE6FE63600A54269/E9F09F69DABA259C926CA45A2F07BB38ACE24669.PNG</Image>
+      <Description>Awarded for collecting all of the gold rings in all Ricochet HD planets.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

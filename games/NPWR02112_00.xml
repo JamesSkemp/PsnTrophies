@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02112_00</Id>
+    <IdEurope></IdEurope>
+    <Title>PixelJunk™ 4am</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/9DC4AF889CDFD8DB54124A6CE9056242C75CB312.PNG</Image>
+    <TrophiesCount Total="11" Bronze="5" Silver="5" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>New Venue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/D5A7A53F01183CB9BEB3700C41998BFEB51CBC42.PNG</Image>
+      <Description>Unlock your first new event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Equipment Check</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/A17B8E5093E096E3EBE2CEFD56D214BAE4F366EC.PNG</Image>
+      <Description>Complete the tutorial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Music Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/671BA4439B6AB4BC91B3AC575753915DCEEC5A0C.PNG</Image>
+      <Description>Give someone kudos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Going Viral</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/572E22965184C241449612C11F94A2BEC70C1E89.PNG</Image>
+      <Description>Promote one of your events for the first time.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Everyone's Dancing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/8201671380A6A3B32BD81CE7D26E254793A90222.PNG</Image>
+      <Description>Receive kudos while performing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Tribe Vibe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/CD2FCB4530063001528906435CD5A97B6A1B9356.PNG</Image>
+      <Description>Bring two PS Move controllers close together in co-op play and feel the vibe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Resident</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/59902936B95439BC01E9DE9AB2AAFC97F92CAD2C.PNG</Image>
+      <Description>Unlock all events.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>The Deep Hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/AFCF179070BDA77D8BC62F6DAA271931B65661BE.PNG</Image>
+      <Description>Be playing PixelJunk™ 4am at exactly 4am.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Dress Code</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/7898B5165E8A4CC09478A4D68D0BFFC0F30558AB.PNG</Image>
+      <Description>During calibration, be wearing a green shirt or have a large amount of green in your room.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>The Sun Can't Compare To Your Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/EE50212F786C0F3A8C1976ABB81A2B2060BE14FB.PNG</Image>
+      <Description>During a performance, touch the PS Eye with the PS Move controller to give it a kiss.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02112_00</GameId>
+      <Title>Raver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02112_00_344135DF65CE36DD01C01329DE74B0ACFCE244CB/BD7650C972C1F7C234E22082DFA4DB325DE4AF63.PNG</Image>
+      <Description>Give kudos to 10 different people.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

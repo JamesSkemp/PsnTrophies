@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00036_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SingStar®</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/CEBE34904DAFC9D6AC9339A1B310E141B5BAB895.PNG</Image>
+    <TrophiesCount Total="48" Bronze="29" Silver="11" Gold="7" Platinum="1" />
+    <TotalPoints>1395</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>You Are A SingStar®</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/F10D17A50039C02A95456F69BB1CA36780DCF788.PNG</Image>
+      <Description>Collect every trophy in the game</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>SingStarter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/309B74996BF9153DF164A69D443D8D4148C80D47.PNG</Image>
+      <Description>Sing your first song</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Super Performer Bronze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/92F67DBF359345E52FD81C0780D6F362ADFA25E8.PNG</Image>
+      <Description>Score over 9000 on 5 different songs on Easy (Unlocks a PlayStation®Home reward)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Super Performer Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/A6E4AC0AED38C7B4CFA011C8E618AEA40C414CD8.PNG</Image>
+      <Description>Score over 9000 on 5 different songs on Medium</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Super Performer Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/97ABF7387DC1AE2D52F740AAC23891765ECDF46E.PNG</Image>
+      <Description>Score over 9000 on 5 different songs on Hard</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Keep It Cool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/F510BFE55234B9B3C39253B2F1A0420FE440B022.PNG</Image>
+      <Description>Achieve a 'cool' ranking on every line of a 'normal' length song</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Your Golden Moment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/7BD3D6D9339E15A89578650CDB2C4AB62E0FBD2C.PNG</Image>
+      <Description>Fill every bonus note in a 'normal' length song</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Beat Bravo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/5C08AA8DE21F908E442A77F0E1FADF0C5F284EF1.PNG</Image>
+      <Description>Beat our resident SingStar®! - score over 9344 on hard mode on any 'normal' length song</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>At Least You Tried</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/6519BA2485ABFD735F14E4ADC89E431BE4AB1324.PNG</Image>
+      <Description>Achieve a very, very low score</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Beginner Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/A1AFA2E2F25ACCD882B0651BFB6FE15C7070D1E3.PNG</Image>
+      <Description>Perform 50 songs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Veteran Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/1F4F5D3B44BC77F340BC646AF6F2C5EED2E704A7.PNG</Image>
+      <Description>Perform 100 songs</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Obsessive Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/94A464363C46770ADEEC905328766FEF1C3D9DB2.PNG</Image>
+      <Description>Perform 300 songs</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>In It To Win It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/A8791BFC5B1D2878CA30E312E290008F0A191BB5.PNG</Image>
+      <Description>Play 200 songs in Battle mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>It Takes Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/3C6F11A01A0744491BD014E8B46F25133195A796.PNG</Image>
+      <Description>Play 200 songs in Cooperative mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Go It Alone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/B33A869D78C2D00300FB6137EFC2CB15DBB496BC.PNG</Image>
+      <Description>Play 50 songs in Solo mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Medley-Go-Round</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/65518C6D1D254AE80904ECF90A72420D5B5B49B7.PNG</Image>
+      <Description>Play 10 medleys</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Window Shopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/79A9258AC3B01F5D4B0561D37970956CA4B46331.PNG</Image>
+      <Description>Visit the SingStore® (Unlocks a PlayStation®Home reward)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Popularity Contest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/F6FA275DE1C2783B0D03397BCD9C6A3EB8010750.PNG</Image>
+      <Description>Make 5 SingStar® friends</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>They Really Love Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/6F5881C29D8A195754969BE65CEF763FF5F13543.PNG</Image>
+      <Description>Have a media upload rated 4 stars by at least 1000 ratings</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Centre Of Attention</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/41925D267911F8FC8003BF4C216707C5FE97203B.PNG</Image>
+      <Description>Have a media upload viewed over 100 times in its first week online</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>All Eyes On You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/B82ADB6612B9BA7EB095DD497319AC6A0680245A.PNG</Image>
+      <Description>Have a media upload viewed over 200 times in its first week online</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>SingStar® Celebrity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/E7B106B5882EA183BBA6204C0DB4F97BD8CB025E.PNG</Image>
+      <Description>Get a grand total of 8000 views from all your media ever</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Chatterboxes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/6A00428F843D854738977B5107EA826B73CC1925.PNG</Image>
+      <Description>Post a single comment on another player's profile page (Unlocks a PlayStation®Home reward)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Gallery Gazer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/DCDFFDDC5F69F858CE8535FEA070E591125CC164.PNG</Image>
+      <Description>View 100 snapshots, 100 audio playbacks and 100 video playbacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Welcoming Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/0F7953842B122DDBAF1D06331E577453DE9877F0.PNG</Image>
+      <Description>Receive 50 visits to your Profile page</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Pillar Of The Community</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/465EE80036DFC4EB69215B5B27AF965E87CF1AE0.PNG</Image>
+      <Description>Receive 200 visits to your Profile page</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Star Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/1DA70F4980193E49309928D864CFF34844AD1590.PNG</Image>
+      <Description>Rate 30 different pieces of media</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Meet The Locals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/5306761E5C3FEBC04F95E86F39E06AD8C2B904D8.PNG</Image>
+      <Description>Visit 50 different Profile pages</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Media Mogul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/CF327D139C68DC6FD9D8484C339BC847DDBFB56E.PNG</Image>
+      <Description>Save 200 pieces of media</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>It’s Good To Share</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/178FEFBE26BA09A9B246E8D31129F9D4D67302BA.PNG</Image>
+      <Description>Upload 1 piece of media of any type to My SingStar® Online (Unlocks a PlayStation®Home reward)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Happy Holiday!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/381EE5FE45A005A12D9061A16BC901F99FC16947.PNG</Image>
+      <Description>Play SingStar® on Christmas Day</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Happy SingStar® Day!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/89C1A7AC3B9A68D1773EEC3B6D1B74E4E4F0DF03.PNG</Image>
+      <Description>Play the game on the day the original SingStar® premiered in Europe</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Interior Decorator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/8872A8C21E9FF0AFEB6A003D8042470E11CF2C31.PNG</Image>
+      <Description>Change your wallpaper 5 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Mirror Image</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/7793013B5DABCCFB03E2B023AAFF4B4509AC1AFC.PNG</Image>
+      <Description>Complete a song using the camera feed option</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Leagues Apart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/D74CEFD2334A00528C2E6DD983452CEA1ED69FA7.PNG</Image>
+      <Description>Win a battle on hard difficulty, whilst your opponent plays on easy</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Guitar Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/8AA43278CF3F658B2D90BBD92CE4915CA7648D3A.PNG</Image>
+      <Description>Play your first guitar song</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>A place where deals are made</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/81589760ED59F60C7EE65DE3C17831532F459279.PNG</Image>
+      <Description>Defeat our resident guitarist! Achieve over 9744 on hard mode on any 'normal' length song</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Duelling... banjos?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/315A6F9EB4B42C71016C4FEF087A78D9ABCEAEA5.PNG</Image>
+      <Description>Play any song with two guitars</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Drop the hammer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/33ED90569B7C966F43CBF95846172BB1DFD6AC88.PNG</Image>
+      <Description>Play 1000 hammer-on or pull-off notes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Hold the line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/A323C65CA141DB02DBCDE49A8D559DCEC2EBC13E.PNG</Image>
+      <Description>Play held notes for a total of 300 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Shake the house down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/569110CA940D2E3265F40078229B4725EE130721.PNG</Image>
+      <Description>Use the whammy bar on held notes for a total of 300 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Tip the balance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/0D5F1457C6C5E05BF582E6E6B9F4A61C977C0663.PNG</Image>
+      <Description>Use the guitar tilt to take a snapshot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Dance Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/C8CEBC8C9C6AA1A520F98FACF1F390FC44854E14.PNG</Image>
+      <Description>Play your first dance song</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>I love to watch you dance, Tony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/7B18B72D8DC19F4A1ABEE9A62D3D6D94E76F7FC3.PNG</Image>
+      <Description>Defeat our resident dancer! - achieve over 9322 on hard mode on any 'normal' length song</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Swing your partner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/EEDC1409EB7B5E1FD274F3B47522872BC95ACAD2.PNG</Image>
+      <Description>Play any 'normal' length song in dance partner mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Golden footsteps</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/B10FF7A8D26973E23CE12142F772E62FEB1054C4.PNG</Image>
+      <Description>Perform 1000 golden moves successfully</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Dance 'til you drop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/B13E32ACD7D8B4E7D72B617F33B803BBF9E16397.PNG</Image>
+      <Description>Perform 50 dances</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00036_00</GameId>
+      <Title>Let's get together</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00036_00_0027BD98E76AFBBA260814D77CF73AED588E65F949/8282AC8E760242EB1A4E197B8E79DEFDF64788D7.PNG</Image>
+      <Description>Perform 100 'normal' length songs in dance partner mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00425_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Assault Heroes ™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/857C044F288AAB4935284F4C14185AB276B5DB6F.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/ABF69F3F69667F352D344FA82A74875E3BDCCDE0.PNG</Image>
+      <Description>Defeat the giant spider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Sharp Shooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/5B0C2E246FFDCFB8FC350B73A49EA926048F8824.PNG</Image>
+      <Description>Keep your accuracy higher than 70%.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/FF54DFA5E7173862B5FAA6425369675E9139DCBD.PNG</Image>
+      <Description>Finish a zone without losing a life.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Lair Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/3BC15D2D34F6C6E78A2AB7127D5E038ED231E463.PNG</Image>
+      <Description>Complete all underground zones without using a continue.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Annihilator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/25DF76F4B981232C6B85BFF2CA2A17D32ACF5753.PNG</Image>
+      <Description>Kill more than 85% of the total enemies in a zone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Small Arms Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/B396D80439ED2160B873559DF2C07F506333B975.PNG</Image>
+      <Description>Finish a zone without using grenades or nukes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Twin Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/4D9BA705B8CB47434B56F80452EEF5C0CE408E84.PNG</Image>
+      <Description>Finish a zone in Co-op mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Speed Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/A246C474E94C87DFE91F633AA2892243C4D58A3F.PNG</Image>
+      <Description>Finish a zone in less than 15 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Peace Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/0ABF7DE751F381912A48ABF3C878D4C224786B18.PNG</Image>
+      <Description>Finish a zone killing less than 50% of the enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Tricked Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/4B8AB19A28551FDBB27B7A2D0299CE46A3A4B8C4.PNG</Image>
+      <Description>Max out all of the vehicle power-ups.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/5898D408302AE8E9D54785BE162CD7787FA6631A.PNG</Image>
+      <Description>Finish a zone killing 60% of the units on foot.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00425_00</GameId>
+      <Title>Assault Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00425_00_358DCC91EA482946CA34B1E36F3FBE446D795F70/09358D7C7A4A6C99B0A21CD9E9F172EE5221BBB9.PNG</Image>
+      <Description>Complete the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
