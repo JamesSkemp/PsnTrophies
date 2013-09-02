@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00709_00</Id>
+    <IdEurope></IdEurope>
+    <Title>IL-2 Sturmovik: Birds of Prey</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/D3ABE880F844FB2C529AB807CEE5619DB7D751F5.PNG</Image>
+    <TrophiesCount Total="51" Bronze="41" Silver="7" Gold="2" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/49C406D801C2C58DD53639BEF9325A976AD6CD9E.PNG</Image>
+      <Description>Awarded for successfully collecting all trophies from IL-2 Sturmovik: Birds of Prey</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Defender of Britain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/2B5E53FDD0F1E43D24D608E56AF32B0898C92C48.PNG</Image>
+      <Description>Complete the "Battle of Britain" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Defender of Stalingrad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/54869E0FA13EA146E1E762F11906AC680F5BE10A.PNG</Image>
+      <Description>Complete the "Battle of Stalingrad" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Liberator of Sicily</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/FB8A4BA2CABDB6A87A565D7A67B8C93163A5741A.PNG</Image>
+      <Description>Complete the "Invasion of Sicily" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Liberator of Korsun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/1AAE1F5D1631E7B9129987AC9B1EE0CA7AE2340F.PNG</Image>
+      <Description>Complete the "Korsun Pocket" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Defender of the Ardennes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/B3531B1D2ECF053C472161299C1BFAEF96DACE0B.PNG</Image>
+      <Description>Complete the "Battle of The Bulge" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Liberator of Berlin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/9E9A4DA18BA92CD80F88CD78282858D271D85E0C.PNG</Image>
+      <Description>Complete the "Battle of Berlin" chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Hero of the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/A37647EF4F856263124AE94642E258EDDC68519E.PNG</Image>
+      <Description>Complete the single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Flight club rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/60180703293BE9B78C6BDA009A3D5D4377DD6746.PNG</Image>
+      <Description>Complete any chapter of the campaign on Realistic.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Flight club member</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/FE0B609CF9712400BE363A327842E25DEEB645BE.PNG</Image>
+      <Description>Complete the single player campaign on Realistic.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Elite flight club rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/63D5D4BF4663C6832634772222729090485F321B.PNG</Image>
+      <Description>Complete any chapter of the campaign on Simulator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Elite flight club member</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/99E267DA1492EE6B9700C7792F30DA764EE3E439.PNG</Image>
+      <Description>Complete the single player campaign on Simulator.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Born to be ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/AD2CBC50F8482272C0B3FCA800D4AA4DBC57D0F3.PNG</Image>
+      <Description>Destroy 5 aircraft in one mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>To hit the bull's eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/C4263A5C3FE787BDB53B9DF5B82CC4CF06C34518.PNG</Image>
+      <Description>Destroy a ship using bombs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Royal Navy's Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/2E83F7D95E6698756A42E6857D1A1268E59F8D2D.PNG</Image>
+      <Description>Complete the "Convoy" mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Be ready!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/037B9462C71C9050B2848DDCE586F65FDD620881.PNG</Image>
+      <Description>Unlock all the single missions.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Always ready to attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/0814BC3BD65034FC66AC8823374583EFD1A55E88.PNG</Image>
+      <Description>Complete all the single missions with the "ground attack" tag.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Always ready to cover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/4149427FFC542162CAE2BB3E9545BC983EC5C678.PNG</Image>
+      <Description>Complete all the single missions with the "need cover" tag.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Always ready to fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/C70167CAE07B9A618996C2CE97449BC669BC8D6E.PNG</Image>
+      <Description>Complete all the single missions with the "fighter" tag.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Test pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/1C7F1F56D543A9ACB95B9555D4961219E7C948C2.PNG</Image>
+      <Description>Complete a training mission with each aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Bird fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/C0B766750AB8B694E2A2C04687887C752D65AA68.PNG</Image>
+      <Description>Unlock all aircraft.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Weapon collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/103D1BA9589DCFF25E35D9ED9032C0FE36EC3E10.PNG</Image>
+      <Description>Unlock all weapon presets.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Eagle eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/CC653F07815BE92E5C51A37379D2943238516A2A.PNG</Image>
+      <Description>Damage 100 ground units using rockets or bombs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Perfect defence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/B7869BB1F18992CED04BF9E68BC5581BBDE92643.PNG</Image>
+      <Description>Destroy 50 aircraft in the Gunner View.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Clear sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/0D3418124259639051737BCF26DD17AD966C28AE.PNG</Image>
+      <Description>Destroy 100 aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Threat from the Air </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/DD93C080291EDE667D90AB8B9B89BB886A7F5FBA.PNG</Image>
+      <Description>Destroy 100 ground units.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Well-read pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/EB30BFE86F29D86B7095525BA267E99EFE7A8BD9.PNG</Image>
+      <Description>Unlock all the articles in the encyclopedia.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Flying tank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/4A1BE73BA51E116E1C752FF5AF72976808000BED.PNG</Image>
+      <Description>Complete 100 missions in singleplayer or online mode with the IL-2 Sturmovik.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Invulnerable pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/570D78D11B81D9104EB66C8100A5EA0A5F913D06.PNG</Image>
+      <Description>Complete "Escort" with limited fuel and ammo and additional attempts set to 0.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Real feelings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/87906EA74415B6419F677CD0FB614906D8F609B2.PNG</Image>
+      <Description>Complete "The Red Skies of Dover" in the real cockpit view.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Good partner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/6F24CABCD80F5E49FA5E2EB0E305524289B3E59E.PNG</Image>
+      <Description>Successfully defend your leader in the "Baptism by Fire" mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Side mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/4A83E3C4AF863B00619DF7521BAB45741D108539.PNG</Image>
+      <Description>Find the Brandenburg Gate and attack the vehicle near it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Soviet aircaft expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/F25A198AFF2304468C0119BB458FCB133A69A777.PNG</Image>
+      <Description>Complete one mission or match with each Soviet aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Allied aircaft expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/B08B0F63A4F169B69438A30CFD338122D79DC3CA.PNG</Image>
+      <Description>Complete one mission or match with each Allied aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Axis aircaft expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/E3E2233E684D65E7821B8B2D1073957AAA24F45A.PNG</Image>
+      <Description>Complete one mission or match with each Axis aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Team Battle champion </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/93BA4E3D49017F3271CFF4BEF370909179BC8B4C.PNG</Image>
+      <Description>Win 50 matches in Team Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Dogfight champion </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/0691EE47EDD81ACD48B6D9D0CB694D26DFBAD528.PNG</Image>
+      <Description>Win 30 matches in Dogfight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Strike champion </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/5302A537C81DF6C1753DCB3E086B45192EC36D77.PNG</Image>
+      <Description>Win 50 matches in Strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Capture Airfields champion </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/214293A13C54803E835DD7C66CF3A68E3AC20AD0.PNG</Image>
+      <Description>Win 50 matches in Capture Airfields.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>The Ace of Aces </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/300A87A574E361D7797385FECB9A08CB9AB5A4BB.PNG</Image>
+      <Description>Destroy 100 player aircraft.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Immortal pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/D39AE0774C8D0569B24EA1163F2EB966F1AB9804.PNG</Image>
+      <Description>Destroy 5 player aircraft without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Any sky is home for me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/997BE8C070FC2C21B57D25CBF842EB2F0A7B2DF8.PNG</Image>
+      <Description>Win an Online match at each location.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Not a rookie anymore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/87B74926D212FA56423227D638008CEBF968D218.PNG</Image>
+      <Description>Win an Online match in each mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Honoured fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/C492F241C5F27C882D88AE967A2C4B3CEFE0523F.PNG</Image>
+      <Description>Play 50 online matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Landing master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/28FEF51AAF1BCCB3643FF182BEB1DAF266987112.PNG</Image>
+      <Description>Conduct 50 successful landings on Realistic in Capture Airfields.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Real experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/F7FD3AD1BA28D6AD89A221724EE20350D8DBE495.PNG</Image>
+      <Description>Conduct a successful landing on Simulator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Comrade-in-arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/884EA999CF458CA29EB4BC0182122D7E5F022115.PNG</Image>
+      <Description>Invite two friends in your team and win a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Master of acrobatic flight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/0361203B8E7F6378E4C1D302B7C0B8A3E861EF81.PNG</Image>
+      <Description>Perform all the aerobatic manoeuvres on Realistic.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Fresh forces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/24C1D39BD28837AA5371855A2456BA29E281E95B.PNG</Image>
+      <Description>Complete Primary Training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>First step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/393482B991A8451E702AA099F5DC0D2FD43EB44C.PNG</Image>
+      <Description>Conduct a flight manoeuvre during the first mission of the tutorial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00709_00</GameId>
+      <Title>Real aviator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00709_00_007AC49621D577E3AD21463D44408829D53AF37975/0FC6982EED8895CC114CA550C03FF3A2BA8A560D.PNG</Image>
+      <Description>Complete the first mission in the "Battle of Britain" chapter on Simulator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

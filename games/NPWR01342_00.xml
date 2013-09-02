@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01342_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Greg Hastings Paintball 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/9C330FA9890FBB0B8038D0D253AD42441CE4C73A.PNG</Image>
+    <TrophiesCount Total="30" Bronze="12" Silver="11" Gold="6" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/DD9A6349E892E026096B253AA6FCA40509005468.PNG</Image>
+      <Description>Earn all other Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Wiper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/96680A90CF2B77D6BB0FFFF0A632A72F257FB3D2.PNG</Image>
+      <Description>Successfully cheat once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Paint Monger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/C21AC0265DA24828CDF1EA77F7015FBD2251AF74.PNG</Image>
+      <Description>Shoot 10,000 paintballs.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Unbreakable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/DB25EE83D622DC1C0EAC6AF89178BBB4A0A060AF.PNG</Image>
+      <Description>Win a round without losing a teammate in a 5-on-5 or bigger match-up. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Bottom Feeder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/2C981BA50838BD1CCA3610B2902906CAAFEE2986.PNG</Image>
+      <Description>Win a round entirely from the prone position.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Lone Wolf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/5D85733D94BB67C1068772A9AD5C176DE4CD0EB6.PNG</Image>
+      <Description>Win a 7-on-7 or higher non-reinsertion game where you eliminate all opponents.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/690B316225B7E6DF1C3503AF1E30BFBBAC3282BA.PNG</Image>
+      <Description>Get three or more eliminations in a single round with a 25% hit percentage or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Bromance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/ABA2781524CDCAF3A5E1406CEA582FA3787CDF94.PNG</Image>
+      <Description>Win a split-screen round without either player being eliminated. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>One Hit Wonder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/945A29CA2DD0D62AEC608834BEC6E60C69A9BE2B.PNG</Image>
+      <Description>Win a round with 3 or more eliminations using a marker without having to reload in a 5-on-5 or larger match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Demolitionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/7DF13027C25DEFA0ACA06572529E2800B8DD6BC9.PNG</Image>
+      <Description>Eliminate three or more opponents with a single grenade. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Olympian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/D0277F9A843EEC0DD293167DF6CB07AA136F32D5.PNG</Image>
+      <Description>Dive or slide 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Pump Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/5F9F147832B107A46134559F4A4D0A6F4CA3C406.PNG</Image>
+      <Description>Using a pump-gun, eliminate three or more opponents in a round without missing. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Go Ballistic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/266FEF7A0F127FBC067B3DB2CB010202DDF5FBB4.PNG</Image>
+      <Description>Eliminate an opponent you can't see by arcing your paintballs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Spy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/B0E08DEA4E742BDCF700E8DC2E70212B3FF4638E.PNG</Image>
+      <Description>Shoot an opponent in the back from their own side of the field. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Cross Training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/63B1464E114D3B59E9A77B71BE6B057B75EFCD13.PNG</Image>
+      <Description>Win a Speedball and a Woodsball tournament. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Goggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/60B803CD141C9F84048C12680A33053655019A9D.PNG</Image>
+      <Description>Eliminate three opponents by shooting them in the goggles in a single round.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Lucky Clip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/3ED3CFB2E5C54919A92F2744624E86A4A59090D6.PNG</Image>
+      <Description>Eliminate an entire enemy team using a single pistol clip in a non-reinsertion game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Team Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/E87F29A3C5D8590CA26B75815088EB56824E0200.PNG</Image>
+      <Description>Win a round after issuing field commands to at least three teammates.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Connoisseur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/CA9F3A167D6A0A074A5EE7B75EC394075CAF3455.PNG</Image>
+      <Description>Unlock and then purchase all of the equipment in the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Mr. Popular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/B8D116413F5122E9CF8A30FF419747896ECBA387.PNG</Image>
+      <Description>Play games with teammates from 50 real teams.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Billboard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/79D1031058775906759EF45A4F50DD6B96698C72.PNG</Image>
+      <Description>Win an event while using the jersey, pants and marker from the same manufacturer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Speedball Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/FA22800793CE06C0A95EFDF35514007075946650.PNG</Image>
+      <Description>Complete all of the Speedball events. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Master Woodsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/9E04A71F0767E5238B53EC721C3BB50D0A7558D7.PNG</Image>
+      <Description>Complete all of the Woodsball events.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/0A2C804F613457E533F18B7695F4CA2E49F2CBA0.PNG</Image>
+      <Description>Complete all of the Recball events.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Paintball Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/FC2C3A20F06CFD704BCF4DAD0BA30057385736CB.PNG</Image>
+      <Description>Complete all of the Speedball, Woodsball, and Recball events.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Greatest Paintballer in the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/6F0FB7E02BE0105B8339100DB4A5594A063C003A.PNG</Image>
+      <Description>Complete all of the Speedball, Woodsball, and Recball events on Hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>E'Ventual Evaporation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/6C7E507100FD8E1AE8E61DA9593578F2CB95816B.PNG</Image>
+      <Description>Eliminate three opponents in a single round with a completely fogged mask. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Tactical Overkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/5933C719E3DFE9170867E7CCFAA6453135A35452.PNG</Image>
+      <Description>Hit the opposing flag carrier with a rocket.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Lawlessness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/C8BF7832BB1C9FEF1EBB5CBF5F1927D8B777B4B7.PNG</Image>
+      <Description>Successfully cheat five times in a row in the same round.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01342_00</GameId>
+      <Title>Foam Cowboy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01342_00_002F8B77129005FD3BD7D02A59F3BCE7866D450B81/9DD680339A047169C5D2A2649F67FF7B69F7E55F.PNG</Image>
+      <Description>Win a round while wearing the “Rodeo King” mask. </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

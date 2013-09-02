@@ -1,0 +1,566 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00809_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dead To Rights: Retribution</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/93959B158B2FCB522A88317EF789650357421771.PNG</Image>
+    <TrophiesCount Total="61" Bronze="45" Silver="13" Gold="2" Platinum="1" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/974DCE7A49C8FC5EE95F17B00022409A5C23815C.PNG</Image>
+      <Description>Collect all the game's Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Protect the innocent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/F6101E9626581745F35AC192BA6378890669C0B0.PNG</Image>
+      <Description>Save the hostages</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Once bitten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/FEE70A49FA1F6E255AEEEBA97A25EE4F6A3D15E2.PNG</Image>
+      <Description>Clear a path for Jack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Man's best friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/BA449284232E1C4585FEE76FA22405EA969C2D56.PNG</Image>
+      <Description>Acquire Shadow</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Shadow...keys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/8E7C98BD40B8CB12A128BA035AAD6878EB149820.PNG</Image>
+      <Description>Help Jack and Frank into Milton</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Commuter disruption</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/23C71F11A086BC5DB88FBD141369136BBFAA1770.PNG</Image>
+      <Description>Cause the train crash</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Guard dog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/9C63405AFC5325A8FE12ABA157D29A93F19A6FF1.PNG</Image>
+      <Description>Drag Jack out of harm's way</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Apparently I CAN kill you</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/49A0F1DC509F21E29E657B498518DBCB45207632.PNG</Image>
+      <Description>Defeat Tseng</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Fetch!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/20E50ED5931DEC7786E517B107307CEB61DEF717.PNG</Image>
+      <Description>Find a way to get Jack through the gate</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>The battle, not the war</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/A316DF1496CD8D64FE0EFED1C4B448C7655A6509.PNG</Image>
+      <Description>Escape from the GAC</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Air traffic control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/089AFD33F1361821797FC20161CB52F105E7F57A.PNG</Image>
+      <Description>Destroy the choppers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Keeping Faith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/BA73DF60014412C93E0FC70BFF9BFE8C2F6C9BEB.PNG</Image>
+      <Description>Rescue Faith</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Just gimme the bottle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/4392548EDF70A96C46353F91AC921C36D9653CDD.PNG</Image>
+      <Description>Get Jack to the bar in one piece</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>GAC hawk down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/3BBE49A0E5E2064764124A3593E283DE2D6CAA76.PNG</Image>
+      <Description>Take out the Gunship</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Throw away the key</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/EFE7D85A948F0AD75DCB15A8EA00220F0EF66F34.PNG</Image>
+      <Description>Imprison Temple</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Run out of town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/2D3FE1EB73A37311F184CF6D9275E2551A0FBD6B.PNG</Image>
+      <Description>Repel the GAC</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Canine fodder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/B4339B745BA094B2EC142D3DF594B6B48232C654.PNG</Image>
+      <Description>Shut down the electric fences</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Doing it the ol' fashioned way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/C90250D5655C26EC926A122BD24E46520D267B3F.PNG</Image>
+      <Description>Defeat Redwater</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Just like Dad would have done</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/988587FAA98FBEFDE0183764EB56DE7F50744A01.PNG</Image>
+      <Description>Complete the game on any difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Best cop this city's ever had</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/2708D7D759F312B5EEA734BF320618BB4AAF39C0.PNG</Image>
+      <Description>Complete the game on OFFICER difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Retribution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/516FA9CBA94863428D7C6DEA96E0AFFB0F879BC7.PNG</Image>
+      <Description>Complete the game on DETECTIVE difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Crossing the line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/7AB73D729889D89DA2C4B3A1855E8825C5E0893C.PNG</Image>
+      <Description>Defeat the Enforcer with a Takedown</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Shown the ropes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/89F1736CECD13A3F57BBE2B2F80E25AA5963CCD2.PNG</Image>
+      <Description>Complete the fight with Frank</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Dog of war</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/31DE24DB5009E951340462EF2D24F7E4FD9A6AA8.PNG</Image>
+      <Description>Retrieve the security keycard for Jack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Shad-owned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/C4F6CC248A62CE034A498B74F4D98540A70F1EF8.PNG</Image>
+      <Description>Perform a silent kill with Shadow</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Smile, you son of a...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/FA7EDDA2A3553300EBE86558D8723D84BCEBCAFD.PNG</Image>
+      <Description>Take out a GAC tank</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>That's what you gets!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/E3109E264C0034F85B1546E398A2EB3378CF85A0.PNG</Image>
+      <Description>Kill an enemy by knocking or throwing him off a ledge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Got your GAC</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/BA59722DA4734275F6EB1E35D7501B9307F01571.PNG</Image>
+      <Description>Take a GAC hostage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Get ready for a surprise!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/5AE9DB46F4405716D8AC1A32F86C4BACF18304FB.PNG</Image>
+      <Description>Leap over and kick an enemy from cover</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Dog tag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/AE362AF05C58B6B534CAB18A0F5CD80ACA98B619.PNG</Image>
+      <Description>Perform a tag team kill with Shadow</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Head banger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/62B8CEB9111B2DA91F0DBCC7B2AE288E6987D876.PNG</Image>
+      <Description>Open 10 doors with a hostage head</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/5E0C9E7A9D7F2C0310CD84C34AF338E320F87A17.PNG</Image>
+      <Description>Complete any level (excluding the Prologue) without firing a shot</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Scrotality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/9D9E597CF6EA33EC132797A6BFD2B08B4EDCE42C.PNG</Image>
+      <Description>Perform a Shadow groin takedown</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Crime and punishment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/955786596BA1A049849A13DA9D9A95624ECA49A9.PNG</Image>
+      <Description>Perform 50 takedowns</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Dog's dinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/C39E55BBD523B29A284E9CEA7627D76AC0A0AC09.PNG</Image>
+      <Description>Perform 50 Shadow kills</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Bring a gun to a fist fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/33C7E48116315AF653E9AC977B19F0E1048565BF.PNG</Image>
+      <Description>Perform 50 disarms</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>It's all in the timing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/E78FBE5D4BCBBBA23260602E28D239BA67F653CC.PNG</Image>
+      <Description>Perform 50 counters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Featherweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/0A8BFF7DF365923ABC77DF9AF40D0C262A91C7F4.PNG</Image>
+      <Description>Perform 200 3-hit combos</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Heavyweight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/A36F999D0B96DC3CE8D7698BAB2E99C70A7B3D66.PNG</Image>
+      <Description>Perform 100 5-hit combos</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Shadowboxing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/8B0CF0D120283BF1BE84FF0797C78FE6E3D291EE.PNG</Image>
+      <Description>Dash evade 50 strikes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>The price of justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/28715DE01732B4DD9AE21ADD32B5750786D80CF0.PNG</Image>
+      <Description>Collect 25 cop badges</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Honor the dead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/7F1EE586AD489C8F6E2B8895067C836571F8D2BF.PNG</Image>
+      <Description>Collect 50 cop badges</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Medal of merit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/71859150C2D4D1D6480E9B304E85FE7BEFF9FAB2.PNG</Image>
+      <Description>Bronze rating on every level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Medal of bravery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/DA57BD5E47DE482291B02E0ED94C0B7FD1850144.PNG</Image>
+      <Description>Silver rating on every level</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Medal of valor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/024604E4F20D0931A2EFF7CF4487FE0BCFB2D230.PNG</Image>
+      <Description>Gold rating on every level</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Shhhhh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/B2814AC99117EEB2DDB20B628928A212CE23C4FC.PNG</Image>
+      <Description>Complete any level with 10 silent kills, on OFFICER or greater difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Perfect balance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/A2855A413247D95BE32E75A301BBFDDC2B85F82E.PNG</Image>
+      <Description>Achieve maximum VARIATION BONUS on any level (excluding the Prologue)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Boom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/23D81CB30BCC7D984F568B73E7F76324D995D3AC.PNG</Image>
+      <Description>Get 30 headshots in any level, on OFFICER or greater difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Got your back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/661E727C2BD7477A78FEA16124473EF11BADA218.PNG</Image>
+      <Description>Complete a level without Jack or Shadow dying (levels 3-10)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>First at the scene</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/208D95E05E6F2252EBC2771CBBB8F8B3A2C93DF0.PNG</Image>
+      <Description>Achieve maximum CLEAR TIME BONUS on any level (excluding the Prologue)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Finish him Shadow!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/3D683E3302347BBC82544624D68F208E32A65932.PNG</Image>
+      <Description>Combine Jack and Shadow to kill 20 enemies in any level, on OFFICER 
+or greater difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>You hear that? We’re official...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/50B1BC542544A201BEA68D1732A2258791AC78A6.PNG</Image>
+      <Description>Complete Assault on the 87th Precinct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Above and beyond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/6027DF8C1AFBD57D7F6FAAD1041CD9FB1724B38C.PNG</Image>
+      <Description>Achieve Gold Rating in Assault on the 87th Precinct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>GAC in time for dinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/DC10EA849BF74F3BE64697A57DD02745411F484D.PNG</Image>
+      <Description>Achieve maximum CLEAR TIME BONUS in Assault on the 87th Precinct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Didn’t I kill you already?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/7AC78BA29DDC303777DE5153FB63C61ACBB55393.PNG</Image>
+      <Description>Defeat Redwater in Riot Control.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/33DD176266C3972AA8D7682DE9850C70C5B24AAE.PNG</Image>
+      <Description>Get 350,000 points in a single play session of Riot Control.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Dedication to the cause</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/DF971183D39283A4593656AFF645E2E0B32AB54F.PNG</Image>
+      <Description>Get 5,000,000 points total over multiple play sessions of Riot Control.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Marking your territory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/02923688616ADC4A9F5494C319091F385210188B.PNG</Image>
+      <Description>Upload a Riot Control score to the Scoreboard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Hot head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/B777562B6BFB19AA78C0C4F1EF2395C16B664544.PNG</Image>
+      <Description>Score 500,000 points in Retribution Mode over multiple play sessions of 
+Riot Control.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Retribution Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/278397262FE90BC0628E8E7683E1A84667611857.PNG</Image>
+      <Description>Score 250,000 points from Retribution Bonus over multiple play sessions 
+of Riot Control.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00809_00</GameId>
+      <Title>Jack Slate of all trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00809_00_3E672EA7CF9A72FCA687E3E4B6330DC654CC9837/FB22A57C8DD0E7CB0F5278B70202BC21CC3FC6AB.PNG</Image>
+      <Description>Get 15 unique awards in one round in Riot Control.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

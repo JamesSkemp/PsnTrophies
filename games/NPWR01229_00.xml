@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01229_00</Id>
+    <IdEurope></IdEurope>
+    <Title>You Don't Know Jack</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6BCB813980991099371427EB4D56A8E11FA095C9.PNG</Image>
+    <TrophiesCount Total="61" Bronze="42" Silver="15" Gold="3" Platinum="1" />
+    <TotalPoints>1350</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>We Knew You Could Do It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A6AB848F9A4C4513DB753F44530C53F9763589A3.PNG</Image>
+      <Description>Collect all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Birth Certificate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6F1D3FBDDB737E90AA6226533A0C54F050164130.PNG</Image>
+      <Description>Create a Contestant</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>It's Just More of This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/1EFF3EFBA03B4A0DF639AA029A1A90FF104C2C06.PNG</Image>
+      <Description>Finish an episode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Vidiot Savant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7F76CE383A5CBE8FD1C32279518A34DA4976FB82.PNG</Image>
+      <Description>Get every question right in an episode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Beast Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FE3C6B9FEEC633A26B9EF0CF8901D834532D42BE.PNG</Image>
+      <Description>Get 10 animal questions correct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Film In Your Brain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/74680213C6465620FA01FC5DD87AFCDC228BFEEA.PNG</Image>
+      <Description>Get 10 movie questions correct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Phatty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/985027F83F85F49976D0205B261DEFCE446954CD.PNG</Image>
+      <Description>Get 10 food questions correct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Living in the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/161DB551A7361C38AAF9FA4473C69DC8CD821C92.PNG</Image>
+      <Description>Get 10 history questions correct.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Unicorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6AE3F94F41FEA3E0A6CCD42085A175A9B11034B5.PNG</Image>
+      <Description>Achieve the highest gamer rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>One Teat Short of An Udder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/69CE8A77F15D2FCDB4ADD4BD3262914A88D3DF45.PNG</Image>
+      <Description>Achieve the second highest rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Mouth-Breather</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/38173351536E5ECB68EA779C1B93C74A1BCE6785.PNG</Image>
+      <Description>Achieve the third highest rating</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>100,000aire!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A73132DFD9941BC27CBE3766F17D863E9C59C81E.PNG</Image>
+      <Description>Earn $100,000 lifetime</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>500,000aire!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B10693C3927B777D9AE18DEE23FDD5A5FCD98742.PNG</Image>
+      <Description>Earn $500,000 lifetime.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>1,000,000aire!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ED8014C218BC13236BD55689338FD94486DC9DD2.PNG</Image>
+      <Description>Earn $1,000,000 lifetime points</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>DisOrDat Participation Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/9DADF6D513CBF8553FA9250A59CCE929CE6150CE.PNG</Image>
+      <Description>Complete DisOrDat in 30 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>DisOrDat Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/C573051F930FAB2274E0796C928B4277D5251D48.PNG</Image>
+      <Description>Answer all 7 DisOrDat items correctly</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>DisOrDash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B8CAB5BFEFFD613BC5E7988168A58AB1CE68217B.PNG</Image>
+      <Description>Ace a DisOrDat in under 10 seconds.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Jack Attack Dog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/54DCFDA4D4185997310A60D29135C12AAEBB93CB.PNG</Image>
+      <Description>Get all 7 Jack Attack questions correct in a multiplayer game without messing up</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Taking it from Behind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/361FAB76AE995E5B66CFAA04FEE2BBF0440B1981.PNG</Image>
+      <Description>Come in from behind to win during the Jack Attack</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Back Taxes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/9BD72EE1B27EC40C5F4D8D08E66531902602961F.PNG</Image>
+      <Description>Win all prizes in Episodes 1-73</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Button Banger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A121C446E3A35983B32A5AEB8725C96BA569BE97.PNG</Image>
+      <Description>Get a multiple choice question right in the first 2 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Smelt the Roses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7B1F0A1730A12BDA2C8E2679362BFB39B8267C5B.PNG</Image>
+      <Description>Get a multiple choice question right in the last 1 second.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Menage-a-Quatre</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6A8F863904DCBBE1C55BB26C80F102B793A64D37.PNG</Image>
+      <Description>Play a 4-player game online</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>My First Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4B838825CB53D42F13A4C55709A4C61CB85DBC8D.PNG</Image>
+      <Description>Screw someone for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Virtual Virgin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A8D4C8D4842B6B5F93F4378D9D14C8A5CC87F8C2.PNG</Image>
+      <Description>Answer correctly after being screwed 5 times</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Enscrewsiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/576F57D208B72DD078C78878E8E01DC9C9A5F55E.PNG</Image>
+      <Description>Screw 50 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>The Game's Half Full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/DAA59AF846FE970ABA8E9B642058F596A1340250.PNG</Image>
+      <Description>Play Episodes 1-36</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>The Game's Half Empty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/7FBC78F3DB4BDBC7B6F57CFE75FD6D6E73055D20.PNG</Image>
+      <Description>Play Episodes 1-37</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Perfect Attendance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/497DF1046B8CCDC8891C27D67A2E60C03E676865.PNG</Image>
+      <Description>Play Episodes 1-73</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Slack Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/31FCAC04B4B7CD2D3B6E8B9D9C623ED377B58F35.PNG</Image>
+      <Description>Get -$1 million on a Jack Attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Beat a Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/8EF7098F81C7A25C51D0F55EA5E91B4C77C8F79F.PNG</Image>
+      <Description>Beat someone with a rating of Unicorn in an online game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Lose to a Loser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D490039361193D979FE39A5EEDC440F8A936725D.PNG</Image>
+      <Description>Lose an online game to someone with a rating at or below Dullard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Always a Bridesmaid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/CECF578770B290F6F41744B4B932BF41021DA9E6.PNG</Image>
+      <Description>Come in second place 5 times in online games</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Social Outcast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/F447AD1E8DF85B79B0F4E4CAB5AEA09F3410EB25.PNG</Image>
+      <Description>Finish 5 single player games on Friday or Saturday nights.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Turncoat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/C5C545E2A1BB87B80C205EE5630B8380BFBC484B.PNG</Image>
+      <Description>Play on July 4th instead of celebrating America</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Quick-Draw McDumbass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/B7EDA43B000DB0A3AF0C28CA41E79DF99327E276.PNG</Image>
+      <Description>Choose the wrong answer within the first 3 seconds 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Consolation Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/6D469DC6AEA63E9017215A75957CA689417E863A.PNG</Image>
+      <Description>Play 5 hours without getting a single trophy.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Genius for a Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4B5EFE804FFFFA9F06992FF9C88AD4D182BA1992.PNG</Image>
+      <Description>Score at least $30,000 above your average.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Overconsumer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D551E36167E8F7A627D428E6E5FF4D2C7A0356FF.PNG</Image>
+      <Description>Listen to all commercials after one episode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Discovered Gauntlet of Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/70B6267A1059A367BD92CE8F5927A15800D6E7F0.PNG</Image>
+      <Description>Find the very important gauntlet of fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Great Crowd</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/A301926834950F2482BB6993AD463ED4C2E1162B.PNG</Image>
+      <Description>Laugh at an easy joke</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>JACK Wrack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/BEB4554E656D2B58806A14DB968DE4D77744CD66.PNG</Image>
+      <Description>Play all episodes in JACK Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Map Dancer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/DAEDA8FBF03449D62ACE0D399D5245C20402352D.PNG</Image>
+      <Description>Get 3 geography questions correct in JACK Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Lit Twit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/254A86BD59CB5BCDFA0FACA2A1E59CCA4BFCF6C7.PNG</Image>
+      <Description>Get 3 literature questions correct in JACK Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Boob Tuber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/D0A78521C1BB8288E90E792F69C2FA92595E35E3.PNG</Image>
+      <Description>Get 3 TV questions correct in JACK Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Incurable Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ABAFC384B08E3C7751F58B7440AC8C3E0A9F1389.PNG</Image>
+      <Description>Collect all 10 prizes in JACK Pack</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>JACK Smack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/ADDBD3E15D115904F2330A2F49CC511006AA0796.PNG</Image>
+      <Description>Play all episodes in JACK Pack 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Super Know-va</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/93C5B2CCDA1FAFFF1D2C9A0CF8C2726D34002456.PNG</Image>
+      <Description>Get 3 astrology questions correct in JACK Pack 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>B Sharp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FA73083219965FCEF1792CB4D5AF812AD5BD2EC5.PNG</Image>
+      <Description>Get 3 music questions correct in JACK Pack 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Math Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/AC2523D76FBD1FA705C631A16AAEEB8C5DDCFD77.PNG</Image>
+      <Description>Get 3 math questions correct in JACK Pack 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Nest Egghead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/FBC662301CB9CA10256DD8416A85945C2C9B7EB2.PNG</Image>
+      <Description>Collect all 10 prizes in JACK Pack 2</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>JACK Crack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/F65DE853D5793A07665999793326EAE4FC1E5FFE.PNG</Image>
+      <Description>Play all episodes in JACK Pack 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Wizard of Balls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/EFA1843A3D2DA40DBCEA5C56E0A3F0CD107E6753.PNG</Image>
+      <Description>Get 3 sports questions correct in JACK Pack 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Past Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/107125516BD7D951A278D420823B7D437CEC7D4B.PNG</Image>
+      <Description>Get 3 history questions correct in JACK Pack 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Sci Fly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/2D244FA5A562DCD59468B6C1594F381DC6EC0594.PNG</Image>
+      <Description>Get 3 science questions correct in JACK Pack 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Steaming Stockpile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/E94E4EB0715C5E9DE67A45A6FDDBEDA5518B5FAE.PNG</Image>
+      <Description>Collect all 10 prizes in JACK Pack 3</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>JACK Sack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/3D5BCCDD7D6E0DACF4B17EF5433BCED2FF09C846.PNG</Image>
+      <Description>Play all episodes in JACK Pack 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Cock of the Wok</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/4C828D9BBCD3BA39FF319437E94F5F61E8778542.PNG</Image>
+      <Description>Get 3 food questions correct in JACK Pack 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Hot Butter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/5486C279290C50B1F49995B423C0FB256DE2CF44.PNG</Image>
+      <Description>Get 3 movie questions correct in JACK Pack 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Animal Husband</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/960E14F3AAD285D915A22C632E2D7C7BC57B94EB.PNG</Image>
+      <Description>Get 3 animal questions correct in JACK Pack 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01229_00</GameId>
+      <Title>Overprize Load</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01229_00_00C9EC82876BD8FA9004484FABEDDCC6C2932AB118/30B32FA9FFC8E4ADDCAC86E2065E1DAC833B83B0.PNG</Image>
+      <Description>Collect all 10 prizes in JACK Pack 4</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00848_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Tom Clancy's Ghost Recon Future Soldier™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/937789DCA847D6D2EEA6FFB97FCB113EF130A9DA.PNG</Image>
+    <TrophiesCount Total="60" Bronze="48" Silver="8" Gold="3" Platinum="1" />
+    <TotalPoints>1230</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/936BA35682A8BF7E2F542C0E17355C01C81C0F3B.PNG</Image>
+      <Description>All Trophies obtained</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Loose Thread</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/C108C34BB70C295425B27968CCAD57123164CDEE.PNG</Image>
+      <Description>Secure Gabriel Paez</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>What Goes Up...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/42C32E4DD131A81C206263CE7828AB1E5F24B7F2.PNG</Image>
+      <Description>Shoot down the cargo plane</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Precious Cargo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/D0A4655637A13DBE2EE1734B46F6AC283F204326.PNG</Image>
+      <Description>Secure the VIP and transfer him to the exfiltration team</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Source Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/D709B0D481225767D1F53BF2E2D9E6469134B720.PNG</Image>
+      <Description>Secure the VIP and transfer them to the exfiltration team</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>EOD</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/0D00D02DA0738C7D15894DD8A98B6A6161E60A38.PNG</Image>
+      <Description>Destroy the Russian weapons transfer station</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>...Must Come Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/00155A4117E4F03C6A8BC3983FFDAC6111ADAC06.PNG</Image>
+      <Description>Destroy the plane with the weapons system on board while it is in flight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Blood Brother</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/F899713016B248227B2A830FCD874614D96A3F98.PNG</Image>
+      <Description>Rescue the Georgian Spec Ops</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Fuel for the Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/8A588B0E31A1FFAFC8A04B008D12297283B4050F.PNG</Image>
+      <Description>Secure the drilling ships and complete the mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Breathing Room</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/A37ECA9DB6CC364F7CD217F59AE67EB94498CD6F.PNG</Image>
+      <Description>Destroy the second piece of enemy artillery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Special Election</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/5A0BD3E09B1C1C88DE895EE4410D4348DF8D43FC.PNG</Image>
+      <Description>Rescue Russian President Volodin from the prison camp</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Relieved of Command</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/9D9F4882B9D94198A1FCDF0CB83E29849333765A.PNG</Image>
+      <Description>Kill the general commanding the Moscow defenses</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>No Loose Ends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/7E0853978A3F479CF63685754936BB4590EEDE5F.PNG</Image>
+      <Description>Eliminate the leader of the Raven's Rock faction</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Just Another Day at the Office</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/CF908EBAB0DA8B3F1AD2CBA8B631B8D21E001595.PNG</Image>
+      <Description>Complete the campaign for the first time</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Advanced Warfighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/7319EB7DE0C235884BC287A9CD312B64D15C2556.PNG</Image>
+      <Description>Complete the campaign in Veteran</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Future Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/C069E65C7C9F472E2BE419C572B28A9E7FDA9C9E.PNG</Image>
+      <Description>Complete the campaign in Elite</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Battle Buddies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/08ABF3E64992BE04D7BDF07DE691E8BD5CD92805.PNG</Image>
+      <Description>Complete the campaign in Co-op</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/9D1BE2E2DE3E5769EC5F32B0F9BB574D6C353E60.PNG</Image>
+      <Description>Complete 50% of the tactical challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Master Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/B7F8BA2EB47852A49A672E0F1EC7EB178B953461.PNG</Image>
+      <Description>Complete 100% of the tactical challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Qualified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/F1E5F4559CB16E697D88E21A9DF58BBE014A401F.PNG</Image>
+      <Description>Have a Ghost Skill of 90% for a single mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Good Enough for Government Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/B9C01E368053D12AE61F201139A6942B023981C3.PNG</Image>
+      <Description>Have a Ghost Skill of 80% for all missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Quality Beats Quantity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/3B68189CF50631BD6996C2D28A1377036162231A.PNG</Image>
+      <Description>Defeat all 50 enemy waves on Guerilla mode (any difficulty, any map)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Doing Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/308435D2BE433DA5450872EBA08208FD1917AAC4.PNG</Image>
+      <Description>Kill 1000 enemies while in Guerrilla mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Good Effect on Target</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/74C4C8F187D3942B238DE36846D19ECE42D971D8.PNG</Image>
+      <Description>In Guerrilla mode, kill more than 5 enemies with an airstrike</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Just a Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/43D2D6CED23C5E83C512AD4FDD39E4B639C54859.PNG</Image>
+      <Description>While in Guerrilla mode, complete an infiltration sequence without being detected</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tour of Duty: Nigeria</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/5D9A7C694B1E47AB3C3F7A309B0EC54420FF776C.PNG</Image>
+      <Description>Win 3 MP matches of any game type on each: Pipeline, Market, Sand Storm, and Overpass maps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tour of Duty: Arctic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/11C03580AB3E93F63A5392349F9CDB3D8000FD68.PNG</Image>
+      <Description>Win 3 MP matches of any game type on each: Underground, Mill, and Alpha maps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tour of Duty: North Sea</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/D7DDD21DF9BA88C5EA4149047BB0DD7421482A0E.PNG</Image>
+      <Description>Win 3 MP matches of any game type on each: Harbor, Cargo, and Rig maps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Call, Answered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/38BE73BEE119A90FDF4FA741934E46E0E2C9BC61.PNG</Image>
+      <Description>Complete all Tours of Duty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>High Speed, Low Drag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/E3EBBBF83132FF6C0394B6092FB0AD639B690738.PNG</Image>
+      <Description>Reach Level 50 on any character</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Armorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/30BED04E79BFA7C91A44E80885B3F908C71FB775.PNG</Image>
+      <Description>Spend 25 attachment credits with each role</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Coordinated Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/DE1BD8073184C9455E2518F047B1F3378D1AB09F.PNG</Image>
+      <Description>Use the Coordination System to reach an objective</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>High-Value Target</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/EC86527B998D3946F5F1E5D50BCA526A3BB934A9.PNG</Image>
+      <Description>Kill 5 High-Value Targets in Quick Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Mod Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/D29665E2A53CC7C6E330AFC6FBFB068C3A0B9E85.PNG</Image>
+      <Description>Add an attachment to any gun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Kitted Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/19AC47E7B9ADD067A2174C37F2684B3B797AC2E2.PNG</Image>
+      <Description>Customize 1 weapon with an external attachment at every attachment point</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Recon Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/E08E763DEE4D5FDB65146124937CC8FF226D68EF.PNG</Image>
+      <Description>Complete 5 Intel Assists in Quick Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>True Ghost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/F57E4FA3ED2733B893BF4C6F7DF1B22ED2F64329.PNG</Image>
+      <Description>Get 10 consecutive kills in one Quick Match without dying</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Counter-Intelligence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/29646C3C91FDACFAA77DD40FA30205379B69C6C4.PNG</Image>
+      <Description>Interrupt an enemy's attempt to data hack a teammate 5 times, by killing or stunning the enemy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Field Tested</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/414C1FC910DF24F738D009A19E0DCED0CF09B391.PNG</Image>
+      <Description>Play 5 MP matches of each game type</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tuned Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/EC45A0B3EA4B53867FED74B3004714479D15A0E4.PNG</Image>
+      <Description>Customize all the internal parts of one weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Mod Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/4E8A9FAA530D9EE64067BBD7AC5A43E84186BDC8.PNG</Image>
+      <Description>Spend 50 Attachment points to add attachments to various guns</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Actionable Intel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/16312C2542BC95D8AD485D1F0B17E3AA386AE5C9.PNG</Image>
+      <Description>Complete 10 Coordinated Kills</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Backup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/837137737B4422A191FED198FD5385AE989D0FAE.PNG</Image>
+      <Description>Complete 5 Savior Kills in Quick Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Cross-trained</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/ECD5FEDF71EB2001F98D6B6BF7015B295E79D05B.PNG</Image>
+      <Description>Reach Level 10 on one Rifleman, one Scout, and one Engineer character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Conflict Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/97C339B6083F79F2A9C9A64CC4CBDE4F045FAC4D.PNG</Image>
+      <Description>Be part of a squad match where your team wins by a margin of 500 points or more</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Siege Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/BC4F95CEE2F2067AF793E787DA37B35C49EF0778.PNG</Image>
+      <Description>Be part of a squad match where your team captures the objective in under 2 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Decoy Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/4C85BDFD6C82DC563492AFC4E2A8522831377281.PNG</Image>
+      <Description>In squad matches your team completes the key objective first, five times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Saboteur Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/06ACE79CC3CC572E3E92B66676D28826A135334D.PNG</Image>
+      <Description>Be part of a squad match where your team takes the bomb into the enemy base in under 2 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Anything You Can Do...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/43461646F15850C58CDA0F5A333708D18F0F9405.PNG</Image>
+      <Description>Complete a Daily Friend Challenge through all return fire volleys</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>...I Can Do Better</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/02F6E160DCE3C0A62EB1E10832B88C4F1D44F3D5.PNG</Image>
+      <Description>Complete 20 Daily Friend Challenges
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Total Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_143B23924FC7F4885F78686AEABDA98A1FA2C38F/73FA1CA4E0A2F2F355B2C0E1F3C60E5E89F9611B.PNG</Image>
+      <Description>Earn all of the Domination Trophies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tour of Duty: Moscow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/12C93C0E6DA48055B247F540CD9715A23D316EA9.PNG</Image>
+      <Description>Win 3 MP matches of any game type on each: Skyline, Riot, and Evicted maps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Stockade Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/5FD14610FCA9A241A1482BEB0EA6BCBB883E310E.PNG</Image>
+      <Description>Be part of a squad match where your team eliminates the enemy in under 2 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Clean Slate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/B8B73EB1CDBD37E2EE0845B4543B409D710546A6.PNG</Image>
+      <Description>Take down all four HVTs</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tables Turned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/A5DF918C1B8EB78E2BF2942550DF39D43AB89766.PNG</Image>
+      <Description>Fight your way out of a Bodark ambush</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Package Delivery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/79E6BB0D8BFD2DFD60D1E768BB34A7AF1BE59D74.PNG</Image>
+      <Description>Secure General Kozlov</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Dirty Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/60B06BDC4B5FC1538998A2A60E6416F63FA08606.PNG</Image>
+      <Description>Complete all 3 maps in Raven Strike on Elite</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Maximum Effort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/69235227C262DB2D934120124602B2941A19EC6D.PNG</Image>
+      <Description>Defeat all tactical challenges in Raven Strike</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Tour of Duty: Peshawar </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/5A78CEFB9C42EDB331A77DF1C2523CF236DE24B2.PNG</Image>
+      <Description>Win 3 MP of any game type on each: Switchback, Palace, and Transit maps</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00848_00</GameId>
+      <Title>Takeover Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00848_00_019325CF345335559BF7E0FD3DA6766D4831071312/16EC9ADB85A5ED40D966C33E31D56FD688BDBD7E.PNG</Image>
+      <Description>Be part of a squad match where your team wins by more than 100 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

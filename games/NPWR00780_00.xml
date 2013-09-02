@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00780_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Earth Defense Force®: Insect Armageddon™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/ED7742B322C28ADA3C51248990921A1A5F0DD70F.PNG</Image>
+    <TrophiesCount Total="51" Bronze="37" Silver="12" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>EDF! EDF!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/F5913694EB95EC0ACE0BDD8E79FA8C1FB102FD45.PNG</Image>
+      <Description>Earn all Trophies in the game
+Get a life</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Amateur Ant Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/F6A48FA34986113AFA51590B4D62CC4093776AD6.PNG</Image>
+      <Description>Kill 100 Ants
+100? That's nothing!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Welcome to the EDF</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/A8E83D6F11CE32C409AAA3D7DDF4474CBE5D3BBB.PNG</Image>
+      <Description>Kill 1000 Ants
+1000? There must be a jillion of those things! Get busy!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Ant Farmer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/DE37FFCCC5CA8B1DC2803B583ED54B9C488C8A59.PNG</Image>
+      <Description>Kill 10000 Ants
+Good start!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Newb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/2F365BEFE318C825C843D6FB0CDB80C4724803D8.PNG</Image>
+      <Description>Kill 100 Spiders
+You want a medal for that?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Good Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/8FAABB2BB062B567A3A0FFA65B1537E42C40D857.PNG</Image>
+      <Description>Make it through 5 Survival Mode Waves in one session
+Five Alive</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Spider Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/FCE759BC02E29A64E8A140A7987F672CC63C8E2B.PNG</Image>
+      <Description>Kill 10000 Spiders
+Arachnocidal maniac!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Tick Picker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/3E2D03C4A623A9ED51B8520558AB50C775BBC8B5.PNG</Image>
+      <Description>Kill 100 Ticks
+Tick...Tick...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Tick Tock Ya Don't Stop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/42812BB10F14BC65B183A2953ED7BDBC9EAC50C9.PNG</Image>
+      <Description>Kill 5000 Ticks
+Boom!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Hector? What?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/27B88791CF77C4CC236DD5D6C3DC2285383E586C.PNG</Image>
+      <Description>Kill 10 Small Hectors
+What's a Hector?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Hector Wrecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/DDF0466252415A6296B349996D40B70F002495E6.PNG</Image>
+      <Description>Kill 100 Small Hectors
+Hector Who?</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Hectorcide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/E3C46745AACB1117338E37CD84593D0EFFDC8CAE.PNG</Image>
+      <Description>Kill a Large Hector
+The bigger they are...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Regicide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/1AF6298C868FC381085E6F602319B9752EBA88A2.PNG</Image>
+      <Description>Kill a Queen Ant
+The Queen is dead!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Patricide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/A4A187FF8ADF872A56A5247D46EDDCA2612B0EEF.PNG</Image>
+      <Description>Kill a Daddy Long Legs
+Well he's a long gone daddy...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Manticide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/F204F2DE7A357E019AB70CAFCC6D959246946571.PNG</Image>
+      <Description>Kill a Mantis
+We mean it Man...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Manticore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/8F0AFF40AC6E01C1CBA92DFED86C59B302FB69D9.PNG</Image>
+      <Description>Kill 10 Mantises
+Preying ON Mantis</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>The Sting's the Thing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/B82E714531748573966B2DA88E2F4FA09468E521.PNG</Image>
+      <Description>Kill 10 Wasps
+Empty nest</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>War Against Soaring Pests Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/0934C475F996EB172BFDD69C6F75959705FCBDF4.PNG</Image>
+      <Description>Kill 100 Wasps
+Get out of my yard!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>It's a Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/6AAD1489A34F85A9C99E645D60A438CA874E1938.PNG</Image>
+      <Description>Destroy 100 Gunships
+Mmmmm...Gunships</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Gunship Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/D37D9D4EF85CEB3118BBBC3FD4797C2E8F652299.PNG</Image>
+      <Description>Destroy 1000 Gunships
+1000 down</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Fleet Depleter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/C1C7ADBDBF345E83577F0F57518EF2E643B3A5B0.PNG</Image>
+      <Description>Destroy 10000 Gunships
+Bet you died a lot doing this...</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>It's Bomber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/48179123562957A306604DF0EAC500570CFFC898.PNG</Image>
+      <Description>Kill 10 Bomber Spiders
+Drop the Bombers!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Look What the Rookie Did!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/C875AFAB2174879F458BF63DD6FBD4B933096393.PNG</Image>
+      <Description>Kill 5000 enemies
+Bug juicer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Hangin' Tough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/08C130A500085A6403104FBDBB7F198F768E2DD9.PNG</Image>
+      <Description>Survive 100 (total) waves in Survival mode
+Big Wave Rider</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Who Ravages the Ravagers?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/28D2ACE50E93934C46B39F73364B6C9985B94CB6.PNG</Image>
+      <Description>Kill 25000 Enemies
+Master killer</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Eyes Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/D010F476A47C7511692A3D47CD2E62D5AD212D52.PNG</Image>
+      <Description>Destroy 10 Carriers
+Tora! Tora! Tora!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Carrier Dropper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/1A7F16670696C355F5874CA3EEF2BDAFDD057813.PNG</Image>
+      <Description>Destroy 100 Carriers
+Mayday! Mayday!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Nesting Instinct</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/462A892DCC8BA23DCA42B3A55FACFDB44A88C028.PNG</Image>
+      <Description>Destroy 10 Anthills/Spider Nests
+Total Nest-ruction!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Homewrecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/BA2D51EA01FDB757975E699F369AA60DDF137B45.PNG</Image>
+      <Description>Destroy 100 Anthills/Spider Nests
+Hit'em where they live!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/A26DA1C3F3208878E1BF782440D883EC100CBE44.PNG</Image>
+      <Description>Collect All Dropped Weapons
+Look what the Hector Dropped!
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Smells Like Team Spirit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/57880E98A19742FF1DC7524773FA54E5CCF9C2E6.PNG</Image>
+      <Description>Incapacitate a teammate
+Way to be!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Campaigner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/DB3B733CD5593A8C945C7CD2287C25CCA1295AAF.PNG</Image>
+      <Description>Unlock all Armors
+Sharp dressed man</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>All Dressed Up...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/0B35F19361E9634F65B3C76DA66F7E8BA1EC4D85.PNG</Image>
+      <Description>Level up an armor completely
+Isn't that special...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Lifer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/FEFABE5778A4DB9AD8893FA94A6FF12CA171ED2B.PNG</Image>
+      <Description>Level up all armors completely
+Well, Hello, Mr. Fancypants!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>High Roller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/C8A51936A173902BD6B364706476C00FE197669C.PNG</Image>
+      <Description>Purchase all available weapons for a single armor
+You are a consumer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Daddy WarBugs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/3D16685D8CB0BCDA6C42C3916C95AA0CAD10BEAF.PNG</Image>
+      <Description>Purchase all weapons for all armors
+All gunned up!
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Helping Hand Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/D2966C02DC09A6FEAD15FE276B50B947B9891F12.PNG</Image>
+      <Description>Revive a teammate
+Good job! Now do it some more</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Bedside Manner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/64C4EFBB063662D2EE96C826456E9FA5E9053504.PNG</Image>
+      <Description>Revive 250 teammates
+You're so nice</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Survive-O-Rama</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/892D69B2FC6D01912E7DA3F672D2B36F2C335DA1.PNG</Image>
+      <Description>Survive 500 (total) waves in Survival mode
+I will survive!
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Surviving...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/CD832BA12BB0B1EB4B4288674E51D6B50B4923E3.PNG</Image>
+      <Description>Get 1000 kills in Survival mode
+Still on the island</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Social Dead Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/A18B59B9EACE3A227AFFA72B1E4B1356C4CFF299.PNG</Image>
+      <Description>Get 10000 kills in Survival mode
+They got...FRAGGED!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Lander Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/21105D40DA1C3878F5F713BC1620C68A8C9E6FBF.PNG</Image>
+      <Description>Get 250 kills with the Lander Turret
+Hot LZ? What hot LZ?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Mechs Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/B4557235E11479CC18865813688520526176A578.PNG</Image>
+      <Description>Get 500 kills with the Mech
+It's a Mech-a-delic freakout!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>I Heard Them Scream...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/A2DBFC80A5B6864A5788691F63F1CA7243A548CB.PNG</Image>
+      <Description>Get 500 kills with the Tank
+Tanks a lot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Nothing Turret</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/5237C6F0C71D62EC740EF46427B1E0B17BECF952.PNG</Image>
+      <Description>Get 500 kills with Base Turrets
+Like a Turret in a punchbowl...</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>The Architect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/BA0E1944D679DCCF5C8BAEE7E6F07A413BFFC95B.PNG</Image>
+      <Description>Destroy 500 buildings
+Urban renewal, EDF style</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Demolition Derby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/69F8C2DD5E7CD5965BF9DA3F7FEEDF7EEAD7BED5.PNG</Image>
+      <Description>Destroy 500 cars/vehicles
+Traffic un-jammer</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Collateral</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/CAC81F9FE54690301834DF978744D11CE2DD4140.PNG</Image>
+      <Description>Destroy 500 world objects
+You litterbug</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Chopper's Choice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/9C601989EC5FAD0865D5F20A2B59F4BA24C3ACCE.PNG</Image>
+      <Description>Beat the game on Hard
+Rule #3</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Infernal Master Destroyer Deluxe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/640F0990C450CBB15C848B877F6A5C44444CBEB4.PNG</Image>
+      <Description>Beat the game on Inferno
+Dante? Is that you?</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00780_00</GameId>
+      <Title>Lemon Squeezy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00780_00_9DAE2C38F7A6DCC5F8B8B265404C900966974AA7/9222EBB60269ED9939AC179C2F6F145535BE5676.PNG</Image>
+      <Description>Beat the game on Normal
+Easy Peasy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

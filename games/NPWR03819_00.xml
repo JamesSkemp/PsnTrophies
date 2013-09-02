@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03819_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Killzone</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/CD5FB7C643FBA4823EED835C5F998A4F62D88919.PNG</Image>
+    <TrophiesCount Total="59" Bronze="53" Silver="4" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/00AB31941486DE3AB6DC5A8C63BDE7E7D54AA3CC.PNG</Image>
+      <Description>Collect all trophies in Killzone</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/E72E4D08E2A25EBC9D9148B93B36530784B2863A.PNG</Image>
+      <Description>Complete all levels on the easy difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Colonel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/3A1625FC80FEE3A92B5DA3BEE44BF1C84BC03FEC.PNG</Image>
+      <Description>Complete all levels on the normal difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/63245A12EE0383037B0BA8DB47219B9B0DC89EAF.PNG</Image>
+      <Description>Complete all levels on the hard difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Toothpick Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/DAC5D243F82AE57812EB9F4A2A1AEAE519C81716.PNG</Image>
+      <Description>Get 20 kills with the M32 combat knife</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Backstabber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/8074A4643900130808A0BCA5BC5EB71BCC8D062C.PNG</Image>
+      <Description>Get 20 kills with the FSK-7 Fury</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Bullheaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/87A554BEA1F44A84A57913E16D9E2AB274001D48.PNG</Image>
+      <Description>Get 20 headshots with the M4 Semi-Automatic Pistol</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Tripletapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/46B9B358CA1E8891863AEB2FADB26331409E69AC.PNG</Image>
+      <Description>Get 3 headshots with 1 magazine, using the secondary fire on the IvP-18 Tropov pistol</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>3 Birds With One Stone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/C3B9C236976075803833C662D3D87F9FAA975120.PNG</Image>
+      <Description>Kill 3 Helghast with 1 cooked M194 Percussion Grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>One For You And One For You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/FA68257B73FA466A19F000D28225373EBCA3569F.PNG</Image>
+      <Description>Kill 2 Helghast with 1 Double Shot from the M13 Semi-Automatic Shotgun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Disproportionate Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/ED5EDC83459F4B9810DB56D791F9EEC0AD199028.PNG</Image>
+      <Description>Kill 1 unfortunate Helghast soldier with 3 rockets from the BLR-06 Hadra</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Eco-Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/4D1D3238E9DF6CB84433876DB100B3397972575B.PNG</Image>
+      <Description>Hit 15 Helghast soldiers without reloading, using the secondary fire on the M66 SD Submachine gun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Call Of The Siren</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/B57383C7986BDF3BC5C3E8E04B87A97CAC522BE1.PNG</Image>
+      <Description>Kill 25 Helghast soldiers with the VnD-10M Siren</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Explosive Consequences</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/EC5B9E10EBEEAFA1D5BE4A10ED7B69CABC12463D.PNG</Image>
+      <Description>Kill 5 Helghast soldiers with 1 grenade using the attachment on the M82-G Assault Rifle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/EFDFEC229F70671869DCDAFD2920A14405846305.PNG</Image>
+      <Description>Pick up 10,000 rounds for the STA-52 LAR rifle</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>4 X 4 X 4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/6F077AB30A0314BFDDB9A70C1439F6B85685AEC5.PNG</Image>
+      <Description>Kill 4 Helghast in under 4 seconds with the EAW-25/4 Chimera</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Right in the Jewels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/E44254D5904CDF42DBFDC9DA7162D33EFB219F1C.PNG</Image>
+      <Description>Use the M224-A3 Heavy Support Weapon to melee 20 Helghast soldiers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Designation: Demolition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/E03D6F291EAC544474C842FAD8852D3E54299A05.PNG</Image>
+      <Description>Destroy 3 Towers using the BDL-23 Dohvat</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>The Reds Of Their Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/163CF741037182EEA84ABEE85EBCDDB7A0A1C6EB.PNG</Image>
+      <Description>Get 10 headshots with the STA-52 SLAR Sniper Rifle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>2 For The Price Of 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/54ABB6C4AF2B1AAF457093E278297EBDAC24B5DB.PNG</Image>
+      <Description>Kill 2 Helghast with 1 shot from the BP-02 Pup launcher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Beep Beep Beeeep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/DEFBBFD6AF3378D1EF3544818BD969DBC87F48AC.PNG</Image>
+      <Description>Kill 10 Helghast with the secondary fire on the M327 Grenade Launcher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Get Out Of My Comfort Zone!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/EAFFF91F164467DDEA413D802A391F5DC0590519.PNG</Image>
+      <Description>Kill a Helghast within 1m with the M404-MAW M. Anti Tank Weapon ...and don't die</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Artillery Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/2653F690B960A6A0A52B9C8C94C46DADB749FBC0.PNG</Image>
+      <Description>Kill a Helghast from 100m+ away with the Pnv-3 Siska</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Covering Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/7BA2C1E6DF7B9B03B631A5BFA28920BD7918ADEB.PNG</Image>
+      <Description>Kill 10 Helghast with the M224 Mounted Machine Gun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Something Borrowed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/D0BA106D534F0F0AAB86B50F48D001AB4B91FB17.PNG</Image>
+      <Description>Kill 20 Helghast soldiers with the VnS-10 Scylla Mounted Machine Gun</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Short Controlled Bursts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/44C0DCFBA5866924E59C0E060506961F5E093DA8.PNG</Image>
+      <Description>Finish a level above 50% hit efficiency</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Economical Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/1DDF87A212F5751508DF5A1BC1CD6AE7E4755CD2.PNG</Image>
+      <Description>Finish a level above 75% hit efficiency</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Nobody Hides From Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/02D7936B6A439FB34E450E19A7811C73DF472F48.PNG</Image>
+      <Description>Finish a level above 90% hit efficiency</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>1 v 50</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/B877419A852BB0F52C1CAC0E11A93E9B0E98E488.PNG</Image>
+      <Description>Kill 50 Helghast soldiers without dying</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Brouhaha</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/44761A48E6AF9E35123C5030076134764A2E8B46.PNG</Image>
+      <Description>Kill 30 Helghast soldiers in under a minute </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Burn Baby Burn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/886CE269415A424ED912A518BD56C6245A7D83F6.PNG</Image>
+      <Description>Destroy your first enemy APC</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Tanks For The Good Times</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/08551F175771B5367DBE79E7A85C8A3CA9FD1235.PNG</Image>
+      <Description>Destroy 2 Helghast Tanks attacking the Industrial level</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Elite? HA!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/4BC161734825C99B6D7A9AC5532C01558345E691.PNG</Image>
+      <Description>Take down your first 2 Helghast Elite</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>That Got Their Attention</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/C311BDDF3BB2B422348499F60A99029DAABB32F5.PNG</Image>
+      <Description>Destroy the Missile launching APCs in the Misty Waters Firebase</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>They're On Our Side Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/E40686BD852AEBCC386A7903FD964EE0954687BD.PNG</Image>
+      <Description>Switch allegiance of Helghast Sentry bots as Hakha</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Anti-Air Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/635FAE1DE7DBC19130DC177100F7387086131E9E.PNG</Image>
+      <Description>Bring 2 Dropships crashing down in the Mist Waters Firebase</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Bounty Hunted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/D447DA86B6E63E6CFF07F85EC988315B66A4A41A.PNG</Image>
+      <Description>Kill the IFO Bounty Hunter </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Abridged Bridge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/1EEAB7DFB0F85A510E9D7795A251850E317F23DA.PNG</Image>
+      <Description>Collapse the Helghast bridge in the Jungle Valley</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Supply and Demand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/76338EB487A44173EA8A849E5C96ACD8291B211E.PNG</Image>
+      <Description>Blow up the ammo dumps in the Forward Logistics Base</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Generally Better</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/566ABA155825F262874DB932AC433AE2DFD9210C.PNG</Image>
+      <Description>Kill General Lente and his bodyguards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Orbital Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/93F2D0FD6AF55FAEBDD6404D00AF8881F6903F25.PNG</Image>
+      <Description>Take down General Adams with a grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Helghast Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/B65EE7F88B9C41BE6801028D92D42171E0986B66.PNG</Image>
+      <Description>Complete Chapter 1 </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Vekta Evacuates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/4B452931FD06D0C05C4E5AD565A2FE27E15AB1CF.PNG</Image>
+      <Description>Complete Chapter 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>New Allies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/02BC5BF5D9A83274F848A36950CE35C71FEC1CBD.PNG</Image>
+      <Description>Complete Chapter 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Strange Company</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/18405ABFC9B404EFD1F89C8554B3F5F8FBBFE4BE.PNG</Image>
+      <Description>Complete Chapter 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/3DCAE5C2CA3F1521DA356898E157B7DBD4EBD631.PNG</Image>
+      <Description>Complete Chapter 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Misty Waters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/D729D9237B8F8A45DB674C5278FD1579E5A66B0E.PNG</Image>
+      <Description>Complete Chapter 6</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Hunting the Traitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/DDA54838EC85DB786DCA5AE55FDC622F8BDE9644.PNG</Image>
+      <Description>Complete Chapter 7</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Forging a Path</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/5330BB1E3F7787D175A511531B72896368185749.PNG</Image>
+      <Description>Complete Chapter 8</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Hidden Pasts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/594439DEEEFA1AE86BCCEDC94BCD12476B9A14A1.PNG</Image>
+      <Description>Complete Chapter 9</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Onwards and Upwards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/6F6423BD30F5BDA5D24D89A4054D849AE01C3043.PNG</Image>
+      <Description>Complete Chapter 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/1B7968D1F2A22E4401A63DDD3164A67FDA36844A.PNG</Image>
+      <Description>Complete Chapter 11</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Rapid Reaction Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/8A12AC980960DA0ECB498A19B37260233DE10717.PNG</Image>
+      <Description>Complete Chapter 1 to 11 playing as Templar</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Shadow Marshal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/0579A78B1231B630FD092894BF5DE5C320FE3FE2.PNG</Image>
+      <Description>Complete Chapter 3 to 11 playing as Luger</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>ISA Regulator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/FB981E58FEDA2F2E68A4645A944C14597016A184.PNG</Image>
+      <Description>Complete Chapter 4 to 11 playing as Rico</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Field Operative</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/F242F153990573F680A98D578218F7138C865A9A.PNG</Image>
+      <Description>Complete Chapter 5 to 11 playing as Hakha</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Helghast Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/9B57E2DAB5D9DA0DA1C9D44ED39410B5A3298A89.PNG</Image>
+      <Description>Win a battlefields game playing on the Helghast's side with the enemy AI set to hard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>ISA Saviour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/A7F428AEF95101FEAC9770498B539F591F7D1FA6.PNG</Image>
+      <Description>Win a battlefields game playing on the ISA's side with the enemy AI set to hard</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR03819_00</GameId>
+      <Title>Two's Company</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03819_00_DB222848F36D4D401AAB5A922A785EC29C937F85/EDC83CBF2D54312982421653A06248C67C7ACE25.PNG</Image>
+      <Description>Win a battlefields game with another player in split screen</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

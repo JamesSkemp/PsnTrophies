@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01250_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Apache: Air Assault</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/F1FCB0FB56C1DF94BA21BFA50CBA917F3C134585.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>You Complete Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/B34551F82EF06AEB44D0172E5DA5BE4908641C07.PNG</Image>
+      <Description>Earn all available Trophies for Apache: Air Assault</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Got To Da Choppa!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/856636EBD7ED13BF59906728CFD4586A8DD4159B.PNG</Image>
+      <Description>Start "The Sky is Burning" mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Flying Colors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/72D26FCE585D82BFCA73199B2AAEED239164C5C0.PNG</Image>
+      <Description>Complete “Takeoff” mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Locksmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/008E7EDDF29E888516F835D37686CEE453BEBE17.PNG</Image>
+      <Description>Unlock all chapters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Wave Goodbye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/184CA25CEFE27D577CB62AEAE9CE5B03EBD4FBD4.PNG</Image>
+      <Description>Complete a specific mission objective in "The Sky is Burning"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Bridge Burner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/1143C6B6A40E767EAF5EC1091077D56DA5766525.PNG</Image>
+      <Description>Complete a specific mission objective in "Whiteout" in Local Co-op mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Radio Silenced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/681991D9562BE3D2EE308116430D8360D5D0E715.PNG</Image>
+      <Description>Complete a specific mission objective in "Over and Out"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Drug Bust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/BAD5C31D56B571A5ED0A1DF8197672A757B76C9D.PNG</Image>
+      <Description>Complete a specific mission objective in "The River Deep" in Local Co-op mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Overwatch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/38062AA77820DEE9396CD9C031AA92637EAE4E76.PNG</Image>
+      <Description>Complete a specific mission objective in "The Gang’s All Here"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Four Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/4225C74E82BAD4048E2784938144E9A8BBD5A0FA.PNG</Image>
+      <Description>Complete a specific mission objective in "Lord of War" in Local Co-op mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Crude Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/216C0032AB7CEC0BCA10EC9B8E76D392AE7F2047.PNG</Image>
+      <Description>Complete a specific mission objective in "Sharks in the Water"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Demolition Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/9BD2143A695B12827C6C7DE7D0D429307DE428A3.PNG</Image>
+      <Description>Complete a specific mission objective in "Holidays in Hell" in Local Co-op mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Stopping Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/CE4EF698491737F74AA6FF2C9AF2D062D9A83C7A.PNG</Image>
+      <Description>Complete a specific mission objective in "Sunshine Units"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Highly Survivable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/E8D7261B7AB8C35DADD9D520F0A2F6E161F55795.PNG</Image>
+      <Description>Complete a specific mission objective in "City on Fire"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Point And Shoot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/2BED3BDA6E795FA0A66306182BB4B2128A425DFF.PNG</Image>
+      <Description>Complete a specific mission objective in "On the X"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/1FDFC32858D09F4367FDDC692F6428EFED44E287.PNG</Image>
+      <Description>Win the “Domination” mission in Squad Operations</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Ace Of Diamonds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/7A29778DB4012449F9238D42A8ACE2E2BC704672.PNG</Image>
+      <Description>Complete specific mission objective in "A Diamond in the Rough"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Chemical Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/7DC600A4C00C5245C7E2AFD0D88E3D7DEBA875A8.PNG</Image>
+      <Description>Complete specific mission objective in "Rain in the Desert"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Rigged With Explosives</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/00A18BCD27FAC352B722ED4AB5997F661F1B845F.PNG</Image>
+      <Description>Complete specific mission objective in "Ship of Fools"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>A Leaf On The Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/82FEB6652A1D0DF63FF01DB7C0E85AD5C97B8C23.PNG</Image>
+      <Description>Complete "A Damn Shame"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/A3668D9B72FC98CA46D175719C2DDEAFA5F41A6F.PNG</Image>
+      <Description>Win all Squad Operations missions in any flight mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Rumble in the Jungle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/3249EF4BC77ED21A41EB462576C6EA9C7B402CAC.PNG</Image>
+      <Description>Complete specific mission objective in "Turkey Shoot"</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Desert Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/A516AE789CA00F322CC3E708550FA8581F4F0DAD.PNG</Image>
+      <Description>Finish Tazirstan Chapter on Realistic or Veteran difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Feet Wet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/159A68C6652F589B93F79F01D5BCD4C2BFA25DBA.PNG</Image>
+      <Description>Finish Africa Chapter on Realistic or Veteran difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Jungle Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/645AB2D1641C6FB6EB55162DE19813C1914D13A1.PNG</Image>
+      <Description>Finish Amazon Chapter on Realistic or Veteran difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Rotorhead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/77DFD2409D68BDC54C6A97AC62E49F6E6EBCBCDE.PNG</Image>
+      <Description>Complete the Campaign</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Helicopterrific</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/1A2E8058708440B864F30FA1F29F73D567445547.PNG</Image>
+      <Description>Complete the Campaign and Squad Operations</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Apache Of Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/320F1AA214898899330801F8417B588D9CBFD220.PNG</Image>
+      <Description>Win any 3 missions from the Campaign in Local Co-op on any difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Second The Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/E334533CD3C3562BE5DF8518930CC59BC08BFCDA.PNG</Image>
+      <Description>Complete all secondary objectives in Campaign mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Shot At Fame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/051FBB287AADED914D6CAD9CD401DF55B034E872.PNG</Image>
+      <Description>Post scores to all Leaderboards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Deadliest Home Videos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/2D14B21CB1DC7BF2A7EE030BC4BD61F5EC93938B.PNG</Image>
+      <Description>Watch a replay</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Hotshot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/DEEBDDBFB96364D3601EFA75697C7CEE8ED47E84.PNG</Image>
+      <Description>Kill 10 enemy infantry in FLIR view</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Touchdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/BAD74C70A69B6298AECD1E474CDDBE71D4A749EE.PNG</Image>
+      <Description>Complete a landing at a landing zone in Realistic or Veteran difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Ripple Effect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/B2785D646C16268EAD880FC188FF3CB185675B11.PNG</Image>
+      <Description>Kill 8 ground units with one Hellfire ripple shot</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>See It, Shoot It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/C7CDC6FD95C2E0FD18AB2FE97245D2FC1E2C7F13.PNG</Image>
+      <Description>Enable setting “Control Turret in Zoom” and kill 5 enemy infantry by gun in this mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>New Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/C1F99AA66C5BD16B9F281A24A6BBA6DB93717344.PNG</Image>
+      <Description>Win any mission on Veteran difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>This Is The End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/AF6B74299B19FC6DF8B0A9824437899850377142.PNG</Image>
+      <Description>Play the Credits</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Squadrowned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/EBDC8466B4A883A5A094B374B5552305E97D407F.PNG</Image>
+      <Description>Win one Squad Operations mission in online Co-op mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>What, No Roflcopter?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/BA267A6598F302C81DC81EC9FAA4A2BB5EA16E92.PNG</Image>
+      <Description>Complete free flight with each helicopter</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Big Brother Is Watching You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/9CA90F9B649E7D5B8D55D94D1CA5A02845D95D62.PNG</Image>
+      <Description>Use satellite view in each location</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Sticky Trigger Finger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/6E1146DB056D2092D809C04CB3C48D9287A6E6E1.PNG</Image>
+      <Description>Using the 30mm cannon, kill 20 enemy infantry without letting go of the trigger</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Peppy’s Request</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/86259B380CCE96A1C0C4ED8D0C7B55C3D7F58B38.PNG</Image>
+      <Description>Do a barrel roll!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Keeping It Real</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/7A4CAB25938C9ECAD45E51EA166766AA697DE80D.PNG</Image>
+      <Description>Play one mission entirely in cockpit view</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Not A Scratch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/7DFCC55F280C9A566C539DAC078532A94A634BC7.PNG</Image>
+      <Description>Complete any mission without dying on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Gunfighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/0F1587B15F62517D371A8D5FFD4DFD4C262BF162.PNG</Image>
+      <Description>Kill 30 enemy ground units with the 30mm cannon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Rocketman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/5E073CCB8912AB1EAE717EDBC3A2B709206A6414.PNG</Image>
+      <Description>Kill 70 enemy ground units with the Hydra 70 rockets</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Hell Yeah</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/293E79D6988C53DB95EBEE3D5EC625D91AE43E29.PNG</Image>
+      <Description>Kill 114 enemy ground units with the AGM 114 Hellfire missiles</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Sting Like A Bee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/52ABC4254B14BC560EEF99307FCA063B6BC948FD.PNG</Image>
+      <Description>Kill 9 enemy air units with the FIM-92 Stinger missiles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>I Can Dance All Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/1802A9C31D51C59B58F777B606BC11EBEB2A1808.PNG</Image>
+      <Description>Avoid 15 incoming missiles</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Skin Deep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/226A80A96E83A7C362409F682AB99B3B55D259AD.PNG</Image>
+      <Description>Unlock all skins for all helicopters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01250_00</GameId>
+      <Title>Bumper Stickers!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01250_00_00B72F67F7D2E4D4DB817CEB8B5091C1F31E93A4F7/807429C6C48F13238E38A340930F5ECBB78ED37E.PNG</Image>
+      <Description>Unlock twenty decals</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

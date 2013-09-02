@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01267_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Yoostar2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/6C3894DBCB93EAB38AFDC23A8BA76D39E5A4E39B.PNG</Image>
+    <TrophiesCount Total="51" Bronze="40" Silver="8" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Yoostar Megastar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/71EA23E798BBC70AFD75D9D1A2562DF6FDD94615.PNG</Image>
+      <Description>Obtain every Trophy in Yoostar2!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>First Scripted Scene</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/796EFCB26E428B15CB54829C3AF2FC31DB90FFB8.PNG</Image>
+      <Description>Perform your first Movie or TV scene with a "Scripted" play style</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>First Unscripted Scene</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/1370A5455F66E48D0189D445F62E9F94D40FA8DB.PNG</Image>
+      <Description>Perform your first Movie or TV scene with an "Ad-Lib" play style</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>First Unscripted Background</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/84555DC226F012BDFC69F488AC6C6ABB70252204.PNG</Image>
+      <Description>Perform your first Video Background or Hollywood Set scene</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Perfectionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/34F2D318E366B878FFF2E0F03FCF9F9DE7626874.PNG</Image>
+      <Description>Obtain 5 "Awesome Line" Result Medals in a single scene</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Double Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/90BE80ACFF1979683B8CADDE528C7A9827D4D648.PNG</Image>
+      <Description>Perform a scene with a friend</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Extra! Extra!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/8E7E664176C84E4F41513F3433E35446773898B7.PNG</Image>
+      <Description>Follow the link on 10 newsfeed items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Monochrome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/C3B0001DFBE53495D0C034AD5FBEAB033617E9CF.PNG</Image>
+      <Description>Perform a Playlist using 5 black and white scenes on the disc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>The Triple</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/BC796A8594ADDA6D62460F97EEA760BC9623C75F.PNG</Image>
+      <Description>Get 3 "Awesome Line" Result Medals in a row during a performance</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Children and Animals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/7B323FE2761A8669C7DD194F0A56205C5DAD5859.PNG</Image>
+      <Description>Perform a Playlist using 5 on-disc scenes containing Children or Animals </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Yoostar Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/2676327C22911A6CF57A4AA3632C7BA920B75454.PNG</Image>
+      <Description>Perform every scene on the disc</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Movie Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/003E113F45FAFCE7A45F409F5F9FEA83FBDBB001.PNG</Image>
+      <Description>Perform every Movie scene on the disc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>TV Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/255F4DA3C31B3AFB43AEB06E1A64F9C704AB5974.PNG</Image>
+      <Description>Perform every TV scene on the disc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Video Background Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/44ED3BE4802B57D820EA69566D9712B70741EF3E.PNG</Image>
+      <Description>Perform every Video Background on the disc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Hollywood Set Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/35F47C68D867FEDF3A81A3D1FE4B59ED3770B1D0.PNG</Image>
+      <Description>Perform every Hollywood Set on the disc</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Prolific Actor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/F45FC1ED420DB18B8362818C643C350386F2AC1A.PNG</Image>
+      <Description>Perform 30 unique scenes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Superscore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/8062E79C64EDC293DF8106D95B8780603372A8A7.PNG</Image>
+      <Description>Accumulate 10,000,000 points in total from multiple performances</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Hitting The Big City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/7380A79AD160CAB9397FF82997003CBBB440E6C2.PNG</Image>
+      <Description>Unlock Century City in Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Map of the City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/366D059CF22B8478457DBB274127A73BB6B1281B.PNG</Image>
+      <Description>Unlock all Challenge Mode Zones</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Paint the Town Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/06174A0D93D31DC279C26925056265CE0AD85329.PNG</Image>
+      <Description>Master a 5-Challenge Zone</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Keys to the City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/581C0636EEE9618CB56DAAFA866532B7D8077ED2.PNG</Image>
+      <Description>Master Challenge Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>All About Town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/16969B4FA20AD6FB56727D13FFD607F053A7389C.PNG</Image>
+      <Description>Play all challenges in Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Tour of the City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/FF9D1AE02E23304F6B38A7C205151CCECD681004.PNG</Image>
+      <Description>Obtain one Top Marks Prize in every Challenge Mode Zone</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/B1088A657A47B60D55721EDBEB11828B5543DA7C.PNG</Image>
+      <Description>Get 5 Top Marks Prizes for Performance Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>You've Done a ??? Job!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/98EE437A96B1DD2D211AE28ED1AD861432F259A6.PNG</Image>
+      <Description>Get 3 Top Marks Prizes for Random Blanks Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Off By Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/C7F5DD12BC13E208268E7AE5470B4A4F7CF364C0.PNG</Image>
+      <Description>Get a Top Marks Prize for a No Teleprompter Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>An Eye For Detail</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/7947061F19CFD5368769B98932704568B2EBC839.PNG</Image>
+      <Description>Obtain every Bonus Prize in Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Endurance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/BABD5F271E26652E4AD55CAEDB3130CA3E6182CB.PNG</Image>
+      <Description>Obtain 10 Epic Prizes in Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Welcome To The Community</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/04D67AF3C49F47C9DA2BB11000BB06D53612CBDE.PNG</Image>
+      <Description>Upload a scene and have it approved</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Pillar Of The Community</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/8F1A0C93592E2329B5D02469552E219A6BA77A41.PNG</Image>
+      <Description>Upload 30 scenes and have them approved</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>One To Watch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/9A74B77F96F040879C10F92CBE05414F2D51FED2.PNG</Image>
+      <Description>Achieve 500,000 Fame</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>In the Limelight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/01FD72C0F4664A389287A7CC8FF49980EFAEC095.PNG</Image>
+      <Description>Achieve 1,000,000 Fame</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Red Carpet Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/A3B8D1C12AFA0FCC47FA916EA1CDD61DB667B4C0.PNG</Image>
+      <Description>Achieve 2,500,000 Fame</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Critic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/9CD8988EE6750074C6F81DF357EA626086D9B40C.PNG</Image>
+      <Description>Rate a scene on the Community</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Veteran Critic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/6E0FE62A19AA3CFBEFE5574E2FC50B283C0ECD79.PNG</Image>
+      <Description>Rate 100 scenes on the Community</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Seal Of Approval</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/890848183F23D37FADDA4EA9FE5462246B1BD1A3.PNG</Image>
+      <Description>Give out your first Community Award</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Master Of Ceremonies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/F42865ACD847A25F17249D2FC553F74CDD0F104A.PNG</Image>
+      <Description>Give out 100 Community Awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>It's Not What You Say...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/C168A707FDD7B7C953D9B4A206F23BF4EE1198AC.PNG</Image>
+      <Description>Get a Silent Movie Actor or Mime Artist rating during an "Ad-Lib" performance</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Clip Show</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/A1CDA87536BDE8866852B85071304D72BF992EB4.PNG</Image>
+      <Description>Perform a Playlist with a Movie, a TV show, a Video Background and a Hollywood Set</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Sound Bites</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/ED607CC5D55DBFDFD835FE922FCFD1154B017C6C.PNG</Image>
+      <Description>Perform a 5-scene Playlist and achieve a Classic Line medal in every scene</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Can't See You But I Can Hear You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/54DF4DB659AE4D79928FA8AFBA6BF3FBF0363520.PNG</Image>
+      <Description>Get an Invisible Actor rating during an "Ad-Lib" performance</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>The Method</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/F67192832B84B8896E620CF85DF5955E447D7793.PNG</Image>
+      <Description>Complete a “Scripted” performance without receiving any red medals during playback</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Flip the Script</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/60883C059838743EF9A001E969725A86ADC259E2.PNG</Image>
+      <Description>Complete an “Ad-Lib” performance without receiving any red medals during playback</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>An Offer He Can't Refuse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/409C2D5F372B5DD2F81B11A531216F6BE7BDAFE0.PNG</Image>
+      <Description>Score 5 out of 5 for 'An Offer He Can't Refuse' from The Godfather</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Here's Lookin' At Yoo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/6093AC7B2072F8A677C1EA11D3AA0C5EB55F959D.PNG</Image>
+      <Description>Score 5 out of 5 for 'Here's Looking At You, Kid' from Casablanca</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Yoo'll Be Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/F2234397D36EE15B8269488D31E79B1F331F7DCA.PNG</Image>
+      <Description>Score 5 out of 5 for 'I'll Be Back' from The Terminator</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>This…is…Yoostar!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/BE34F11ECDE56836DB0EA1D3D6A26F5D2486F146.PNG</Image>
+      <Description>Score 5 out of 5 for 'This Is Sparta!' from 300</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Understatement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/4091D49F114C05888C27460057E53ECC804D18F2.PNG</Image>
+      <Description>Score 5 out of 5 for 'Houston, We Have A Problem' from Apollo 13</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Apparently, It's Alive...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/178F746F51B1F64E3AB6CB0770C593CAB0A9CC30.PNG</Image>
+      <Description>Score 5 out of 5 for 'It's Alive!' from Frankenstein</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>Paternal Vengeance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/1AA84A19B3EF9B2E4F0FEB365167E7E3FF3E3FA3.PNG</Image>
+      <Description>Score 5 out of 5 for Princess Bride's 'Tale Of The 6-Fingered Man'</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01267_00</GameId>
+      <Title>It's Just A Headache</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01267_00_00A1981994285123904563C94232E972DA841E1E24/22235DD78B000F0B31C11E5227BE24EB16C1A4DF.PNG</Image>
+      <Description>Score 5 out of 5 for 'It's Not A Tumor!' from Kindergarten Cop</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

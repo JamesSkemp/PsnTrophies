@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01419_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Bakugan™: Defenders of the Core</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/7676C0F59D15A57D88545F38868E96AD41FEF087.PNG</Image>
+    <TrophiesCount Total="45" Bronze="28" Silver="14" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Bakugan Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/1A15ED540C7ADE85E791C1E64D49D01CAEC1FB85.PNG</Image>
+      <Description>Get every trophy in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Wet Feet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/A62D8405DE07F2C9AA6A36605288F85559A0D266.PNG</Image>
+      <Description>Follow Dan's instructions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>First Encounter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/C29956042AA00A2CD713017EA48117FAD553CFDA.PNG</Image>
+      <Description>Save Dan and Marucho.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Kidnapped!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/A40BA77BB2256156817049ABB1F0A9046331550D.PNG</Image>
+      <Description>Save Elfin from Shadow.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Mr. Crazypants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/165ADAB7BB1664A29BE20BC20CE129AC8F8710EE.PNG</Image>
+      <Description>Invent hologram towers and use them to beat the Vexos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Distrust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/FAF772546E0DEBD7411C4DDF672D116FD2F76F07.PNG</Image>
+      <Description>Join forces with Ace.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Mr. Hotshot Himself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/6EFFEBE89C0A83F7D5BAEE17266D420CBD029F93.PNG</Image>
+      <Description>Save Percival from Volt.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Master Baron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/A9203027AD6D2EDEF5940FA0D0345F6CA1CB73FB.PNG</Image>
+      <Description>Save Ingram and Nemus from Lync.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Misunderstanding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/9F8056F9776176E60C99F57D8CB26E074540C72B.PNG</Image>
+      <Description>Don't get fooled by Mylene's tricks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Don't Cross Drago</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/4108FCD650CBCCAA7C77439EB0E7E8CDB0922DDF.PNG</Image>
+      <Description>Stop the kidnappers and get Wilda back.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Unnatural Disaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/71C4D0B30F0FCC350362BB9BEE735A1E5A15B68E.PNG</Image>
+      <Description>Defeat Lync and stop the earthquakes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Digging in the Right Place</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/1EB9785BA068C75761CF802A0369A2D79D5C0298.PNG</Image>
+      <Description>Get to Abyss before the Vexos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Spec-Dah</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/673983BE77B7E4E0C9EA656C0B6493E8E2CA5A02.PNG</Image>
+      <Description>Defeat your ultimate foe and pay the ultimate price.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>A Reason to Fight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/027A6C2F02346A3D537BA12E77218E034579BCC7.PNG</Image>
+      <Description>Defeat Spectra's right-hand man.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>There's No I in Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/5E696B970B75179522260296BD3E2775F5DC9EC0.PNG</Image>
+      <Description>Defeat Volt and Lync at the same time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Friendship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/F1E067CB02F6740EF0B8CBFCD6F82AF52250D26D.PNG</Image>
+      <Description>Defeat Mylene and Shadow at the same time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Into the Lion's Den</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/6278BAF2EC96F20B862DF18E791981CC4BDAE3A4.PNG</Image>
+      <Description>Find a way into Vexos Headquarters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Reunited</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/DB70298DADD17C24E4F52521DF686A222E19F6B9.PNG</Image>
+      <Description>Rescue your friend at any cost.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Defender of the Core</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/A43CAC1E585AD114AA0C57C09FC1DC5B9C9BFDEC.PNG</Image>
+      <Description>Defeat Spectra and stop his evil plans.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>One Down...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/8552028C37DEF3C7F1D6E70D9ECDB92FCDE40221.PNG</Image>
+      <Description>Destroy a Vexos crystal in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Illusionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/636BCF5B4B077B3F96044851E759D9030F4A2FD5.PNG</Image>
+      <Description>Build a hologram tower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Hologram Tycoon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/8DBD832D2923AEE5E1CA56BBBD8D65F94C36995D.PNG</Image>
+      <Description>Build a hologram tower of each attribute.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/8CE95B504BCCE83CFB19E441B79B1694F2B6F3C0.PNG</Image>
+      <Description>Earn 100,000 in core energy.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/F2A7D5946BDAD8CCAE6611766EA4E08BFF2D51B1.PNG</Image>
+      <Description>Get ten items from item boxes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Good Aim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/06D756F1D5EEB7727634A517BA3898CED394B24C.PNG</Image>
+      <Description>Throw your Bakugan to get an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>D-Fence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/363DD508979E8859046EB65720702315C9CB7FC8.PNG</Image>
+      <Description>Deflect an opponent's physical attack 5 times in a single battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Denied!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/AB61CB9A6E74D46CFB8512E753087D1C107CB4AD.PNG</Image>
+      <Description>Do ten combo breakers in a single battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/F3BFF0AAB9FBFA4927019AF5B7CC91ADBDA1D458.PNG</Image>
+      <Description>Do ten perfect combo breakers in a single battle.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Black Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/020A393678C8E2E870510B6F66E357C1DC5ADCA1.PNG</Image>
+      <Description>Do all combos on a Bakugan's Combo List in a single battle.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Grand Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/B73A9DD2E45165C4D9DDE8CB83E407AC45A71314.PNG</Image>
+      <Description>Do twenty or more hits in a single combo.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Power Hungry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/F50CAD466B6B6F3C83243ADCB778231C030A7FC8.PNG</Image>
+      <Description>Pick up all three power-up types in a single battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Gate Card Set</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/864D83F49711F372C0A23B03A8F18C1440198368.PNG</Image>
+      <Description>Open each type of Gate card at least once.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>B Student</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/09CFCFDB23D7C1E4E1CDCB5A171C4B63705B6818.PNG</Image>
+      <Description>Get B rank or higher in six Story Mode battles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Honor Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/15281EC538E5F56863D98557A003F3CFA9B2DD66.PNG</Image>
+      <Description>Get A rank or higher in twelve Story Mode battles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/87281D556CC9C0A0B455EB61E8E0126C1888A726.PNG</Image>
+      <Description>Get S rank in every Story Mode battle.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>1-Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/DD5EF8733066767E0CF059118BF9F35EC84DA342.PNG</Image>
+      <Description>Purchase an upgrade for a Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Six-Pack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/CD8E9C197BB9F3CDB88C4999B1CBA38FE5ED2593.PNG</Image>
+      <Description>Purchase all upgrades for six different Bakugan.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Long Hard Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/16AB29EBF6F8A4121B86AD8B56EFA12359173530.PNG</Image>
+      <Description>Purchase all upgrades for all Bakugan.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Duel Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/908695B28DEACADB3F5D7607D79ED359B31E6FE5.PNG</Image>
+      <Description>Win five duels against the CPU in Battle Arena Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>One Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/9C9F95B5808D13AC2EB0068E98F06CE398195301.PNG</Image>
+      <Description>Obtain 250 or more points in a Battle Arena Free For All.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Wrecking Ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/28E8CEA00563A704BA7AF0FD5E4E60FFFADB8B76.PNG</Image>
+      <Description>Obtain 500 or more points in a Battle Arena Destruction Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Champion!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/AE448C0B6D5A1561ADAC3FC44B62FC2BF48BDEF9.PNG</Image>
+      <Description>Win 30 times against the CPU in Battle Arena Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>So Many Choices</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/4E7AF0A542A88C1B30F4CADC92115AC972929F68.PNG</Image>
+      <Description>Unlock every Bakugan in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Full Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/4B2C2EAC9255BE6257DB4B9C34806351900A1AD5.PNG</Image>
+      <Description>Get every Ability card in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01419_00</GameId>
+      <Title>Go Figure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01419_00_00F7E076B628632785491D4BAC79EEBEB6B6FDEDF7/CF5282709FE71F2FD8CC9FA48A26C7A578539C85.PNG</Image>
+      <Description>Collect every metal figure in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04298_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Fist of the North Star: Ken’s Rage 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/74732F70470641C8D5239E76061A378D34E8509E.PNG</Image>
+    <TrophiesCount Total="51" Bronze="40" Silver="8" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>True Rage Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/DDF05213D2A5F4469F2F5E14B45C3123F2CE2482.PNG</Image>
+      <Description>Collected all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Eviscerate Zeed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/37EE7738B0060ADFF050712AF0E59CA94A216402.PNG</Image>
+      <Description>Defeated Zeed in the Legend Mode episode "Zeed Attacks."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Slay Shin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/A9F42375ED540CAAD26EE323C63FC0E5AC3B3A99.PNG</Image>
+      <Description>Defeated Shin in the Legend Mode episode "The Flames of Obsession."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Crush the Colonel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/0044ECCC9678D83387FF218B04E05F781DB7A3B7.PNG</Image>
+      <Description>Defeated the Colonel in the Legend Mode episode "The Tears to End Ambition."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Destroy Devil Rebirth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/1C90BB33B3D90BCF713570F4DC738099B9EC37F0.PNG</Image>
+      <Description>Defeated Devil Rebirth in the Legend Mode episode "The Incarnation of Indra."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Dethrone Fang King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/20716DD0BCD09CE2E720105FB59612132127675C.PNG</Image>
+      <Description>Defeated Fang King in the Legend Mode episode "The Stone-Shattering Fist."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Finish Jagi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/8527D93508ED1A1584BC0E9F6E44B1A1F79314BF.PNG</Image>
+      <Description>Defeated Jagi in the Legend Mode episode "Blood Feud."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Annihilate Amiba</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/7CAD9DDBE53C2E5EE325DBE2527F7747998A5012.PNG</Image>
+      <Description>Defeated Amiba in the Legend Mode episode "Tragic Genius."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Inhume Uighur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/524FA385174403BEC7D999A0AB5EC3761EBD8B17.PNG</Image>
+      <Description>Defeated Uighur in the Legend Mode episode "The Quiet Giant."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Overcome Raoh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/3D49EE58C9177A556680585EBE563B12A9C37AD5.PNG</Image>
+      <Description>Defeated Raoh in the Legend Mode episode "The Harbinger of Death."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Humiliate Juda</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/225B9CAF76FB27DAD5B870F660159839C30384A2.PNG</Image>
+      <Description>Defeated Juda in the Legend Mode episode "Into the Flames of Hell."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Subjugate Shew</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/1BD5FE086A0F9B409EFED7345F42D2434B36DC21.PNG</Image>
+      <Description>Defeated Shew in the Legend Mode episode "The Star of Benevolence Awakens."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Thrash Thouzer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/9841F70A00FD6596A52C90C8E560232833049240.PNG</Image>
+      <Description>Defeated Thouzer in the Legend Mode episode "The Empire Crumbles."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Maul Ryuga</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/A54E66044775B6071E95B60112B1F859EF730A4D.PNG</Image>
+      <Description>Defeated Ryuga in the Legend Mode episode "Tears of the Wolf."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Repel Raoh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/F3BCAB182B30CB43695567E613CB877443554C29.PNG</Image>
+      <Description>Defeated Raoh in the Legend Mode episode "The Moment Has Come."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Ruin Raoh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/70D23951EC6444ED8EDEAA187E6EA73689A46CF8.PNG</Image>
+      <Description>Defeated Raoh in the Legend Mode episode "Farewell, My Rival."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Outlast Ein</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/003842EBCDD33E97D01C4A2DF29BBA67C513D66A.PNG</Image>
+      <Description>Defeated Ein in the Legend Mode episode "A Fearless Smile."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Foil Falco</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/F1BB90049A1202E1B51644BD6B83B67013B71CD4.PNG</Image>
+      <Description>Defeated Falco in the Legend Mode episode "A Duel to Split the Heavens."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Smash the Nameless Shura</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/EAFF9A37C1A47AEC99CAB37AF9542976F132CBA5.PNG</Image>
+      <Description>Defeated the Nameless Shura in the Legend Mode episode "Those Who Would Consume Death."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Quash Keiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/628670169B83EFECE2CDC180D07A32F0F988750C.PNG</Image>
+      <Description>Defeated Keiser in the Legend Mode episode "The Most Evil Art on Earth."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Hammer Han</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/4116FC81841BFC0ADBD0BA917B67CB21160116D8.PNG</Image>
+      <Description>Defeated Han in the Legend Mode episode "A Fated Legacy."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Vanquish Hyou</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/1CE0D43B4E82F48D5E230E9ACA535C502FC23FAC.PNG</Image>
+      <Description>Defeated Hyou in the Legend Mode episode "Brother Against Brother."</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Conquer Kaioh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/5F3996687843CEFE3A2B7ABFDDF92A8A1D0EE806.PNG</Image>
+      <Description>Defeated Kaioh in the Legend Mode episode "A Destined Encounter."</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>True Successor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/E98712B2C4AB42C9D2BC172E18FB7B6ADD5F59AE.PNG</Image>
+      <Description>Completed all Legend Mode episodes.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Post-Apocalyptic Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/B51628CF4733400E429135F2E09CC8E81DB70B70.PNG</Image>
+      <Description>Completed Dream Mode with Kenshiro.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Miracle Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/89748FB822479B8ABE3064396C7C7E80FA95DA11.PNG</Image>
+      <Description>Completed Dream Mode with Toki.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Absolute Ruler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/551BFBEAE8AFB8C0C3947F72F1520D585829DE92.PNG</Image>
+      <Description>Completed Dream Mode with Raoh.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Twisted Brute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/4333D1212A30D6155A2CC4E5D31F362EE8CE5B7C.PNG</Image>
+      <Description>Completed Dream Mode with Jagi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Star of Righteousness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/52BF1D7257234FB416E3A44DE5EC8113B29F6D39.PNG</Image>
+      <Description>Completed Dream Mode with Rei.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Star of Martyrdom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/4B810AD9E091F9C71497837618F9F7F2C2223DEE.PNG</Image>
+      <Description>Completed Dream Mode with Shin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Emperor of Nanto</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/37D9EA013FEFFB61E45035EB5E6EB2D6A19BB683.PNG</Image>
+      <Description>Completed Dream Mode with Thouzer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Star of Enchantment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/BB6E349B6CF2B00AD4559F96C20A6CD6B090A2FF.PNG</Image>
+      <Description>Completed Dream Mode with Juda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Blind General of Valor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/36A428CCA9555304A8F875324B601EC0C5A9FB08.PNG</Image>
+      <Description>Completed Dream Mode with Shew.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Towering Mountain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/9244F438E1E4F75C2475D95D7970888FC16DC15A.PNG</Image>
+      <Description>Completed Dream Mode with Fudo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Keeper of the Hokuto Spirit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/94A28C29670BE9C77387008BDB72D2DEC1306F36.PNG</Image>
+      <Description>Completed Dream Mode with Bat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>The One True Hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/6E176F2EA3829396203291BCC07FDCB11C73F96F.PNG</Image>
+      <Description>Completed Dream Mode with Rin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Warrior of Eternal Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/4ABCCEDEBC4CB0475BD84271A1A84DF96E1C81B0.PNG</Image>
+      <Description>Completed Dream Mode with Shachi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Passionate Shura General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/3EA5741719203D1C647BF91BB5FC554F701F3836.PNG</Image>
+      <Description>Completed Dream Mode with Hyou.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Crazed Demonic Fiend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/FB2D10E2AB8F0B880FAEA33E212F4CAC0357577E.PNG</Image>
+      <Description>Completed Dream Mode with Kaioh.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Proud Maiden Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/5B25E724655BB264EB3C26E1349FC0C437FF043F.PNG</Image>
+      <Description>Completed Dream Mode with Mamiya.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Wolf of Anarchy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/935E42F9EF9FE68E4201230CD0B0EDA527A53BDB.PNG</Image>
+      <Description>Completed Dream Mode with Ryuga.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Free-Spirited Cloud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/FB283800BAA72D4FCE15EF23D47D1E52B183DB11.PNG</Image>
+      <Description>Completed Dream Mode with Juza.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Bounty Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/5C8ABDF3BA5E43E3F653F068F0618A34662190DD.PNG</Image>
+      <Description>Completed Dream Mode with Ein.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Golden Guardian General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/3058227ADA793DDEAB7C8ADF8807A2F1CCD707A4.PNG</Image>
+      <Description>Completed Dream Mode with Falco.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Quest Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/6DC03857FB358152BFC61DE94FEBD7246FB88B25.PNG</Image>
+      <Description>Completed all Dream Mode challenges in Free Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>True Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/75E89C040974CC0D5B6CE1E1185D9592FB6B2D8E.PNG</Image>
+      <Description>Completed all Dream Mode quests with the highest rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Fists of Persistence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/5D1DDEFBA3EF48BFDF210FB4D18DEE2885EED8E6.PNG</Image>
+      <Description>Played for over 50 hours in total.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>True Master of the Apocalypse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/16C0D22540856F849B81BE566C372B0D58AB02B6.PNG</Image>
+      <Description>Defeated 100,000 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Ultimate Nexus Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/66652480C0ED4F7B2E31FC1BBF5E51BCE877CA5E.PNG</Image>
+      <Description>Collected all scrolls and completed an Ultimate Nexus.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Co-op Play Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/4ECDE151DAFF9C379C1AEA81A1E4AE0A554582A4.PNG</Image>
+      <Description>Participated in 10 online Co-op Play games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR04298_00</GameId>
+      <Title>Team Match Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04298_00_000C1AFC66E6EF674EFC1E55AE60C8B6EEE2F258AE/77C1AEBE1A99F93648B55DAA7D870F56F0560E00.PNG</Image>
+      <Description>Claimed victory in 10 online Team Matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

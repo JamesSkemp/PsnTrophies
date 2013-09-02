@@ -1,0 +1,406 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01111_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Little League World Series Baseball 2010</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/20F4B9D89F83AE50ED535900BF9624CBA074EA50.PNG</Image>
+    <TrophiesCount Total="43" Bronze="26" Silver="13" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Little League Trophy Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/49D3FD4ED233843C903655B5202D8F5E43BC1252.PNG</Image>
+      <Description>Earned all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/A6EC7B1758AFC1DEE8F18B5727CDED5CC50CD54E.PNG</Image>
+      <Description>Completed all the pitching training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/FFC498831131A6AC66CCBD1B1483EEF6B6067CB0.PNG</Image>
+      <Description>Completed all the batting training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Fielder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/050A0B1FCAFBAE4A69D3140947A0C99BE2BE61F0.PNG</Image>
+      <Description>Completed all the fielding training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Base Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/C3A3183A467391DD5F607B0C2E58359C6F5D16E2.PNG</Image>
+      <Description>Completed all the base-running training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Card Holder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/269B7BAF5F32B46EA2ED7665470441FB44300401.PNG</Image>
+      <Description>Completed the card training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Rookie Talent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/C66F42E693175943100D61F66C12D0FC11D45687.PNG</Image>
+      <Description>Completed all the Talent training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>You're No Longer A Rookie!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/05CBA132EF46CB2972185E0AD589F17FBED2B213.PNG</Image>
+      <Description>Completed all the training.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Highlight Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/2D543FD40CF8DBE4EBA1919CECF255EE5E5F2571.PNG</Image>
+      <Description>Caught the ball 12 times with a diving or jumping catch.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Great Glove</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/43EE73CA1C9F8AD0FA74DC60DD9873259F599DF7.PNG</Image>
+      <Description>Fielded 30 error-free ground balls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>I Got It, I Got It!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/18948FA4C4FDAE4938179DF9E8BFE628D5469B1A.PNG</Image>
+      <Description>Caught 100 fly balls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>All-Star Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/9732DE8943228EFA304B40F1D426DC1603DF6688.PNG</Image>
+      <Description>Fielders completed 100 outs not including strikeouts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Run Scorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/B5AE625344BB37A5F10397F3FC5A49FC6D61FC80.PNG</Image>
+      <Description>Scored 60 runs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/3E98296FB7193FF66D308CBAEBE148D4BC099F04.PNG</Image>
+      <Description>Successfully executed 15 sacrifice hits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Doubles Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/BE0191EB2A3712F6622C039905001D0F1F4218DF.PNG</Image>
+      <Description>Successfully hit 30 doubles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Power Slugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/6713A7F23F8B6CE017A1F5D3DCB2A9DDCB3419CC.PNG</Image>
+      <Description>Successfully hit 50 home runs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Power Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/6999C68B7EE173D128FD52B0828F23735EA8323B.PNG</Image>
+      <Description>Struck out 60 batters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Walk Off Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/FB03E65E4F9358CA75FA086E37FFA00B09B2DBEA.PNG</Image>
+      <Description>Won 5 walk-off games in your final at bat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>All-Star Talents</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/395A04C0A547C494F7A2C36E7EB8DAE9CE1B2178.PNG</Image>
+      <Description>Used Talents 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Perfect Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/1D4D6325C1CDDF4830CFA83CF10EA9B58E7BDA7B.PNG</Image>
+      <Description>Achieved the high score in Pitching Darts with a Challenge rule.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Pro Bowler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/F2685D485DB3F1680159FA74824CFAA1698216E7.PNG</Image>
+      <Description>Achieved the high score in Pitching Bowling in a 10 frame game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Dugout Dunker Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/FAE5ED887C8E46FECC77EF422C1EE184839DD5C2.PNG</Image>
+      <Description>Achieved the high score in Dunk Dugout with 5 turns.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>King Of Home Runs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/F0EE8B3C9C6678DEA24BA8631873A61148A7927D.PNG</Image>
+      <Description>Achieved the high score in Home Run Tourney with 20 balls. 
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Bat Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/0B16713FBC4703656A50947E14081BAA21583A8A.PNG</Image>
+      <Description>Achieved the high score in Batting Frenzy using the 5 x 5 rule.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Around The Horn Memory Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/09F4F187E90C069C413D2E630D4B79F4A8A74C35.PNG</Image>
+      <Description>Achieved the high score in Around the Horn using the 2 miss rule.
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Card Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/167D3B334B91D4887972F1698A660ECECD0791A6.PNG</Image>
+      <Description>Collected 27 cards.
+
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Card Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/C8EB733ED7CF7EBB8EDCC36257E0510BEE9BD9E4.PNG</Image>
+      <Description>Collected 38 cards.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Master Of Cards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/ACF3941FFEF9D18D4C90F9F1ED36113D1A941D7A.PNG</Image>
+      <Description>Collected all 54 cards.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Turkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/0C3350D886ED1428283E49FD413044061ED90CC4.PNG</Image>
+      <Description>Struck out 3 batters in a row in a tournament game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Grand Slam</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/6DE8F52EE33CA39FD52FF5EC5BFB9C1FF1A83083.PNG</Image>
+      <Description>Successfully hit a base-loaded home run in a tournament game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Hit For The Cycle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/060E6F2CE04CA0E4E9BA205A0E672A47803B79D2.PNG</Image>
+      <Description>Successfully hit a single, double, triple, and a home run as a team in a tournament game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Triple Crown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/EF16B2D170D684FD63DEC8789775A11C35EF82A4.PNG</Image>
+      <Description>Led the league in batting average, home runs, and RBI's.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Shut Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/0EE7F9FBEC2211CAC797F6196208977EDFC297EA.PNG</Image>
+      <Description>Won a game by shutout in a tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>No Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/ED2CC3FEF55860EC61507716E894BC92C7BEF9A9.PNG</Image>
+      <Description>Won a tournament game with a no hitter.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Perfect Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/48D95889C571B5B636BD57081E8FDAAE3D055648.PNG</Image>
+      <Description>Won a tournament game with no hits, walks, or errors.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Dr. K</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/4F0B6628AECE56DC26308254BFB46039695294C4.PNG</Image>
+      <Description>Recorded 70 strikeouts in a tournament series.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Everyone Hits!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/7CA2AB28018087F8018B8BF614DFFC010EEF3649.PNG</Image>
+      <Description>All the team members achieved base hits in the same game in a tournament.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>All-Around Team Hitters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/BB9812647EBB213DA460199A02983926DA5EA3AE.PNG</Image>
+      <Description>Achieved 190 base hits in a tournament series.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>Scoring Frenzy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/329F0C2B51BB9CAD6646BB95CD7B9F4967A646A0.PNG</Image>
+      <Description>Achieved 170 runs in a tournament series.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>ERA Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/1D2B32D886A32EDD450D15E7F2BDBEE20CB594C5.PNG</Image>
+      <Description>Got an earned run average of 2.3 or less in a tournament series.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>US Bracket Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/BD4CE47CBCF54D9EB7374A02AB327376BDF17099.PNG</Image>
+      <Description>Won the US tournament bracket.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>International Bracket Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/F168F61D443A1DAF49AA37EAB2AF22C5EC8AAAFC.PNG</Image>
+      <Description>Won the international tournament bracket.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01111_00</GameId>
+      <Title>World Series Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01111_00_0FC04CEFF64F734302839B4AFF930DF9FFE31568/5812F4A06BBB8B8C4543556516611EC8105C7954.PNG</Image>
+      <Description>Won the World Series.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00721_00</Id>
+    <IdEurope></IdEurope>
+    <Title>G.I. JOE™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/DBF0E08C94314A7279F183E072D6F79F6319FCE2.PNG</Image>
+    <TrophiesCount Total="44" Bronze="30" Silver="10" Gold="3" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>G.I. JOE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/1C7EB70D1D8226C35FC738749B50D52382A9CEC5.PNG</Image>
+      <Description>G.I. JOE</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Baroness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/46CBB68DEE8C960FD5F52266BF981A71D80A1F5C.PNG</Image>
+      <Description>Defeat Baroness </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Destro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/4BF2EB05A56F31CAA99F960FCB3940B9AEB99E96.PNG</Image>
+      <Description>Defeat Destro</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Firefly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/EB113478D88E4D7D3363859292BB0C5ECE7BB65A.PNG</Image>
+      <Description>Defeat Firefly </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Storm Shattered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/DEC2998060D0F41B588FC2E565C848FB03E11104.PNG</Image>
+      <Description>Defeat Storm Shadow in all three secret arenas</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Strike Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/EC98C94D8B3A6057CD69D9F2F87B66EC03E16963.PNG</Image>
+      <Description>Defeat every wave in all Satellite Strike mini-games</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Strike Lieutenant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/4445380DC21BBF5D37B41C20ED05CD37875A458A.PNG</Image>
+      <Description>Defeat every wave in one Satellite Strike mini-game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Battle Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/79C9AC06D0F9139C47E7BCF262EDC6FDA5184E1F.PNG</Image>
+      <Description>Collect and spend all 130 possible Battle Points</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Hack 'n Slash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/46979080986D5A61FE0377D755100C6AC1E7F142.PNG</Image>
+      <Description>Finish a level using only melee attacks on ground troops</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Sloppy Joe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/14AC73730075BEB5ED7E64B9C5F391D6A017CD0F.PNG</Image>
+      <Description>Achieve the worst rank on a level without going Man Down</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Man Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/E10792900C8CBA9D9B3DFC4991EEA67D84AD1ED2.PNG</Image>
+      <Description>Complete a Jungle or Tundra mission without going Man Down</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>No "I" in Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/21600F3E650D731851A7B089848F07A2B12BA861.PNG</Image>
+      <Description>Complete mission with higher than 50% Dual Targeting kills</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Half the Battle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/06DDD0B5B81B3F0720951FA17B0BE287F277F24D.PNG</Image>
+      <Description>Collect 50% of all File Cards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>File-o-phile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/66BCA27357EBADD801AF9D61D6B7CC51B04F2073.PNG</Image>
+      <Description>Collect all File Cards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Classified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/EC7E1864C051D93E0CCC986BAFA60FE974D244CD.PNG</Image>
+      <Description>Collect all Intel Cards</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Lost &amp; Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/BCFF2C7BB7D906896E2E585E981F8166E3AB48C3.PNG</Image>
+      <Description>Collect all G.I. JOE Contacts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Triplets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/E0AC025081C413F63012F4575DDAF7FF843EE2D3.PNG</Image>
+      <Description>Pick up all three types of Point Multipliers in one mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Arctic Completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/797F3A81C4A2052E1D5C8EDC4066DD771D5BB70F.PNG</Image>
+      <Description>Complete all Arctic missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Desert Completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/1498AD8C3EB14BDB6B71E58EE6B301A8BFBE7785.PNG</Image>
+      <Description>Complete all Desert missions</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Jungle Completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/82CA12907A3A2ACE64D1169629487FD8A33103EA.PNG</Image>
+      <Description>Complete all Jungle missions</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>M.A.S.S. Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/2CC827850D0C7B65CEABD43152260DFEC562FE8A.PNG</Image>
+      <Description>Destroy the M.A.S.S. Device</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Yo Joe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/D753805A3B0B0C14990E20BA9C1E79B466B113A9.PNG</Image>
+      <Description>Purchase two G.I. JOE contacts</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>COBRAAAA!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/AAB7E2ECC2059FDBF97A344D153BD13D39A486F8.PNG</Image>
+      <Description>Purchase all COBRA characters</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>All G.I. JOE Contacts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/3885F41A2FCD7615F78C8673C2AA991762C2F268.PNG</Image>
+      <Description>Purchase all G.I. JOE contacts</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Combat Rock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/6078CCB4A416CD9A709D8A91F2F8A6DAFFF43B1A.PNG</Image>
+      <Description>Complete a mission using only Combat class characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Go Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/7E613EC69530F58DA50053D235D70FA4F8ED9A18.PNG</Image>
+      <Description>Complete a mission using only Commando class characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Bevvy o' Heavy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/03E55D264DBFF0005E4E8722AF20D1DAD3687482.PNG</Image>
+      <Description>Complete a mission using only Heavy class characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>The Tables Have Turned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/05C5E5F83E794614B02BBF4ED4F5EF842825C032.PNG</Image>
+      <Description>Complete any Arctic, Desert, or Jungle mission using any COBRA character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Lovers' Quarrel </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/D3F2E6D278A9F970CD804BE077DBA9BB0A5D7CC7.PNG</Image>
+      <Description>Complete any mission using Baroness and Duke</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Arishikage Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/5D4410D1C59EDC2D5B07D954A4D2CE7579422CD7.PNG</Image>
+      <Description>Complete any mission using Snake Eyes and Storm Shadow</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Girls Night Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/7D244948E453D4EA730E3C768F508189F4B01225.PNG</Image>
+      <Description>Complete any mission using female characters only</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Gimme The Keys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/83E63AA00F31A19CBD38CE40AB6362455AC5CEE7.PNG</Image>
+      <Description>Drive every G.I. JOE vehicle in the game </Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Code Cracker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/B866F6BAFD3800F7A78D6065C3FD7AB95F6F91E5.PNG</Image>
+      <Description>Gain access to a Combat Soldier Class Ability door</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Nimble Access</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/5610EE26965DD1B82B1633EB3D5D2EDEEF92B412.PNG</Image>
+      <Description>Gain access to a Commando Class Ability door</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Lost Keys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/8420C78C2DE045B2A4FCE6AEC4EE45751F79E972.PNG</Image>
+      <Description>Gain access to a Heavy Class Ability door</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Turret Syndrome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/9F3287DE990C88104C8A72967B0C4C297755A965.PNG</Image>
+      <Description>Operate the turret in every vehicle in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Double Barrel Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/91B89CCA9DA17C407F7EFCCB4ECC8FA03C0DD491.PNG</Image>
+      <Description>Perform 10 barrel rolls in unison in any level in co-op</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Hardcore G.I. JOE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/AB25C84FEB1B288243745B60400E7D8B6CBAABB4.PNG</Image>
+      <Description>Complete every Mission on Hardcore Difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Higher Score</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/77E78E2186840B7E1FB25CC155EB8CEAA5C1E49A.PNG</Image>
+      <Description>Replay a mission and earn a higher score</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Launch Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/815A41911B576CC1B5FE358DC1F3FF5E47469E70.PNG</Image>
+      <Description>Launch 50 enemies into the air and kill them.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Side Mission Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/89A18EC39B1A590D2DFF726D8CECA2AA4B82A0A2.PNG</Image>
+      <Description>Complete all Sub-operation Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Acceleration Celebration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/FDBAF8B65E8B0810655FC84E11C8D182138A0EB8.PNG</Image>
+      <Description>Activate the Accelerator Suit three times in any mission </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>Accomplished Mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/18FCDACA9FC8D1EC3454C04E9EFE40B91FAE7037.PNG</Image>
+      <Description>Gain the highest Mission Ranking </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00721_00</GameId>
+      <Title>It Takes Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00721_00_000CDFF531144B19DF5447A607F12CC9ABA77DFCD0/26542C5205AA77B5D5A1ACB5AC4AED9E54DE82D6.PNG</Image>
+      <Description>Complete any mission in 2 player co-op</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

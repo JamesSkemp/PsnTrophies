@@ -1,0 +1,527 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00874_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Bakugan Battle Brawlers™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/F9D274BAABFEB349731EA38E753F4C90D8AEBAA6.PNG</Image>
+    <TrophiesCount Total="57" Bronze="52" Silver="2" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Bakugan Emperor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/4A940F35BCDFFE2CF52704D5BC8ABEA970566D07.PNG</Image>
+      <Description>Get every trophy in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/D1CF38E0B969278DA3B8A431AB15DEEE0AC6A908.PNG</Image>
+      <Description>Finish the tutorial in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/809551C4BE77352A4CED70115836E0273C922E9C.PNG</Image>
+      <Description>Win the Neo Challengers Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Intermediate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/F75544C42E5B21C457876C6E77A21EF4765EA43E.PNG</Image>
+      <Description>Win the Supreme Tag Team Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Advanced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/C12B68EA6D8C444A8E7D97FE60559E032BACBFCF.PNG</Image>
+      <Description>Win the Brave Battlers Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Bakugan Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/A2341ACD1E00265E032E0EF6A6C1D1605A039CBE.PNG</Image>
+      <Description>Win the Maximum Power Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Bakugan Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/23B398853F277B8F59BF1180F5460A8EDB170B6A.PNG</Image>
+      <Description>Win the Bakugan Master Cup Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Bakugan King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/60E2527B88C713D139F96FD66C77EDDC0D4910A4.PNG</Image>
+      <Description>Win the Ultimate Battle Tournament.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/5A2BE07F18D4C1FC5C400B1745E61FEE95CC21A0.PNG</Image>
+      <Description>Make it into the top 500 in the Bakugan World Rankings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/5A061EC227513CB88A4CEAEB2E4C89D438DCA21A.PNG</Image>
+      <Description>Make it into the top 100 in the Bakugan World Rankings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/67A1BE4794A0A307BD6CE798B4D6F268DBE7AAA1.PNG</Image>
+      <Description>Make it into the top 10 in the Bakugan World Rankings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Best of the Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8063A2890A65EBC7BA22FD188D00DE71D19656E9.PNG</Image>
+      <Description>Make it into the number 1 spot in the Bakugan World Rankings.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Wealthy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/99DA20C61D4C1F50D1AE6151663300FEAAC8713D.PNG</Image>
+      <Description>Earn 10,000 or more total Ranking Points in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Extremely Wealthy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/C9F483C101D1EB620EB4B5D329B8538D0BF3B522.PNG</Image>
+      <Description>Earn 50,000 or more total Ranking Points in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Customer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8467852966986C20DB1E65F2E9B0E685DD3B29D4.PNG</Image>
+      <Description>Shop at the Store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Patron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/25571DA235EC2E6CBB643A1E45E9911BDD6BF725.PNG</Image>
+      <Description>Spend at least 30,000 Bakugan Points at the Store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Miracle Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/4068959D44F95A6BB0D106A8ACAAE1D488C3A9B1.PNG</Image>
+      <Description>Collect ten or more G-Power Pick-Ups in one shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Ultra Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8C8D7396F95BC1B1ED446BD9A3D09327D6347434.PNG</Image>
+      <Description>Collect three or more Hyper Ability Cards in one shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Great Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/685A6C7B30AB064264165FCA092EB006D83EA8F4.PNG</Image>
+      <Description>Collect three or more Battle Items in one shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Amazing Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/1ECC0C254A9A056B88181791317EB6873E4D9EE4.PNG</Image>
+      <Description>Collect three or more Fuel Pick-Ups in one shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Smashing Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/D8AA219CA36496AFC8FA4E878735D38FE6B1BAEA.PNG</Image>
+      <Description>Break an obstacle on the battlefield.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>The Whole Gang's Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/7AAC7DCEC008CADBAE8FE913C9047EF06C77C419.PNG</Image>
+      <Description>Unlock all characters in the Park.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Where Will I Put Them All?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/64EE7238EB103A66707001D92B4DCC52E5A5DE80.PNG</Image>
+      <Description>Collect every Bakugan in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Full Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/6357308757ED4989D917C9780B4B6292077A8033.PNG</Image>
+      <Description>Collect all Gate Cards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Loaded Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8A5245156AEFA534E6189A2CA1499FD463FF9C7B.PNG</Image>
+      <Description>Collect all Ability Cards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/EE83B32679714B0FA784B7F6A91744042783B5AB.PNG</Image>
+      <Description>Unlock all battlefields in the Park.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/69C4C5F654CBCF6EAE8E6CED29A58DA19ABD05FA.PNG</Image>
+      <Description>Win a game against every character in Story Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Through Their Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/8DEC5E26ECC9CB08B4BA218D4B7A799CEFB3E26E.PNG</Image>
+      <Description>Play as every character in Battle Arena Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/B9EF592A59A891FB270C89A077996F482DD9CD00.PNG</Image>
+      <Description>Play in every battlefield in Battle Arena Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Grand Battle Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/077D7A3961BF0B37A9DB86FC76F04D3BC80A6B51.PNG</Image>
+      <Description>Win fifty 1 on 1 Battles in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Reliable Battle Braweler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/EBAD341A911CB158F8A25CE3DCA72B8C73C40AB0.PNG</Image>
+      <Description>Win twenty Tag Team Battles in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Mighty Battle Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/90481FD78C8650D0AE210007BD96F9548C10C0C1.PNG</Image>
+      <Description>Win twenty Battle Royales in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Steering Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/ACD39E61B650D2371057403A2442F37A3FA7F986.PNG</Image>
+      <Description>Steer a Bakugan for at least ten seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Subterra Smasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/978DDC759BEACB03F2A9622944D5B57DCED3B568.PNG</Image>
+      <Description>Win a battle using the Subterra Quake Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Pyrus Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/7980F04E5EE142A6D3F68AF5B7532C84B818DEB3.PNG</Image>
+      <Description>Win a battle using the Pyrus Strike Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Haos Light-Bringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/E6FF96DCCE4A6F9CBF37D2C5262544592ACAC02C.PNG</Image>
+      <Description>Win a battle using the Haos Lightning Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Ventus Stormer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/5F458176AFD5DA0AABAC84FF7E77543069559D93.PNG</Image>
+      <Description>Win a battle using the Ventus Storm Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Darkus Phantom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/D7E92A68DBD578471412BB8289CAFB815E94D53E.PNG</Image>
+      <Description>Win a battle using the Darkus Phantom Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Aquos Spiraler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/D57DFC54998D4A386C05B51AD040B5D68B5286B3.PNG</Image>
+      <Description>Win a battle using the Aquos Spiral Special Shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Shaking Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/F735A4E555049D7F147F7B302D4FC4A8159EC2E0.PNG</Image>
+      <Description>Win five Shaking Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Shaking Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/3A5B5B1DCC6BDCBB416836EDE36A0CBF72B26F70.PNG</Image>
+      <Description>Win five Level 3 Shaking Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Shooting Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/2A236C25AF966BDD5D8DEB7937ECDBBFD9FC009D.PNG</Image>
+      <Description>Win five Shooting Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Shooting Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/23130A966949CBE86A29B2441D2DADBD897A3FB4.PNG</Image>
+      <Description>Win five Level 3 Shooting Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Timing Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/1FA3AFF4E00EBF43638C8C5C8EB80D427549B546.PNG</Image>
+      <Description>Win five Timing Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Timing Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/CCFA5D93119E8FC10535559CDB92FE36333FD4EE.PNG</Image>
+      <Description>Win five Level 3 Timing Battles in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Battle Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/2035AFF7D17F06F647F782B0A8B987D0D8942966.PNG</Image>
+      <Description>Win ten Gate Cards in a row.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Sphere Attack Student</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/C6995A0778427583207FBF810BAF5CB9BB8CE223.PNG</Image>
+      <Description>Make a successful Sphere Attack or Critical KO shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Sphere Attack Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/A244844EF573414141DA1E0300A0E5375DE372B7.PNG</Image>
+      <Description>Make ten successful Sphere Attack or Critical KO shots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Sphere Attack Sensei</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/2518C1F3C548D24D6F2E38974FD79DA5E9076624.PNG</Image>
+      <Description>Make twenty successful Sphere Attack or Critical KO shots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Ventus Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/FF8A0FB7AA75C743E8988CD534BD8C3A06FEED99.PNG</Image>
+      <Description>Win twenty battles using Ventus Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Darkus Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/4086AB3982D57265429B7C9BC8E43738B883FFF4.PNG</Image>
+      <Description>Win twenty battles using Darkus Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Aquos Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/9BBFA1CDD75F81D4074994840CE5E2FAC61A499E.PNG</Image>
+      <Description>Win twenty battles using Aquos Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Haos Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/455F7063999A33EAEFFD6594A4E7092AC9A5E89C.PNG</Image>
+      <Description>Win twenty battles using Haos Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Pyrus Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/F3D58A9D8CC2F7E78321C087C22A7E4298837CBE.PNG</Image>
+      <Description>Win twenty battles using Pyrus Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Subterra Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/A75DCFBBF88C57028A630249DAD33F1058D59AF7.PNG</Image>
+      <Description>Win twenty battles using Subterra Bakugan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Stand Your Ground</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/50938BCE8A9044A77E9700F0C07B317E2EC70CED.PNG</Image>
+      <Description>Perform twenty Double Stands.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00874_00</GameId>
+      <Title>Staying Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00874_00_0006B1D6F8F6BBBC021F2009215357B9BD662F07CD/3DF5CDD472AFA5B08B48A36674307BBFEDF068FA.PNG</Image>
+      <Description>Perform five Stays.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01788_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Reality Fighters</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/B1313092777FB7E8AF184A2ED85351E77C27CEAE.PNG</Image>
+    <TrophiesCount Total="30" Bronze="18" Silver="5" Gold="6" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Beat Reality Fighters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/DA25CE878AA5854945CC2392EF11857271E0E68E.PNG</Image>
+      <Description>Get all Gold, Silver and Bronze trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>The New Sensei</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/88E57BB839739F25AFF1AA14A9F7B2AF7DE3DBB0.PNG</Image>
+      <Description>Complete the story mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Master of Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/18389D59DEAE5CD7BEC0A1F6EF97F63617D3767E.PNG</Image>
+      <Description>Achieve Gold score in all Time Attack challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Extreme Survival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/42CCB5BFA511D96298D6FFE8B3F5E7C482EE8279.PNG</Image>
+      <Description>Win 30 combats in survivor mode in a single run</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Rodeo Drive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/A96DDDE77B98A35FC4559B0CF74B617E2FCC3F8E.PNG</Image>
+      <Description>Buy all clothing, weapons and fight styles</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Lovely Challenge III</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/225A4352F47B6B4FD9F9E3834C99A2DB1664294E.PNG</Image>
+      <Description>Discover the Rocket Rocker and the Tumbling Stone costumes</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Lovely Challenge IV</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/43E6CCE44D4FF239E57878BFEE9DAE70EF6291F3.PNG</Image>
+      <Description>Discover the Disco Inferno and the Dancing Dino costumes</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Time Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/A8766C2C2D2AB470B5B2A111199416251F120514.PNG</Image>
+      <Description>Reach silver score in all Time Attack challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Advanced Survival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/5A052C6437CCEACB341CE2BA95D6CE1163CD78AA.PNG</Image>
+      <Description>Win 20 combats in survivor mode in a single run</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Lovely Challenge I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/F5716BDF26B8EED529FEEC76D9283ECCB9942708.PNG</Image>
+      <Description>Discover the Space Cowboy and the Fisher King costumes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Lovely Challenge II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/E038AF6E0E5845775EC6B40CC35294B6EBC6693A.PNG</Image>
+      <Description>Discover the Lord of the Gnomes and the Handyman costumes</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Rush hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/05E632BD1080D324E40D70AFFA42A67DD4A0566B.PNG</Image>
+      <Description>Beat five different friends in Infrastructure in less than one hour</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Perfect combat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/15BB0607CB149ACEFD2C8E2EBECCBDC2BBBB10DC.PNG</Image>
+      <Description>Defeat an enemy receiving no damage at all</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Against the Clock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/75BC53BC757CD2E24B0F99FBBAB2C6B0B8F816D8.PNG</Image>
+      <Description>Reach Bronze score in all Time Attack Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Basic Survival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/F3BC0020143282FD33CA6D48B52AE93C8809F49F.PNG</Image>
+      <Description>Win 10 combats in survivor mode in a single run</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Karate Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/AB4EB67E141A0A3E0C16D6B81691B41F596D7AAA.PNG</Image>
+      <Description>Perform all the moves for the Karate fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Zombie Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/F5181FB2F1E185B0A94A4C55933A11F7198379F4.PNG</Image>
+      <Description>Perform all the moves for the Zombie fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Cowboy Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/C8C5B6B303998C76B21CE941D39617229B466AFB.PNG</Image>
+      <Description>Perform all the moves for the Cowboy fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Ballerina Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/F993EC52481C898040C6E7404BBEE39E7830B039.PNG</Image>
+      <Description>Perform all the moves for the Ballerina fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Boxing Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/494502543EF0A134B66F34E88DCB76247A31F2C9.PNG</Image>
+      <Description>Perform all the moves for the Boxing fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Capoeira Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/B6A2028CE78396320DC44DAAB75367AD062A8566.PNG</Image>
+      <Description>Perform all the moves for the Capoeira fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Kung Fu Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/8BA9E5500F348C396384EB73FC5FA03FE3FC032F.PNG</Image>
+      <Description>Perform all the moves for the Kung Fu fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Super Hero Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/3F855AA6EE1051E494E94C737597A25E551BB793.PNG</Image>
+      <Description>Perform all the moves for the Super Hero fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Super Heroine Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/7B9E7CA95412FA91CEB92E25C338A7E074BC7640.PNG</Image>
+      <Description>Perform all the moves for the Super Heroine fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Sorcerer Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/53E9E14FB8EF84499EFFC138F85609D7EB4BCF7B.PNG</Image>
+      <Description>Perform all the moves for the Sorcerer fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Samurai Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/90413F5A3EAD0B72619A14AB5B8E17E5CBCF329F.PNG</Image>
+      <Description>Perform all the moves for the Samurai fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Disco Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/E9E166DA32CF94A3ADD11E5F3E69E23FDCED2207.PNG</Image>
+      <Description>Perform all the moves for the Disco fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Break Dance Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/6EA045B9A11B48DD13783AF84BD2B6EA9363B565.PNG</Image>
+      <Description>Perform all the moves for the Break Dance fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Wrestling Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/578DA0B95467B284A92338A8B25DF648B753E95A.PNG</Image>
+      <Description>Perform all the moves for the Wrestling fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01788_00</GameId>
+      <Title>Muay Thai Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01788_00_57743F1E5746D44AA805DCECA5441724883639EB/25A57CB0DCA9C5CBC7868044A9BDBABAA284BFB6.PNG</Image>
+      <Description>Perform all the moves for the Muay Thai fight style in a single fight</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

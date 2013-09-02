@@ -1,0 +1,559 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00302_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SOCOM: U.S. NAVY SEALS CONFRONTATION</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/FB739890BC070DD61BA74A673CD3FF59B7D3B02A.PNG</Image>
+    <TrophiesCount Total="43" Bronze="16" Silver="23" Gold="3" Platinum="1" />
+    <TotalPoints>1200</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>CONFRONTATION CHAMPION</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/F45B66885B209A8CD4E0DE9F31466C29CA2FB879.PNG</Image>
+      <Description>
+GET ALL GOLD, SILVER AND BRONZE TROPHIES!
+(EXCLUDES SOCOM: CONFRONTATION - COLD FRONT PACK TROPHIES)</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>ASSAULT RIFLE - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/F9D53C54982A271773A7BB699316620F05FB9273.PNG</Image>
+      <Description>
+250 ASSAULT RIFLE KILLS
+5 ASSAULT RIFLE KILLS WITH 15% ACCURACY IN ONE GAME
+25 KILLS WITH 4 DIFFERENT ASSAULT RIFLES</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>PISTOL - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/68A1A15B649F2F54E0CC8E09DE1110F4E8E64B41.PNG</Image>
+      <Description>
+50 PISTOL KILLS
+2 PISTOL KILLS WITH 15% ACCURACY IN ONE GAME
+5 KILLS WITH 3 DIFFERENT PISTOLS</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SMG - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/F64C2C0F846B017758641CF48BF717D5E7DC7F81.PNG</Image>
+      <Description>
+250 SMG KILLS
+5 SMG KILLS WITH 15% ACCURACY IN ONE GAME
+25 KILLS WITH 4 DIFFERENT SMGS
+2 SMG HEADSHOTS IN ONE GAME</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SNIPER RIFLE - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/3134554E7EB4ADABE25F4FB02CEA4BFC13A3DBA2.PNG</Image>
+      <Description>
+100 SNIPER RIFLE KILLS
+3 SNIPER RIFLE KILLS WITH 30% ACCURACY IN ONE GAME
+25 KILLS WITH 2 DIFFERENT SNIPER RIFLES</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SHOTGUN - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/EC17935BCA0C52A621516AF3ACDFEA5319F19498.PNG</Image>
+      <Description>
+50 SHOTGUN KILLS
+4 SHOTGUN KILLS IN ONE GAME
+15 KILLS WITH 2 DIFFERENT SHOTGUNS</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MG - 3RD CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/4880876C88FE98EAC0823F6B6BCD582266634F39.PNG</Image>
+      <Description>
+50 MG KILLS
+4 MG KILLS IN ONE GAME
+15 KILLS WITH 2 DIFFERENT MGS</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>BRONZE STAR</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/609D36FD50B37D46044F9CC1F0DD72E43BAC9AA4.PNG</Image>
+      <Description>
+5 MVP AWARDS
+25 KILL ASSISTS
+300 KILLS
+35 HEADSHOTS
+50 GAMES ON THE WINNING SIDE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>STEALTH MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/653BF11D94210062AAD365BA7400401614C9E22C.PNG</Image>
+      <Description>
+5 CONSECUTIVE KILLS WITHOUT TAKING DAMAGE
+25 KILLS WITH SUPPRESSED ASSAULT RIFLE
+15 KILLS WITH SUPPRESSED PISTOL
+20 KILLS WITH SUPPRESSED SMG
+20 KILLS WITH SUPPRESSED SNIPER RIFLE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>ADMIRABLE SERVICE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/7158D574F770D52F170C1FB8BFC856D12A12B20A.PNG</Image>
+      <Description>
+ESCORT 25 VIPS TO SAFETY
+DEFUSE 10 BOMBS
+EXTRACT 25 HOSTAGES
+DEFEND 10 CONTROL POINTS</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>DISTINGUISHED SERVICE MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/D77B01A5B120778A20289E31952092D19614D9DA.PNG</Image>
+      <Description>
+CAPTURE 10 CONTROL POINTS
+PLANT 10 BOMBS
+EXTRACT 10 HOSTAGES
+ESCORT 15 VIPS TO SAFETY</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>TOUR OF DUTY VETERAN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/0B89E333A8B06727202A3297AE201639591318C5.PNG</Image>
+      <Description>
+PLAY 25 GAMES OF EACH GAME MODE
+PLAY 25 GAMES ON EACH MAP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>GOOD CONDUCT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/0541B8E7145D882D1A7CA3BFA16CF8594BE4B6BB.PNG</Image>
+      <Description>
+ACHIEVE 150 CONSECUTIVE KILLS WITHOUT KILLING A TEAM-MATE</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SPECIAL OPERATORS MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/089A4E8C477E000B50883B6AC13ED4D74258352B.PNG</Image>
+      <Description>
+75 SNIPER RIFLE KILLS
+15 KILLS IN A ROW WITHOUT DYING
+25 MELEE KILLS
+3 HEADSHOTS IN A ROW</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>ASSAULT RIFLE - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/411AEE9B920BC6D3DE9AB97C314487BBDB923BC4.PNG</Image>
+      <Description>
+600 ASSAULT RIFLE KILLS
+7 ASSAULT RIFLE KILLS WITH 20% ACCURACY IN ONE GAME
+50 KILLS WITH 5 DIFFERENT ASSAULT RIFLES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>PISTOL - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/6123D943D4690CA4643503E52E6F0BFEA6C9556D.PNG</Image>
+      <Description>
+100 PISTOL KILLS
+4 PISTOL KILLS WITH 20% ACCURACY IN ONE GAME
+10 KILLS WITH 4 DIFFERENT PISTOLS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SMG - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/3D3B8D827EDF1C8D958CE05E9D9789374470F0FC.PNG</Image>
+      <Description>
+600 SMG KILLS
+7 SMG KILLS WITH 20% ACCURACY IN ONE GAME
+50 KILLS WITH 5 DIFFERENT SMGS
+3 SMG HEADSHOTS IN ONE GAME</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SNIPER RIFLE - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/F9721B36AE46CD0A15320DA152F55D1723BEC91B.PNG</Image>
+      <Description>
+200 SNIPER RIFLE KILLS
+4 SNIPER RIFLE KILLS WITH 35% ACCURACY IN ONE GAME
+50 KILLS WITH 3 DIFFERENT SNIPER RIFLES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SHOTGUN - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/BAEB5D86FA03C44927DB7773CF320F80365AA3E5.PNG</Image>
+      <Description>
+100 SHOTGUN KILLS
+6 SHOTGUN KILLS IN ONE GAME
+25 KILLS WITH 3 DIFFERENT SHOTGUNS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MG - 2ND CLASS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/593931AC42833A02BA77F55BE69EC1BEC812BA31.PNG</Image>
+      <Description>
+100 MG KILLS
+6 MG KILLS IN ONE GAME
+25 KILLS WITH 3 DIFFERENT MGS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SILVER STAR</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/ABBBC34FFDEDBC46B49A4B0787D0E931AD8C08CD.PNG</Image>
+      <Description>
+20 MVP AWARDS
+1000 KILLS
+15 CONSECUTIVE KILLS WITHOUT TAKING DAMAGE
+100 HEADSHOTS
+200 GAMES ON THE WINNING SIDE
+BRONZE STAR
+STEALTH MEDAL</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MILITARY CROSS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/551A8F9C4EFFEF65E9B6E20BAFAC829245253A58.PNG</Image>
+      <Description>
+EXTRACT 50 HOSTAGES
+ELIMINATE 50 VIPS
+DEFUSE 25 BOMBS
+PLANT 25 BOMBS
+CAPTURE 35 CONTROL POINTS
+ADMIRABLE SERVICE
+DISTINGUISHED SERVICE MEDAL</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>POW MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/58ACB2CAFFD67AE2B949171078312918F9256847.PNG</Image>
+      <Description>
+PLAY 50 GAMES OF EXTRACTION WITHOUT KILLING A HOSTAGE</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MARKSMAN MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/E28111288395813BB2C2C0466488C87C571648FD.PNG</Image>
+      <Description>
+ACHIEVE 15 KILLS IN A GAME WITH ACCURACY ABOVE 75%
+(EXPLOSIVE KILLS DO NOT COUNT)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>EXPEDITIONARY MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/097C8FA1311C771069D8EDF666FA219C81BC7883.PNG</Image>
+      <Description>
+PLAY 50 GAMES AS A MERCENARY
+PLAY 50 GAMES AS A COMMANDO/SPECIAL FORCES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>ASSAULT RIFLE - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/D7C7393D87953BACF7447EE02CFE512FE4E05DA1.PNG</Image>
+      <Description>
+1000 ASSAULT RIFLE KILLS
+10 ASSAULT RIFLE KILLS WITH 25% ACCURACY IN ONE GAME
+75 KILLS WITH 7 DIFFERENT ASSAULT RIFLES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>PISTOL - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/EC6D3F714D50D2B79E92B594316FE8C2E2B6900A.PNG</Image>
+      <Description>
+150 PISTOL KILLS
+35 PISTOL HEADSHOTS
+6 PISTOL KILLS WITH 25% ACCURACY IN ONE GAME
+20 KILLS WITH 5 DIFFERENT PISTOLS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SMG - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/EB9A06A9DF8B9F32C9197A4E63BE118517FDB90B.PNG</Image>
+      <Description>
+1000 SMG KILLS
+125 SMG HEADSHOTS
+10 SMG KILLS WITH 25% ACCURACY IN ONE GAME
+75 KILLS WITH 5 DIFFERENT SMGS
+4 SMG HEADSHOTS IN ONE GAME</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SNIPER RIFLE - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/138C1144D4F86689E192FF239F7063220EAAAEF6.PNG</Image>
+      <Description>
+350 SNIPER RIFLE KILLS
+75 SNIPER RIFLE HEADSHOTS
+6 SNIPER RIFLE KILLS WITH 90% ACCURACY IN ONE GAME
+60 KILLS WITH 3 DIFFERENT SNIPER RIFLES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SHOTGUN - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/C46CD6EC73DC70580C5B4DC39E82D063AD464952.PNG</Image>
+      <Description>
+250 SHOTGUN KILLS
+60 SHOTGUN HEADSHOTS
+8 SHOTGUN KILLS IN ONE GAME
+60 KILLS WITH 3 DIFFERENT SHOTGUNS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MG - ELITE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/A45C6560556AA25EF88BBC834E69BE4D59D86BFF.PNG</Image>
+      <Description>
+250 MG KILLS
+75 MG HEADSHOTS
+8 MG KILLS IN ONE GAME
+60 KILLS WITH 3 DIFFERENT MGS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>PURPLE HEART</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/8D613A91710359A00EA7111EC098F7B582807D6D.PNG</Image>
+      <Description>
+50 KILL ASSISTS</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SUPERIOR SERVICE MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/93B19A92C288C9794AE15AA83A43AFB03CEF3B11.PNG</Image>
+      <Description>
+1 MVP AWARD ON EACH MAP
+1 MVP AWARD IN EACH GAME MODE
+200 KILLS AS A MERCENARY
+200 KILLS AS COMMANDO/SPECIAL FORCES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MERITORIOUS SERVICE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/FC0D32051EF43A3E4C5758B991A41B039F22619E.PNG</Image>
+      <Description>
+WIN 25 ROUNDS VIA HOSTAGE RESCUE IN EXTRACTION
+WIN 25 ROUNDS VIA BOMB DEFUSAL IN DEMOLITION
+WIN 25 ROUNDS VIA VIP EXTRACTION IN ESCORT</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>DEMOLITIONS EXPERT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/AA3C5076A8BC36792F6595AE4253718F51DEA685.PNG</Image>
+      <Description>
+10 GRENADE KILLS
+2 BREACHING CHARGE KILLS
+2 CLAYMORE KILLS
+10 KILLS BY BLOWING UP CARS OR OTHER EXPLOSIVES</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>GALLANTRY MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/5228673D7B5717C187C415A325347CF963FD82E4.PNG</Image>
+      <Description>
+200 SNIPER RIFLE KILLS
+5 MVP AWARDS ON EACH MAP
+50 MELEE KILLS
+SPECIAL OPERATORS MEDAL
+SUPERIOR SERVICE MEDAL</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>LEGION OF MERIT MEDAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/2AE439EB8372B82FF81DF16F488FFC670D501988.PNG</Image>
+      <Description>
+50 MVP AWARDS
+5000 KILLS
+250 HEADSHOTS
+500 GAMES ON WINNING SIDE
+EXTRACT 150 HOSTAGES
+PLANT 100 BOMBS
+CAPTURE 125 CONTROL POINTS
+ELIMINATE 125 VIPS
+SILVER STAR
+MILITARY CROSS
+GALLANTRY MEDAL
+ALL SERVICE MEDALS
+ALL WEAPON SPECIALTIES ELITE</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>MOUNTED DESTRUCTION</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/2709A3C2053FA389E54C62350735330BB8A7D2AD.PNG</Image>
+      <Description>
+50 MOUNTED TURRET KILLS
+5 MOUNTED TURRET KILLS IN ONE GAME</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>COLD FRONT TOUR OF DUTY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/2C87A73CF2DE9A22DC240B32B9F758D295C7ABD7.PNG</Image>
+      <Description>
+PLAY 25 GAMES OF ARMS RUN
+PLAY 25 GAMES ON EACH COLD FRONT MAP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SPECIALIZED WEAPONRY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/14B2F29E757D2BEBBF45D82EBED4AE6F997943CA.PNG</Image>
+      <Description>
+UNLOCK ONE OF THE SPECIALIZATION-SPECIFIC WEAPONS
+25 KILLS WITH UNLOCKED PRIMARY SPECIALIZATION WEAPON</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>ADDITIONAL FIREPOWER</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/C6BCA5C9EDFE0D5E98CD71B25DE48FB602E6F08A.PNG</Image>
+      <Description>
+500 KILLS WITH NEW COLD FRONT WEAPONS
+50 KILL ASSISTS WITH NEW COLD FRONT WEAPONS
+25 KILLS WHILE USING A THERMAL SCOPE</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>SPECIALIZED VETERAN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/8307F2ED90A6561E265D269885DD328086CE4E4F.PNG</Image>
+      <Description>
+EARN A GOLD STAR IN YOUR PRIMARY WEAPON SPECIALIZATION
+EARN A SILVER STAR IN YOUR SECONDARY WEAPON SPECIALIZATION
+50 KILLS WITH UNLOCKED PRIMARY SPECIALIZATION WEAPON</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00302_00</GameId>
+      <Title>COLD FRONT DOMINATION</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00302_00_7993E6211561FCBBABD2304979125861FAE9BD63/65690B09B123533BA5D096548CEE823549C7E2B3.PNG</Image>
+      <Description>
+200 WINS ON COLD FRONT MAPS
+LAUNCH 100 MISSILES IN ARMS RUN
+DESTROY 100 MISSILES IN ARMS RUN
+250 MOUNTED TURRET KILLS
+25 MELEE KILLS
+SPECIALIZED VETERAN
+ADDITIONAL FIREPOWER
+COLD FRONT TOUR OF DUTY</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

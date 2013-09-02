@@ -1,0 +1,491 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03198_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Metro: Last Light</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/636FC23A54ECB9118E14EA58DBF2FEDD8E7B23EE.PNG</Image>
+    <TrophiesCount Total="53" Bronze="38" Silver="11" Gold="3" Platinum="1" />
+    <TotalPoints>1170</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/A11107299C8B754763D4CCB369E45C563A693B23.PNG</Image>
+      <Description>Get all Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/35A679BC0A116B3949499473C6554CA62034881A.PNG</Image>
+      <Description>Kill 100 Human Enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Antibiotic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/63684948BABFB93946391D612D14519CCB5C2295.PNG</Image>
+      <Description>Kill 100 Mutants.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Shadow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/252151F2B3774D8CD546E28D0864E22CFC95E325.PNG</Image>
+      <Description>Stealthily kill 15 Enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Inferno</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/31F00D66CD4E4025D413F45FD05A6BCD6D061338.PNG</Image>
+      <Description>Set 2 Enemies on fire at once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Tesla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/ACD117B91D821ACDB6D1BC618ED732D44FF75343.PNG</Image>
+      <Description>Break 50 Lights.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Edison</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/51C0241B6D01BB36B4E7EAF93BF237C2A3782118.PNG</Image>
+      <Description>Turn off 40 Lights without breaking them.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Ever Vigilant </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/23EB829AD0EB259F5AE35AB1CF12A39F4CA63871.PNG</Image>
+      <Description>Disarm 10 Traps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Businessman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/F053E1D412505000C2681F99B6D00A1BFA5D5B71.PNG</Image>
+      <Description>Make 100 Purchases.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Walking Bank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/AF5B518D5818399E78AD6C8C0FC089D87499D8A0.PNG</Image>
+      <Description>Collect 1000 Military Rounds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Musician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/B575C4EF3F54BBA628A538124C648697F42191B5.PNG</Image>
+      <Description>Use all Musical Instruments in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>First Draft</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/B761998C1BBB51FD603B4C3DC5BCC5E174DB466C.PNG</Image>
+      <Description>Write 10 of Artyom's hidden Diary pages.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Published</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/2D770A767DEE3DE640B51E917F839A905456D43E.PNG</Image>
+      <Description>Complete all 43 of Artyom's hidden Diary pages.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Rabbit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/CA4AB7D070435B33704039B9EB01EB0AB15A1293.PNG</Image>
+      <Description>Complete training sequence.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Not A Rabbit </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/1D0D1D331DEDF55D5CB42D3F4025789135CD31F3.PNG</Image>
+      <Description>Finish the ASHES level without taking a hit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Freedom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/5489DAAA9E616CF60F6E4DCF3496B4706FE13114.PNG</Image>
+      <Description>Free the Prisoners.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Clean Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/86981280FC9ED71B2A9AD6CBE4D3FEEE60EE0F20.PNG</Image>
+      <Description>Escape the chasing Nazis on the REICH level without being caught once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Invisible Intruder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/77BEE674C41EA54D6A3774502EB0E4716F539F7C.PNG</Image>
+      <Description>Complete the SEPARATION level without killing or raising alarm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>A Present</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/2C2C03F3646A6F2FE09662ECC22D183377A01842.PNG</Image>
+      <Description>Take the Custom Pistol from the Locked Box.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Invisible Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/961E1FD1A5A994F38155CFE51B51B9E07A95AC0D.PNG</Image>
+      <Description>Complete the FACILITY level without killing or raising alarm.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Tortoise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/EC98E7D3EDCA8394858C096DE5C5D0D642B6AC9D.PNG</Image>
+      <Description>Make 10 Spiders flip belly-up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Mouse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/5EC717FD4DAF3A7AC260539DC95C7447DFAA41FA.PNG</Image>
+      <Description>Complete the ECHOES level undetected by the Watchmen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Patron of the Arts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/BD7B09326E9A861BD312CD6D4DC0EEBCDB6F613C.PNG</Image>
+      <Description>Watch the entire Theater Show.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Within a Hair of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/78908966F0C0EA4DC13A79857CCFD500E4452F66.PNG</Image>
+      <Description>Escape from the Red Line.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Derailed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/EF7EB3CF91BD546F0E6C1F1049A955618B22FD84.PNG</Image>
+      <Description>Kill all armed enemies on the REVOLUTION level, including all reinforcements.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Invisible Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/41D30B65A3186F1774D6E753451FE40AA5042685.PNG</Image>
+      <Description>Complete the REVOLUTION level without killing and raising an alarm.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Scram</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/A6EE1D8EC340FD56895A4F5B614E06F030062A21.PNG</Image>
+      <Description>Kill all Watchmen before they reach the Railcar.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/19A60A2D3F6E044E9609096ABD228305BBBDE5E3.PNG</Image>
+      <Description>Rescue the Women and Children on the BANDITS level without raising alarm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Soup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/95C4AC813DE2B0B33BBAFDEEE2AD89606D475650.PNG</Image>
+      <Description>Kill 5 Shrimp with Grenades.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Reunion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/4ACBD9C770BCA3D61F8B3B4FAC1EFFAD3648D5EE.PNG</Image>
+      <Description>Find and return the crying child's Teddy Bear.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Diver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/A3030D581BDEE9E3EAF66C434D77262D2ABA9547.PNG</Image>
+      <Description>Fall in the Swamp 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Equipped</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/B1142080BC53114D3FE0A2BC7DED05B8C52BFE7A.PNG</Image>
+      <Description>Find all Equipment Stashes in the swamps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Big Momma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/AB154E595080B577C1BD075C9BA6CEBBFA4A0349.PNG</Image>
+      <Description>Kill the Rhino.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/EFF901BECCBDFA8F88EEB58CF98DC144E126FF3B.PNG</Image>
+      <Description>Remove your mask when Lesnitsky demands it.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Forgotten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/672F1DC18E54DC0F98F85BF6796882B766E68FCA.PNG</Image>
+      <Description>Find the Hidden Ammo in the abandoned part of the station on the QUARANTINE level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Nobody's Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/6DA68B1FB6AEC83D5AC90996398E874F40D38486.PNG</Image>
+      <Description>Ignore the Phone Call in the Anomaly.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Bloodlust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/ED3A1F6199F81535036B0AC024B3DC627CD0A02C.PNG</Image>
+      <Description>Kill all the Reds on the THE CHASE level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Van Helsing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/76B6DF106234E7D8899AEF218B561F2182BC33A0.PNG</Image>
+      <Description>Kill a Demon with the Helsing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Rain Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/856E6012EFE55A88058E07CB40CB33651D089040.PNG</Image>
+      <Description>Complete the BRIDGE level without a kill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Secret</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/F874FB21931BA1CC326EF0421559324A10C60C49.PNG</Image>
+      <Description>Find out about the Reds' plans.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Back to the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/D8097C6BF9EB884F502CA48BFF4E7190E5DBFCC9.PNG</Image>
+      <Description>See all Visions in the Dead City.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/BD7924D777094A3F1D890B15A81BEDF81A618627.PNG</Image>
+      <Description>Kill Pavel.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Forest Guardian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/90482781E95C78CC93821145C917147405883438.PNG</Image>
+      <Description>Save the Bear from the Watchmen after the fight.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Revelation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/AFFF527AF8FE2F8D409D63B012668E7B57FC8B11.PNG</Image>
+      <Description>Make Moskvin tell the truth with help from the Dark One.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>True Spartan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/1D91134769C331FE0192441F259EEA3C8EA8E80D.PNG</Image>
+      <Description>Hold the Platform without dying.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>C'est la vie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/89CD8411159CAFD47D6DB63E84A356A32BBC0990.PNG</Image>
+      <Description>Destroy D6.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Redemption</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/20F3A35E40560520A36DC352A8B4E6FDBF392078.PNG</Image>
+      <Description>Save D6.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>No shooting allowed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/517704286AEDEEE6F4DB718506FE9B86A6B85718.PNG</Image>
+      <Description>Kill 10 enemies in a row with Throwing Knives.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Gunslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/8D88FFC9DDE4B0AD08E48C738F4D8AA9F47DC279.PNG</Image>
+      <Description>Kill at least one Enemy with each Weapon available in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Weapon Smith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/A647CE01B5E82FAE15EF1F9D00B2A8F88B82D4C6.PNG</Image>
+      <Description>Install all possible Customizations for a Weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Shadow Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/C00D5EE2EBCF98D8FD2424337501EDEEE061E94B.PNG</Image>
+      <Description>Complete the game without killing any Humans unless forced to.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Survivalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/4AAE8DCC6E43CD0C1E34323909BA79B9167FF206.PNG</Image>
+      <Description>Complete the game in Ranger Hardcore.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03198_00</GameId>
+      <Title>Ranger Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03198_00_00B25812329600A11EE4D6C6A024BC69C9F62953A5/DE8889773E4AC8182DEED969921C19345817997C.PNG</Image>
+      <Description>Complete the game in Ranger Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00206_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The Chronicles of Riddick™ Assault on Dark Athena</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/C7A572846E05CDDA630829A585B00C68B1D2A12C.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/42ABB28E878B72A74A8CB690BE1A3C68AC6C1EFC.PNG</Image>
+      <Description>Get all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Medium Security Jail Break</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/497F214EAF9DE7BB839A49EB186919527D3BD24A.PNG</Image>
+      <Description>Complete the Escape from Butcher Bay campaign on normal difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>High Security Jail Break</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0A863A937F7D7DE6A1B49ADC76BFAC3E77741E55.PNG</Image>
+      <Description>Complete the Escape from Butcher Bay campaign on hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Chain Smoker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/8DA46A5AEDE8265140B1F9B40318BCC01DCFE2F1.PNG</Image>
+      <Description>Collect all cigarette packages.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Bell Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/5237C0DE5895E3666EE116C1DB612944CFA0559D.PNG</Image>
+      <Description>Complete all side missions in Butcher Bay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Main Frame Hack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/DD2CF28ABCF5B10B017EA50B052C00764B750A94.PNG</Image>
+      <Description>Find the Butcher Bay main frame and input your DNA.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Eye Shine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0BF5E49438005785BF9DAF623CA9A98028FF9DF2.PNG</Image>
+      <Description>Find Pope Joe and let him perform the eye shine surgery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Kill Abbott.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/FA0E96C633369E65CB0080E22FFCD00904A7E75D.PNG</Image>
+      <Description>Get the opportunity to kill Abbott.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Ring Fight Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/F459DD6820366DA57843DC41353C83CDFFCCA07D.PNG</Image>
+      <Description>Beat all competition in the Tower 17 ring.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Control a Riot Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/03721F1C253E952D5531BC3A9B68BCFDB070A325.PNG</Image>
+      <Description>Find and control a Riot Guard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Kill a Heavy Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/3C19EE76023536B2DC339C288A8F561674049B3E.PNG</Image>
+      <Description>Find and kill a Heavy Guard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Control a Heavy Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/23B5A48CDAAAF06D63120C192EDBC9F85E894167.PNG</Image>
+      <Description>Find and control a Heavy Guard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Kill Rust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/51401A2E99DB7CE38633F8F70F11A1B4BD7295FF.PNG</Image>
+      <Description>Find Rust and kill him.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Master of Athena</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/C1A83BD00306738FC08DDE8FD38E13A970697343.PNG</Image>
+      <Description>Complete the Assault on Dark Athena campaign on normal difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Champion of Athena</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/5581530CCABB8ACB867C97521D5C465911828FCA.PNG</Image>
+      <Description>Complete the Assault on Dark Athena campaign on hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Open the Vents</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/76A54526EF9DACEB8B206AF780870C68B5F95EFF.PNG</Image>
+      <Description>Get a Dark Athena vent tool.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Stealth Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/FAE6F98B267CB350F037C695BA1A622B8E1F4142.PNG</Image>
+      <Description>Get through the Cargo Bay without being noticed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Control an Alpha Drone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/FF6E17E858DB0ED41A5F316A6825C9F669E8F36F.PNG</Image>
+      <Description>Find and control an Alpha Drone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Kill an Alpha Drone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/6835C6C0CDF84099A3DCEA2357A486A463B20DD7.PNG</Image>
+      <Description>Find and kill an Alpha Drone.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Melee Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/F546F29D1E757B1431891517D79660574B16D0EB.PNG</Image>
+      <Description>Find and beat Iron Lord.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Kill Spinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/5D69A6E8241992610C45020C5E36DAE46696C916.PNG</Image>
+      <Description>Find and kill Spinner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Ulaks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/90B73F765AE115B5033B5998731C0743B976ECD1.PNG</Image>
+      <Description>Find and equip yourself with a pair of Ulaks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Rebel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/F5274630C590722A30C43EF107E3DE7FB8DAA6F2.PNG</Image>
+      <Description>Start a Riot on the Athena.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Control a Mech</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/BEE9DCA654A161EC4FD6217B4E0940BAB0B76FCA.PNG</Image>
+      <Description>Find and control a Mech on the Dark Athena.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Escape the Athena</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0019AAE925B30E9087F1DD1D56D61E979B816BDA.PNG</Image>
+      <Description>Find a way out of the Athena.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Master of Drones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/8562697F4CAAF4DC75C844EFC354409BD67FB564.PNG</Image>
+      <Description>Complete the Main Decks using only two drones.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Honest Fighting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/E8F9B8AE25558FE868A6DAC99355944D610B6191.PNG</Image>
+      <Description>Find and kill Jaylor in a fair fist fight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>SCAR gun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/41A27C4DA32D9FD2C0604FFB9C18684E9B541645.PNG</Image>
+      <Description>Find and equip yourself with a SCAR gun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Sniper Rifle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/59F3AD58484036F46383E650C0383284833C356A.PNG</Image>
+      <Description>Find and equip yourself with a sniper rifle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Margo's Locker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/027243DAC1207D10A14EF3654E222633D375C383.PNG</Image>
+      <Description>Find and open Margo's Locker.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Miles Letter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/3EABC5ACA50B2BFBCAA6FEADBB4A7D696ACD7703.PNG</Image>
+      <Description>Help Miles and transmit his message.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Gabril</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/DAACD9BB5C8C20580DDD9BFDCDD825818B810936.PNG</Image>
+      <Description>Find and help Gabril.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Bounty Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/88ACB1222DFA143747E6C11B201A9FBC8AC8A851.PNG</Image>
+      <Description>Collect all bounty cards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Winner level 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/66A9285A58372D0D02EB9777AE191B756DA1AA56.PNG</Image>
+      <Description>Win 10 matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Winner level 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0EDBBF8FAA565DB77FD20A1CE8A5E1368F53C131.PNG</Image>
+      <Description>Win 100 matches.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Winner level 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/253E4E861B060530D979CE8A54249ECB4745C06F.PNG</Image>
+      <Description>Win 1000 matches.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Basic Weapon Handling level 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/823763EA272DB6BB1542F47FC6E9D247C0494CB6.PNG</Image>
+      <Description>Kill 10 people.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Basic Weapon Handling level 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/1DE3A95877E06BDB9501BE0BB900EB0EB41A3577.PNG</Image>
+      <Description>Kill 1000 people.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Basic Weapon Handling level 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/1E1284FD194301A68275E507EEB474B39A4F5023.PNG</Image>
+      <Description>Kill 10000 people.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Advanced Weapon Handling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/2591046A16D410A8A083D8AE0CC080DD859CBC8B.PNG</Image>
+      <Description>Prove that you can use your weapon under difficult circumstances.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/B9546C235EDD7F5B2B37720445FDA91D1033A246.PNG</Image>
+      <Description>Get a 4 kill long kill streak. Get a double kill. Get the first kill in a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Murderer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/DAF2A7B049C1C31932A015D71FBD623670568E4C.PNG</Image>
+      <Description>Get a 8 kill long kill streak. Get a triple kill. Get the last kill in a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/7D75F20DCD48580D13246CDEC834E7DE3CC4755C.PNG</Image>
+      <Description>Get a 12 kill long kill streak. Get a quadruple kill. Get the first and last kill in a match.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/7E043346D5984144F1F1CE19BD13E54D1318F1CA.PNG</Image>
+      <Description>Capture a flag. Capture a powercell. Win a round alone against at least 3 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Juggernaut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/31B64A51279B27AC9A06AFD27B699363DAC254D2.PNG</Image>
+      <Description>Keep on going no matter what.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Underdog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0F06A4BB5CDB2B6000391BFD1F9A130D13C680A5.PNG</Image>
+      <Description>Never give up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Sniper Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/0CFB03CB5DDE30FB8E691AE1CE9F4BD0E940B731.PNG</Image>
+      <Description>They'll never see it coming.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Explosive Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/EC0DA2CCDCBECB45ED93936D5BB1EA6E38682A48.PNG</Image>
+      <Description>BOOM!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Trigger Happy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/9933D3B4567F370F5BC5C72ABC61492265D333E3.PNG</Image>
+      <Description>Don't stop firing until you are sure you are out of ammo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Melee Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/7403865A3D2EAD93FFC411D4621DC5750E5C5F1C.PNG</Image>
+      <Description>Close and personal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00206_00</GameId>
+      <Title>Funwrecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00206_00_0077677D7010EBBAE9686A8372BDCF78D146979D24/69C044A64B987FC8037516246DD3817BDD74D3B8.PNG</Image>
+      <Description>Ruin someones day.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

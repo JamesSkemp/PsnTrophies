@@ -1,0 +1,599 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00467_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Call of Duty®: World at War</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/7C77C453CAA0B582F9D70DD16B5EE6DC7515441D.PNG</Image>
+    <TrophiesCount Total="65" Bronze="44" Silver="18" Gold="2" Platinum="1" />
+    <TotalPoints>1380</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/F2F651BB58C98AB9ECE27C2DD8C226507775DEE7.PNG</Image>
+      <Description>Awarded when all other trophies have been unlocked.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Get Your Hands Dirty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/70D09A7F57B4D55EF213324C34CD4693FE220FEC.PNG</Image>
+      <Description>Complete 'Semper Fi' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Bloody Peleliu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/2B3A98D5DA00F25F1AC3D79CFD5F723061D7F9A5.PNG</Image>
+      <Description>Complete 'Little Resistance' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Sword Is Broken</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/F1FD6E39F0E52EBA2E9C378101128A0890492D3F.PNG</Image>
+      <Description>Complete 'Hard Landing' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Architect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/CB88366E72A6BBCF0FFFA5456FD753881AB98ABF.PNG</Image>
+      <Description>Complete 'Vendetta' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Hammer Strikes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/C650273A553A0EA0B876C8C06AF21B92443CCCED.PNG</Image>
+      <Description>Complete 'Their Land, Their Blood' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Scorched Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/60F1D26CF79D4A1CD857EBC60674B526DA6D2156.PNG</Image>
+      <Description>Complete 'Burn 'em Out' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Fearless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/C529857501992CF5F380C3AF0A8B319D258C51D3.PNG</Image>
+      <Description>Complete 'Relentless' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Hell on Wheels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/61D05766343E7130BD8B0922D4C1F537DC541574.PNG</Image>
+      <Description>Complete 'Blood and Iron' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>No Return</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/6C97D3BF69F4032432DDD321FB8A77E4E8F38B0D.PNG</Image>
+      <Description>Complete 'Ring of Steel' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>"When It Rains, It Pours"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/E08ADF866C81FD4CF92077F7EB43D9372702F76E.PNG</Image>
+      <Description>Complete 'Eviction' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>One Bad Gato</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/D2CF051D8F32A40857E85EDB093FD3B70D94F3DC.PNG</Image>
+      <Description>Complete 'Blackcats' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Blowtorch and Corkscrew</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/2DEAD13C37512098D7E791292D5AA9C369209DB8.PNG</Image>
+      <Description>Complete 'Blowtorch and Corkscrew' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Sun Sets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/4784BE2D8F3F6950C5C611E94CF4028AB9874DF2.PNG</Image>
+      <Description>Complete 'Breaking Point' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>For the Motherland</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/AE098A9D12B50C06162BDC656206A52F21A8F8A9.PNG</Image>
+      <Description>Complete 'Heart of the Reich' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Bearing the Burden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/41BB629B50236BD6064C23D758177A46C949C0BD.PNG</Image>
+      <Description>Complete 'Downfall' on Veteran difficulty. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Carlson's Raiders</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/6F4208E37E7C52D56646A197CE3D1AA24F87BBD1.PNG</Image>
+      <Description>Complete 'Semper Fi' on any difficulty. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Stormed Peleliu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/CC1E7183546008D2FA65859B7B5FAAA5F2F02BF2.PNG</Image>
+      <Description>Establish a beachhead at Peleliu Island on any difficulty. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Last Stand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/042AE0C2648C27100B226793076E1FFE0DFC40D2.PNG</Image>
+      <Description>Survive the conflict in Okinawa on any difficulty. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Stabbed in the Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/FA9374330DF06C94D93E22137AC0912066ACB705.PNG</Image>
+      <Description>Complete all missions on the Eastern Front on any difficulty. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Hardened War Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/272B6EE626ABB660ACC8B0C1D2B10BBC4415EA82.PNG</Image>
+      <Description>Complete the game on Hardened or Veteran difficulty. (Solo only)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>War Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/EFA066461652638A8C758ADAD9B957DAB87E2E37.PNG</Image>
+      <Description>Complete the game on any difficulty. (Solo only)</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Saved Private Ryan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/AC38F71D4A506AFAC21E359561D1A49F7295E23F.PNG</Image>
+      <Description>Save the soldier before he burns to death.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Weapon of Mass Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/97FA88B3177CC811CB8D0B2B9BAB57F54D017EA9.PNG</Image>
+      <Description>Radio in a naval bombardment that kills at least 4 Japanese soldiers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/F115932B0ED977427C8965610D5FA752342A5182.PNG</Image>
+      <Description>Shoot all of Amsel's henchmen, including their attack dog, without reloading. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Gunslinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/8A3E24F664F12F23F27C86F63F9ECEE9AB0E093E.PNG</Image>
+      <Description>Assassinate General Amsel with a pistol shot. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Lights Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/74707A0C9A09DB1762DE0412D2AB67145B28EE13.PNG</Image>
+      <Description>In 'Black Cats', blast out all of the spot lights in the Japanese cargo convoy. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Rough Economy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/0C237EE8CA2BAF6D6424B077A70BB86ECC8FCDDC.PNG</Image>
+      <Description>Kill 3 enemies with a single round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Guardian Angel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/564C382B93B2C47DF8274468DBD858EDE4D7DFD2.PNG</Image>
+      <Description>In the final battle for Okinawa, save Sergeant Roebuck.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Close Shave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/90655AB2A23B0F156D981FFD7CBD2E4165CBE7F6.PNG</Image>
+      <Description>Survive a banzai attack. (Solo only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Snake in the Grass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/BFBC9464F7B63CB5A4C6BB423910ACF4B7D1E1C7.PNG</Image>
+      <Description>Take out a Japanese soldier lying in wait in the grass.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Grave Robber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/08A244E1E8C7D39A49CBF3FD0C951524BA78AC50.PNG</Image>
+      <Description>Collect all Death Cards in the game. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>No Safe Place</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/F8CAC74F3D35E5243C129C20909A5982E48EBABF.PNG</Image>
+      <Description>Burn an enemy out of a tree with the flamethrower in 'Hard Landing'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Throw a Six and a Half</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/EC5EF1A75E32D03FA5B59699FC92FCA12A2208EF.PNG</Image>
+      <Description>On Hardened or Veteran difficulty, complete a level without dying. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Purple Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/7F9603234D32AEC505B54427EF0C1A4BBFE01A0D.PNG</Image>
+      <Description>When staring into the face of adversity, show courage and persevere.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Firestarter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/AEAD7410F69A459BF1F8E8FC4D3F45E0A6837398.PNG</Image>
+      <Description>Complete a level using only the flamethrower. Melee, grenades &amp; explosives are OK.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Kamikaze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/030525925E6DC7E8AB8C7E71B81C3B7F0605722D.PNG</Image>
+      <Description>Complete a level on Regular difficulty or higher using only melee or grenades. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Iron Fist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/9B805AE6CFC1DDB7C643AC8B05DBD356DD287BC8.PNG</Image>
+      <Description>Destroy all towers and bunkers in 'Blood and Iron'.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Ruthless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/02CE95275AFCF6F310570206F9F7CD1F2254EC6B.PNG</Image>
+      <Description>Kill 15 enemies while mounted on a tank in 'Ring of Steel'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Mortar-dom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/AC108842BAED2FC9B913F4DF49A5EA68AD46A4C6.PNG</Image>
+      <Description>Kill 8 Japanese with thrown mortars in 'Breaking Point.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Shot in the Dark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/97988F20E537E6E4BEDA4D9A6F2B86F136692523.PNG</Image>
+      <Description>Kill 10 enemies while the lights are out in the subway in 'Eviction'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Sum of All Zeros</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/CD37910A6CE9D09DD1E57AFD808A0D089C08F44F.PNG</Image>
+      <Description>Down 45 Japanese Zeros in 'Black Cats'. (Solo only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Blue Ribbon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/FAFCCF15D6C95D3E69D4662A7F8E58A909C0D296.PNG</Image>
+      <Description>Complete a 4-player Competitive Co-Op match in 1st place. (Online co-op Only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Get Your Left Foot Wet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/C8BB9667E8039E3B13174575F6CF143BADA22C99.PNG</Image>
+      <Description>Complete a match in Campaign Co-Op mode. (Online co-op only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Get Your Right Foot Wet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/8DB4A98A68BBCD9493D091469E3C4BCB47D545CC.PNG</Image>
+      <Description>Complete a match in Competitive Co-Op mode. (Online co-op only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Dead Air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/29CDEC832AAF896F2106EFA8A493497AA628D879.PNG</Image>
+      <Description>Must have been a wrong number. (Secret Trophy)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Hammer Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/F8213AF1BCC599EA2AD52C9F8E3B43DBCDCC8B5B.PNG</Image>
+      <Description>Repair 200 window boards in a single game. (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>It's a Trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/C294870B3FF3E7017331F1F86788CF4383B3044D.PNG</Image>
+      <Description>Kill at least one zombie with three different traps in a single round. (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Weapon of Minor Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/39DC0F603E8BCB3F4BD059EBF1FA89F1676AA004.PNG</Image>
+      <Description>Kill no more than one zombie with a nuke. (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Perk-a-Holic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/58D9332656BF599B5F08874D024D0BC712A18EBC.PNG</Image>
+      <Description>Have all four perks simultaneously active in a game of Nazi Zombies. (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Fertilizer Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/44D047F48613563713C2823A1884A11E9264FAB7.PNG</Image>
+      <Description>Kill 200 zombies in a single game.  (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Deadhead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/4A3F5AF029B5D48C05D547EEF71DAFC2DE6889FE.PNG</Image>
+      <Description>Get 150 zombie headshots in a single game. (Map Pack 2 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Big Baller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/226EF10F12E2E56FE79CD1886A276FCBF9598A4F.PNG</Image>
+      <Description>Earn 75,000 points in a single Nazi Zombies game. (Map Pack 2 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Big Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/082DB66F9A503804E7195FFDB99AF377822FEDFA.PNG</Image>
+      <Description>Get 10 consecutive zombie melee kills before Insta-Kill expires. (Map Pack 2 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Soul Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/DF5B4DF67823D4CCD0B46362867AD942F26C28D5.PNG</Image>
+      <Description>Reach round 15 in Nazi Zombies without getting revived. (Map Pack 2 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Elevate Your Senses!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/C568E0D270B3F23072FFE12AD79813F6257E1007.PNG</Image>
+      <Description>Activate the Fly Trap. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Locksmith!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/97491A3D19DA8BE31ECF5E7922EC5AE2589C066C.PNG</Image>
+      <Description>Open all doors in the map. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>40 Knives!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/A9CF829778DF91D0C144F606B2838F8413C9B462.PNG</Image>
+      <Description>Kill 40 zombies with the bowie knife. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Der Electrician!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/6F7B39B0971895C95881BCA02DFF20AEB67E2C34.PNG</Image>
+      <Description>Link all teleport pads before round 7. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Frequent Flyer!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/0CD7FECF7097C86E8F80AD65D3FCF685B6B618A2.PNG</Image>
+      <Description>Use the teleporter 8 times. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Perkaholics Anonymous!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/47742CC74579074218F171BA75981EF198D291AB.PNG</Image>
+      <Description>Survive until round 20 without buying a single Perk. (Map Pack 3 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Wacker Packer!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/66D9EA0CCF7E9E6E045F6CD6CFCF61FF1F9213CC.PNG</Image>
+      <Description>Upgrade any weapon in Pack A Punch. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Acquire Waffle Weapons!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/9E636C84BDADF18BCF9DCCDB8CCB8313F9A4D250.PNG</Image>
+      <Description>Obtain the Ray Gun, DG-2, and the Monkey Bomb at the same time in a game. (Map Pack 3 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>Pack Addict!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/DDF96881D6E8BF462AA1013361BD989D597E7F8A.PNG</Image>
+      <Description>Upgrade 5 weapons at the Pack A Punch Machine. (Map Pack 3 only)</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR00467_00</GameId>
+      <Title>The Might of the Monkey!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00467_00_0051F43B35E40640DD8D6C4EFA1DBB0F467108D027/247B073EC25F4FCF2C384301B2501C3A946489E1.PNG</Image>
+      <Description>Use the Monkey Bomb. (Map Pack 3 only)</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

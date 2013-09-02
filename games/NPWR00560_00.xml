@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00560_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Vancouver 2010™</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/96900E3CADD7AF39B173C46FCA107FBCB8C67697.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>All Trophies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/E768CEB9615E05C776B74D2C4933EFD9DF9B2695.PNG</Image>
+      <Description>Acquire all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Slalom Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/DB4FF64A23E637DF56CE9F409E8F85A79A01F249.PNG</Image>
+      <Description>Win a gold at slalom in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Giant Slalom Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/83E5D73CCB6BCDE6ACE75C654BC8AA75958A8011.PNG</Image>
+      <Description>Win a gold at giant slalom in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Super-G Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/987E7B469E98D639121CE95AF686D8831E858117.PNG</Image>
+      <Description>Win a gold at super-G in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Downhill Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/BE423240AC4A68894CE4AEF67968E30F91BC146E.PNG</Image>
+      <Description>Win a gold at downhill in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Ski Cross Supreme</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/CB921CF2FA82FB8D7D75A671CF4D5FA469373426.PNG</Image>
+      <Description>Win a gold at ski cross in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Snowboard Cross Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/286FD4E1364111D5E416E14A8B5AC3CE835C9CAD.PNG</Image>
+      <Description>Win a gold at snowboard cross in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Parallel Giant Slalom Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/00A7960458EDBF542237E145249A0AB3D1A7FCEA.PNG</Image>
+      <Description>Win a gold at parallel giant slalom in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Ski Jump Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/71D4588A1A94AC5EE52F42A09E017806061F2581.PNG</Image>
+      <Description>Win a gold at ski jumping in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Aerials Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/96E5DEDC78F0705510A407C09EA68F87AE9D9ED3.PNG</Image>
+      <Description>Win a gold at aerials in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>500 m Short Track Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/AF464F7F3C1B2586F7D7E4144AE018E565C27209.PNG</Image>
+      <Description>Win a gold at 500 m short track speed skating in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>1,500 m Short Track Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/4DD51557FA83732DA3BAAE73134BE688441BEABB.PNG</Image>
+      <Description>Win a gold at 1,500 m short track speed skating in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Bobsleigh Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/23A054EDD346191553B59140DAFDA6E20FF98BEF.PNG</Image>
+      <Description>Win a gold at bobsleigh in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Skeleton Crazy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/8F924FE1D04402A639DE41E10663FDA2D1434158.PNG</Image>
+      <Description>Win a gold at skeleton in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Luge Lunatic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/71C03419C92188603238DCB9E9576A76BDF2012C.PNG</Image>
+      <Description>Win a gold at luge in a single player game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Best With Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/CC6830D4528D2B0B4323F5177888D5860F4F7515.PNG</Image>
+      <Description>Play a 4 player game on one system.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Online Olympian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/E70FDABDE767FE5138EB9166E926B75A205EDCF9.PNG</Image>
+      <Description>Play an event online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Back To Back Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/91E8F3C9DA8A169CBBE29670AC5376563434D41C.PNG</Image>
+      <Description>Win 5 online events in a row.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Good Host</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/930BA4BB2A8E9352BF016578369021AD46CFEE8E.PNG</Image>
+      <Description>Host an online game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Mountain Climber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/8F9BB3E7538F5FF6D0A46EF43FA6B56E4447AA90.PNG</Image>
+      <Description>Unlock the intermediate challenge mountain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Challenge Crazy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/195BD2C889B9FA2078CB9D2B9140F1A493835FCD.PNG</Image>
+      <Description>Complete all game challenges.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>In The 80’s</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/067F21F7F3D0F2E532528A8B3CB24CC32716FCFA.PNG</Image>
+      <Description>Complete the In the 80’s Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>In The 90’s</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/26F174A7AD8047A56B09C3510A882591D3C9265D.PNG</Image>
+      <Description>Complete the In the 90’s Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Landing Zone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/D3B53FC6559B1FA5451812A6CA685BAA97FBE844.PNG</Image>
+      <Description>Complete the Landing Zone Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Lap It Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/E9731567F2B20BAD1C04C24E6C84306EFEC492C0.PNG</Image>
+      <Description>Complete the Lap It Up Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Lose Your Licence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/5CCFFB8F16AE99328F019356775317FFDF2ED175.PNG</Image>
+      <Description>Complete the Lose Your Licence Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Corner Counter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/605E7A62BED507964AE7875D3E0B8577C0EC2488.PNG</Image>
+      <Description>Complete the Corner Counter Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Overtake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/4C1811C28278739583F48103AFD131A92D4FCF07.PNG</Image>
+      <Description>Complete the Overtake Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Smashing Snowmen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/268F3BB954FF633A20C05E4F9E24D6FEBF808E50.PNG</Image>
+      <Description>Complete the Smashing Snowmen Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Beat Your Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/2421D0976DD3C6FE9FE3A2A216CC1DBF2E03E10A.PNG</Image>
+      <Description>Complete the Beat Your Maker Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>High Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/2C974ADCB43588A5399E52323FC833D0176A5807.PNG</Image>
+      <Description>Complete the High Speed Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Supersonic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/DC364ABE48E3EDC75DCE8CB304E40883B2A43F46.PNG</Image>
+      <Description>Complete the Supersonic Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Caught Speeding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/3F4F8A07AFBC2BECC64CC3A95FA013FD25900482.PNG</Image>
+      <Description>Complete the Caught Speeding Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Top Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/54E6F52E29DC240CC420189D156064B811725C2F.PNG</Image>
+      <Description>Complete the Top Speed Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Time To Try</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/4656898DC70763AB9B7A23CAA50451398A647DA0.PNG</Image>
+      <Description>Complete the Time To Try Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Head To Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/04FA9B0E8E20BD7B482C9157E6038F3DF3B3C809.PNG</Image>
+      <Description>Complete the Head To Head Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Super Runout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/FE8718D012F75FEA9D750D58E87FA80AE4471355.PNG</Image>
+      <Description>Complete the Super Runout Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Runout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/22FFCFB3B40A32D04E9748D625E55D67CD18999F.PNG</Image>
+      <Description>Complete the Runout Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Good Gate / Bad Gate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/3C8ECBECFC3994F1DBBFF73634AF86A6CE6F9DAB.PNG</Image>
+      <Description>Complete the Good Gate / Bad Gate Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Token Effort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/EF5D8156082CEC251041E2E00A0297EDEEE13C4F.PNG</Image>
+      <Description>Complete the Token Effort Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Skating With Snowmen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/5810EDBA8C1B99905B11AA5AC70EAED0D44B4FF1.PNG</Image>
+      <Description>Complete the Skating With Snowmen Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Save The Snowmen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/4EE1F976A6B99EBE61C7C467CB69CDB7482DF473.PNG</Image>
+      <Description>Complete the Save The Snowmen Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Saved By The Snowmen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/92FF3AE44D9924615296CDAFDFD84E725F2F70BF.PNG</Image>
+      <Description>Complete the Saved By The Snowmen Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Speed Bands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/E1E6426F3E5F3C1E9AC385B48B42B7A9A6698147.PNG</Image>
+      <Description>Complete the Speed Bands Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Air Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/FD3545C4740E7050DB64F59354FBFE462748296A.PNG</Image>
+      <Description>Complete the Air Play Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Style Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/271C9401427249D4854DC9B41E5D059C505AEA3E.PNG</Image>
+      <Description>Complete the Style Run Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/0D8F3D90D27E1AE5C62AF05A7F7BC9516B088651.PNG</Image>
+      <Description>Complete the Speed Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Winners Use Tokens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/21E4C2DCCB5D577D3AF8DC3BBB820BDF874B7BBB.PNG</Image>
+      <Description>Complete the Winners Use Tokens Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Target Practice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/DFEBC41234DB4F2D9CEB297A486FABFEAACEAFBE.PNG</Image>
+      <Description>Complete the Target Practice Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Do Not Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/A157DA3F38438830CA952D54E773C6A94FA026FE.PNG</Image>
+      <Description>Complete the Do Not Touch Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00560_00</GameId>
+      <Title>Reverse Engineering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00560_00_00533ADBFFB7214C2A83BE0A71899E72D4B928E586/4D29CEF64417BC6A23757A9CD7E55A8FD660DAC6.PNG</Image>
+      <Description>Complete the Reverse Engineering Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
