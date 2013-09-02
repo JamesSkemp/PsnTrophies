@@ -1,0 +1,545 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00468_00</Id>
+    <IdEurope></IdEurope>
+    <Title>F.E.A.R. 2: Project Origin</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/530D88F3B94DCE1300DB2DB0FE1A472E3D49D8FD.PNG</Image>
+    <TrophiesCount Total="59" Bronze="49" Silver="7" Gold="2" Platinum="1" />
+    <TotalPoints>1125</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Master Blaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/55A30D4088684A7E2353012DA9C4E5664DA320E6.PNG</Image>
+      <Description>You've earned all the F.E.A.R. 2: Project Origin Trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Paparazzi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/307B1687B71F7057A6B1FF7524E812433F6A57EE.PNG</Image>
+      <Description>Collect 25% of the journal intelligence found throughout the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Historian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/8AE860E6205C23E6CA5287CE138A1D3033F49873.PNG</Image>
+      <Description>Collect 50% of the journal intelligence found throughout the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Stalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/7105F1A2CD0074D34390480642391146F077B21E.PNG</Image>
+      <Description>Collect 75% of the journal intelligence found throughout the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Oracle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/D1DF35D190D7BD7E4DDB778CAD04300F99440826.PNG</Image>
+      <Description>Collect 100% of the journal intelligence found throughout the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>All Juiced Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/48AF06DC26229265CFD225F95C00966A12FCA2C0.PNG</Image>
+      <Description>Collect all Reflex Injectors in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Sanctuary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/4B2D90C03CCBE5653B61812891A7126C4BFE9B17.PNG</Image>
+      <Description>Complete Mission on any difficulty: Sanctuary</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Awakening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/0F1690515BD069A52DDC3339014CB499D053A67A.PNG</Image>
+      <Description>Complete Mission on any difficulty: Awakening</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Discovery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/180C8AEBC65AAC9C76BE883BBF3CEB0D951A8847.PNG</Image>
+      <Description>Complete Mission on any difficulty: Discovery</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Withdrawal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/13103490FB13C549AF884BA1AA6D153F606D9400.PNG</Image>
+      <Description>Complete Mission on any difficulty: Withdrawal</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Replica</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/7ECF6BFF9083973F002CED0EA348AFC370B850BF.PNG</Image>
+      <Description>Complete Mission on any difficulty: Replica</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Ruin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/831344585B2A2AA639AC248A1CE9F5ABAA88A186.PNG</Image>
+      <Description>Complete Mission on any difficulty: Ruin</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/F9D75746C842FAE6A92C5BCAC01F6B154B28D2E9.PNG</Image>
+      <Description>Complete Mission on any difficulty: Top</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Elementary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/B453AFBBB45FAA053FA3BB3F492DF219E7EBB1AE.PNG</Image>
+      <Description>Complete Mission on any difficulty: Elementary</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Nurse's Office</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/CD5B0ECDD1BF8FDF2E836F67DC88F777EDAB1126.PNG</Image>
+      <Description>Complete Mission on any difficulty: Nurse's Office</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Snake Fist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/EB6BC77E3E14DDB21F08A85C7D7B24D7734BE5D3.PNG</Image>
+      <Description>Complete Mission on any difficulty: Snake Fist</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Keegan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/F3253E9900C1CD5BBCFC59191DDA864DDA0228B5.PNG</Image>
+      <Description>Complete Mission on any difficulty: Keegan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Epicenter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/399A2FB4C35DD3FC20538B231CC40EE9DB18CE58.PNG</Image>
+      <Description>Complete Mission on any difficulty: Epicenter</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Approach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/01F93CE0E6FEBDB3F16253623562DC5BDBDA224A.PNG</Image>
+      <Description>Complete Mission on any difficulty: Approach</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Complete: Climax</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/60BE932A84B0034CAEB00E942C78E4151674BA3F.PNG</Image>
+      <Description>Complete Mission on any difficulty: Climax</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/21109B020E69DC8D467775AA323AFFECEA66EF42.PNG</Image>
+      <Description>Complete all Missions on the hardest difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Demolitions Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/02E473999F725DD1F75F748F51569AA3A979D76E.PNG</Image>
+      <Description>Set the C4 charge 3 times in a ranked FailSafe match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Dastardly Disarmer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/F1915C0E85B46C262D2220DAA104938ECEB43C87.PNG</Image>
+      <Description>Disarm a C4 charge 3 times in a ranked FailSafe match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Bad Robot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/D326F3B7984DE8468EBD3827A9AD64E733C5CBE6.PNG</Image>
+      <Description>Destroy 2 enemy Powered Armor units in the same ranked round with a carried weapon.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Flash Dance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/E6BD25AD745C3D7FB8A06D4F98A048B52C21F1DC.PNG</Image>
+      <Description>Kill 3 players while blinded from a shock grenade during any ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Control Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/4F43C7FA52F26468D3AF55A50B852E073F6FFB7A.PNG</Image>
+      <Description>Defend a control point 10 times during a ranked Control match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Gotta Cap 'Em All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/896A82CBC1C95A11AEB56DF4614A5030FADCE58E.PNG</Image>
+      <Description>Capture a control point 10 times during a ranked Control match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>The Mad Capper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/FE8011286FA61B70A3D9E773CC5467CB01ECF6D8.PNG</Image>
+      <Description>Capture a PHLAG 10 times during a ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>MVP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/0F1D0A24FE98BE1B8ECF761714DE350D2BBBB111.PNG</Image>
+      <Description>In a ranked Blitz match that your team wins, be the only player on your team to capture a PHLAG.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/1985CF5FEA1D87AAD0EDF54E14D30E1D8FAEDD74.PNG</Image>
+      <Description>Survive an entire ranked deathmatch match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Monogamous Fragger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/D5C924F22CE2BCD0F45D4D05A94020484C035BF1.PNG</Image>
+      <Description>Kill the same player 5 times during any ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>I'll Take Those Odds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/3D703DF5B8B5976E23DF7D09C01D485285B08A70.PNG</Image>
+      <Description>Have more kills than deaths at the end of any ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Bloodbath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/E8C42B8DF6CD82FC6418F23F64B58F00F339B54C.PNG</Image>
+      <Description>Get 20 kills during a ranked match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Enlisted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/82E23232E693B4A5014BAA8644634436B49D8559.PNG</Image>
+      <Description>Promoted to rank: Private</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Officer and Gentleman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/FDA193FEC811A8B0F8FD34E0B4D580C4DDBF77C7.PNG</Image>
+      <Description>Promoted to rank: Second Lieutenant</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Four Star General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/F5FB1DF8FE26CCBE6DEB4E9D7204EA8ADB81D9D1.PNG</Image>
+      <Description>Promoted to rank: Four Star General</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Five Star General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/2E9DF4BE3A66B2FEA57CA2BDDBB7E8360E57780A.PNG</Image>
+      <Description>All multiplayer trophies unlocked.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Time well spent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/BEC96DD2CEC1643E31B930147D099218A5C927A7.PNG</Image>
+      <Description>Play 8 hours worth of ranked multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Finishing First</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/6FB57F4E74919EB6EC1683D5389C490CA9EE2A9C.PNG</Image>
+      <Description>Be the highest scoring player for 3 consecutive ranked matches in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Suicidal Tendencies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/119979D1AA3B8C994B1A49F298422D7981B28F78.PNG</Image>
+      <Description>Kill yourself 5 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Bank Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/38B69DA1333922767F8E3E5D02C93517AE887123.PNG</Image>
+      <Description>Kill 10 enemies using combat opportunities.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Home Wrecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/D3622A4D31C9277D3D7A26B35C0B5AE0B1F3C008.PNG</Image>
+      <Description>Use 50 pieces of interactable cover.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Kiss the Cook</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/E67AE4AE92DFE1DCAFAE38348B178FDDF1D90AE6.PNG</Image>
+      <Description>Roast 10 enemies with the Napalm Cannon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Raining Men</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/C60DAAC59BF122D4B1F0DCE7C1F925BCBAC1BFFE.PNG</Image>
+      <Description>Kill 4 enemies with one Grenade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Blinding Truth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/AD7D0D8B32603609FB540B2F2B12644328703748.PNG</Image>
+      <Description>Slice up 10 enemies with the Laser.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Snake Fist!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/2063C29F4262EC5CAEBADAFA0813C20EBB2AE691.PNG</Image>
+      <Description>Kill 10 enemies with Melee</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Stick Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/E0C590D3144DAA8101F1501DA2A34D3130FE1216.PNG</Image>
+      <Description>Pin 10 enemies to the wall with the Hammerhead.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Deadly Ballet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/BF58787CD552ACA86C71FEFAFE451E17F140F109.PNG</Image>
+      <Description>Kill 4 enemies with one Slow-mo use.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Dead Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/722FA9F2BDEA0E36B32448996EE0476D694BAE1B.PNG</Image>
+      <Description>Headshot 10 enemies with the Sniper Rifle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>City Planner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/D5720218709168FE0EE15068C03FE4EF49802FDE.PNG</Image>
+      <Description>Destroy 100 combat ops while piloting a Powered Armor unit during ranked play.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Cut Me Some Flak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/5B225C7B05AB238EC064101360007509387FAA7D.PNG</Image>
+      <Description>Mission 1: Foxtrot 813: Destroy all of the helicopters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Foot Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/57C1AFB018462131D1B46171777D15CB7029FFBB.PNG</Image>
+      <Description>Mission 1: Foxtrot 813: Complete the level on foot without an EPA.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>A-maze-ing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/3A6ABEA71592F6D106FB8FF06D62FF947608E8CA.PNG</Image>
+      <Description>Mission 2: Contact: Escape the Replica Forces without killing any Heavy Armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Batten Down the Hatches</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/7B98A86837A03C4E0425422B7FF71D437C2122FA.PNG</Image>
+      <Description>Mission 3: Influence: Close all of the sewer hatches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Collateral Damage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/C4CB908D2C0426FE0744CC054D8FDE41D3BAA75E.PNG</Image>
+      <Description>Mission 3: Influence: Kill an enemy with an exploding vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Tour de Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/05728DD8FC22B1D13D28B6127DB31EEB6D266D05.PNG</Image>
+      <Description>Mission 4: Rebirth: Destroy a Powered Armor unit in under thirty seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Dead Weight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/2C1B04A3FB55DDF4A238F1B0B87769987772D488.PNG</Image>
+      <Description>Mission 4: Rebirth: Kill all fast-ropers before they hit the ground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Miniature Replica Soldier!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/FF04E9D520711DC5BC74DDF59F423228C4EF7CAA.PNG</Image>
+      <Description>Crank up the 'Miniature Replica Soldier' theme song. </Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00468_00</GameId>
+      <Title>Find Paxton Fettel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00468_00_00A9BD9BFED5AEFCA7977B9D8CC016E2449DE419C5/BDF7272ADDD29BEC265C5C8592027228E4C34399.PNG</Image>
+      <Description>Complete the ‘Reborn’ campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04182_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Star Wars Pinball</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/051FFC7C5DA567D496A5F396E2BF4E3345F2A48A.PNG</Image>
+    <TrophiesCount Total="19" Bronze="14" Silver="3" Gold="2" Platinum="0" />
+    <TotalPoints>480</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Galactic explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/A5FAEE7A260D0FE8DCEC094C5007340696FFFA75.PNG</Image>
+      <Description>Discover your collection, and play on at least 3 different tables!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>The Force is strong with this one</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/372DCF809B58FDB86EA885F652D591EC84D90799.PNG</Image>
+      <Description>Advance a rank and become a Jedi Padawan on the Light side or Sith Adept on the Dark side.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Fruitful alliance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/91666F35C918C30EF5250E5C7888D2299C839E63.PNG</Image>
+      <Description>Get your friends together and earn 10000 Team Score!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>May the Force be with you</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/1B5C71081C82C76243C08D690B0D497FA55C00E6.PNG</Image>
+      <Description>Rise to prominence by becoming a Jedi Master on the Light side or Sith Master on the Dark side.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Master of the Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/4C4D0CD35FE52758A2A2C0E702BB87A9F77E93AA.PNG</Image>
+      <Description>Have the highest Force Score among your friends and become the Master of the Force!</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Great Disturbance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/DD144F440B67B000B7CB351FE9EEF8FAA7855CB4.PNG</Image>
+      <Description>Keep playing hard, and earn a score of at least 150 million on any table!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Tremor in the Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/B6F75684CEFD98A2C61404DA5164248894961C1F.PNG</Image>
+      <Description>Feel the Force and show off your pinball skills by earning 2000 Force Score!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Young Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/064088D795D66B5D3EFB8CC6533BCD9CAE913AD1.PNG</Image>
+      <Description>Rise to the challenge and beat the score of a friend ahead of you on any table!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Your powers are weak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/39F4189C4DB40BF13BC7E1266647EE34919E20FC.PNG</Image>
+      <Description>Dominate your friends and beat ten of them on any table.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Unstoppable menace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/6D1ED5E0B0D0781C8A45CB285C947E9E68B61EE1.PNG</Image>
+      <Description>Win an Online Multiplayer race against 3 other players.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>It all ran better under Vader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/C5E768C56C60D74CA1080490AF19B135D7FEC89B.PNG</Image>
+      <Description>Complete all of the Empire's special assignments on the Boba Fett table!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>In the service of the Hutts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/232D5895EB409AFC7B7991F47F6E55D36DD2E22C.PNG</Image>
+      <Description>Complete all of the Hutt Cartel's special assignments on the Boba Fett table!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Triumph of the Mandalorian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/7875EF265BF2F145BA106E4936757FE89DD47309.PNG</Image>
+      <Description>Earn maximum respect, and escape from the Sarlacc on the Boba Fett table!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Go for the legs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/D9F5B4FEE09CC94CEC77556853F105622AE67466.PNG</Image>
+      <Description>Win a fight against an AT-AT walker on the Star Wars Episode V table.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>You seek Yoda</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/EDFACC6C682C1AFBC50D193B771EBB064C0BABFA.PNG</Image>
+      <Description>Get an award from master Yoda on the Star Wars Episode V table.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Bring balance to the Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/BCC217D9439C6FFAFCAD87B2CE40BFCD4428FF60.PNG</Image>
+      <Description>Start Jedi and Sith multiballs at the same time and score a Balance Jackpot on Star Wars Episode V table.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Point Rain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/AC45C10470945763FB74954A6859CE84B0932CE9.PNG</Image>
+      <Description>Transport at least 3 clone troopers to Point Rain on Geonosis on the Clone Wars table.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>The General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/31C0DBB41A7521EF3955F175E496BA1862AED443.PNG</Image>
+      <Description>Earn the highest rank by completing the clone training several times on the Clone Wars table.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04182_00</GameId>
+      <Title>Purge the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04182_00_00E31B565DC0939E358BF75E7DCDA7D3C1AE5D67FD/271C2A38B676355E5BDA63E46F6DA75ECDFC6851.PNG</Image>
+      <Description>Purge the galaxy by defeating both Sith Lords on the Clone Wars table!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

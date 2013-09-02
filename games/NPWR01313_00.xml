@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01313_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Shank</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/38B68B361ACE9F316931DC663D8610F0688F9799.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>And it continues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/6606C152D93C3132A22D7A0625662BB5A11571CC.PNG</Image>
+      <Description>Complete Single Player Campaign on Normal Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>I'm just that good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/566642EFCF8DDCB375A6F036AA24397874F4C7AC.PNG</Image>
+      <Description>Complete Single Player Campaign on Hard Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Backstory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/262F3B2696403C6D68FB388217A5B1E2F0BB21E0.PNG</Image>
+      <Description>Complete Co-op Campaign Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>The Wrong Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/B6004F8F45E40E0F1A53F4794C958F21A351A64B.PNG</Image>
+      <Description>Defeat El Raton</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>The Meating</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/6BAC90184244874D6D1FC20A461DF86AF8BDAFA7.PNG</Image>
+      <Description>Defeat The Butcher</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Scars from the past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/0E03FD172AB9BB274C2C04CFDB4162B1417AED74.PNG</Image>
+      <Description>Defeat Cassandra</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Father forgive me...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/4FBE3B32EF34EFF992F38684CC88E21DD08FC8D5.PNG</Image>
+      <Description>Defeat The Priest</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Revenge is Sweet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/556E4612F275A535D990E7EC63E061E248CD9A0D.PNG</Image>
+      <Description>Defeat Cesar</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Just getting started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/5CC71AA841107538B5A61A487A74EC22DC278F80.PNG</Image>
+      <Description>Take out 20 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Making a name for yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/F553F9C2F578DB87EE7756E7200FEDE9CA0DFAC2.PNG</Image>
+      <Description>Take out 100 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Mow 'em Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/2D69DFBA3462BEF5093949480C3AF83677EE5680.PNG</Image>
+      <Description>Take out 1000 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01313_00</GameId>
+      <Title>Grindhouse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01313_00_0060952E92C197BD064C164C805DB3F8000B30953A/01F3863BAE973B621EB78CD1A4B20410EC2B5BC3.PNG</Image>
+      <Description>100 Chainsaw kills</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

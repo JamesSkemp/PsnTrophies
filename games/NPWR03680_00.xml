@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03680_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Hitman: Blood Money</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/30F261B89871CA0E53504B850C2B89CD94533981.PNG</Image>
+    <TrophiesCount Total="25" Bronze="15" Silver="0" Gold="9" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Perfect Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/70962F0F626FC9D253D2A35F450C941F7E287247.PNG</Image>
+      <Description>Unlock all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>1st mission complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/5C70EC06009320B627C4E32BC97FC310976F8294.PNG</Image>
+      <Description>Death of a Show man completed on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Rookie mode complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/AE81B36014D520C198F6BA677C9DBCD4C9FD172A.PNG</Image>
+      <Description>Completed Rookie difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Normal mode complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/26ABCA9CDDE62B9143082B4A4C83386F8BCE6C2D.PNG</Image>
+      <Description>Completed Normal difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Expert mode complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/783B6B514CF554D3E7473AFE815F81E2CCDDD182.PNG</Image>
+      <Description>Completed Expert difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Professional mode complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/A90E0D701CF7D1138DDC0ECA207F676057230B07.PNG</Image>
+      <Description>Completed Professional difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Redemption</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/45AD720B05EFAE3A8B9418600A6EFDEF3AB9A33E.PNG</Image>
+      <Description>You can't keep a good man down.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Accidents do happen...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/373F855D000BC3363844BEDF049F346CE3648F4A.PNG</Image>
+      <Description>A successful accident kill has been performed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>47 kills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/4BE5762B15A7D87F625C7BB914B22792E7833F21.PNG</Image>
+      <Description>A mission has been completed with precisely 47 kills.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>5 Normal Silent Assassins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/999F427FDC373FE446D8D31DE62F4FF8EFA5FA83.PNG</Image>
+      <Description>5 Silent Assassin ratings awarded on the Normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>5 Expert Silent Assassins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/108E96A1248821224213D847FB57AF89EFB84070.PNG</Image>
+      <Description>5 Silent Assassin ratings awarded on the Expert difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>5 Professional Silent Assassins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/1967BD956492F088C3284F8C0E1FE519CC5226BE.PNG</Image>
+      <Description>5 Silent Assassin ratings awarded on the Professional difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Silent Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/5FC4647032CDEF1A9CD0FB0B5E35B73BF6594712.PNG</Image>
+      <Description>A Silent Assassin rating has been awarded.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Notorious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/D2331E91E2C8910268DBF8F6B3DF3F069828756B.PNG</Image>
+      <Description>47 is the world's most wanted.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>All firearms collected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/0FBD633675548517861BF5C356A307871E4EC7D4.PNG</Image>
+      <Description>All firearms collected and displayed in Hideout.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Fully customised Silverballers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/05CDFD5C878FA1E700873339D7AD0B3029FAA4AD.PNG</Image>
+      <Description>All custom Silverballer components purchased.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Fully Customised SMG Tactical</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/9B09BF7A0C02CDD0FF6C14879C9B313EE709793C.PNG</Image>
+      <Description>All custom SMG Tactical components purchased.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Fully Customised SP12 Shotgun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/38FF9F7C04591140DBD4DC2BA2CD2CA44770877F.PNG</Image>
+      <Description>All custom Shotgun components purchased.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Fully Customised M4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/3B7AC15A87DDFA30D63F679F330A62533CB4FEEC.PNG</Image>
+      <Description>All custom M4 components purchased.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Fully Customised W2000 Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/0785FFF744EE7C1E0FE42445561BBD782442C13C.PNG</Image>
+      <Description>All custom W2000 components purchased.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Special Rating</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/C633BB687D0513D72EB245A3269256F289AF1E16.PNG</Image>
+      <Description>A Special Rating has been awarded.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Tier 2 Kruger Schmidt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/8C86430A19AB6D2410F9F282D5F14160A650782A.PNG</Image>
+      <Description>Tier 2 of the Kruger Schmidt upgrade shop unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Tier 3 Kruger Schmidt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/300E2B62300E998D23D11987496519ED7ECAEF90.PNG</Image>
+      <Description>Tier 3 of the Kruger Schmidt upgrade shop unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>Tier 4 Kruger Schmidt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/58A6D00FE642E09F900306A254AB0271021B8E7E.PNG</Image>
+      <Description>Tier 4 of the Kruger Schmidt upgrade shop unlocked.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03680_00</GameId>
+      <Title>High Roller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03680_00_008C27A0F00331C42F5823DD861CA81C244B91058E/C1DC4B87D05AEE016A80A59C27EF41380EAC0261.PNG</Image>
+      <Description>$5,000,000 have been accumulated.</Description>
+      <Type>GOLD</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

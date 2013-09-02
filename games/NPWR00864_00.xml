@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00864_00</Id>
+    <IdEurope></IdEurope>
+    <Title>HyperballoidHD Trophy Pack</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/F999E72AFF7FF7E6B93BED1B0D22C6D5AF6AFF44.PNG</Image>
+    <TrophiesCount Total="11" Bronze="5" Silver="5" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/3ACE157859E2FF5D95D71C2C68054E3E2AE2F48E.PNG</Image>
+      <Description>Collect all nine original trophies.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Ancient Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/F4758B136EBD76D057ABB3E6B65B89242E87E412.PNG</Image>
+      <Description>Complete Ancient World Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Planets Ruler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/6A09765ED368FB1EEC8885C46459E7027C5D35DB.PNG</Image>
+      <Description>Complete Planets World Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Crystal Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/66508B7BDC61E10B5032547F2705CFAEB1A0A19B.PNG</Image>
+      <Description>Collect 200 Gems.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Lust for Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/D1F15FA01175F42B9AF9264BA0899176AD3F4077.PNG</Image>
+      <Description>Earn three or more lives at one level.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Ball Frenzy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/2D30F1E2535251920921EC7239F13A377B824D6F.PNG</Image>
+      <Description>Get nine balls at the same time on the screen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Blind Balls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/647095E26F3884B1443BA4DA7353C976552312C8.PNG</Image>
+      <Description>30 shots in a row without hitting a brick.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>The Wall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/1D0B29D2192D34B2AE02A1F305ED772B1A8998AD.PNG</Image>
+      <Description>50,000  reflected balls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Cannon Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/8736B8F8F4CC692E0852FAB20057B55E840047E7.PNG</Image>
+      <Description>Twenty cannon shots hit the target.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>The Jongleur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/05EF913A32751BC5374835FFC7EA4F33F2EBF00E.PNG</Image>
+      <Description>Control three or more balls for at least one minute without letting them fall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00864_00</GameId>
+      <Title>Original World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00864_00_00F13E0955487CE0A29332A998A6840515F2D05CBB/A566D9E8C67FF443AB1AFA6515E1E7A3B3C23F83.PNG</Image>
+      <Description>Complete Original World campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

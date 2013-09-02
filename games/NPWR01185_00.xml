@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01185_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The Price Is Right</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/EC8AD9AE556DFDF7B56A254F2A7121AF2200B94C.PNG</Image>
+    <TrophiesCount Total="14" Bronze="7" Silver="7" Gold="0" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>First win!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/8BAC5F43FB40FC582CD6A499E8F2C1381C092219.PNG</Image>
+      <Description>Win a pricing game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Party animal!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/8C1D360B18D1FBD2F29EC5C3A71A51115BBA4D41.PNG</Image>
+      <Description>Play a Party game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Showcase must go on!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/48AAA23B85496E7FC20989B7D16FF623B339BFEF.PNG</Image>
+      <Description>Win a Showcase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Safe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/6AA649232BA4FA587E48E05882E23922EEC1992C.PNG</Image>
+      <Description>End a show with no strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Double Showcase!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/5229AC76B838309EDE9D734FFDC6FB96E045CE76.PNG</Image>
+      <Description>Win a double Showcase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Money Maker!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/579A8110EBEAB54CF30D7F70F896D8D7B7D1F8C0.PNG</Image>
+      <Description>$50,000 total winnings in one show.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Suit up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/89C39F24210E374345F4915923976CBD0447CE85.PNG</Image>
+      <Description>Create a complete custom character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Second round!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/5CA499231EFDCAC4026ED57A3B11D15F11AFE1BB.PNG</Image>
+      <Description>Complete 2 shows in a row.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Big spin!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/89E362618E3CF8C64F7769BF66454CF4050DC3C7.PNG</Image>
+      <Description>Score $1 in one spin at the Showcase Showdown.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Legendary!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/99AC627287691D5896AC0B5938C41DD3BF2C9A2C.PNG</Image>
+      <Description>Get a price exactly right.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Bid sniper!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/823EFB0565B2940DBBED6A001CE3217DE1F75419.PNG</Image>
+      <Description>Win 20 games of Contestants’ row.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>On the ball!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/0423702C138F2F1AF199AAD194B083092D860BE4.PNG</Image>
+      <Description>Put the ball in the hole from the furthest position.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>In the plink!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/E8EAD8C86C3D2816B4CDC3B41B94DF2D2D13CFC9.PNG</Image>
+      <Description>Drop the chip and land on the $10,000 slot.</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01185_00</GameId>
+      <Title>Price Master!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01185_00_B9173D26F65A714352D8294935040E1B1B1CC003/42006FBBA4C6642ED444175378E6A6EBCFF2DEE9.PNG</Image>
+      <Description>$200,000 total winnings.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

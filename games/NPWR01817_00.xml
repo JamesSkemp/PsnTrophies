@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01817_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The Darkness II</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/8D8FD886514EAB3F417EFF1664D11E5F67F4F675.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Conquered the Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/899B23F0F305BC65969A036511E1CAAC57D50C2D.PNG</Image>
+      <Description>Unlock all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Cheque Please!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/96D57ECD362DF6B6C6FB2124328D4889B925D343.PNG</Image>
+      <Description>Survive the hit</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>I'm Just Getting Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/EB4252640255703EA3A83E16A49727632BAA3208.PNG</Image>
+      <Description>Find and interrogate Swifty</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Escape the Brotherhood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/E8BD4EE750141238CCD95532489A4EFD5827BB49.PNG</Image>
+      <Description>Survive the interrogation</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Storm the Mansion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/8C9194B60C119FA9C6943D3DF08FF2E4C5E50A15.PNG</Image>
+      <Description>Take back your mansion</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>One Flew Over...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/343D8A9B38C655FCD09EB48FD264EE4411A9676D.PNG</Image>
+      <Description>Return to reality...?</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Sweet Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/7D3D6DF2599FF900EC268FF0443A5F64BF13B0C9.PNG</Image>
+      <Description>Avenge your Aunt Sarah</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Date Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/65338EAF58E4F6EF777EBF921B1FC1342033D98F.PNG</Image>
+      <Description>Protect Jenny</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Allies in Strange Places</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/C0C9AC2B7C4B64D14EF637A4429420F7CF257C87.PNG</Image>
+      <Description>Escape the asylum with help from the inside</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Back in the Saddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/79EB812BF1B6C98B965179FE4F0C34D9547CEDD0.PNG</Image>
+      <Description>Rescue Jackie from the Iron Maiden</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Step into Hell...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/40A4173EF9DCA7CE0206DD0E5C549C77ADA5C72B.PNG</Image>
+      <Description>Defeat Victor</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Free the Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/A848E1006C12E2D25AFC9BC6FF380C3B202ABEC5.PNG</Image>
+      <Description>Finish the game on any difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Don of Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/28F27946CE8FA2763AD09A2D6B22ABD0E752F26D.PNG</Image>
+      <Description>Finish the game on Don difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>At Home in the Dark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/6E2A87808258CB56B09B229CBF80E492270AB072.PNG</Image>
+      <Description>Finish all chapters in New Game+ on any difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>One Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/36BADCACFD146D1644B9FED3305AF463885AA1E7.PNG</Image>
+      <Description>Kill 25 enemies while being dragged from the restaurant, without dying or restarting checkpoint</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Decisions, Decisions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/18EB7D5470982078ABE1A5895A6E52AE49462361.PNG</Image>
+      <Description>Refuse to cooperate with Victor in the Interrogation</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>The Bird is the Word</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/14A37590BB04BFE72F7824BE8E93B4B65D983D37.PNG</Image>
+      <Description>Avoid being run over in the parking garage</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Carnie Kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/5CAE572F825BE223D3304F9E915DD85C5CF629CD.PNG</Image>
+      <Description>Earn a score of over 1000 in each of the carnival games</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Impish Delight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/99C2734CC62A6287F092186CCB634517B17271AC.PNG</Image>
+      <Description>Kill 15 enemies while playing as the Darkling</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/7B1BB42B4200DA6AF8A4CA1CAA674EC7E2FDDC51.PNG</Image>
+      <Description>Kill 50 enemies with Executions while playing as Jackie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>The Swarm King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/F00AE049FECD1129ECDA47C3CB01679B34A62A28.PNG</Image>
+      <Description>Kill 50 enemies who are swarmed while playing as Jackie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>The Old Gibber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/0D067EB563E6D3E41FA09D5813D98273D307BA8D.PNG</Image>
+      <Description>Kill 100 enemies with Gun Channeling while playing as Jackie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Suck it Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/0AFE348E86E2D2530EF6C7FBC46D80A4EE44E627.PNG</Image>
+      <Description>Kill 50 enemies with Black Hole while playing as Jackie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Cut and Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/D7E185AFF81A962C859810B757F976C7F312E524.PNG</Image>
+      <Description>Kill 50 enemies with the Demon Arm Slash attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Ready for the Big Leagues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/1780B6C7773218F2DD5350A28CF9C997EB7F2589.PNG</Image>
+      <Description>Kill 50 enemies with thrown objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Dark Akimbo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/44004A8F8AE05BE6A114582B849132F05443357F.PNG</Image>
+      <Description>Kill 100 enemies while dual wielding 2 different guns as Jackie</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>That's Why I'm the Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/50878AA4A37C70A52720B8CA1E7072F227913EF0.PNG</Image>
+      <Description>Impress Dolfo in two different ways</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Karma's a Bitch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/17275A75BA725F849DDCC4C9A3B350A9F351520A.PNG</Image>
+      <Description>Kill a shielded enemy with his own shield</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>2 guys 1 Pole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/0B5E60C050273280105C71E382645B255573DFFD.PNG</Image>
+      <Description>Kill 2 enemies with one javelin</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Versatile Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/3FB9D3D5847640F3612FCAB34F17979532842F69.PNG</Image>
+      <Description>Kill enemies in 5 different ways within 30 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Skeet Shoot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/FE40B6168BADAC7B0DD5F207B91B5D0D04F3ABE8.PNG</Image>
+      <Description>Throw an enemy into the air and kill him with gunfire before he lands</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Jackie's Got Talent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/D4966BDD47DD70BD1BD02450210EB1F23F63A346.PNG</Image>
+      <Description>Purchase a Talent in the single player campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>This Kid's Got Potential</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/24697BC2C9C05C051B27EFAEB538E6EA2B00B676.PNG</Image>
+      <Description>Max out 1 of Jackie's Talent Trees</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Truly Talented</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/830C260C31D8A65D4F36A4309DEDDCA53349F63C.PNG</Image>
+      <Description>Max out 3 of Jackie's Talent Trees</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Talent Show</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/F8C2C77105619A2AD02626EB209ED94F2645755E.PNG</Image>
+      <Description>Max out all of Jackie's Talent Trees</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Mmmm Essence!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/F9C3804CB5282C5EF80340F333435C83D8CDC847.PNG</Image>
+      <Description>Pick up 5 Relics in the single player campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Relic Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/48C1AA83CE47DFE4CC49C1116F8190DDFFBBB7E5.PNG</Image>
+      <Description>Find all 29 Relics in the single player campaign</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Romantic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/4DA30F80BE4BDEF675360AD51B5FB5E1CFA2F54E.PNG</Image>
+      <Description>Real guys know how to dance</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Burned His Mansion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/F734CBE310803BF9B5105DB565D6AC777B885FC9.PNG</Image>
+      <Description>Kill Luigi Palladino</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Coward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/8CF95EE10847F003E03C16C173715132254D6412.PNG</Image>
+      <Description>Kill Cedro Valdez</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Whipping Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/98C4DDF9757A4D430442146657C4726001CB8ED2.PNG</Image>
+      <Description>Kill Frank Marshall</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Bonnie &amp; Clyde wannabes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/C50D47CB8175C5B2336C2D339366CD160C50DE31.PNG</Image>
+      <Description>Kill Jean-Luc Lambert and Amelie Dubois</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Technical difficulties</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/CD0872D6024F0EAB46B26AF244A7B60025574420.PNG</Image>
+      <Description>Kill the NewsWatch 6 team of Tom Dawson, Bud Langley and Sara Stephens</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Should Have Called 555-2368...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/33975D1EA8CD9EA915C7DD607DA13224BA931A4D.PNG</Image>
+      <Description>Survive the battle against the Hell Beast</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>The Brotherhood Crumbles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/E1C15896863882BE1845BE3FE88C2BDEE1BC98BD.PNG</Image>
+      <Description>Complete Vendettas Campaign</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Dark Ninjutsu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/0FDD823ED82260BEFB60188CFE7476DE9593AFA1.PNG</Image>
+      <Description>Complete a mission as Inugami</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Hell Hath No Fury...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/4EB41BCF7D2094270438D5E00573BFEBD95463DF.PNG</Image>
+      <Description>Complete a mission as Shoshanna</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>It's 12pm Somewhere!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/70405AEC45FC94B64944274E496A28A78EA02D9D.PNG</Image>
+      <Description>Complete a mission as Jimmy</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Voodoo is More Than Dolls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/089EA481CC347960CB99C2E948F1A62BA63405C4.PNG</Image>
+      <Description>Complete a mission as JP</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>Embraced the Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/90B9782891CADEB339E87EFB2542EA109CF53EF9.PNG</Image>
+      <Description>In Vendettas, acquire all the talents for one character</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01817_00</GameId>
+      <Title>You've Made My Hit List</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01817_00_5E7E001189B9EA328B59DD2FE6D62946975AEEE1/31678057C1A56202BDDEB986E5E55411530712F2.PNG</Image>
+      <Description>Complete 6 Hit List exclusive missions</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

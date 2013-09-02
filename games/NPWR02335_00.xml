@@ -1,0 +1,330 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02335_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Ratchet &amp; Clank</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/A960EB592F1221432B5C81D1DE5D45E3D9D4289D.PNG</Image>
+    <TrophiesCount Total="35" Bronze="19" Silver="10" Gold="5" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Gadget Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D5FF02D3367B1B3F19AB92AFA4D5696E3EC2ADF7.PNG</Image>
+      <Description>Obtain All Ratchet &amp; Clank Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Bolt Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/792D7E0741D54C0393E8E933E2B9BA95D5D3D4E0.PNG</Image>
+      <Description>Gather All 40 Golden Bolts throughout the game</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Skillful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/C4793CFC84F3C65164E4776D76F24A4592265671.PNG</Image>
+      <Description>Master all 30 skill points</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Ratchet, King Midas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/7E5D3BD7C552A552AF2C065F7A499D93E8427BEC.PNG</Image>
+      <Description>Obtain all ten gold weapons</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Drek This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/692DE7C97F3DBD2EF85C7554AA6A292C8738B930.PNG</Image>
+      <Description>Defeat Chairman Drek</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Speedy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D094754124E7C9421CEA576D41E70F4DD8CD2947.PNG</Image>
+      <Description>Beat the hoverboard challenge in less than 1:35 on Rilgar</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Ultimate Animal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D531E6A70FF6A977B84024372CF9EF4CAB23C08B.PNG</Image>
+      <Description>Obtain the R.Y.N.O.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Twisted Hoverboard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/A4BE31BAA32CD499368196215B3244C133E61862.PNG</Image>
+      <Description>Do a "Twisty" McMarx" in the hoverboard race</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Unlock Sketchbook</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/468541649254AC765C2DC3F5DB7A68EF46D0CB2F.PNG</Image>
+      <Description>Attain 15 Skill Points to Unlock Sketchbook in Menu</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Vandal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/82B0C239DE57DA0AE0479E5F681B2EBB184F96E5.PNG</Image>
+      <Description>Destroy all streetlights in Oltanis</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Girl Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/CA752AF77C5BF05BFAF895DF955AB719731A8D18.PNG</Image>
+      <Description>Defeat Blarg Station Alien Queen using only the wrench!</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Gadgeteer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/A3D4C8A3E392E33CC81CE68AF0EF41E376E998ED.PNG</Image>
+      <Description>Obtain all regular weapon gadgets</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Nano This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/F223F184E13BB5324B664549DAF1DCDF0D4E7589.PNG</Image>
+      <Description>Upgrade to Ultra Nanotech</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Bolt Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D75106C8AC04265C91C254AE5F0A26145E4F5FEA.PNG</Image>
+      <Description>Collect 1,000,000 Bolts</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>All Qwark'd Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D4106127E2715979BCBDDFD1F4B6457BE572A23F.PNG</Image>
+      <Description>Defeat Captain Qwark's Ship</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Eat Lead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D0035C7A2B2634E165A1A2C21533C172DF2C902E.PNG</Image>
+      <Description>Use a Sand Mouse to destroy all the tanks on Batalia</Description>
+      <Type>SILVER</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Hey, Over Here!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/6714C31F9AFA271556263F5739B424DD540D243E.PNG</Image>
+      <Description>Lure an enemy into a forcefield on Orxon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Strike a Pose!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/BB2EEA0D6565A3C8FE17C584558088D36A8DE9D5.PNG</Image>
+      <Description>Stand between Al's Roboshack Statue's legs on Kerwan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Vehicle Bombardier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/279B11365997142F96AD1FD102C301E5B4D49F4C.PNG</Image>
+      <Description>Blow Up 10 Vehicles on Eudora</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Cluck, Cluck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/1BB86180409908A8792ECFCA6AFE19C020DD1BC3.PNG</Image>
+      <Description>Turn a tank into a chicken on Rilgar</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Qwarktastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/AC557B9BA89338B5854C80F6005230FE496DC3A8.PNG</Image>
+      <Description>Destroy Captain Qwark training robot on Kerwan</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Take Aim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/C0A911728C20BBE59CD60C22C9462CB0BF89FA2C.PNG</Image>
+      <Description>Destroy a fighter or bomber on Novalis</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Transported</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/F3FC1B3E2031A83ECC931D1B3285F761698E44AB.PNG</Image>
+      <Description>Destroyed three flying transports on Aridia</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Destroyed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/C945541B3D3AAD1EEFED59B4DF0D209FD094D422.PNG</Image>
+      <Description>On Gaspar, blow up all Blarg destroyers</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/2E6E57803BC9F902A00D47AE4BA6F6E3A108A67A.PNG</Image>
+      <Description>Shoot a Scream through the sniper hole on Orxon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Lombax Magnetic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/D9E6E3F2A4734359FFFF9499CEA58FA5472098D7.PNG</Image>
+      <Description>Obtain the Magneboots</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Buried Treasure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/CB8A0CBE73041D3F09F945C6CFF158EFD6C9E201.PNG</Image>
+      <Description>Find and destroy all the crates in the ocean on Pokitaru</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Hit Me More!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/2AD626A21C50368773A0EF206B862942CBEB5D12.PNG</Image>
+      <Description>Obtain the Premium Nanotech upgrade</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>These are not the droids you're looking for...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/8B5221CC076E240ED8C63D075B5CF59F760D49DB.PNG</Image>
+      <Description>Obtain the Persuader</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Magician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/16A1FB19BFA52B0F801852870388CBD687C8D1FC.PNG</Image>
+      <Description>Score 4500+ on a hoverboard race on Kalebo III</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Very Sucky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/ED8C66978EF3C0BE23C6648A4CDF8A7A31CCB6DE.PNG</Image>
+      <Description>Obtain the Suck Cannon</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Pest Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/1F72B7399999EC4F94359806646FA614BF6AE919.PNG</Image>
+      <Description>Kill all Anklebiters on Planet Hoven</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Sitting Ducks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/7787996609C8C43592E6DCEA6BCD8E490E4FA503.PNG</Image>
+      <Description>Destroy all cargo ships in the base on Orbital Oltanis</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Careful Cruise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/AF58903670F458F35A3B0C01FBA71867C8B09E02.PNG</Image>
+      <Description>Traverse the water region without losing any health on Veldin's Orbital Station
+</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02335_00</GameId>
+      <Title>Going Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02335_00_FA04B80307CC030BC8B0666D45D31466FAACCC3D/CC01F4C007E765898A3E55F7B0539177331BA3A0.PNG</Image>
+      <Description>Kill 10 elite guards with only the wrench on Veldin</Description>
+      <Type>BRONZE</Type>
+      <Hidden>true</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

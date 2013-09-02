@@ -1,0 +1,284 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00702_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Hasbro Family Game Night</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/BFD437B000A42E7797C9DB9904BC335AF8DD926E.PNG</Image>
+    <TrophiesCount Total="30" Bronze="12" Silver="11" Gold="6" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Games Master </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/94DC8FA5480A20FFC352DC6369F1B91C9D9E3E18.PNG</Image>
+      <Description>Awarded all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Beginners Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/D62786B74BD84B5A4168C4EB666CE3EFB3800D8C.PNG</Image>
+      <Description>Scored a hit on your first turn</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Destroyed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/F1CBBD05E8924E9508ADD45CD64B8F4F68EB2EBF.PNG</Image>
+      <Description>Sunk your opponent's destroyer before any other ship</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Iron Bottom Sound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/287537C851EEA59D0580646BAD1DD65973A76174.PNG</Image>
+      <Description>Sunk all of your opponent's ships in Salvo within 4 turns</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Make Every Shot Count</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/775DBE96B21C5BE085BF52958CA983F5242FA01D.PNG</Image>
+      <Description>Sunk a ship longer than 3 units without missing in Battleship</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Sea Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/2D4A942C68F01370AD6156CFCE61C5E28A0CC882.PNG</Image>
+      <Description>Won 20 games of Battleship</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Boggle Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/4AFF21EE55B6585166E1BC27E3DBB0D13C234C56.PNG</Image>
+      <Description>Won a game of Boggle</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>I Call Fives</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/0BCDE1ED350E63A83C3C7963601B06EF7FCB9BC9.PNG</Image>
+      <Description>Finished a game using only 5-letter words</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Portal Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/6B5CE18FC3FCF60F5EBFD2E907F85C7051004981.PNG</Image>
+      <Description>Won 10 games of Boggle with Portal Cubes turned on</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>The Mighty 8</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/9D634F9A808096759FD5F25042EFDB0925C2A618.PNG</Image>
+      <Description>Spelled an 8-letter word in Boggle</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Mind Boggling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/547BEC8AE768A306F28FC1409D5CA060AB55D945.PNG</Image>
+      <Description>Won 50 multiplayer games of Boggle</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Power Chip Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/37C772D71D66E63FCD6B4042AFF276303DC3B359.PNG</Image>
+      <Description>Won a game of Connect 4 using all of the Power Chip types at least once</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Grid Lock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/E9A84D00477E0C4A974A218BDB613EB64BE52A9D.PNG</Image>
+      <Description>Finished a game with a draw by filling the whole board</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Cleverly Connected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/CC0D6C1B473460C1863C54C7C59D9AC0DD406A97.PNG</Image>
+      <Description>Won a total of 10 games of Connect 4</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/48E57B9B66A7005EC7C3E9287812DA4CD3CBFC29.PNG</Image>
+      <Description>Won 4 single player rounds of Connect 4 in a row!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Connect 4 Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/9887AFCFEF56833CB355F16C1A93956534FF812B.PNG</Image>
+      <Description>Won 50 games of Connect 4</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Sorry! Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/85E1A5C857743CDA4D1664B8AB741202159049BA.PNG</Image>
+      <Description>Won one game of Sorry!</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Rainbow Dancing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/CBAB27A570B744B23ECA259EAAC59281B734DCEF.PNG</Image>
+      <Description>Won a game of Sorry! after moving one pawn from each team back to the start zone</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>All Out Offensive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/BDDFFAD6BF99D6818458C285FE22922758045E8D.PNG</Image>
+      <Description>Moved 2 pawns from every opposing team back to the start in one game</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Friendly Competition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/6C26AC75253134A888D2CCB852F143AF94E0CDAA.PNG</Image>
+      <Description>Won a total of 5 games of Sorry!</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Master of the Cards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/9F7CC37A516740BF0E030384B63D36A6623C7B00.PNG</Image>
+      <Description>Used all the Sorry! Bonus cards in one game</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Fast Sliding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/878F8CBE63EB1B0F9FA0872458BD16B7493A385F.PNG</Image>
+      <Description>Won at Sorry! Sliders in under 5 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Novice Slider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/F9F5650A21EAF9C8CE29076C2086D4BF7D9DC02F.PNG</Image>
+      <Description>Won one game of Sorry! Sliders</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Ice Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/B6D061952A8D9E23AF8D50ECD44AC7B1D9AC4126.PNG</Image>
+      <Description>Used the Ice Pawn 10 times</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Slider Shark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/4E0FC74F286C784B0F8855E7FDC9860E039D4DE0.PNG</Image>
+      <Description>Won 20 games of Sorry! Sliders</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Slide Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/BA5D4DAE6B405F8C684B951E14DA05EDE25D9F74.PNG</Image>
+      <Description>Played Sorry! Sliders for over an hour</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Get Connected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/92B105058EBC1D4AA44D9ABA3EE39DB8ACC2099A.PNG</Image>
+      <Description>Played any game online</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Changing Rooms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/5D4C4B07D0DD082BEF6D25BEF84EF541838854B7.PNG</Image>
+      <Description>Customised the Family Game Room</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Professional Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/9E5D4F2408D18245DB81353B9ABC85E4F3E37D5C.PNG</Image>
+      <Description>Totalled 3 hours of play time</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00702_00</GameId>
+      <Title>Full House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00702_00_00A7A76298ACFE3EBE3EFBA1C352589BA7F7A1F4A7/DBC4312A3E4721CC0B1FA7C679FD01D54C6FB917.PNG</Image>
+      <Description>Won all the trophies for Connect 4, Boggle, Battleship, Sorry! and Sorry! Sliders</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
