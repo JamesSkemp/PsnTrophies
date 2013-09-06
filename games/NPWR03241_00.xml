@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03241_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Travel Bug</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/CD3DEE3732ED10F725C2FD5A8C99B2CA3FAA49A5.PNG</Image>
+    <TrophiesCount Total="8" Bronze="4" Silver="2" Gold="2" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>?</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>1st Miler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/564201FA5720B07D7BAA9E983E1E63D17C09E6F3.PNG</Image>
+      <Description>You helped a Bug travel a mile.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>Customiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/4518932EBDCD1C8C19B1001422B6440A3C28523B.PNG</Image>
+      <Description>You've customised one of your Bugs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>Generous Customiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/3C93C3D0BD61D5FFC0841CA6280C3BC778A01B57.PNG</Image>
+      <Description>You've customised a guest Bug.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>Marathon Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/4D5FD7CD6AB21F5BFB3D54034A2D0DEB7F08FE31.PNG</Image>
+      <Description>One of your Bugs has travelled a total distance of over 26 miles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>1,000 Miler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/E023A1BDC00706AAFF59D3ADB1FDF3470677EEC5.PNG</Image>
+      <Description>You helped Bugs travel a combined distance of 1,000 miles.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>Around the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/9A7A3204E5F1282DF0AA71AD771476E6E48B1918.PNG</Image>
+      <Description>You helped Bugs travel a combined distance greater than the circumference of the world.</Description>
+      <Type>SILVER</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>Well Travelled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/4C6CAFB91877D963634D35C40D2F69DECD3DC678.PNG</Image>
+      <Description>You've unlocked all distance-based trophies.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03241_00</GameId>
+      <Title>World Beater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03241_00_008EEF23DD009E542F6B760A9AB5BC9F178352350C/B05DEB304A5BA42C0F13B0DF4F6F6B971410BC63.PNG</Image>
+      <Description>You've topped a Travel Bug scoreboard.</Description>
+      <Type>GOLD</Type>
+      <Hidden>false</Hidden>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
