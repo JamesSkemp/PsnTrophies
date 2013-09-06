@@ -15,11 +15,13 @@ This data can then be both shared and updated by the community.
 Contributors
 ===
 
-Thanks for Nicolas Ortiz for providing the psnapi.com.ar services for so long, the initial trophy information, and the additional help on pulling data.
+A big thank you to:
 
-Thanks to mbrookes - https://github.com/mbrookes1304 - for supplying additional games.
+- Nicolas Ortiz for providing the psnapi.com.ar services for so long, the initial trophy information, and the additional help on pulling data.
 
-Thanks to 'red' for supplying over 600 games worth of data.
+- mbrookes - https://github.com/mbrookes1304 - for supplying additional games.
+
+- xXREDXIIIXx ('red' in the comments) for supplying game and trophy data for 600+ games and 25,000+ trophies. (xxredxiiixx.com)
 
 How to help
 ====
