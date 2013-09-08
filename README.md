@@ -21,7 +21,7 @@ A big thank you to:
 
 - mbrookes - https://github.com/mbrookes1304 - for supplying additional games.
 
-- xXREDXIIIXx ('red' in the comments) for supplying game and trophy data for 600+ games and 25,000+ trophies. (xxredxiiixx.com)
+- xXREDXIIIXx for supplying game and trophy data for 1,917 games and 62,700+ trophies. (xxredxiiixx.com)
 
 How to help
 ====
