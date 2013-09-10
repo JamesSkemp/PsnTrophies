@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00698_00</Id>
+    <IdEurope/>
+    <Title>Dark Void</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/796D5E70AF5B60FFFD95836819EFC4E29405E593.PNG</Image>
+    <TrophiesCount Total="58" Bronze="43" Silver="12" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Dark Void 100% Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/562FE37AF9BD836A72E9066369F8453B4631EEFD.PNG</Image>
+      <Description>Earn all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Prologue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/5113098CF6AFE8F6BCCC7A4604B5517AE5D241E2.PNG</Image>
+      <Description>Complete Prologue</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Crash Site</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/35E54F5DEB377415FF8DDDF2E13B6F442308E657.PNG</Image>
+      <Description>Complete Crash Site</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Village</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/1F279C48E60FC2FE21FDAA7D77A8E67167E7FCD7.PNG</Image>
+      <Description>Complete The Village</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Spare Parts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/42C62ADB84F10D593E576A766ED9C5F1621C663D.PNG</Image>
+      <Description>Complete Spare Parts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Village Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/F664D9224782FBAB13AE665D31A60C4D323B6C83.PNG</Image>
+      <Description>Complete Village Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Into the Void</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/73DC85ABBF6695037F4D884951E0D1BEBC250367.PNG</Image>
+      <Description>Complete Into the Void</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Prophesied One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/E914F807F7F4D4DE6359B12E6A8D9B2F8027748E.PNG</Image>
+      <Description>Complete Prophesied One</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Survivors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/3EFA16E6AD38A93496D73D4ADDBB0BE1E86889B4.PNG</Image>
+      <Description>Complete The Survivors</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Prison Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/E83DDEEA9B06F01581DE77286C3E2DE6A1222A23.PNG</Image>
+      <Description>Complete Prison Escape</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Breaking Camp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/981AA52C8B2D5FBC5C8484DA180F477C6C941DB8.PNG</Image>
+      <Description>Complete Breaking Camp</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Defending the Ark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/98E2ED90A805264AEF69339FB78CFF37CE41A6DC.PNG</Image>
+      <Description>Complete Defending the Ark</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/CD7139DA33BFC384153205C49704C67277F9396B.PNG</Image>
+      <Description>Complete The Collector</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Revolt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/58C16477C68582A7803F084CD3099195E3D59CE1.PNG</Image>
+      <Description>Complete The Revolt</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Tower of Return</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/4EC3B4B5EC674397E63A346C417F27096A1168AE.PNG</Image>
+      <Description>Complete Tower of Return</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Dark Void</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/3C5400C6BF15593520A930AB8387339CAE6A6E7A.PNG</Image>
+      <Description>Complete Dark Void</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Ultimate Bad Ass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/A6B11CEB45EA94B9F8C74BD3B413DFE758159090.PNG</Image>
+      <Description>Ultimate Bad Ass - Complete Dark Void on Hardcore</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Dear Diary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/16574A113398A1C83A352DF6B3F60C32B51FA950.PNG</Image>
+      <Description>Dear Diary - Found a journal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Bookworm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/12BA9C9DAE8166B16E1C0B66117E752607A13D64.PNG</Image>
+      <Description>Bookworm - Found all journals</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Tesla's Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/311F31DC4A11814A5397A0B0326AEB0FD3CEC57B.PNG</Image>
+      <Description>Tesla's Apprentice - Upgraded first weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Grease Monkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/E5815A1F1E4FAB9E7EF7B48B4D3EB0BB2A8CB873.PNG</Image>
+      <Description>Grease Monkey - Upgraded all weapons</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Pack Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/917CD46003A14B441AE5A83A91BF7FE6C7854628.PNG</Image>
+      <Description>Pack Rat - Acquired 30,000 tech points</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Grand Theft...UFO?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/D243EBF18C91678CE77F77BA7B9F46727B7F3F5F.PNG</Image>
+      <Description>Grand Theft...UFO? - Hijacked 20 UFOs</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Demolition Derby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/46AAC04D7E832A3895B2452DBF151E43883A8971.PNG</Image>
+      <Description>Demolition Derby - Collide with another UFO 10 times</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Blind Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/9090C9A741650BC790C87DC8439092B06E747C72.PNG</Image>
+      <Description>Blind Luck - Kill one of each enemy footsoldier using blind fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Big Bang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/E9FAAD357E96FFFC0778BC29C73450BFDCA6F629.PNG</Image>
+      <Description>The Big Bang - Destroy a Knight using a grenade</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Captain of the Ship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/10158B2D09E6A018AD150E31962941DDEE7EF7A8.PNG</Image>
+      <Description>Captain of the Ship - Destroy 10 enemy aircraft while yours is on fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Forgot My Tow Cable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/1C561499186FFFA9B24FC82C3EE7508FB494B5AE.PNG</Image>
+      <Description>Forgot My Tow Cable - Fly through an Archon's legs</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Fireworks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/08330BCBB0C854701BCCCEC8AF379CFBB88CB743.PNG</Image>
+      <Description>Fireworks - Kill 10 enemies by exploding a piece of dynamite in the air</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Get Your Feet Wet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/DF7332659BB40B0AFAE6F389CCFC0BA2AEC6C1B3.PNG</Image>
+      <Description>Get Your Feet Wet - Buzz the water</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>99 Red Balloons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/F9F6B688CDC5B42679668272CEE2F667461A4512.PNG</Image>
+      <Description>99 Red Balloons - Kill 10 enemies while they are in anti-gravity bubble</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Cliffhanger Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/B8E9572723742A69195742DB75864AF30F9A6C25.PNG</Image>
+      <Description>Cliffhanger Killer - Kill 50 enemies while in vertical cover</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Death from Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/008D47059C836D341EAA2C860CC55738FED881E7.PNG</Image>
+      <Description>Death from above - Kill 50 enemies while in hover</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Bird of Prey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/432599B82710EB92BB194BA9D6B4ECA2B5014296.PNG</Image>
+      <Description>Bird of Prey - Kill 25 ground enemies using your rocket pack guns</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Mark of the Adept</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/2971C34B677E130423063F0ADD46255397AC722C.PNG</Image>
+      <Description>Mark of the Adept - Kill 5 UFOs in the Prologue</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Rocket Clothesline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/48F8A7618B6603421954F851B65CC00B660FDA56.PNG</Image>
+      <Description>Rocket Clothesline - Perform a melee right after turning off rocket pack thrusters</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Terminal Velocity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/512338739635DE449CFD3CAA21E7758D20D75817.PNG</Image>
+      <Description>Terminal Velocity - Free fall for 10 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Squishy Center</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/184C8307E903688404929608C1D1222B28E83995.PNG</Image>
+      <Description>The Squishy Center - Kill a Sarpa piloting an Archon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Cleanup on Aisle Three</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/D0FDDE8CC90767E2A2839ECD30DD88095300469C.PNG</Image>
+      <Description>Cleanup on Aisle Three - Kill 100 enemies with headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Rochambeau, I Go First</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/F769D284E6BDC91F73B9F7688F47ED6F2A6D3CAE.PNG</Image>
+      <Description>Rochambeau, I Go First - Kill 50 enemies with melee attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Blue Light Special</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/6C952915E05EBB418362ACE8B1C2745F558C8CDF.PNG</Image>
+      <Description>Blue Light Special - Kill 3 enemies with one grenade</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Killing Spree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/4E6C67D6A34DD4C3605FDC389B3D3F2E902C20C3.PNG</Image>
+      <Description>Killing Spree - Kill 10 enemies within 60 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Those Aren't Fortune Cookies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/ABE73C212FF32777733F095FA8EE69C7C2080048.PNG</Image>
+      <Description>Those Aren't Fortune Cookies - Step on 10 slugs</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Light Up the Sky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/72E4B5B66B9210D739235FA5E517ECA5D2ABC5D3.PNG</Image>
+      <Description>Light Up the Sky - Destroy 25 targets with the Ark's AA guns</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Master of Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/58F3819204498D246F8A6BA122D4F1531330E775.PNG</Image>
+      <Description>Master of Arms - Kill an enemy with every weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>I'm a Rocketman, Baby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/773AC6D9E9C82548603D5296E900E7D088B7252A.PNG</Image>
+      <Description>I'm a Rocketman, Baby - Perform 100 special maneuvers while using the rocket pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>The Devastator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/304D5C5ABA08D59848EF0BA40567BB4EA317555C.PNG</Image>
+      <Description>The Devastator - Destroy 25 UFOs while piloting a Survivor fighter</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Float Like a Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/792CCB13AC32645DE0AA97D032504E2298AF8EDE.PNG</Image>
+      <Description>Float Like a Butterfly - Kill 10 attackers immediately after escaping from their melee</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Freedom Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/4BC98CBC0DEEA275D248A0AE256571769BFC64BF.PNG</Image>
+      <Description>Survivor Missions: Complete a wave in any Survivor Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Adept</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/9B8F16A023DFF872ED1E840F21293119625B7E81.PNG</Image>
+      <Description>Survivor Missions: Complete any Survivor Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/C2D4F791FB960CE69F3133F874EDEC83F08E1212.PNG</Image>
+      <Description>Survivor Missions: Complete the Battle of Ghen Crag mission with 980,000 points</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/A5A9282655E4C00BF5419CB24CF5B754250200B0.PNG</Image>
+      <Description>Survivor Missions: Complete the Abyss Canyon mission with 1 million points</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Blood Bath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/5D12FDDDC1B55B331086579425ECFD4FA7C7D5AA.PNG</Image>
+      <Description>Survivor Missions: Rack up a killing spree bonus of 33x</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Bulletproof</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/7BA26F41A16D2BBA4F637122C291B308E97732AF.PNG</Image>
+      <Description>Survivor Missions: Complete a wave in a Survivor Mission without taking damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Speedster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/DF00C1BA2FE3ADA7B9F34841C27684CF42B79EDB.PNG</Image>
+      <Description>Survivor Missions: Complete any Survivor Mission in under 35 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Spirit of Tesla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/E9157251FD4ADA1DA5574A9D79B57C3ECD6978E1.PNG</Image>
+      <Description>Survivor Missions: Upgrade a weapon to stage 3 in a Survivor Mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Epic Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/EF7884CB298AF1EC5944A60AEE3B2848814244F6.PNG</Image>
+      <Description>Survivor Missions: Complete the Battle of Ghen Crag mission with 4.4 million points</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00698_00</GameId>
+      <Title>Top Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00698_00_C98C30C2AF76D61D10FFBA2067D1D421CA19EE30/CB52F5CD6873FD291B650AB75D8F3D4951E3EC34.PNG</Image>
+      <Description>Survivor Missions: Complete the Abyss Canyon mission with 4.5 million points</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

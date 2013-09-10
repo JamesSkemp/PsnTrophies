@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01605_00</Id>
+    <IdEurope/>
+    <Title>Deus Ex: Human Revolution</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/FE1E42B40EF89E69E832985343633286D25C501C.PNG</Image>
+    <TrophiesCount Total="60" Bronze="50" Silver="6" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/8B005354E77C9BF2CB2D35FB29F3BC29974B3B76.PNG</Image>
+      <Description>You unlocked every trophy in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>First Takedown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/C689AED7575C40E0944355D9F2276DFFFE571AE2.PNG</Image>
+      <Description>Perform your first Takedown. Civilians don't count, so be nice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Opportunist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/4A0A165CF5CFD04CB1BF7DB6C1C777690FEA133E.PNG</Image>
+      <Description>Perform 50 takedowns within the same playthrough. (Civilians don't count.)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>First Hack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/7EEA7AA7D495AAAD3DDD9A176219B884C80A6B28.PNG</Image>
+      <Description>Perform your first Hack successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Hax0r1!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/EE8A978F1713E2CE865E5EA0CF52E6172D7240BE.PNG</Image>
+      <Description>Successfully hack 50 devices within the same playthrough.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Transhumanist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/1A54D271AE98DCA12E73C214F3BDFE6FAAE258F0.PNG</Image>
+      <Description>Fully upgrade your first augmentation of choice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Consciousness is Over-rated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/96FCBDB3847D7FD2D89169D50F9471939F0F9F7F.PNG</Image>
+      <Description>Knock out 100 enemies in a single playthrough.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Up the Ante!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/2C263341FC089A8D86C64721A5BAC65A7CD6D975.PNG</Image>
+      <Description>Upgrade your first weapon of choice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Trooper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/F416590CA07A9BC335452C1137C7A09760FC2C03.PNG</Image>
+      <Description>Complete Deus Ex: Human Revolution.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/40619E5DA5B0AC0885454FF14E9079A3A4A62D90.PNG</Image>
+      <Description>Complete Deus Ex: Human Revolution at its hardest setting without ever changing the difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Deus Ex Machina</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/BAC632CB8FEB343E6FA7A2078A06F1A4AAB903D7.PNG</Image>
+      <Description>Experience all the different endings that Deus Ex: Human Revolution has to offer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Pacifist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/DA7F2D1100624FE4F19BD2A7F78FF64BEB0D61FD.PNG</Image>
+      <Description>Complete Deus Ex: Human Revolution without anyone dying by your hand. (Boss fights don't count.)</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Foxiest of the Hounds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/A02A0F7305201AF30794499BB18F5DDD2CC6868F.PNG</Image>
+      <Description>Complete Deus Ex: Human Revolution without setting off any alarms.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Doctorate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/C8F3D793ACD2A5D838D61D842CD0867F28EE7712.PNG</Image>
+      <Description>Read all 29 unique XP books within a single playthrough.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Lesser Evil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/6CA271A0B91E471E87E5337A94D597B620859BC2.PNG</Image>
+      <Description>Deal with Mr. Carella's indiscretion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Motherly Ties</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/E74C4E4F87885AFCDCBD6EC04FB769CB322F7C8C.PNG</Image>
+      <Description>Put a grieving mother's doubts to rest.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Cloak </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/A25AB53D0C0C8F2EED80F656641612895977841C.PNG</Image>
+      <Description>Deal with the man in the shadows.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Smash the State</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/E0B645DCE84AF7EF3152FE2998152C99BBBF08E1.PNG</Image>
+      <Description>Help Officer Nicholas take out the trash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Acquaintances Forgotten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/D5E3F5036685690FD0DAFDC38C559A5A1AD27DE2.PNG</Image>
+      <Description>Follow Pritchard's lead to uncover the truth.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Bar Tab</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/F7B669FCEF90E72A47FF7859AD3F29E0F94FA5E9.PNG</Image>
+      <Description>Help the Hive Bartender settle a tab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Rotten Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/AABA51B215816474EB9AE1E004A02BB3FA14268B.PNG</Image>
+      <Description>Help a lady in the oldest of professions clean house.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Shanghai Justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/7E8E2825941A02A2B368DFD92DFFC37B1189FDD7.PNG</Image>
+      <Description>It may take some sleuthing, but justice must be served.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Corporate Warfare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/3BA805E92C3AE6870541BA5558D69341D9A25DC2.PNG</Image>
+      <Description>Protect a client's interests by performing a less-than-hostile takeover.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Talion A.D.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/45C9235AA7CC73BC5A36AA325FBDF5364EB3BD14.PNG</Image>
+      <Description>Descend into the bowels of an urban jungle and confront a warrior-priest.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Gun Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/1C2132535CA667E5B573B9F5A64AC729051CD3FD.PNG</Image>
+      <Description>Fully upgrade one of your weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Ghost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/A8F69B7B98B1EEAE18F856EFADB5EE72B5A1A838.PNG</Image>
+      <Description>You made it through an entire hostile area without so much as a squeak.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Bull</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/2063073000B6CBEC3F8118EEAACD2303CA4A449D.PNG</Image>
+      <Description>You defeated Lawrence Barrett, elite member of a secret mercenary hit squad.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Mantis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/797C5AD80804F0459FBF42B628A9D47614E974B4.PNG</Image>
+      <Description>You defeated Yelena Fedorova, elite member of a secret mercenary hit squad.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Snake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/7062FA46B625493229714B05833DCFBE1E64C3C3.PNG</Image>
+      <Description>You defeated Jaron Namir, Leader of Belltower's Elite Special Operations Unit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/48215504D33709D098EB72E6C9492918B9A2F500.PNG</Image>
+      <Description>You defeated Zhao Yun Ru and destroyed the Hyron Project.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Old School Gamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/FA52BDF3F6F94F60E8E86B7B42F453B5DB22CB31.PNG</Image>
+      <Description>You found all the hidden story items in Megan's office. Point and Click much?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Unforeseen Consequence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/B3F622D33D4CC65F8092FE8235A8178EB614B2D1.PNG</Image>
+      <Description>You convinced Zeke Sanders to let his hostage go.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Desk Job</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/AD3FE6E6EC4320E668BA11271AA3D66AFA741E0C.PNG</Image>
+      <Description>You convinced Wayne Haas to let you into the morgue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Yes Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/91A413677644C9C165C04A3952F0529C0F80FAEF.PNG</Image>
+      <Description>You had an argument with your boss, David Sarif, and won.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Darker Shades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/6BBD980CA3B5CA2284872E2D72025A302C0E491B.PNG</Image>
+      <Description>You convinced a fast-talking bartender to let you see Tong Si Hung.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Throwdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/91B8438DDD0B8A30454AA40EC9840E97F343483E.PNG</Image>
+      <Description>You convinced the smooth-talking politician Bill Taggart to tell the truth in public.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Last Straw</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/C2FB1C1830F64B8480B374DC870A0078AFE78A4A.PNG</Image>
+      <Description>You talked Doctor Isaias Sandoval out of suicide.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Final Countdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/C0C8BF53CD8A05B41BBC217DF3A459FAF1297B46.PNG</Image>
+      <Description>You showed millionaire Hugh Darrow that his logic was flawed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The D Project</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/BA302F941F309AC9FE26ED77CA5324BB22CF34BC.PNG</Image>
+      <Description>You watched the entire credit list and saw the surprise at the end.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Good Soul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/02C1EC601A34794B0F0235A845418BA81086DCD1.PNG</Image>
+      <Description>Against all odds, you saved Faridah Malik's life.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Hangar 18</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/182E274C0DE236FB28004CB99D3CB7E2CD122125.PNG</Image>
+      <Description>You found and read the secret message. Now you know too much...</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Sentimental Value</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/FAA1ADE35A9F7FC04245D7A15D049CE521E49C90.PNG</Image>
+      <Description>You kept Megan's bracelet for yourself. Apparently, letting go really is the hardest part.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Take</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/80B01140C47C770B928B532598D3861D8D81C2AB.PNG</Image>
+      <Description>Greedy bastard. You accepted O'Malley's blood money and let him go.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Guardian Angel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/574722BA8A8C2ABEFA54C4362EACD716063F5935.PNG</Image>
+      <Description>You paid poor Jaya's debt in full. How very... humane... of you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Lucky Guess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/01C1E236B67F8E7C715AA8F381F7948F304F3BE1.PNG</Image>
+      <Description>Next time, Jacob better use a more complex code to arm his bombs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Kevorkian Complex</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/D51B474CBC248F16C6949A17EAAF929811FBF5E9.PNG</Image>
+      <Description>You granted a dying man his final request.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Fall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/CAE8F0AD4A01F0B3DB66DAEFF501701462F3E53C.PNG</Image>
+      <Description>You sent Diamond Chan on the trip of a lifetime.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Super Sleuth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/F9CB6EE3F6E6EE87388C2F5178BC6D5002A3F354.PNG</Image>
+      <Description>You really nailed your case against Lee Hong.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Ladies Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/A0FC99979D4531FFB3BC5EF0F9067E689A3BC33E.PNG</Image>
+      <Description>You convinced Mengyao to spill the beans on the mysterious Hyron Project.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Balls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/B5BE99DC40A334B138F66782E4CAEB5955D2DECF.PNG</Image>
+      <Description>Seems you like playing with balls, eh?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Good Samaritan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/E40831BD2BF88857760061C33A781E2D556AF8C7.PNG</Image>
+      <Description>You replaced the power supply on a damaged stasis pod, saving the occupant's life.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Never Forget</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/3DA0E4163DBBAB4E4A2F5D4D4FB5837CF2A56CD1.PNG</Image>
+      <Description>You revisited the site where Belltower discovered and captured you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Out of the Frying Pan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/8CDA5A9922E2DDE79C31C2E027F7EFC9C830A766.PNG</Image>
+      <Description>You made it off the boat... but to what end?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>The Learn'd Scholar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/BC047B444CFFF27F87C8D4724EC30C399CA1E14E.PNG</Image>
+      <Description>When the proofs, the figures, were ranged in columns before me...</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>All of the Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/4B97E5D306FDB0F5B1AD7482EA8C682762FA7FD9.PNG</Image>
+      <Description>You managed to save Dr. Kavanagh and all the prisoners, too.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Back Stage Pass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/EFB131A8C0186DBFDD55D1BF36EF9C761694B9FF.PNG</Image>
+      <Description>You gained access to Quinn's secret store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Apex Predator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/5B354E5E395498A2B9AD95E1204532A2B57A0679.PNG</Image>
+      <Description>You performed a takedown on Burke without being detected.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>That Old Adage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/85A62160CC9BE8AE2F2E2DFB535DA4E5513B51E3.PNG</Image>
+      <Description>Apparently, your CASIE augmentation doesn't work on everyone...</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Factory Zero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/9B9862BA47A57F81A62B1BD3A0F949E82A7F0C51.PNG</Image>
+      <Description>You survived The Missing Link using no Praxis kits, weapons, or explosives. Whoa.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01605_00</GameId>
+      <Title>Never Stop Looking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01605_00_74A21CA80323E3720383469891EB46B568C744E1/67CEDADB9D56F0D5E8A823249602777AF0641E77.PNG</Image>
+      <Description>You escaped Rifleman Bank Station. Nothing will stop you from finding Megan now.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

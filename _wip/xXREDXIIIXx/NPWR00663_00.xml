@@ -1,0 +1,401 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00663_00</Id>
+    <IdEurope/>
+    <Title>Cabela's Outdoor Adventures</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/56291B6B932773BF370361F89E25EB4D129A8D3F.PNG</Image>
+    <TrophiesCount Total="43" Bronze="34" Silver="3" Gold="5" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/36DD33208D3823C0F638EDC9D75EDA13C6B9B5C6.PNG</Image>
+      <Description>Awarded when all other trophies have been unlocked.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Greenhorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/69674231E25D5FF7A3B0E24B612FB6EC6942EE34.PNG</Image>
+      <Description>Complete first hunt from the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Fisherman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/C2B5DF5507316D62D222A12E335EA0F8FF016B68.PNG</Image>
+      <Description>Complete first fishing challenge from the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Call Novice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/57AAAEB19BA52ED44E6BD716CDD2C74327B86951.PNG</Image>
+      <Description>Make 1 good call</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Tracking Novice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/95416AB319FAD2B1C77F4D91D5C5B70E7A2B5C9C.PNG</Image>
+      <Description>Examine 1 animal mark</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Casting Novice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/B0343B2F5C675A567369A4B3A10C5B154C46E79B.PNG</Image>
+      <Description>Make 1 good cast</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Shotgun Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/1D107DB5EFD12600DD2D7A5E3B3CACA1A19859C0.PNG</Image>
+      <Description>Hunt 20 birds using the shotgun</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Kansas Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/C3DF77FB96B65B76456370F5AACB3D8405DA169B.PNG</Image>
+      <Description>Complete Kansas region</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Idaho Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/5A74184CF269C8CF1B990D5E6CA859A542C83D94.PNG</Image>
+      <Description>Complete Idaho region</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>British Columbia Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/B7E957C0B470E078CC09E96F386237B77DFE8206.PNG</Image>
+      <Description>Complete British Columbia region</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Alaska Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/07B7C2CC21E339F59473B8B8E74BF4E56D5D2211.PNG</Image>
+      <Description>Complete Alaska region</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Merciful Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/E91A434E90D5DF7E1E0B6369D2F220851D117656.PNG</Image>
+      <Description>Hunt 5 Big Game Animals using one shot per animal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Rifle Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/677253E54CA4A8E7754EA643FA912CE76A4BDF6A.PNG</Image>
+      <Description>Hunt 10 animals using the rifle</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Pheasant Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/DF9ADAE0CD18A9572FFD0EB8FBBEFEFC28D11DD9.PNG</Image>
+      <Description>Complete all Pheasant hunts</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Moose Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/1179460D670D80C25C925A986BFC058E67690AF2.PNG</Image>
+      <Description>Hunt 1 Moose in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Call Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/8C2FBBA25EB15AD751BAA6ED9CA10B65F7026DDA.PNG</Image>
+      <Description>Make 5 good calls</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Efficient Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/765108731640ECC0595304F855D4CAC2CE676D31.PNG</Image>
+      <Description>Hunt 10 Big Game Animals using one shot per animal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Turkey Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/980A093E791CF0DC76C033F3C158E0D9731D95A3.PNG</Image>
+      <Description>Complete all Turkey hunts</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Tracking Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/98FED5E0CA79944459FE9FDB7F7D80FF538E9690.PNG</Image>
+      <Description>Examine 5 animal marks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Casting Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/2CD522E99F8C83AB6436F33CCA00BFAFAB8C8F9E.PNG</Image>
+      <Description>Make 5 good casts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Handgun Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/0A6D5B0414D20640CC9ECE489DB52D91306E4A61.PNG</Image>
+      <Description>Hunt 5 animals using the handgun</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Whitetail Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/E1875348D063C1409FE96D010E5C63A76DC98B54.PNG</Image>
+      <Description>Hunt 1 Whitetail Deer in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Columbian Blacktail Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/FD67DC19C001C324B230EC2FDAEFE5543EABAF98.PNG</Image>
+      <Description>Hunt 1 Columbian Blacktail Deer in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Coues Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/C83DA5176EE555B3BCD2E7C2B8E77F68F14B6E54.PNG</Image>
+      <Description>Hunt 1 Coues Deer in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Sitka Blacktail Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/DB2EE31AB92C881589A640F8E35A482D65A6DA93.PNG</Image>
+      <Description>Hunt 1 Sitka Blacktail Deer in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Rocky Mountain Mule Deer Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/BAC73BCA63679E805F9FB271B839A66EC5C00760.PNG</Image>
+      <Description>Hunt 1 Rocky Mountain Mule Deer in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Elk Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/D3981D61ED4A6FACA8A18C854C10C595F2E66177.PNG</Image>
+      <Description>Hunt 1 Elk in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Mountain Goat Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/FA34172B32C5754058136CD3E8220C1F28995785.PNG</Image>
+      <Description>Hunt 1 Mountain Goat in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Caribou Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/0BEECC4D0D38FE329D59EF74B4C00ED84F078405.PNG</Image>
+      <Description>Hunt 1 Caribou in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Pronghorn Antelope Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/3BD2C714512730A57D6D7489589D73C5DA134F87.PNG</Image>
+      <Description>Hunt 1 Pronghorn Antelope in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Desert Bighorn Sheep Trophy Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/29299C4471521A4173CFD5022CFEEC247CF90EC9.PNG</Image>
+      <Description>Hunt 1 Desert Bighorn Sheep in Trophy Chase mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/734122F9417FB11975454C9F36E594BC44626D14.PNG</Image>
+      <Description>Hunt 20 Big Game Animals using one shot per animal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Call Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/5E71EF830635B3C937BC9CD01C5331E128F48668.PNG</Image>
+      <Description>Make 20 good calls</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Tracking Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/9AD108B50A6C30848AB0EB07542CA78EEA81BE38.PNG</Image>
+      <Description>Examine 10 animal marks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Notorious Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/20C2C94A83D193F987EE1D6068C007A14D8E447F.PNG</Image>
+      <Description>Complete all optional hunts within at least one region</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Casting Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/C5CF9599528EDE8FFDF435C2ECA1A673D59D6481.PNG</Image>
+      <Description>Make 20 good casts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Integrity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/D2B5D7FEC22088B5177F61E13E3459ACFE8424BF.PNG</Image>
+      <Description>Hunt 10 trophies with 100% trophy integrity</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Opportunistic Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/EF6AC8FA43B65EF4F53C84B8F9438C4462CD4210.PNG</Image>
+      <Description>Explore and complete all the opportunity hunts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Bow Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/858EDBE1EF8EA95979EFF496EE20193A7E50C360.PNG</Image>
+      <Description>Hunt 5 animals using the bow</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Guns Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/D66721730404F4EB44721BA5E89B370B444901CC.PNG</Image>
+      <Description>Hunt animals using all guns from the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Old School Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/942CB8929E7FD8D00C7666FA5B456BCEFCF0124B.PNG</Image>
+      <Description>Hunt 10 Big Game Animals using iron sights</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Quick Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/92CCA70C60EB53EA4B14181C5FA3D72AEBFF722C.PNG</Image>
+      <Description>Hunt 10 animals from the hip</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00663_00</GameId>
+      <Title>Trophy Seeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00663_00_3DB4E52550AE444197199F280489866F5A769C75/315CC99D679DBBF825AAA22446676F123D67D7B1.PNG</Image>
+      <Description>Gather 200 Trophy points</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

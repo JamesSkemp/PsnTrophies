@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04049_00</Id>
+    <IdEurope/>
+    <Title>Draw Slasher</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04049_00_00C0B326687CC85FDAE31EB86AC110D248B3A0EADC/64920FC783483BD992770A228D61675260DF9A38.PNG</Image>
+    <TrophiesCount Total="13" Bronze="0" Silver="0" Gold="0" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04049_00</GameId>
+      <Title>Bamboo Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04049_00_00C0B326687CC85FDAE31EB86AC110D248B3A0EADC/F5639C62E84548D1C012786D0DFA63C73E3DF7F9.PNG</Image>
+      <Description>Kill Stomper in Story Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

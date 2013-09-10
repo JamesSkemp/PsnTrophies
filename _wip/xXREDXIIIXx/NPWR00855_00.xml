@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00855_00</Id>
+    <IdEurope/>
+    <Title>Warhammer 40,000: Space Marine</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/652B926727153CDC0B18C80499B77EAF53964F22.PNG</Image>
+    <TrophiesCount Total="60" Bronze="48" Silver="8" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Trophy Collection Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0E9835F36EB3D698354578130A8EB1CB69ABD278.PNG</Image>
+      <Description>Collect all of the Warhammer 40,000: Space Marine trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>The Might of the Righteous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/CA6462B4A4BF8284EA12F969C86AB16C21D15D4E.PNG</Image>
+      <Description>Kill 100 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Success is Measured in Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/AA8154DE350DE1F4D4667E9E430A806B02304086.PNG</Image>
+      <Description>Kill 500 enemies using Melee weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Angel of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/E45B6E5D8E5412B7BA15434918071E3CBE2B2EF9.PNG</Image>
+      <Description>Kill 500 enemies using Ranged weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Visible, Violent Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/5D43214C78F2BB2D37AC2BF7432C46DBAB96EB6C.PNG</Image>
+      <Description>Kill 2500 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Firepower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/3CF67CAC0501D13D1BEE36EF1F9F43D050CF6C26.PNG</Image>
+      <Description>Kill 250 enemies using Exotic weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>The Bigger They Are...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/581017B2B95AA4E6CA09285D1DCCC5433D728C2A.PNG</Image>
+      <Description>Kill 25 Ork Nobs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Not So Tough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/72CD13A84E8F76511143B034E6DEEF5E70656E84.PNG</Image>
+      <Description>Kill 10 'Ard Boyz.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Die, Heretics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/F64A0155331261500811FBD47861AD141E926565.PNG</Image>
+      <Description>Kill 50 Chaos Space Marines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Glorious Slaughter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/ADAB65F223E07C542B45E36D428870AB253C02A9.PNG</Image>
+      <Description>Kill 75 enemies using Executions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Put Them Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7C7E1E174317B9187CD1D74DE724588527BF9325.PNG</Image>
+      <Description>Get 100 Headshots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Master of the Clean Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/268C29BE01CE968E4AB096E2EA0E910792B61C2B.PNG</Image>
+      <Description>Get 250 Headshots.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Shock </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/F57A8B3036207E84DC5CF01BCA10DB4BB6534771.PNG</Image>
+      <Description>Kill 150 enemies using the Charge attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Death from Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/E0CC6031AD2C668D3229A865E00AEFCC02DCEFCA.PNG</Image>
+      <Description>Kill 25 enemies with Ground Pound.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>The Emperor's Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/A21E35E1A25F4CF015A4DA8C23C6740E4FF8CAD6.PNG</Image>
+      <Description>Kill 10 enemies in a row in a single Ranged Fury activation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Feel My Wrath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/46E99715AC304A807E4E8C9D2592BCF5F7E27E09.PNG</Image>
+      <Description>Kill 250 enemies using Melee Fury attacks.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>The Emperor Protects</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/BE5F54FEE9089C3820551B4D592B12A14F0B8A09.PNG</Image>
+      <Description>Complete Part 1 of the game on Hard difficulty in a single session without dying or restarting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>None Can Stand Before You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0C77D102FBD5E906952CD00E305D641AB066CF9F.PNG</Image>
+      <Description>Complete the entire game on Hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Nob Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/1B3F6E4823B44DFC0858C3F95BC9795E1E342BB1.PNG</Image>
+      <Description>Win 10 struggles against the Ork Nob.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Blast Radius</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/63C9BFC1B4407F1182BB7C17EC433AF15E6384C8.PNG</Image>
+      <Description>Multi-kill -- 5 enemies with 1 Frag grenade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Precision Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7A700F6C50DB4C5365ADB38C82E1BCA75050B751.PNG</Image>
+      <Description>Multi-kill -- 2 enemies with 1 Stalker-Pattern bolter shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Chain of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/72F69F0ECD9A5854350146CE55F07C2B98571A4B.PNG</Image>
+      <Description>Multi-kill -- Detonate a chain of 5 consecutive Vengeance Launcher rounds, killing 10 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Master of Sword and Gun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/ED8F0248450F93BCE1029F59AF7E1CE8820AE9AF.PNG</Image>
+      <Description>Complete a Chapter of the single-player campaign using only the Bolt Pistol and Chainsword.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Burn Them All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/2C62A5BDACFD40A45EFD88B9C70495DCA0BE34E3.PNG</Image>
+      <Description>Complete a Chapter of the single-player campaign using only Plasma weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Brute Force...Unleashed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/4639157395D2DE8EB6484EEA63605268C9C6D754.PNG</Image>
+      <Description>Complete a Chapter of the single-player game using only the Vengeance Launcher and Power Axe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Finesse and Fury</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/88BBDA05E8767BEDFB6EE959E38C0BAE3FF80264.PNG</Image>
+      <Description>Complete a Chapter of the single-player game using only Stalker-Pattern Bolter and Chainsword.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Command Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/A9DB6DFC3FAF9B7376AF691505C8E3CAFB03A791.PNG</Image>
+      <Description>Reunite with your Space Marine brothers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Into the Breach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/F4683C8F856A01376C3550D75EE1E8D095B3FCCA.PNG</Image>
+      <Description>Fight your way to the crashed Rok.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Silence the Cannon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7E826B8F4C29B03FA8322805B83CB7F4D434414D.PNG</Image>
+      <Description>Destroy the Orbital Gun.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>You Must Carry It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0F2D659C2C71991ABD77B531EABA9F3801842956.PNG</Image>
+      <Description>Retrieve the Power Source.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>We Take Our Chances</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0BC2089762B0F75355174EFB62404A440D6A8A0B.PNG</Image>
+      <Description>Fire the Psychic Scourge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>But I Am Finished With You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0562B517F9D20CCDE9A8CF1E949CD2D4D60C000B.PNG</Image>
+      <Description>Kill Warboss Grimskull once and for all.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Hammer of the Imperium</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/8B4C33DB559C61CB21A80E9C6C327D599434897D.PNG</Image>
+      <Description>Use the Invictus to destroy the Orbital Spire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Here, At the End of All Things</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/72AEC33C51002EAFFCBA126ACE8564B3E98F8A11.PNG</Image>
+      <Description>Kill Daemon Prince Nemeroth.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Lexicanum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/352D97F4CDFA1FBC8ECE6F67D49023E0BBF83345.PNG</Image>
+      <Description>Collect 10 Servo Skulls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Librarian of Macragge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/C0FE7766068F9ACDCF7FF88E037847A24C18CAC4.PNG</Image>
+      <Description>Collect all Servo Skulls.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Battle Brother</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7BFDF6CAC4A8FBF486A6A3B2E8E4F72785232E46.PNG</Image>
+      <Description>Get a Multiplayer character to Lvl 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/B9A46189E930D790A0CDDFF69BBF67A3E7EEC9AC.PNG</Image>
+      <Description>Get a Multiplayer character to Lvl 20.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/48CC471B1FF0902524B8942A9A88CB9F9E7DF409.PNG</Image>
+      <Description>Get a Multiplayer character to Lvl 30.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Chapter Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/C096C4D693B66936CC2DA275B72A4377EB01FFB3.PNG</Image>
+      <Description>Get a Multiplayer character to Lvl 40.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Warrior of Darkness and Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/01E5CAD69F53CAD8AFF8AB54796DBBE139570440.PNG</Image>
+      <Description>Play 10 Multiplayer games as Space Marine and 10 Multiplayer games as Chaos Marine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Shapeshifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/4D4351BAEE5ED2B6B7623AEDDAF7B45BA83D7B2B.PNG</Image>
+      <Description>Play each class in Multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/A953D5DEDF4D080CC597865629A25C0DED9EF0A2.PNG</Image>
+      <Description>Play 10 Multiplayer games using each class.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Master of Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/DBE46B3567811A79DACAB08492ACCF470F7F179E.PNG</Image>
+      <Description>Complete 5 weapon challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Keeper of the Armory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/F9131A867E59359F10002E4127B3661888455BAC.PNG</Image>
+      <Description>Complete all the weapon challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Armored in Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0D776501814607A02C57D2118290A9C72726B16C.PNG</Image>
+      <Description>Complete 10 armor challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/804932B34E720D1BD3484841B592AF4B1B33451F.PNG</Image>
+      <Description>Kill 25 opponents who are capturing your Control Point in Seize Ground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Devastation!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7063276F7FDBAF3DAF6E38823D1CA4D03C69DFFD.PNG</Image>
+      <Description>Have 10 times more kills than deaths in a single game of Annihilation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Master Crafted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/174DC0C9643409EB64BE309C9B191A414BF42401.PNG</Image>
+      <Description>Fully customize a Space Marine and a Chaos Space Marine character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Down to Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/EBD8BC71CB4A20B2FB32AE50679D00B5C947F7B9.PNG</Image>
+      <Description>Kill 50 Assault Marines/Raptors in mid-air.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>True Son of the Emperor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/A19AB60E3A07B80A4F9BCA74216D4C1B8C3ADBE0.PNG</Image>
+      <Description>Kill 40,000 enemies in the game (all game modes combined).</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Death to the False Emperor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/663DB318CDDFD273B14489777F7AEB243DBC9A41.PNG</Image>
+      <Description>Complete Chaos Invasion Arena 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Blood for the Blood God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/F77B0CD60FBD83ADD0A20A1809BD658CBB3541C3.PNG</Image>
+      <Description>Complete Chaos Invasion Arena 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Skulls for the Skull Throne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/0B946FC3360F1865316D0D224553BFFEA0A93147.PNG</Image>
+      <Description>Complete Chaos Invasion Arena 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Let the Galaxy Burn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/159893B6EF149870A501655378E221602E6F5537.PNG</Image>
+      <Description>Complete the Chaos Invasion mission.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Let the Heavens Bleed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/EC995CAB798C0A896D9D4AF13D19316C4F3F283B.PNG</Image>
+      <Description>Defeat the Chaos Invasion bonus wave.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Frugal Spenders</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/87B39730BCE86F531F31766C80BC3DEB9DDFD450.PNG</Image>
+      <Description>Complete a Chaos Invasion Arena without your team using any lives.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Kill, for the Sake of Killing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/7D2AFD09BD8C6DFE8B257F2BF711987CE6E7B211.PNG</Image>
+      <Description>Complete 3 challenges in one Chaos Invasion Arena.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Glory to the Dark Gods!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/52110974A0F43CD26CAEAA038BA3B34AF3EC1F5C.PNG</Image>
+      <Description>Achieve a team score of higher than 270,000 in the Chaos Invasion mission.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00855_00</GameId>
+      <Title>Heretic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00855_00_2715EAD315C3CACF7F70AD8DF028D27DB2F18FEB/8052DD61DFB54DE160D98C3F5D2A2D18FDAAE983.PNG</Image>
+      <Description>Complete a public Co-op game in the Chaos Invasion mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

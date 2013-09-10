@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01212_00</Id>
+    <IdEurope/>
+    <Title>Dragon's Lair</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/BA5A3A03CFCA86C3BA188D957FA5F9EAE3253AB1.PNG</Image>
+    <TrophiesCount Total="8" Bronze="3" Silver="3" Gold="2" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Save Me!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/EB31C92F59CC1C3E5AB218A4190480DA9E09A6E1.PNG</Image>
+      <Description>Beat the game on any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Bumbling Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/E12B4E27F4B0A0D07B47D9F023F0A510D85BB381.PNG</Image>
+      <Description>Never make a correct move in a new game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Valiant Adventurer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/3331D64BFA979B8F822AD8F5F9F292975B468D92.PNG</Image>
+      <Description>Beat the game on hard, arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Master Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/1D0D11222A44FCA214C125E4D1E15C9EB36DD008.PNG</Image>
+      <Description>Beat the game on easy, no move guide, 5 lives mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Singe Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/C308E98C6A70D06042E752A938CCB2036BEF1DB5.PNG</Image>
+      <Description>Beat the game in 3 lives, any mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Flawless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/64645BE1F39DF86A54EA57C5D655B4277C143F0B.PNG</Image>
+      <Description>Beat the game without dying, any mode except infinite lives.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Dragon Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/5B93CA4AB59B5DDC066F0EABE4A56C33F10EDC1E.PNG</Image>
+      <Description>Beat the game on hard, no move guide, 3 lives mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01212_00</GameId>
+      <Title>Lair King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01212_00_8C39DC8EC29E15B30BDF114CF926312113571133/5102C0ED0D6E2F4D164F17F4803E88421BC9EB6E.PNG</Image>
+      <Description>Get the highest possible score (427,469).</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

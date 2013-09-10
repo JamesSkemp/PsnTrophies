@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00747_00</Id>
+    <IdEurope/>
+    <Title>Planet 51: The Game</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/8120BE4B3DB3F670025C30B5FE5CD398ECDF94F5.PNG</Image>
+    <TrophiesCount Total="38" Bronze="23" Silver="10" Gold="4" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/D164631F85ADADB4DC70EFB037769E44AC1984ED.PNG</Image>
+      <Description>All trophies have been unlocked.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Welcome to Planet 51</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/AB6FE95B79B7F6EA3170F52819E06B98F5473310.PNG</Image>
+      <Description>Complete the tutorials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>The Suburbs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/66B321DEDB009370B81CE9C8D07BDD45B53DDAFF.PNG</Image>
+      <Description>Complete all the Suburbs missions.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/308A10625E4FF87046C4D802E64B4641DE73A6F9.PNG</Image>
+      <Description>Complete all the Town missions.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Desert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/FE6282E77500E2ABB7256F03E0B4974643AE7FDF.PNG</Image>
+      <Description>Complete all the Desert missions.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>I've Got Antennas!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/D552DBF08DABAF27A894C03492FDF78D090C9F19.PNG</Image>
+      <Description>Complete all the game missions, including all tasks.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Breaking News!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/8F79DA0C4B8B99ECDFE62DEB2F8DCB0599C73C74.PNG</Image>
+      <Description>Complete level 10 in the task "Glipforg News Paperboy".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Lawnmower Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/F9151F18389C603E8D514F00AAC79A55F6F6B251.PNG</Image>
+      <Description>Complete level 10 in the task "Lawnmower Boy".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Glipforg Deliveries</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/E1B16473B9C5DC0006D64B99E4E85E609F54D4F6.PNG</Image>
+      <Description>Complete level 10 in the task "Glipforg Deliveries".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>The Dog Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/0635F1EB0127316773DFC7136AFB3438A6DD25F3.PNG</Image>
+      <Description>Complete level 10 in the task "Too Many Dogs in this Town".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Born to Park</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/372A7BCF42636E60675DD18EF757467CB729D929.PNG</Image>
+      <Description>Complete level 10 in the task "Parking Boy".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Glipforg Taxi Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/C7AACE84DC316C748BE983E280DC66C503187C40.PNG</Image>
+      <Description>Complete level 10 in the task "Taxi!".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Circus Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/19124A04C8979F4B9FF3ACACF9AE2E82AB43017D.PNG</Image>
+      <Description>Complete level 10 in the task "World´s cleanest circus".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Car Crusher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/B4DD925B51F3E4168CE0E34CF8DD0B982F5FA763.PNG</Image>
+      <Description>Complete level 10 in the tasks "Car Crusher", "Battle in the Stadium" and "Desert Battle".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>The Fastest Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/25A9ECE4132EF814AC9D14C79E58A315DF7C5C16.PNG</Image>
+      <Description>Complete level 10 in all race tasks.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Car Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/53F80766F4DC529EE29B3D2EB96541F792FDC422.PNG</Image>
+      <Description>Unlock all vehicles (excluding vehicles unlocked at the police station).</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Sticker Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/F2C8003F19DB5C5460F775112EAF91CBE7E78491.PNG</Image>
+      <Description>Collect all the stickers that you'll earn in the tasks.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Comic Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/52DF5B30CA0C5221A1DF8B0F69B6911E104009A7.PNG</Image>
+      <Description>Find all the comic frames scattered around Planet 51.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Curious Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/57FDA68BE0FB37FE1291C4F7A2308EB9A83D79D1.PNG</Image>
+      <Description>Enter every open house and building in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Pro Cyclist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/6919896380712FDA5B357E8FE092D955B04607A4.PNG</Image>
+      <Description>Travel 12 miles by bicycle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Pro Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/BC87A85B5D0C70E5265709AA89006D825E2AF459.PNG</Image>
+      <Description>Travel 300 miles by car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Flying Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/24D610707ED73F3EC79012892C2F28B70BD704D3.PNG</Image>
+      <Description>Perform a jump of 150 ft or more.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Careful Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/44D286F8EB26F62C95B275654C5041A678C8D4F9.PNG</Image>
+      <Description>Drive a car for 3 minutes without collisions.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Billboard Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/8CECFDF1DD1DFA660F3CF2D323EBF021078575AC.PNG</Image>
+      <Description>Jump through all the billboards in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Slippery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/6F287CB1147C8DA700E766AB08B2059799E6112D.PNG</Image>
+      <Description>Escape 40 times from your enemies by hiding in the trash cans.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Reckless Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/0C745E916B1F6C09990DA7662BBBEFFD29E6CA01.PNG</Image>
+      <Description>Destroy 30 pieces of property in 60 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Fugitive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/C03F4D9F2F5DB3F095F2449B5ADE626F0D34CEF7.PNG</Image>
+      <Description>Elude the law enforcers 3 times in a row in the same vehicle outside of a mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Alien!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/5826F15A05526BC076953ECE04308A4233E50368.PNG</Image>
+      <Description>Achieve and maintain the maximum level of alert for 3 minutes outside of a mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Perfect Gardener</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/043679133C7BB06AC6CD4D7B3A135D5CB69B4531.PNG</Image>
+      <Description>Complete the mission "Neera's Garden" without cutting any flowers, touching the mole, or getting hit by water.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>The Coolest Paperboy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/12679262E16D70569B301218DCDD499175F0F219.PNG</Image>
+      <Description>Get "perfect" throws for all newspapers in "The Paperboy" mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Careful Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/0C78D11E60E8DA1D7C7572379E0614914F86775E.PNG</Image>
+      <Description>Complete any car crusher mission without taking any damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Experienced Delivery Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/6B4991FF33C6DEC21037A65BA7085346568B970A.PNG</Image>
+      <Description>Don't lose any boxes in the "A Job of Little Importance" mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Careful Parking Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/84EB9961822C264540D89EEA592C636B02885406.PNG</Image>
+      <Description>Complete the "Parking Valet" mission without damaging any cars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Sweet Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/3C37B580050D89EB591F2F5FE42C5005AE3FBBFC.PNG</Image>
+      <Description>Complete the "Cleaning the Circus" mission without making King Klong angry.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Skilled Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/1D922695425477B6A65CFC855B23D7CD764D4B3B.PNG</Image>
+      <Description>Complete the "King Klong" mission without damaging the pickup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Fast Rock Gatherer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/1FD8C01197CD69A7639883EF32CABE806092D431.PNG</Image>
+      <Description>Pick up all the special rocks in the mission "Singing in the Rocks" before any go down the drain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Too Good to Compete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/3F85B68AB4E95CFFC2D2EC001A17E0A7DA7B85AF.PNG</Image>
+      <Description>Keep first place in any racing mission for more than 1 minute... and win!</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00747_00</GameId>
+      <Title>Perfect Timing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00747_00_F988BA8032EAEE8094BB545CBF5F097515B95972/ACE9BD88CE12836156A6069512865A754E454813.PNG</Image>
+      <Description>Finish any of Chuck's missions on foot without failing any obstacle nor taking any damage from traps.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

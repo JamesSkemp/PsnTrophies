@@ -1,0 +1,554 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01814_00</Id>
+    <IdEurope/>
+    <Title>Mass Effect 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/5CF52F78086C53141EB0C4529CDECFCF701BB34F.PNG</Image>
+    <TrophiesCount Total="69" Bronze="53" Silver="13" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>N7 Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/A06CD93786ECE9B8C5FD8A5257D1B64F74582F1E.PNG</Image>
+      <Description>Acquire all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Driven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/A1B89B0BD1B3259454F3ABB3BE1DEF57871F1E78.PNG</Image>
+      <Description>Return to active duty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Bringer of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/A336D2A5B325CDA94483A0A34B04B152FE2D1E42.PNG</Image>
+      <Description>Chase down an assassin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Mobilizer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/48A00A3DB2017DC94C7A989B5810F215AAAB42E7.PNG</Image>
+      <Description>Bring a veteran officer aboard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>World Shaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/EE6389E6F538BF23FB57F0A9970FCB38AA1FE3A3.PNG</Image>
+      <Description>Destroy an Atlas dropped from orbit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Pathfinder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/FA26A368DED9BA2C2198800C3C18CC242DECABC1.PNG</Image>
+      <Description>Explore a lost city.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Tunnel Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/B0E7FD74512D2FF78F19730E2593A43E6FEE06CC.PNG</Image>
+      <Description>Survive the swarm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Party Crasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/1F6E84A97D019CAA9AF0F72CBAE6983BF11B7057.PNG</Image>
+      <Description>Sabotage a dreadnought.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Hard Target</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/5998D42D81EF6277B11BD2A8E9C7047504AFDD0A.PNG</Image>
+      <Description>Call down an orbital strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Saboteur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/773ECE71837D9261D700755C407ADDF448081881.PNG</Image>
+      <Description>Disable a group of fighter squadrons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Arbiter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/E0E38AAAAF5B7E450DC944307221A40773A08C0A.PNG</Image>
+      <Description>Win a political stand-off.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Last Witness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/079D3D2C99859CEDC442DAC233B79A6B449455DA.PNG</Image>
+      <Description>Extract ancient technology.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/E3614751C5EFF895AF215A640F25C4715593585F.PNG</Image>
+      <Description>Defeat an old adversary.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Well Connected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/5BDDF5687DEC7320CAA3D2EC6835AFF1FD3F2EDA.PNG</Image>
+      <Description>Send a warning across the galaxy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Fact Finder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/C42F99BF97D21E07C258F19EFABDEA320D9E3077.PNG</Image>
+      <Description>Discover an enemy's monstrous origin.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Liberator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/3CE95EB535069249ECE147680D15B69DFD7D9EAD.PNG</Image>
+      <Description>Stop a Cerberus kidnapping.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Problem Solver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/90938AF55B12D4EB9BBDBBE9F89B6586939016D2.PNG</Image>
+      <Description>Evacuate a scientific facility.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Patriot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/F07788BEB2BB747C09F5ECBA27A44457CEC3B6F3.PNG</Image>
+      <Description>Make the final assault.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/0DAD7C55ACB156DAE1E8AD0B95F13D070A51D6CD.PNG</Image>
+      <Description>Mission accomplished.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/BB7AC294610EA6A6F443661644A60DC33E48D34B.PNG</Image>
+      <Description>Visit a store in the single-player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Master and Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/8E90945BEE4231E638AA3892E86B520B37F5C9B4.PNG</Image>
+      <Description>Deliver most of the Galaxy at War assets to the final conflict.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Lost and Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/087AD53A72EBF877F5F028A559F7B0E3A8F14B56.PNG</Image>
+      <Description>Dispatch 10 probes to retrieve people or resources in Reaper territory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Long Service Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/3734A9983468486AD7C9CE726548FB035949FC12.PNG</Image>
+      <Description>Complete Mass Effect 3 twice, or once with a Mass Effect 2 import.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Insanity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/DD640934B8804E9088711244E7DCE3F08706D268.PNG</Image>
+      <Description>Finish the game on Insanity without changing difficulty after leaving Earth.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>A Personal Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/10A69B38A2E81C840B9F4C2ADC00DF1C948BD9AA.PNG</Image>
+      <Description>Modify a weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Paramour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/50C0FA5E127B687EFD7629431907A7D8FAF3D039.PNG</Image>
+      <Description>Establish or rekindle a romantic relationship.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Combined Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/C2A3DD1561807E42FBDE86150CB4DD3166565FA8.PNG</Image>
+      <Description>Perform any combination of 50 biotic combos or tech bursts.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Focused</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/E733FC358F28DDC76D7FC2D694C52DF65777FA3E.PNG</Image>
+      <Description>Evolve any of your powers to rank 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/D27D275C47FA38FCF7AF70E45C8BD7B4323658DE.PNG</Image>
+      <Description>Kill 250 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/FDA9FFF02A5D76210197B2AFDE0CCD020C8B456B.PNG</Image>
+      <Description>Kill 1,000 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/19DF74E821270DE502F27D8A2B0046701374037F.PNG</Image>
+      <Description>Kill 5,000 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Bruiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/DC28A63B76A2F319D301980855795CE847790A57.PNG</Image>
+      <Description>Kill 100 enemies with melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/05E74A66BAF157A3ED0C44B94448A647F16AF3B6.PNG</Image>
+      <Description>Escape a Reaper in the galaxy map.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/BB52D49665DFC0FF6B850D84A408FC515C48A440.PNG</Image>
+      <Description>Attain the highest level of readiness in each theater of war.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Overload Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/070C92E8D7849CFE3850665714ACD4AB3E9599AD.PNG</Image>
+      <Description>Overload the shields of 100 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Sky High</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/F3B193C24DD72AFD04A5BC7F2440B295C1D2D199.PNG</Image>
+      <Description>Lift 100 enemies off the ground with powers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Pyromaniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/99601BC822F1B6CAF6EDA6A4ABACC514207F9433.PNG</Image>
+      <Description>Set 100 enemies on fire with powers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Eye of the Hurricane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/AB76C3FE0603289D38E70C466BE96BA30DF2CD79.PNG</Image>
+      <Description>Kill a brute while it's charging you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Mail Slot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/82483768ECEB146C08055D9BDEA059591685C025.PNG</Image>
+      <Description>Kill 10 guardians with headshots from the front while their shields are raised.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Hijacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/52E95C052B6987FB2F98F0E5E3C05E9E476639D9.PNG</Image>
+      <Description>Hijack an Atlas mech.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Giant Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/FB677EA176CF0F5ECE53DE671F75B8B6F06472AA.PNG</Image>
+      <Description>Defeat a Harvester.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Enlisted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/CAAA07D03318CD86715A0A697625C0E06945A2C7.PNG</Image>
+      <Description>Start a character in multiplayer or customize a character in single-player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Tour of Duty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/56C8FA3E54B850EA65E1BE92264589DF9F5C9905.PNG</Image>
+      <Description>Finish all multiplayer maps or all N7 missions in single-player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Always Prepared</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/9AA36BAF8BD715CA257C74A60FF8A06AD8D6AD5D.PNG</Image>
+      <Description>Obtain two non-customizable suits of armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/3437BC6A18FDECDBDD2FAE741BA5AA1DC8F8CAC1.PNG</Image>
+      <Description>Complete one multiplayer match or two N7 missions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/AF940DE9CB523AAC8C6F81567C21D99B27E942C9.PNG</Image>
+      <Description>Complete three multiplayer matches or five N7 missions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Gunsmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/023373FCFE248DB7BB984070A9C7EB7CE250AAD0.PNG</Image>
+      <Description>Upgrade any weapon to level 10.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Almost There</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/459E556BB057FB2753480BF033FB9F4FE62B67B3.PNG</Image>
+      <Description>Reach level 15 in multiplayer or level 50 in single-player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Peak Condition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/6B309B467A66C20A8A5C9E4CB072ED211D98870F.PNG</Image>
+      <Description>Reach level 20 in multiplayer or level 60 in single-player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Battle-Scarred</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/C4559512CCE489D689E3CC066E226F2674DCFAF7.PNG</Image>
+      <Description>Promote a multiplayer character to the Galaxy at War or import an ME3 character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Unwavering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/524732A25A1F1426C2A411CF87691D0A118E2064.PNG</Image>
+      <Description>Finish all multiplayer maps on Gold or all single-player missions on Insanity.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Freedom Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/968D89212AD154A6C00922FCC6395B8703775F40.PNG</Image>
+      <Description>Find all required intel to help Eden Prime's colonists.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Prothean Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_6E4B6D906708B7A3140222E176C4195EFEC84688/342BC25170B83F32A7EF909B54ECC1E03DA201EC.PNG</Image>
+      <Description>Learn more about the Prothean Empire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>No Stone Unturned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/425EF26FE15DB846E3C1C13AF510D321C6743807.PNG</Image>
+      <Description>Investigate a sinister conspiracy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Family Matters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/C9DA7B17FE08F9033B1F2A4064CE9D379F5A0388.PNG</Image>
+      <Description>Rescue a civilian from Reaper forces.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Under Pressure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/C7448E9D66108FAE51F9B8C40B05F465D8B7FCC4.PNG</Image>
+      <Description>Uncover an ancient secret.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Conspiracy Theorist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/BB5AA23E69AFEA0CB842C89798751538781EE512.PNG</Image>
+      <Description>Use clues to pinpoint the exact location of an objective.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/F42001CB6DB1B1AD6A832C76C71125E4FD46AD28.PNG</Image>
+      <Description>Free Omega from Cerberus occupation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Talon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/AC3910655AA5221D012318B866B1AB958B0DB42A.PNG</Image>
+      <Description>Find the Talon leader.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01814_00</GameId>
+      <Title>Meticulous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01814_00_01DCA4E5340F38C90E6D744BECE6F9ED00FA4B147A/C1936A0F1D00BEFC4E3D13DF70FEA863470E9E44.PNG</Image>
+      <Description>Complete all the Command Center side-missions on Omega.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

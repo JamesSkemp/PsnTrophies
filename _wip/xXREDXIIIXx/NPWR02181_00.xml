@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02181_00</Id>
+    <IdEurope/>
+    <Title>Ninja Gaiden 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/E5F8B1EB31D527FCCF97632A6A0860A28BA31284.PNG</Image>
+    <TrophiesCount Total="56" Bronze="44" Silver="8" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Master of the Secret Arts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/8CFE5DBAF200DF18949DFD2E4E13729BF0E98A92.PNG</Image>
+      <Description>Obtain all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Falcon Dive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/B625368517C5C16E7E1AA7D38F1C6572146B7942.PNG</Image>
+      <Description>Learn the Falcon Dive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Sliding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/7E9D31766A974CE3EE20477BE767BC8EAE90D501.PNG</Image>
+      <Description>Learn how to slide.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Kunai Climb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/C5ADA110C0E11736A87C746E23B48BB9F55C837A.PNG</Image>
+      <Description>Learn the Kunai Climb.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Wall Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/70C3C32C5EE1ADC300EC349001C75AD09D384B21.PNG</Image>
+      <Description>Learn the Wall Run.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Flying Bird Flip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/6C7ECCD28B764630021521E9982B366A467CFAD3.PNG</Image>
+      <Description>Learn the Flying Bird Flip.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Rope Crossing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/984E94BCBB22AA07B7CA4381FE867D4149C79E38.PNG</Image>
+      <Description>Learn how to cross a rope.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Izuna Drop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/17746BAE45862F721A1020E69E3C62356EDDEB90.PNG</Image>
+      <Description>Learn the Izuna Drop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Ultimate Technique</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/06CEC9E3E1A6E2F680E3B0BEA52B3CE4137CEC6B.PNG</Image>
+      <Description>Learn the Ultimate Technique.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Inferno</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/F8215A41003941A7F1DA8D63C53A42005AAED3AC.PNG</Image>
+      <Description>Learn Ninpo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Steel on Steel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/D707F22E9ADADFD0A5A640C59CD9AC0DE8165B42.PNG</Image>
+      <Description>Destroy the Steel Spider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>The Grip of Murder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/E7B8DC7EB37F46AF52610F5D3DE5ED873FE8193C.PNG</Image>
+      <Description>Finish Day 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Mind the Gap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/D6B9795E578F8BF4AE61CCCF0CD443A174756B7D.PNG</Image>
+      <Description>Escape from the monorail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Bumpy Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/A70F8AF66126C66571E2D3826F2D501588B87C29.PNG</Image>
+      <Description>Finish Day 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Beyond the Flames</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/352B2FDBFE601BEEA6713DBAE77650349AD4F502.PNG</Image>
+      <Description>Make it through the fire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Antediluvian Slumber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/6797955EBDAA2C646691C7B8A0876F3B51A47025.PNG</Image>
+      <Description>Finish Day 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Abysmal Creations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/D4C8A253BF7FCE7CFA48C463628D8C49F984BD94.PNG</Image>
+      <Description>Escape from the Chimera Disposal Facility.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>The Great Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/394D4DCC3E6C9D53DF89CDAC077EB08841D41FE5.PNG</Image>
+      <Description>Finish Day 4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>The Acolyte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/7130704078C66BE35E3E919A6BB3B266E9006FE1.PNG</Image>
+      <Description>Successfully clear the Sanji event in Hayabusa Village.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>The Karma of a Shinobi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/9375BA7C7D3A18B7C422B51369F1D6E2DA9D5EA9.PNG</Image>
+      <Description>Finish Day 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Evil Twin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/A82E7C00BF0FD2498E396EE67DFF22FB0ABEF5B2.PNG</Image>
+      <Description>Defeat the Epigonos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Waiting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/5028B17715E440C0C84DD3576CA72B1EE0838AD9.PNG</Image>
+      <Description>Finish Day 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Ahab</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/FD122E519ED56E7092226886C94E032021960D47.PNG</Image>
+      <Description>Attack the Black Narwhal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Advent of the Goddess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/E5D4843C053850C9C9C501356A53BC5169DD931D.PNG</Image>
+      <Description>Finish Day 7.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Brothers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/137D196F38E50608CA2DE74942B95B0278A5680C.PNG</Image>
+      <Description>The sibling rivalry comes to an end.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Atonement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/B336CE2011293FBFC159C83F7B8A91B7F2808BBF.PNG</Image>
+      <Description>One more death to make amends.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/E84DDDC0F3FB13978A521BF35092A7AB3F06CF82.PNG</Image>
+      <Description>Clear the game on Hero.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Shinobi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/8D6832A31EF6217F1A3448E92ED763DB5966B492.PNG</Image>
+      <Description>Clear the game on Normal.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Mentor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/F74EAE4B10308F6D396F02F83CBDD4535115BC03.PNG</Image>
+      <Description>Clear the game on Hard.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Master Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/6CE380014679C04198B70D061D84A1D0524BE5FB.PNG</Image>
+      <Description>Clear the game on Master Ninja.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Steel on Bone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/1FD3D0ABDB935EC21F4B23FFDDBE17C7FE92318B.PNG</Image>
+      <Description>Cut down 100 enemies with Steel on Bone attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>I Got Your Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/29761049648B705BD428F6E664F255E658964BDD.PNG</Image>
+      <Description>Play a Co-op Ninja Trial with a partner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Initiation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/12BD066A4CC5B1909CBF7D1A81A90CBEC22A3DE3.PNG</Image>
+      <Description>Play a Clan Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Teamwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/71229A6B341C7C74EF777AB53AB86F9C4D8A96E3.PNG</Image>
+      <Description>Win 10 team battles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>One Against the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/67E07AEF2DEA70D45173AAC39A433FBC71DBEA79.PNG</Image>
+      <Description>Win a battle royale match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Shady</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/3B8DA6D6685C06F021E7D6DF02F1962B87744F2C.PNG</Image>
+      <Description>Perform a betrayal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Sneaky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/7359B52E37EA6AEA10C9B1CA8756C1D528EDBE95.PNG</Image>
+      <Description>Perform a ghost kill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>An Honorable Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/79100F3DADC5EF3365642EFE712362EAFE112B64.PNG</Image>
+      <Description>Perform harakiri.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Initiate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/A80A25B08EEFD1EAD81DB4594507FF9C17107712.PNG</Image>
+      <Description>Clear 10 Acolyte Trials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/24B16054E76C5B63065CA55BB736B59D9B59B74C.PNG</Image>
+      <Description>Clear 10 Mentor Trials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Prestige</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/E5B1F12B352A4961FF984F463B6995E28549A19D.PNG</Image>
+      <Description>Clear 5 Leader Trials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Overlord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/5A319500AB408BB47E79890D77209CD171359538.PNG</Image>
+      <Description>Clear 5 Master Ninja Trials.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Ultimate Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/B073CA60C38A0A2F6CFDDD0C67F038A10F19DA86.PNG</Image>
+      <Description>Clear 3 Ultimate Ninja Trials.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Master of the Katana</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/7900F0BFD36E0D07C18F90B93A226155D6F9AC09.PNG</Image>
+      <Description>Raise the katana to level 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Hayabusa Style Grand Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/7CB89C82C2D8CD9DA73B761A640EAC551A753C13.PNG</Image>
+      <Description>Reach level 50.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Snowman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/128CDF246BD5179CB0F4AA956F11647F1208BD0A.PNG</Image>
+      <Description>Play the Snowfield stage 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Guardian of the Village</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/ADA190084B304F4754A2F7D844C638C64575CF67.PNG</Image>
+      <Description>Play the Hidden Village stage 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Observer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/2DCEE6B8774E71949AE9944A5B6A5FFDD3D221EA.PNG</Image>
+      <Description>Play the Watchtower stage 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Lone Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/5779D2C2B3123CE4BF121A2B9E0AACE92102DE91.PNG</Image>
+      <Description>Clear 10 Solo Ninja Trials.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>The Spice of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/26CBDB904781EB1191BD19F776A773A9EF779314.PNG</Image>
+      <Description>Get 10 customization parts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Walking Dictionary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/4D2581DDA5675B4C81C82F0D640D18EE9EBE0AB6.PNG</Image>
+      <Description>Get 100 kanji.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Legendary Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/6B90B1B3CC68311B6B2B7F40C0D906AA1E8B4D2E.PNG</Image>
+      <Description>Clear the story on the Ultimate Ninja play style and Ultimate Ninja Trials 4 </Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Bloodied Talons</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/8191FE800BCE0D002829206D8A24D23ACCDC2790.PNG</Image>
+      <Description>Defeat 100 opponents in Clan Battles with the Metal Claws.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Grim Reaper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/136C7D4E5882AB67CA921F8441A9D4A7108F247E.PNG</Image>
+      <Description>Defeat 100 opponents in Clan Battles with the Great Scythe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/143DB799F9431525AE2ED19CD7C078BE2B9DC017.PNG</Image>
+      <Description>Clear all Ninja Trials included in Ninja Pack 1.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02181_00</GameId>
+      <Title>Sage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02181_00_CD28D8022D297941A1487EF6E5D6C5FF2D102BB8/758889FC3E243E0624DA3BD48E83DC05CEB8CF52.PNG</Image>
+      <Description>Clear all Ninja Trials included in Ninja Pack 2.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

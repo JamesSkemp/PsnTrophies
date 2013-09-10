@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01638_00</Id>
+    <IdEurope/>
+    <Title>Quizball Goal! Trophy Set</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/624295D26D8567E5260CAE5A9DD44FFB3B9BFA24.PNG</Image>
+    <TrophiesCount Total="14" Bronze="12" Silver="1" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/673F045468DC26242D8DA08B6F40E36E3903BBCB.PNG</Image>
+      <Description>Score three goals in the same match on normal or hard difficulty with the same player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>World Cup Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/4203FEFDF97D10A09C6D6D954860DEE9EDB9FFFC.PNG</Image>
+      <Description>Win the World Cup with 4 teams.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>World Cup Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/D53219A797180BCF9B0CDDB5ADFA3C53E170BCA0.PNG</Image>
+      <Description>Win the World Cup with eight teams.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Nerves of Steel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/78430975EF8C0E867163767DA47E0A81DE9A221E.PNG</Image>
+      <Description>Win on penalty kicks during extra time on normal or hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>On Tour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/E422F1F86DC51E696144702192EF4F74207952CF.PNG</Image>
+      <Description>Play an online match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/16259DF7E839D1C55894A97CAB510CD9031EFF73.PNG</Image>
+      <Description>Win a match by a margin of at least five goals at the normal or hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Brick Wall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/A3A6792D47ADA7BFA8ADE50B8BFD1EF7DB172C55.PNG</Image>
+      <Description>Win the World Cup without letting a single goal in.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Football Scholar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/BFB3A839CF415521DDCEAC5122FAD9BA4391D136.PNG</Image>
+      <Description>Answer five questions correctly in a row in Quiz Match mode on normal or hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Football Einstein</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/0476B8F56A4C98956C9DD55BD8BD449F62AEA88E.PNG</Image>
+      <Description>Answer all questions correctly in a single player match on hard difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Quiz Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/5ADEE1BB9CF25CAF049D0BD1E45B0332EF538DAE.PNG</Image>
+      <Description>Answer six questions correctly in a row on normal or hard difficulty in a single player match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Full Speed Ahead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/17E6F7689F1070774477A7CA94571E6475377A28.PNG</Image>
+      <Description>Score a goal within 15 seconds from match start on normal or hard difficulty in a single player match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Keep on Fighting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/B355469BAE5EAF56C672D1E2CD4D3015DED100DA.PNG</Image>
+      <Description>Score in the last five seconds of a match on normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>Meeeedic!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/E9B0BFE449D7923C7F55329717F72461F011E13C.PNG</Image>
+      <Description>Performed 100 sucessful tackles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01638_00</GameId>
+      <Title>International Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01638_00_946A6D252C7896B59ED92D9153095F1E1711170F/5A3685FEE5A1EF9878227015EA81ECC5968F230D.PNG</Image>
+      <Description>Played a match with all teams.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

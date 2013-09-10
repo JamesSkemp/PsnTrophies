@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01580_00</Id>
+    <IdEurope/>
+    <Title>Mass Effect 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/FDC7FCBA35E1A3EFAAC7CCD232BE124F202EBACE.PNG</Image>
+    <TrophiesCount Total="59" Bronze="50" Silver="6" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>N7 Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/95036CDB60C44B8404839FCDC69B29FCDBF458D9.PNG</Image>
+      <Description>Acquire all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Highly Trained</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/180A0797CD56128BBC3E7233178CC2E372D0FDEB.PNG</Image>
+      <Description>View all advanced combat training videos at Shepard's private terminal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Missing in Action</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/E6FC6FF72505A5788E45AC6772DFF13D385C1C34.PNG</Image>
+      <Description>Save your crew from an overwhelming attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Very Elusive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/7E347370AFC3D72065BF56D2E47D178EE77F42D7.PNG</Image>
+      <Description>Return to active duty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Convict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/32DC98F8B772FB7C266AF35CC1AA9CEE60D3EC95.PNG</Image>
+      <Description>Successfully recruit the biotic Convict</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Krogan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/E865A641EB11DB70C08BB986BC79D9FE69EBBAE7.PNG</Image>
+      <Description>Successfully recruit the Krogan</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Archangel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/2357C0F09A2F2DB7B4A07A6408A8CBDAA31AC6EE.PNG</Image>
+      <Description>Successfully recruit Archangel</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Professor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/4EB2823CC8549F5D364705DE22769BFA0392627A.PNG</Image>
+      <Description>Successfully recruit the Professor</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Quarian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/90DCC3D7E288299C8CF78FA119DF8C6371D09467.PNG</Image>
+      <Description>Successfully recruit the Quarian</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Justicar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/4782C04D405361AD1114748FB5D23090363ECDEE.PNG</Image>
+      <Description>Successfully recruit the Justicar</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/F2329D23C47ED17E1529FB66BA55BEA23DC8467D.PNG</Image>
+      <Description>Successfully recruit the Assassin</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Colony Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/E7049DD1167438892F97A1575075F44583F15DFC.PNG</Image>
+      <Description>Defend a human colony from attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Prodigal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/6289F243490D0BB492803523AC201B551D08D257.PNG</Image>
+      <Description>Gain the loyalty of the Cerberus Officer</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Ghost of the Father</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/3B771D6C0C8E1E11CD43A76A8D7CAA05A2B4B718.PNG</Image>
+      <Description>Gain the loyalty of the Cerberus Operative</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Catharsis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/F0DF444689AFBFA618FABA0E0A3BCBF31135203A.PNG</Image>
+      <Description>Gain the loyalty of the biotic Convict</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Battlemaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/28D3C7780740EAB481056645451FB49D18880143.PNG</Image>
+      <Description>Gain the loyalty of the krogan</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Fade Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/C62D0AC4B66A6CE58ADC6F29A83AF351554105A7.PNG</Image>
+      <Description>Gain the loyalty of Archangel</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Cure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/CEB1A9A3F4C4CFA41CDC145FBBB94FFF6F77A792.PNG</Image>
+      <Description>Gain the loyalty of the Professor</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Treason</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/9640201A3CC02A3A281AC5A9EE89230265B81BC9.PNG</Image>
+      <Description>Gain the loyalty of the quarian</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Doppelganger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/95592E1666ABD8CA6B45D2AEE3081981F4F6DF30.PNG</Image>
+      <Description>Help the Justicar resolve her mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Cat's in the Cradle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/C915D7960004620F6AE21C42A49B238D21A8FBBF.PNG</Image>
+      <Description>Gain the loyalty of the Assassin</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Friend or Foe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/EADBCA4676BA1CD74D0DACD434B16AFAA094C963.PNG</Image>
+      <Description>Obtain geth technology</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>A House Divided</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/6E6F30C1710412F5F85EECE90FB6615E947B621B.PNG</Image>
+      <Description>Hack a geth collective</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Ghost Ship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/7EECB478FE2B9C9273430E296A9E3EA37C638250.PNG</Image>
+      <Description>Complete the investigation of a derelict alien vessel</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Suicide Mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/810EFC52206A51E61308376B85288EB60C9D4938.PNG</Image>
+      <Description>Use the Omega 4 Relay</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Mission Accomplished</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/11931F754CB6DDAFC865AE617721C55220DA74D8.PNG</Image>
+      <Description>Save humanity throughout the galaxy from certain annihilation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Against All Odds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/00C4AADDC82B8921A09BEF4AFAFFBAC8ED418E3D.PNG</Image>
+      <Description>Survive suicide mission</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Insanity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/2CE580CBEC1BF2C77069B467C63BCC9B257E9AA9.PNG</Image>
+      <Description>Complete the game on the "Insanity" difficulty level without changing the setting</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>No One Left Behind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/2206A0736D6F2294805356D85562AA5E83C3122C.PNG</Image>
+      <Description>Keep your team alive through the suicide mission</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Long Service Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/7077BC717A3E66449C44C18089BFD0F2B34E4066.PNG</Image>
+      <Description>Complete Mass Effect 2 twice, or experience the interactive backstory (Cerberus Pack downloadable content) and complete Mass Effect 2</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Paramour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/43FED2481B7432E428EFF28A4ACAD02F6F6099D3.PNG</Image>
+      <Description>Successfully pursue a relationship with a teammate</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Head Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/37D14C3B062A1D7B1AC57BDC63CC2E729E08653D.PNG</Image>
+      <Description>Perform 30 headshot kills with any weapon on humanoid targets</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/9D26DF4BA860812B6CA5185FB76D60BC7CD9C51F.PNG</Image>
+      <Description>Shoot and kill 20 enemies while they're knocked back by a punch</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Big Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/344549455C01F799779E0EB7953CD0D130CD39EA.PNG</Image>
+      <Description>Thresher Maw defeated</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/E68852C74BB933032C141B00CBB13AA712D15774.PNG</Image>
+      <Description>Hit 20 different targets with multiple biotic powers to combine the effects</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Master at Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/24B0CB358520E5C1C8BFD638BB732D0936010BC8.PNG</Image>
+      <Description>Kill enemies with 5 different heavy weapons during the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Merciless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/5EAEDA992FA3A137176FFA38CEC33051E4BA7FC1.PNG</Image>
+      <Description>Make 20 enemies scream as they fall or are set on fire</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Overload Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/A2464D1F6DE2A193BD61DBCA305DB6C1D60117D4.PNG</Image>
+      <Description>Disrupt the shields of 25 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Warp Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/03A30D8A16F4AEEC86C51D09294D676E6AC8D286.PNG</Image>
+      <Description>Warp the barriers of 25 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Incineration Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/F253851709F907BCEC7A8A9DE7442733B182CB49.PNG</Image>
+      <Description>Incinerate the armor of 25 enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Operative</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/AC61D7D2E810D54DFA1ED9ACC6AD0388949937BC.PNG</Image>
+      <Description>Complete a mission discovered by scanning an unexplored world</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/E57372E1BADAEDBD577119D3E9BB253B85447F73.PNG</Image>
+      <Description>Complete 5 missions discovered by scanning unexplored worlds</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Prospector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/56607D529BFE907FE3C36B135A2ADD981F4714DC.PNG</Image>
+      <Description>Retrieve mineral resources by scanning and probing a planet in the galaxy map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/CE537E82C6DFFCF1B74FEE4137E96948F50A14F9.PNG</Image>
+      <Description>Visit 100% of the planets in an unexplored cluster</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Power Gamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/DF3B0920B47C93FC98056E1EA1E33AF4391CA9D6.PNG</Image>
+      <Description>Reach Level 30 with one character</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Scholar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/4CF68C10208BF332443546FFAF4EE596BA8689FD.PNG</Image>
+      <Description>Unlock 15 new Mass Effect 2 codex entries</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Technician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/B9882CB0B2AF7AE63A3374B707E24C5EE8D1FCA4.PNG</Image>
+      <Description>Obtain 10 technology upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Weapon Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/DBB5157374FF3459A241F26C1B99139886E86EB0.PNG</Image>
+      <Description>Fully upgrade a weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Scientist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/F8F5F42319BA86C320A9E52F03450AAFA158EB08.PNG</Image>
+      <Description>Complete any research project in the Normandy's laboratory</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Fashionista</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/7459D29D8B1188F5EE7E4754891A477438A6D967.PNG</Image>
+      <Description>Personalize your armor</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Power Full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/0AD51E77343C0758F69FF9322CAD5055F2298C23.PNG</Image>
+      <Description>Evolve any power</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Heart of Darkness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/31A2E26CFE5CF8BB267228F155AF010C8120AF86.PNG</Image>
+      <Description>Confront the Shadow Broker</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Broke, Blind and Bedlam</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/38E307BE3D414B704C0C94B5DE31215D83103698.PNG</Image>
+      <Description>Gain the loyalty of the thief</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Data Hound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/16658E7724D1B2F7F6847B02A9BD7DF74C399C40.PNG</Image>
+      <Description>Collect 6 Cerberus data packets scattered across Aite</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Digital Exorcist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/FC59C1F76EA3F0E43F17F72150371F71B9FA18CE.PNG</Image>
+      <Description>Successfully shut down the rogue VI in Project Overlord</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Revenge!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/783DD2ED68DD73BFADE0D41EAFD4E81419E87DF3.PNG</Image>
+      <Description>Gain the loyalty of the mercenary ("Cerberus Pack" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>The Ultimate Sacrifice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/AEE44EEAE1D2A6C7D659C4C9E28D77779F4AB4BE.PNG</Image>
+      <Description>Complete the Arrival DLC ("Arrival" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Last Stand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/F6EC8D0CAA2FC69877D43CCD08172119F43F52B5.PNG</Image>
+      <Description>Survive all five waves in the battle for Object Rho ("Arrival" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01580_00</GameId>
+      <Title>Covert Action</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01580_00_DDEF46159F8CAE64AD5D8A4E9C6CCB372272C782/174ECE2BD75A5057EDF418C0F3551C09CEAA5789.PNG</Image>
+      <Description>Rescue Dr. Amanda Kenson without attracting hostile attention ("Arrival" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01654_00</Id>
+    <IdEurope/>
+    <Title>Sniper Elite V2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/31986F4268D450A1C5FA695281B0BC425A773A23.PNG</Image>
+    <TrophiesCount Total="42" Bronze="24" Silver="15" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/328866181DAE620E61FE4F4760DDDC71AAE4F3CC.PNG</Image>
+      <Description>Win all other trophies to take your place as the world's greatest sniper</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Front and Center</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/62BAE39841B9389472B22A54C0781CC7E77CF747.PNG</Image>
+      <Description>Get a scoped headshot over 150m</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Mousetrap Fuse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/6805B766AC0A900E47C857CEC55263B7EDF28929.PNG</Image>
+      <Description>Use a trip mine to kill an enemy who is trying to assault your position</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Ear Plugs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/58A4ED68236E23624F78A7016BF36CDB6CB69574.PNG</Image>
+      <Description>Snipe an enemy while your rifle fire is masked by a loud sound</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Fuel Tank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/041D65AA822D3E291F67708015664EDDC07131A5.PNG</Image>
+      <Description>Destroy a tank by sniping the fuel supply</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Silent but deadly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/418CF45765558ECC977A1B60B088E668CB681588.PNG</Image>
+      <Description>Covertly kill 25 unaware enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Deadeye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/9689F7E55D801C6D35CCE541D8B317B27FAB8360.PNG</Image>
+      <Description>Snipe an enemy through his eye</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Go the Distance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/D55318035A3D1C21F7236AB90BC2649FEDC6AF4B.PNG</Image>
+      <Description>Get a cumulative sniped kill distance of a marathon</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Iron Lung</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/0B40871679AF6CA4C2BA815D7A4B23C6DF1E0B66.PNG</Image>
+      <Description>Hold your breath for a cumulative time of half an hour</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Potato Masher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/4E7389E85E7069756DA1740A66966F3BF66F450A.PNG</Image>
+      <Description>Kill 100 enemies with explosives</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>World Record</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/07CA0978A77016C9005C00FA4879858AD22C2309.PNG</Image>
+      <Description>Get 506 cumulative sniper kills</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Gung Ho</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/6B17557447B7F6AA87D11AD2DF54F1665FDE2547.PNG</Image>
+      <Description>Snipe 100 moving targets</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Head Honcho</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/ECA2984E62DA37ADE31E87113C10B5111600CB8C.PNG</Image>
+      <Description>Get 100 sniped headshots</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Jungle Juice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/B6518A06C93071619E0EA5AE2FFFACC7F1CAC273.PNG</Image>
+      <Description>Find and snipe all the hidden bottles throughout the game</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Gold Rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/9F7CA3CFF07E92E6E556B4DDF10E6C307983D8F7.PNG</Image>
+      <Description>Find and retrieve all the stolen gold bars</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Pass the Buck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/AADB3AE7E1429A5C214903206AE84F99B30C249C.PNG</Image>
+      <Description>Get a sniped ricochet headshot</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Double Dose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/2E6CBB8B8373120B15D9CA6B3FDE752B1346925B.PNG</Image>
+      <Description>Snipe 2 people with one shot</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Cooking Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/0CCE0B86B2976E6595E2F2C7B1DA9878010EBA06.PNG</Image>
+      <Description>Snipe a grenade on an enemy's webbing from 100m</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Make Every Bullet Count</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/A1892F03223574017849D42BEE427C59DEEB5F16.PNG</Image>
+      <Description>Complete a level with 100% accuracy, using only rifles</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Hide and Hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/ECC18D602AACA94793E2BCDD1F4CB23510DF0640.PNG</Image>
+      <Description>Complete a level without being shot a single time</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Trainee Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/3F5C6C7FA4031664E05D1D0713486E31030ACFC1.PNG</Image>
+      <Description>Escape the German assault</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Novice Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/8F7A4C706316F7B003008CC1EE033F79D72E6E36.PNG</Image>
+      <Description>Stop the convoy</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Apprentice Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/021C8A570EA7BDF711694265946AB8DA1080D9C8.PNG</Image>
+      <Description>Destroy the V2 Facility and escape to safety</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Journeyman Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/862DA4FDF617996C512D57DA6157BACDEB9BF5F4.PNG</Image>
+      <Description>Hold off the Russian advance</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Skilled Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/56C08D009B795898C8D3DBF3D90F28757CD3E557.PNG</Image>
+      <Description>Stop the execution</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Pro Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/83FD497AB34EDE02052A0511ADBB36BB9FD0E385.PNG</Image>
+      <Description>Collect intel from the church and make it out alive</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Expert Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/8F57531A8968AE26070C2BA4CB7582401C059E7C.PNG</Image>
+      <Description>Eliminate Müller</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Master Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/27CC07F4E1EDB360A10CC4466F188F258D317F16.PNG</Image>
+      <Description>Uncover Wolff's plan</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Veteran Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/8FFE89203CDFFEFC0DCE41D68B610DFA80546B17.PNG</Image>
+      <Description>Discover the location of the V2 launch site</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Feared Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/A207A09510D3A97EC70CAEB0C48D8CF743E39B70.PNG</Image>
+      <Description>Destroy the V2 rocket</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Legendary Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/96D668D5BA90F72102FB958760AC0539D62A1B76.PNG</Image>
+      <Description>Prevent Wolff from escaping</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Sniper Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/82E8420100835178F06FC3BA633D7F05B7FA8BCE.PNG</Image>
+      <Description>Complete all missions on highest difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Get Off the ground</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/6E5B30E9F251357714320FF1A5DA5DE03EED910E.PNG</Image>
+      <Description>Kill everyone in the convoy from ground level, except for Kreidl</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>High and Mighty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/E4E45C688D307C2AB4E96115A6E7387ADDBCBA04.PNG</Image>
+      <Description>Wipe out the Elite Russian Sniper Team from the rooftops</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Fish Tank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/EE1CAC38AC3F3E812276776957495FE68673425C.PNG</Image>
+      <Description>Send the tank into the river by blowing up the bridge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Kilroy was Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/6EFF45E45E9387E8DE943AFEC3DAF7BFEB03EFAA.PNG</Image>
+      <Description>Make it through the tower to the winch room without being spotted</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Target Spotted!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/611136AEDC2D0C932BA8A3A76FD5D03B92C1FD8F.PNG</Image>
+      <Description>As a spotter in Overwatch, tag 50 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Target Eliminated!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/85B636F5100DA6FEF1AD817BDBE2B049F7BED247.PNG</Image>
+      <Description>As a sniper in Overwatch, snipe 50 enemies tagged by your partner</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Bedpan Commando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/2771B11682C4B363CF507BC24A3680D8D2FE6789.PNG</Image>
+      <Description>Resuscitate your partner in coop 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Bomb Happy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/B6040B706659DC5710DE4EBB8A2B1C36DDE0F8CC.PNG</Image>
+      <Description>Survive 10 Games of bombing run</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Detonator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/7C78370ECBE72AEAD51DFEA3BDE12FD5FAA61725.PNG</Image>
+      <Description>Career total of 50 shots on explosives</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01654_00</GameId>
+      <Title>Can Do!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01654_00_08DB6D32672F8D4E720C3713FB37527873CF0F79/6848A4074BB1DAF53A1C767A13759BEFA71EFB7E.PNG</Image>
+      <Description>Complete all co-op Overwatch Missions</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

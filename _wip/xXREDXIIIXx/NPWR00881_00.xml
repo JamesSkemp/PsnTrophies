@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00881_00</Id>
+    <IdEurope/>
+    <Title>Demon's Souls</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/166B48AEB06DD91ED0E0FCC3B709CEAD9605580A.PNG</Image>
+    <TrophiesCount Total="38" Bronze="27" Silver="5" Gold="5" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Toughest Soul Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/1E3067DBA23EB80306B07285FA928E9905EE6047.PNG</Image>
+      <Description>All Trophies Obtained</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>World Uniter's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/3B9DDE41CD39469273592971089A77CE53DF70EF.PNG</Image>
+      <Description>Old One Put to Sleep </Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Sage's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/8450D2CD04BC027BD8D6FB4B070A0C2B185AB97E.PNG</Image>
+      <Description>All Spells Learned</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Saint's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/F217700199934036D7E677BDD1131419CF99794C.PNG</Image>
+      <Description>All Miracles Learned</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Rogue's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/375468D86A53FBD41B44D716D368EE845BBD6D32.PNG</Image>
+      <Description>All Rings Obtained</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Soldier's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/C887A1E385A7859DD5FE532B4C8023DDEA90AB86.PNG</Image>
+      <Description>All Unique Weapons Obtained</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>False King's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/E79E7E31145E3422C093D90F1B3F3169DF3E099C.PNG</Image>
+      <Description>Slayer of Demon “False King”</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Storm King's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/B434B9EA0AC927E3F73014FCCBF14E1389669BEF.PNG</Image>
+      <Description>Slayer of Demon “Storm King”</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Old Monk's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/725176A06FCF69FFE57782E21E6187A5172CBD68.PNG</Image>
+      <Description>Slayer of Demon “Old Monk”</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Maiden Astraea's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/2985E8A3E0B66C68220024BFB91B969D798CD359.PNG</Image>
+      <Description>Slayer of Demon “Maiden Astraea”</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Dragon God's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/18331AE16C4B32BA5395F012F7249EA6E3BBC056.PNG</Image>
+      <Description>Slayer of Demon “Dragon God”</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Old King's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/067B31838B498F432F079A45A3BD92A454C764EA.PNG</Image>
+      <Description>Conqueror of Old King Doran</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Flying Dragon's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/8A018EC2882C8E3D5F41EFB8608C3B7EEBC1C819.PNG</Image>
+      <Description>Slayer of Demon “Blue Flying Dragon”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Trophy of Hardness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/9B8D67AB413CC4B712087031F920AAF665F66327.PNG</Image>
+      <Description>Obtained Best Weapon by Hardstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Trophy of Sharpness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/0B8ABCC04357D91E23987D69CCC9816D4DA7A039.PNG</Image>
+      <Description>Obtained Best Weapon by Sharpstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Trophy of Distinction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/35626C17D4163604F10BD608DECBA7EC4B726A81.PNG</Image>
+      <Description>Obtained Best Weapon by Clearstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Master Basher's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/2750D3474B817FF06D119B60A50B932F008318CD.PNG</Image>
+      <Description>Obtained Best Weapon by Greystone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Master Slasher's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/6FAC47D4DC98D848921EA389039299973362E629.PNG</Image>
+      <Description>Obtained Best Weapon by Bladestone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Master Bowman's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/80129395CF28532561DC26DAFE664F30EF7F37F3.PNG</Image>
+      <Description>Obtained Best Bow by Spiderstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Poison Master's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/90A7EAA1383CBF05956FA02724348447006EA363.PNG</Image>
+      <Description>Obtained Best Weapon by Mercurystone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Flame Master's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/A83372A5A34BE230BF0281E9BFC81E6FA1B082F2.PNG</Image>
+      <Description>Obtained Best Weapon by Dragonstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Blood Master's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/76B0EC479154D7D46DBA21DC04EEF61232CFC7E8.PNG</Image>
+      <Description>Obtained Best Weapon by Suckerstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Life Master's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/37D64A72005673684012F3839DCEA0AF1AC148FA.PNG</Image>
+      <Description>Obtained Best Weapon by Marrowstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Moonlight's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/BE58E0AA7CE685262BED3E4DA63F69996F0B085F.PNG</Image>
+      <Description>Obtained Best Weapon by Moonlightstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Darkmoon's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/DD32E411BC45AC0EACA8DA798539310990698B98.PNG</Image>
+      <Description>Obtained Best Weapon by Darkmoonstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Congratulant's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/C66A818682D1247B268380D86F841DDEBD94892D.PNG</Image>
+      <Description>Obtained Best Weapon by Faintstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Shade Master's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/8D895F2A070A6080D73A9BD5A807B8AF8E0BB110.PNG</Image>
+      <Description>Obtained Best Weapon by Cloudstone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Phalanx's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/14BA63201B412AECB0EDD18AAEAD2547869CECBE.PNG</Image>
+      <Description>Slayer of Demon “Phalanx”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Tower Knight's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/A704AC901280E8F40E3D578942427854AA87BF3D.PNG</Image>
+      <Description>Slayer of Demon “Tower Knight”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Penetrator's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/098F0EA56B07B049531BCFE3908FE2B0146114B0.PNG</Image>
+      <Description>Slayer of Demon “Penetrator”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Adjudicator's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/BAF7EC0AF0C2D3E249B383143CE1489940F8C021.PNG</Image>
+      <Description>Slayer of Demon “Adjudicator”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Old Hero's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/84803F7A5ED2A075D0D9B7A9EE70C42C06BBA32A.PNG</Image>
+      <Description>Slayer of Demon “Old Hero”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Fool's Idol's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/5BFC0286D6980F5DE92EEBA3474550C4880D2791.PNG</Image>
+      <Description>Slayer of Demon “Fool's Idol”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Maneater's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/69475058E736D23E6BC2C0C164EAE47228651002.PNG</Image>
+      <Description>Slayer of Demon “Maneater”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Leechmonger's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/DDE05D49D37039D89B68731AC1CDCCDB07FFADC4.PNG</Image>
+      <Description>Slayer of Demon “Leechmonger”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Dirty Colossus' Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/1870D8D0C7240BC8A26262166ED7E1865FB8A23C.PNG</Image>
+      <Description>Slayer of Demon “Dirty Colossus”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Armor Spider's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/7C7E71743FEBC7FE5A3880475AED6CE8CB48C55F.PNG</Image>
+      <Description>Slayer of Demon “Armor Spider”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00881_00</GameId>
+      <Title>Flamelurker's Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00881_00_40B50C9A62AA289E3B02E50652C5583B3A4292C5/8CE512EDB07F392EAD8A77668AA977122F4B8E95.PNG</Image>
+      <Description>Slayer of Demon “Flamelurker”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

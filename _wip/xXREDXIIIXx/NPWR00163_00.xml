@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00163_00</Id>
+    <IdEurope/>
+    <Title>Warhawk</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/12CC81071B95A6C561ECC8E07991C4E74D7495E2.PNG</Image>
+    <TrophiesCount Total="57" Bronze="36" Silver="13" Gold="7" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Warhawk Supreme Achievement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E4954BEE6F5C77A06C55A57B207D0BF3CE7BCDBF.PNG</Image>
+      <Description>All your base trophies are belong to platinum.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Bandwidth Donor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/6735C3FD14EB4B20DC652B2CC849C5A627E933FA.PNG</Image>
+      <Description>Host a ranked dedicated server for four consecutive hours.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Warlord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/C0691B79AE5CBDD501B463CF5BA3C4FA2BBDDD9C.PNG</Image>
+      <Description>Create a clan and get nine other members to join. (Awarded at ten members while you are the clan leader.)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Enlistee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B9043A64B9BC2041DBA8A7F3CDAFF3CBC5DB38E7.PNG</Image>
+      <Description>Join a clan.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Rivalry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/D1A392C6D28F5378EFC1EA7AABB0CFEFF5FE7374.PNG</Image>
+      <Description>Win a clan match (red server) as either clan leader or a regular member.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Lone Wolf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/A8FD0D77DC8A9775B489487FC3B1FE626611A47A.PNG</Image>
+      <Description>Play a perfect Deathmatch (top player, no deaths).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Cowboy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/4C0985313427C6996C7E6A9D05AAAB006421DC11.PNG</Image>
+      <Description>Play a perfect Team Deathmatch (top player, no deaths).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E0BB611F8C06259DB378A4472312B19D7AE35C54.PNG</Image>
+      <Description>Get three flag captures in a single round of CTF.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>World Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/1D1BEDB50C2A404A2AB377695D63D34DB5AB07FB.PNG</Image>
+      <Description>Control all capturable bases in a Zones match, and reduce the enemy's home base to level 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Survivalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/5E1BE4A2D4542DDCA6BFFD0B73FCBE77CD9D16F4.PNG</Image>
+      <Description>Survive for one minute as the hero in Hero mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E3C38B6356AC372639F63FBBC1F1D57B96232CA6.PNG</Image>
+      <Description>Capture four cores at once in Collection mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Anti-Air Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/3B4EAD97857B1FA70FAE35C77165C27233E35ADE.PNG</Image>
+      <Description>Shoot down a Warhawk with any infantry weapon other than a Rocket Launcher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Dead-Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B022B72593D203D3B6ADBD3869E09B1EBC61E37A.PNG</Image>
+      <Description>Achieve a sniper kill from more than 2,500 feet away.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Saboteur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B87E232A1C31E6A8C62A620FCDCFFB077E392712.PNG</Image>
+      <Description>Destroy an enemy vehicle with the Field Wrench.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Irony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/403B425E1F547D03408E95C8E2C08AE110D19672.PNG</Image>
+      <Description>Kill an enemy with his own Proximity Mine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Invincible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/AAE5C69CD8CC52F623C56DA7D961B3B52289C408.PNG</Image>
+      <Description>While on foot, take at least 250 damage within 10 seconds without dying.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Taxi Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/0B37805E87C28C3AA4FDBD69BF48F64D7FC91CCA.PNG</Image>
+      <Description>Help a teammate capture the flag (in CTF) or cores (in Collection) by transporting him back to the base, using any vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Resourceful Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/0BE6E6DFA3BB02B0A5F5BE1AE77CEF6D2A06B76A.PNG</Image>
+      <Description>Achieve a road kill and a .50 cal kill using the same 4x4, without dismounting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>One In A Million</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E5B8767253E9B48CD5D194ACCF14D2BFA3DCECB3.PNG</Image>
+      <Description>Shoot down an enemy aircraft using the tank's main cannon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Overkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/155CC3422C8DBDE53C337108624AFB509F3CD377.PNG</Image>
+      <Description>Destroy an enemy aircraft with a volley of 8 Swarm Missiles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Dumbfire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/7D03F65FC1ADE858CE9C359F7E83F46DA433849C.PNG</Image>
+      <Description>Destroy an enemy aircraft with a dumbfired Swarm or Homing Missile.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Remote Pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B6E1227E829B65146392B6D2C4A0951ADB451970.PNG</Image>
+      <Description>Destroy an enemy aircraft with a TOW Missile.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>How Did You Do That?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/DD0704F5EDA1770B6E2755F574791B355C54A7EF.PNG</Image>
+      <Description>Destroy an enemy aircraft with a Cluster Bomb.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Tail Shaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/42FC5FB93B0D925CD48D3309344EFF1039A68637.PNG</Image>
+      <Description>Destroy an enemy aircraft with an Aerial Mine within 5 seconds of deploying it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Emergency Evasion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/D20E8AC9E71B80F94F9969C86EBAE4A7B0CEF072.PNG</Image>
+      <Description>Break at least 6 simultaneous missile locks using Chaff.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Hit List</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/047F1D5D5BE4CC0461DE1E8BBC28BBBCBB752BE1.PNG</Image>
+      <Description>Kill every member of the opposing team at least once during a round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Anti-Camper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/2334460D9E6C1443D433A6B207229C6586A339CC.PNG</Image>
+      <Description>Kill an enemy in a Missile or Flak Turret after that enemy has achieved at least five kills in that type of turret.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Vengeance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/7E20B8FDE2B7890E9D4A84EACAE8E37DFD052832.PNG</Image>
+      <Description>Kill an enemy within 60 seconds of that enemy killing you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Daredevil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/F191CB50E19ACCF811733218666BCEF69ABE75FD.PNG</Image>
+      <Description>Get 100 feet off the ground in a ground vehicle. Does not count if the vehicle is being carried by a Dropship.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Ground Pounder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/79344063C6F25CEE9ACA7164243F51F46B3D31B1.PNG</Image>
+      <Description>Complete Ground Combat Training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Combat Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/13748C4F8ED259BF1A4A7B82A80D628B50BEA738.PNG</Image>
+      <Description>Complete Vehicle Combat Training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Pilot's License</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/0D6E85A6ACFD6C9275B0D4F144162F3720D83C01.PNG</Image>
+      <Description>Complete Warhawk Combat Training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Bandit Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/7B42E66C1C6700172A17E031E809EDE9C4113431.PNG</Image>
+      <Description>Earn all in-game badges at Bandit level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Master Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/21A0A36C1582DE78D02A9AA1C96DF66C743E5FCB.PNG</Image>
+      <Description>Earn all in-game badges at Master level.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Warhawk Award</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/635BB531D2146D802A392A6BB90932CC1ABECC80.PNG</Image>
+      <Description>Earn all in-game badges at Warhawk level.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Recognition of Merit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/5648A43A2D6D1B7FC5CCA99CC47D3CF86DCF505C.PNG</Image>
+      <Description>Earn any five in-game medals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Decorated Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/6E0AE76B6EDF89ACA043584428B9F81EE528FA5C.PNG</Image>
+      <Description>Earn any 15 in-game medals.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Executive Honor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/52AFE653124738FD4C77696E67BE387B2162B06F.PNG</Image>
+      <Description>Earn all in-game medals.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Chief Sergeant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/67895A02AC9870DCB6CEB77F6AE517A18228C93D.PNG</Image>
+      <Description>Achieve a rank of Chief Sergeant.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/853382F5B4C922A51E896ED95E7990C1BF98E27D.PNG</Image>
+      <Description>Achieve a rank of Commander.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Lt. Colonel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/3784F406DD8B213522CF2C62B5A129010A5DAED4.PNG</Image>
+      <Description>Achieve a rank of Lt. Colonel.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/FBA8E9EDC8C5EEBD65930C195FF74729188F30E9.PNG</Image>
+      <Description>Achieve a rank of General.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Minesweeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/CD230858460B5C6F8D2535940EA244728D2F62EE.PNG</Image>
+      <Description>Get killed by Proximity Mines five times in a single round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Reckless Pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B1CFB2EE1D11EFAFBF9136F31FED2EAAAC1C184B.PNG</Image>
+      <Description>Commit suicide in a Warhawk by running into your own Aerial Mine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>What's That Green Line?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/D33AEA8CB679016AAA5A5B3C94ABF05F8C39249B.PNG</Image>
+      <Description>Get killed by a Binoculars strike while piloting an aircraft.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Giant Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/A71D9A5D7C7F15BBD97FA2543570F6CBFA80BF9C.PNG</Image>
+      <Description>Shoot down an enemy Dropship while using a Warhawk.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Flying Fortress</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E2CDC7EC115DB08CCB42CAD263A2B9FCE7AC8CD2.PNG</Image>
+      <Description>Awarded to the driver and all six passengers of a fully-loaded Dropship.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Surgical Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/6639C31FA14D770E4704914DD8497C3D1D8FF076.PNG</Image>
+      <Description>Shoot down a Dropship with a Binoculars strike.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>King of the Jungle Gym</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/9C5B1197A96F02E793DB9DDEF416BE7B01E68642.PNG</Image>
+      <Description>Retrieve the Proximity Mines from the top of the dome on the Omega Factory Rumble Dome layout.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Porcupine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/B58820065C65BB1C9DFC0F5D8B576A6A789E910E.PNG</Image>
+      <Description>Destroy an enemy Warhawk with the APC's E-POD shield.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Behind Enemy Lines</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E8353901DB63A79BE26C93F584EF84A422F7549C.PNG</Image>
+      <Description>Drive an APC into the enemy's home base, then have at least one teammate spawn into that APC.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Shield Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/E29B5EECFABB9F98E418F2C1CD6346D14BB42C00.PNG</Image>
+      <Description>Break an enemy E-POD shield using the Lightning Shell.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Canyon Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/423D2AA24DD983651FAF39660D8DDD753E2DBC86.PNG</Image>
+      <Description>Using a Warhawk, shoot down an enemy Warhawk in the central gorge in Vaporfield Glacier.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Aerial Ballet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/0B3C7304E2DAB1B502047FE03ED76D05917788D9.PNG</Image>
+      <Description>While flying a jetpack, kill an enemy (who is also flying a jetpack) with any weapon other than the Rocket Launcher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>That Was Some Bug</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/424304A0D9863464B9A745BCEC7CA820673F3E51.PNG</Image>
+      <Description>Kill an enemy who is flying a jetpack by hitting him with any vehicle or aircraft.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Are You Aim-Botting?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/F1E5388B301B980EC1285C7DE6811EE23A5CC37F.PNG</Image>
+      <Description>Snipe an enemy who is flying a jetpack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00163_00</GameId>
+      <Title>Safety Violation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00163_00_08A89836679826F2FABD6207BB3202E115C870E9/874B31EA1E48733741F4945770216285166FD48F.PNG</Image>
+      <Description>Kill a distant enemy from on top of the salvage crane in Tau Crater.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

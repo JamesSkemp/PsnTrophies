@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03297_00</Id>
+    <IdEurope/>
+    <Title>007 Legends</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/93FA4239B400B5102D65269BF035ED93B5BC350E.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/89A8370328D0FF807A4248995938D1336DF533A8.PNG</Image>
+      <Description>Unlock all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Secret Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/3BFE1BA98C4E12C249F32B264FD3ACFC982296E4.PNG</Image>
+      <Description>Complete all levels on 'Agent' difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>007</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/088C8B828975F00A4A985C56BD9D171633788273.PNG</Image>
+      <Description>Complete all levels on a 'Classic' difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Goldfinger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/E9697FB472E185A478CDDB75D7CB1C4D36147812.PNG</Image>
+      <Description>Complete the 'Goldfinger' mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>O.H.M.S.S.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/3B662FB142049E256C4734EA625436A2023C3A86.PNG</Image>
+      <Description>Complete the 'O.H.M.S.S.' mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Licence To Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/EBB7FFC87E50FD11A711F6B39AC935B94D23AF18.PNG</Image>
+      <Description>Complete the 'Licence To Kill' mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Die Another Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/7DA5779C6D5D97CDA6BF7998498E199D511ADA09.PNG</Image>
+      <Description>Complete the 'Die Another Day' mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Moonraker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/064F811A2ED26A5752F8DBCE0F220708729D18B4.PNG</Image>
+      <Description>Complete the 'Moonraker' mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>People Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/706DB73B190740ABA28B11F0B391CC908231EA91.PNG</Image>
+      <Description>Campaign: Collect 30% of all character bio intel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Making it Personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/78486B7D96BC6C9D89C0E755F30C7410DF477E20.PNG</Image>
+      <Description>Campaign: Collect 100% of all character bio intel.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Web of Intrigue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/EE269C212061C07E426BDED3FE8BFD7B76A274B3.PNG</Image>
+      <Description>Campaign: Collect 30% of all organization intel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Clandestine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/FADB3FECB5C17972C75AE4CAE41B368514789726.PNG</Image>
+      <Description>Campaign: Collect 100% of all organization intel.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Happy Snapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/1D684209F01C65C17CBA6B5F7513D7C55649D1E5.PNG</Image>
+      <Description>Campaign: Take a photograph of the crocodile.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Scream if you want to go faster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/782ECC28D35BC342116237DBD03CE0499D5BEED6.PNG</Image>
+      <Description>Campaign: Overload the gyroscopic training machine in the Space Port.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Vodka martini, plenty of ice...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/00536E3816C58B998B81BD445425580A7F8CC253.PNG</Image>
+      <Description>Get 100% collection rating for 'Die Another Day'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>I expect you to die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/F18000D9B849A61349B716EC1660ED2642E8FDAB.PNG</Image>
+      <Description>Get 100% collection rating for 'Goldfinger'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Never happened to the other guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/4A9D9B1716000FDB738244E204311DDF330B3899.PNG</Image>
+      <Description>Get 100% collection rating for 'O.H.M.S.S.'</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>You prepare for the unexpected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/A8E101D3DB26DF5D0D23D90A348DD5C6B5620C74.PNG</Image>
+      <Description>Get 100% collection rating for 'Licence To Kill'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Around the world one more time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/AB979F3870CE03F924C64F911C8227401DBE5E1A.PNG</Image>
+      <Description>Get 100% collection rating for 'Moonraker'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Boys with Toys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/E8CFF554CCB2435104489D09602FB0EBCCD423BC.PNG</Image>
+      <Description>Campaign: Buy all of the attachments for one weapon class.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Very novel Q</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/1DA9E0A000E9AA410D5685F15BCCC3F7F532C39C.PNG</Image>
+      <Description>Campaign: Upgrade a gadget to its highest level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Standards of Physical Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/C9A43D8ECBFF5B1DB53991BFCA606400B26D9B01.PNG</Image>
+      <Description>Campaign: Acquire all of the MI6 training modules.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Everything or Nothing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/4FD665145B7DC70C64D97E3F737768107DDC9398.PNG</Image>
+      <Description>Complete all of the trials on any one level.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Extended Operative</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/7EB2AC5FD85BE0C5E6BB2ABDC74EE4A048DCB50D.PNG</Image>
+      <Description>Complete eight of the 'Operative' level trials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>More Than an Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/3837618F3059E1B7DDEBB6ABC8DD16D27EAD2409.PNG</Image>
+      <Description>Complete six of the 'Agent' level trials.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Above and Beyond a 00</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/9C021D9D04DA3261A80CB9BF7804CE86C9FD40A3.PNG</Image>
+      <Description>Complete three of the '007' level trials.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Signature</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/828B0EA76930498C899FE57E7C4E0EB07E2F35E4.PNG</Image>
+      <Description>Campaign: Reach level three weapon proficiency with the P99.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>With or Without Q</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/ABA57E0938ACA3F632CB58C24448CD2F12FF70B0.PNG</Image>
+      <Description>Reach Grave’s plane without using any in-car gadgets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>One small step for a man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/11B7CA5EB0ED2CB0EF4899EFA0C9B968D6A8342D.PNG</Image>
+      <Description>Experience zero-g.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Spend the money quickly Mr. Bond</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/5E51C731A76999EB980D1AB8DE473D3984908334.PNG</Image>
+      <Description>Campaign: Be awarded a total of 10,000 XP.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Distracting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/E5475C59E13B9237E202A041B889C32686965314.PNG</Image>
+      <Description>Distract an enemy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Positively shocking!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/FA2FB1A7A11A727C82F4BB1984CF23CA32984971.PNG</Image>
+      <Description>Take out two enemies with one shock dart.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Master at Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/094412FD2D4ABAEDDDD5F780E3388129CD5BF219.PNG</Image>
+      <Description>Make an elimination with every weapon class.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/FA9B30881E4FBBFC210A6D942EC0522E2AF09513.PNG</Image>
+      <Description>Earn a 1 star rating in each mission of the Challenges mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>All That Glitters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/B17C41DAB731FCC5B9137EF316E0B3E950646FB1.PNG</Image>
+      <Description>Earn a 3 star rating in any mission of the Challenges mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Shooting Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/BC5432CEE21C7EE0A5FAA2848AB7B86847B2D99B.PNG</Image>
+      <Description>Get 30% of all available stars in the Challenges mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Star Struck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/E29C21DD68D1AB7CB243F0C169FD807D52A55552.PNG</Image>
+      <Description>Get 60% of all available stars in the Challenges mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Fascination with all things gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/39C3F2D53151E90D1ADEB090277F7B017ADE4D29.PNG</Image>
+      <Description>Get 100% of all available stars in the Challenges mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Unlocked and Loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/EF082D8DF58866A2467F07CB065C08ED8DBB96F3.PNG</Image>
+      <Description>Public Match: Reach level 6 (Midshipman).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>00 Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/0F6C4452ABB353167FD58FDE82C2963F7D406403.PNG</Image>
+      <Description>Public Match: Reach level 50 (00 Agent Grade 0).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>A Farewell to Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/3B45375A5CBD583B7669A22BDC841EEFF8837846.PNG</Image>
+      <Description>Multiplayer: Enter 00 Specialization.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Laser Eraser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/BC23CE2C62FF86996E77D415599B48CF950AD6E5.PNG</Image>
+      <Description>Public Match: Win a match using only laser-based weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Midas Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/762B861324B367ECD11EE016E24EF32AA80B31AC.PNG</Image>
+      <Description>Public Match: Win a match on Main Vault, Smelting Room and Loading Bay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Danger! High Voltage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/75965B19F615377165E2E88DC5978FBA0B90E847.PNG</Image>
+      <Description>Public Match: Get 25 electrocution kills as Zao or Gustav Graves.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Counter-Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/C51FBDF80F62776A5E49B14F90E41E29B50DA12A.PNG</Image>
+      <Description>Public Match: Kill 50 players while they are aiming down the scope of a sniper rifle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Return to Sender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/9AC08AD5B49192FD4CE92588EF53C1CB2D3FBCDC.PNG</Image>
+      <Description>Public Match: In Bomb Defuse disarm the bomb and plant it at enemy base without getting killed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Shaken, but not Stirred</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/D429F5FDC8EA648963046684D9BC4E809EEB6415.PNG</Image>
+      <Description>Public Match: Survive 50 explosions while using Reactive Armor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Disarmed and Dangerous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/D778BD9C683D495284CE0BED7A3C775B0376B89E.PNG</Image>
+      <Description>Public Match: In Escalation demote an enemy who is armed with the RPG.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Hold the Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/80CFB6A059A935D53A60214BA5E2188B7D281712.PNG</Image>
+      <Description>Public Match: Win a Data Miner match without being killed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>All the Time in the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/65CC96A8077604E0BC2269FBB43F620A2B8D8D0F.PNG</Image>
+      <Description>Public Match: Play for more than 24 hours.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03297_00</GameId>
+      <Title>Omega Virus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03297_00_25C2943E9E2A04DA09167F4E5360FA0AFC5360C1/3A6709EFB3803F240117F72C31F1BBCD49B0E00D.PNG</Image>
+      <Description>Public Match: As Blofeld, kill everyone else in the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

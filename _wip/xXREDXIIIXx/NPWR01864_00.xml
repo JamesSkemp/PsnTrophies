@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01864_00</Id>
+    <IdEurope/>
+    <Title>[Prototype2]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/D8F49C1425867E6192B99EAE872E235AE63672DB.PNG</Image>
+    <TrophiesCount Total="44" Bronze="26" Silver="15" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/B8DFA0E5FA76309F70CFB20FD3845A0E9A1964E5.PNG</Image>
+      <Description>Unlock all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>It's an Epidemic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/2A55FDF0FE4A3CE38347929FE408F66BA73245D7.PNG</Image>
+      <Description>Complete MEET YOUR MAKER.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>I Want Some More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/FF84693701976190E9E9470D72BCF04B9DD5D0C6.PNG</Image>
+      <Description>Complete RESURRECTION.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Religious Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/408A0636FDA9ACB1F3F622A6783AA768965CC77B.PNG</Image>
+      <Description>Meet Father Guerra.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>This is a Knife</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/F2727D06FE79A610CDA7648B9193220887925A33.PNG</Image>
+      <Description>Acquire a Prototype Power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Project Closed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/72B1ABDCF0BF3CD1C13F7D765650A6B40CB30B43.PNG</Image>
+      <Description>Complete a //BLACKNET operation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>The Mad Scientist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/84EAA1D5D2A018D7D83E8DDEAF686A46A0160EB8.PNG</Image>
+      <Description>Complete NATURAL SELECTION.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Something to Live For</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/5D3804E3EDC188280EB9E4937B7B3E9EF4853A8B.PNG</Image>
+      <Description>Complete FALL FROM GRACE.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>What a Bitch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/E9EACE31AD8A028DB491D1BD97D5093C2F1F5690.PNG</Image>
+      <Description>Complete LABOR OF LOVE.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Murder your Maker?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/F1830133AC3D297BA930DBACB37A07AC3681DCF3.PNG</Image>
+      <Description>Complete the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Follow Your Nose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/4D41D82FE63D5660C26FEF0A4F2CE31E0C9029E3.PNG</Image>
+      <Description>Find all BlackBoxes.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Up to No Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/3A61518402714E1976BBD247803FC8B3F478A7A0.PNG</Image>
+      <Description>Defeat all Field Ops teams.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Strike, You're Out.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/6ADF21B6D66DD9FDE074EBA0535A23FAFDA4F724.PNG</Image>
+      <Description>Destroy a Strike Team in 15 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Compulsive Eater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/4FCE9C2425DA7466EC3ECB73D28FB74D76A6F376.PNG</Image>
+      <Description>5 consumes in 10 seconds or less.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Do the Evolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/A5100C43D202BA083B122037AF3C536B129C81DC.PNG</Image>
+      <Description>Acquire 5 Mutations.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Just a Flesh Wound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/6D55ED1E6CD36FD702704326D360CAD16F8D153A.PNG</Image>
+      <Description>Dismember a Brawler.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>All Together Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/35D31CB45053314EB58DEB0DA893C6C15D2876B8.PNG</Image>
+      <Description>10 or more kills with a single Black Hole attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Back Atcha!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/BAC5467F4CE581273B5898AFDC2725DABA9DC301.PNG</Image>
+      <Description>Deflect 5 missiles at enemies using Shield Block.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Two for the Price of One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/6B5B11E87AA30CD666161F7672F20B5E2A8B0FD9.PNG</Image>
+      <Description>Simultaneously kill 2 Brawlers using a single Devastator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Lair to Rest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/93E23718A48DC869D5393BDEC125EF1DC803D405.PNG</Image>
+      <Description>Destroy a single Lair.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Hijack Be Nimble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/F16594A7B5AE45405309517D438138CC25ED14AC.PNG</Image>
+      <Description>Stealth hijack 5 tanks or APCs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Road Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/FDBCDFD0861FCC560317C7BC9B44B169FBED985C.PNG</Image>
+      <Description>Destroy 10 Blackwatch tanks, APCs or helicopters using a single hijacked tank or APC.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Who Watches the Watchers?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/DB4F4CB6AD104F8C435C9C9E65707C7267FBA20F.PNG</Image>
+      <Description>Consume 10 //BLACKNET targets.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Hard to Please</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/683EBC171C0E9AC328E0C15E291258E4F0F859B5.PNG</Image>
+      <Description>Acquire a Mutation in each of the 5 categories.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>The Floor is Lava</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/7419E8865CB06C780862A0C1F693F62CBC6521E8.PNG</Image>
+      <Description>Travel a half mile using only Wall Run, Glide, Jump and Air Dash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Cannonball!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/0E366D00ECACA137551980BC448FAF72C2283120.PNG</Image>
+      <Description>20 or more kills with a single Hammerfist dive attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>You're the Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/042559099CC4455E7678E93F3AC8B21B05061555.PNG</Image>
+      <Description>10 or more kills using a single Bio-Bomb.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Sic 'em!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/32468DA7A461493B596474920CF8B2F752EF8D02.PNG</Image>
+      <Description>Destroy 5 helicopters using Pack Leader.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Over-Equipped</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/FE4572C483082F5F01B617E60766BDC4DC9F9330.PNG</Image>
+      <Description>Weaponize 10 vehicles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>The Best Offense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/8A9595882D053E38E13861961EE1EACA2B82577B.PNG</Image>
+      <Description>Counter enemy attacks 20 times using Shield.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Arcade Action</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/0099D9FFF611EAD0B76065DD92E4B20C7DE8FD02.PNG</Image>
+      <Description>Karate kick a helicopter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>I Caught a Big One!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/6EC111B5424B34B322AD80539104CEBDE126759F.PNG</Image>
+      <Description>Mount a helicopter using Whipfist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Anger Management</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/4C22A933090ADE836C3ACC9D7D8A150C96EDF135.PNG</Image>
+      <Description>Destroy 5 vehicles using a Finisher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>So Above It All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/CC4747CCBE3ACD582C89BD1DFF1244904B4D2C03.PNG</Image>
+      <Description>Spend at least 25 consecutive seconds in the air (helicopters don't count).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Vitamin B-rains</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/274E34E88A3DC85C849D098AA73820E410FD2D5A.PNG</Image>
+      <Description>Acquire 10 upgrades through Consumes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Eating Your Way to the Top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/99DB4A3B21511D289A71266C15CA537ABDF040BF.PNG</Image>
+      <Description>Acquire 30 upgrades through Consumes.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Finally Full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/21837EA29E986AD6E042A4C4613195DC3497185C.PNG</Image>
+      <Description>Acquire all 46 upgrades through Consumes.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Icarus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/00A092F6EA246468A368A1F974A7D968788090ED.PNG</Image>
+      <Description>Reach the highest point in the world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Spindler's Search</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/95D386962EFE1E30000544D0D23522037172BF07.PNG</Image>
+      <Description>Destroy all Lairs.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>//BLACKNET Hacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/3B0CB8BE9240647FC1FDBF73D4F8F6B89F855AE3.PNG</Image>
+      <Description>Complete all //BLACKNET dossiers.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>One by One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/BAB715A273D597145E682678C25454CA7547ED2B.PNG</Image>
+      <Description>Stealth Consume 50 Blackwatch troopers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Wanted Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/C90B182205AA56F1260EA36743B7E8B4CA653D66.PNG</Image>
+      <Description>Trigger 50 alerts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>All Growed Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/3A736A4A13216C5DADCF95D3746C8F469B7C9C2C.PNG</Image>
+      <Description>Fully upgrade Heller.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01864_00</GameId>
+      <Title>Master Prototype</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01864_00_03B8999E4C69BA247C9D2F928D61C0FC9BCE9379/AF18560F1F8A27929F1D8DB456A6D7C5636CA71B.PNG</Image>
+      <Description>Complete the game on HARD difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

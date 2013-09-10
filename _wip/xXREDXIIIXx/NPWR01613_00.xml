@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01613_00</Id>
+    <IdEurope/>
+    <Title>WSC Real 2011</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/0F2A956A6ACA0BA059F0BEE646CA9B9A06FA93AE.PNG</Image>
+    <TrophiesCount Total="50" Bronze="34" Silver="14" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>The Platinum One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/4C7EE122D96071E72225D91B7E7B3AC10AED0127.PNG</Image>
+      <Description>Get all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Let's see that one again...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/B4C8C0C6F131DB13ECDC45A8623918B0AC746D1E.PNG</Image>
+      <Description>View a replay with the Replay/Rewind feature</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>If at first…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/191EB8F1CFE3AFC663637F8DF306D6CAF5C873D6.PNG</Image>
+      <Description>Resume play from an earlier shot using the Replay/Rewind feature</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Plain Sailing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/0B22F51D57A0E363F09D36400DB006FB0D594483.PNG</Image>
+      <Description>Win a non-Qualifier Snooker Championship match without using the Replay/Rewind feature to retake a shot</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Bad Habit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/B324D50BBC0726542E0B423626E1949C1AE2DAB8.PNG</Image>
+      <Description>Use the Replay/Rewind feature 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/285585C8FEBE0FDA82C979C122D4EDA14AEB998B.PNG</Image>
+      <Description>Win 10 online ranked matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/0EFCFC33E8EC5D6103EA1E47ED4C59D7C0310BA7.PNG</Image>
+      <Description>Win 50 online ranked matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/CFD511AFB5C0CDC8E533AEFF59816406E6B83828.PNG</Image>
+      <Description>Win 3 online ranked matches in a row</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Underdog Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/10BEAAD9809FF295CBAE7A8FE4E59D6119E7CBF1.PNG</Image>
+      <Description>Beat a higher ranked opponent in an online ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/BC3E272BB98AAA4149AA35C616290F7C7A761414.PNG</Image>
+      <Description>Win an online ranked match without the opponent scoring</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/F0A30836D16FE41529B71091ACAEDCDB88A1FB4E.PNG</Image>
+      <Description>Score 100 Tournament Points in any online tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/C7D265E5066693FBA867651CF0A49E963A98BC30.PNG</Image>
+      <Description>Score 500 Tournament Points in any online tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Conquerer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/E2A280387E06F33DA8923AFC413B88CEFB8DFFA2.PNG</Image>
+      <Description>Score 1000 Tournament Points in any online tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Global Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/F932BB56F10D7D7C32D04147D750B140BF039377.PNG</Image>
+      <Description>Win an online tournament</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Looking Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/8D2BDAEB553B60CCBF5DB6B6089425D4AD056CA5.PNG</Image>
+      <Description>Edit your character</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Snappy Dresser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/606D63642D5FB361CEA2E09CF443AE4C1122CE89.PNG</Image>
+      <Description>Collect all waistcoats</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Perfectionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/9E43C9606E2DEBC369CDFFCAC278C9CA524AF6B1.PNG</Image>
+      <Description>Spend 5 Skill Points</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: China Open</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/C28A2EABB42A606271598D806CB8907FDC9CDD1E.PNG</Image>
+      <Description>Win the China Open</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>World Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/BA0CB68B680EF6E57DCDE86BD344FD4088A29BD5.PNG</Image>
+      <Description>Win the World Championship</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: Grand Prix</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3D942891DAFE29EA705868AEB61E98FFF3983EFA.PNG</Image>
+      <Description>Win the Grand Prix</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: Masters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/4DCFAA7622400F1458EA13372811338374AEDEEA.PNG</Image>
+      <Description>Win the Masters</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: Pot Black</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3A04B82089A9D82899A4D455634589968DD5BDE1.PNG</Image>
+      <Description>Win the Pot Black event</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: Shanghai Masters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/B9DEE72D78FAEB9CDA29039EE0A490E1064F66D8.PNG</Image>
+      <Description>Win the Shanghai Masters</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: UK Championship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/2068DB76556865E38287C406330BE634DE08E350.PNG</Image>
+      <Description>Win the UK Championship</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: Welsh Open</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/E287779E04B74A137E720FE0926CC9D4CE233F30.PNG</Image>
+      <Description>Win the Welsh Open</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Qualified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/52BB08B19B3D04601EF99AB7F068D8EA272CDC19.PNG</Image>
+      <Description>Qualify for a Championship</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Winner: 8 Ball Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/895548F9C46723D4AC0A96E76FAFA0400CDC1002.PNG</Image>
+      <Description>Win the 8 Ball Pool Championship</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Blacked out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/A86F93682361530340B2D54A682BD133D7DCCFA3.PNG</Image>
+      <Description>Lose a frame by sinking the black</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>High Jump</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/4EEC044B26E14F0707DFF977F1F5FC2457B85805.PNG</Image>
+      <Description>Perform 3 Jump shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Curvaceous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/FD62EB24E98631D73306172F6D74AE21DA081874.PNG</Image>
+      <Description>Perform 3 Swerve shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Combo King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/44C0FBE16F50ED753A2F5AE079F431E5DCF01419.PNG</Image>
+      <Description>Perform 3 Combo Shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Pocket Prince</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3CA2F2C0A5DD5995104369B6778A8A656C52CF37.PNG</Image>
+      <Description>Pot 2 or more balls on any single shot in the 8 ball season mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Ricochet Riot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/7BE3E55029B34E5E0F7460AA7A75779465966114.PNG</Image>
+      <Description>Perform 3 Bank shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Break Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/53FC5B41178DF25AA9AD7134A61801AC93D5CFC6.PNG</Image>
+      <Description>Perform a Break Ace by potting the 9 ball from the break in any 9 ball match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Too Easy…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/5F1C65799EBF81999449CB12800793238459F5AC.PNG</Image>
+      <Description>Clear the table from the break</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Whitewash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/D2FCC994D81CA0838CB28450B55505C4BE69D266.PNG</Image>
+      <Description>Win all frames in a Golden Cue match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Golden Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/AA6829BDB3F8886BF6660543E389C383231884BD.PNG</Image>
+      <Description>Win the Golden Cue Championship</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Cue King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/FA2FC985893B8005D5CF5EE431C88AB2DDD098D5.PNG</Image>
+      <Description>Collect all Trophies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Simulation Stimulation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3419CDE81E514001F7BFBE3B4052FCC03C89962F.PNG</Image>
+      <Description>Win a SnookerSeason match without either the Aiming Aid or Positional Aid active</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Tentative Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/0C08B22A57333B335C7408E2F56C1D3DD50398DD.PNG</Image>
+      <Description>Earn a score of 10 in a single visit to the table</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Century</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/DABE59CB4BD2ED5841EC45F0B60659E7DDE00D4B.PNG</Image>
+      <Description>Earn a score of 100 in a single visit to the table</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>147!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/CFD4B3DD1A7F5A0739212CAD58FF86DF5B194CD9.PNG</Image>
+      <Description>Earn a score of 147 in a single visit to the table without using the Rewind feature</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Bullseye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/AAC8CB8E3E02F1AE8FDB20061BE086B349FAEA94.PNG</Image>
+      <Description>Earn a score of 50 in a single visit to the table in a Snooker Season</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Rocket Rout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/73F27DBDF8C2C16CA3428A0E1EEAA90DF53E5F82.PNG</Image>
+      <Description>Win a non-qualifier Snooker season match versus Ronnie O'Sullivan</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Interesting...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/929A623B9A39C8ADCA93BCC773D2795956BD7605.PNG</Image>
+      <Description>Win a non-qualifier Snooker season match versus Steve Davies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Plant Pot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3FA5B3B3FC1495D1F02273D5C0F109617115B7D3.PNG</Image>
+      <Description>Successfully pot 1 ball using a plant in a snooker Season match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/A0579BD867746EDCB2DF38E4C06AFCD9BC41BFBE.PNG</Image>
+      <Description>Achieve rank 1 in the World Rankings</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Skilled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/F61BA9716D272E3F1F7710F961D80D91584F4527.PNG</Image>
+      <Description>Achieve rank 32 in the World Rankings</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Seasoned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/9136C32C008231D6175DAEDD831C02E138E396EC.PNG</Image>
+      <Description>Achieve rank 16 in the World Rankings</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01613_00</GameId>
+      <Title>Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01613_00_A69A1842E316B619123FF13B64AE300FEAFBF12C/3327BA6C49933C12F3D80F6C785BEEF75249DB1F.PNG</Image>
+      <Description>Achieve rank 8 in the World Rankings</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

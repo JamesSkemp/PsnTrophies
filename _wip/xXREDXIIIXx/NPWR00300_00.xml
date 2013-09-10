@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00300_00</Id>
+    <IdEurope/>
+    <Title>Modnation Racers</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F861E5DB789A59F62E5AADE4D5DAD7C5AB2398AE.PNG</Image>
+    <TrophiesCount Total="69" Bronze="51" Silver="11" Gold="6" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>ModNation™ Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/17A540D15EF3443795ADC5DF28B32A74CED75610.PNG</Image>
+      <Description>Earn all the ModNation™ Racers trophies to unlock this platinum trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Anonymous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/34A91271C5C46D50F228FA7F7134D3E460C9B717.PNG</Image>
+      <Description>Play an online race</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Newcomer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F6ECF01DFA16ED78D8CBEA4D19E814A61E919AB2.PNG</Image>
+      <Description>Complete the qualifier race</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/05BE33DEBFA10EAE1F28203D7220250E41684347.PNG</Image>
+      <Description>Create a kart in Kart Studio</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Sculptor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6D77D4D4CADD15F1CDB74796FB671DE55A7062BA.PNG</Image>
+      <Description>Create a track in Track Studio</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Dresser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/1328A8AE68A68715AC5B5C61C842EB82D3C0E07F.PNG</Image>
+      <Description>Create a Mod in Mod Studio</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Shopping Spree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/9115D78BD5E3C0FFE3FB8755E906475E69412C7B.PNG</Image>
+      <Description>Enter the Shop</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Getting To Know You...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F68B20FDDE8C7DC2C86F873D6DAD87BCD07259A5.PNG</Image>
+      <Description>Invite 5 unique friends to an online race</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Mayhem Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/1F9227B7E7195E24FF692F41DD1F8DE721A0DC63.PNG</Image>
+      <Description>Win the Mayhem Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Range Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/22500F23D81AF0C781C16DFD7937AE8A20DE8EF5.PNG</Image>
+      <Description>Win the Range Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Grim Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/A8A859EBB221EDBD34EF3B230D048B116D1D7FAA.PNG</Image>
+      <Description>Win the Grim Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Fill'er Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/4516B13398013C64BED2390375B549B7EC64652A.PNG</Image>
+      <Description>Fill your boost meter</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Third Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/9AF35292C62A24CFB395C992E726856CFED538BA.PNG</Image>
+      <Description>Hit 20 opponents with weapons dropped as secondary weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Knockin' Boost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/CA23279F8D5A0CAC444BDC534B5A2AD430728CB4.PNG</Image>
+      <Description>Drive over 100 boost pads</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Shields Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/C9601051EBB9A3DF56D0A9B37D9AD5175A8A6537.PNG</Image>
+      <Description>Successfully defend yourself with your shield 20 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>ModSpot Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6545164EA215D85F14DF69049A6DE8F1258B3D07.PNG</Image>
+      <Description>Visit all the locations in the ModSpot</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Headspinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6498178DCE2640F67805A0638524E6CDB37BA155.PNG</Image>
+      <Description>Do a 1080 spin and land successfully</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Taster Session</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/D570B5D2CA02C8644A559E19F77BBFE21CF261B2.PNG</Image>
+      <Description>Try all the game modes in Single Player Race</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Showing The World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/9EE7EFB2FB1B24555B1FD5899E1EA7A55D3742BC.PNG</Image>
+      <Description>Win 10 online races</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Trigger Happy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/D7F46006BE4049F678E48082872CDFA2FF5FAD60.PNG</Image>
+      <Description>Use all the weapons in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Fast Learner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6F3E262F0A264B2A7DB487AE51BE7D7A82176F7C.PNG</Image>
+      <Description>Complete all the race tutorials, and watch all the video tutorials</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Offering Opinions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/E26C5199AC6C27CBA4009CFA0113DD3A05A45F08.PNG</Image>
+      <Description>Rate 10 tracks, 10 Mods, and 10 karts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Pioneer Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/2EE6FC22C79D9B4454032CDA239F6D8E313157FE.PNG</Image>
+      <Description>Be part of the first race on a published track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Drifting Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/14AC2F8ADD2439A6097D609743B3CD7142126224.PNG</Image>
+      <Description>Earn 100,000 drift points in one drift</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>The Drifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6CA90C9A00F4813C9C0466970F2BB76DD16F0036.PNG</Image>
+      <Description>Drift 1,000 times in total</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Slow and Steady</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/195F9884233EF54756921C33D93BFEE10D9475B9.PNG</Image>
+      <Description>Win an action race without using any boost, or using a boost pad</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Pacifist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/34DAABF900149C750336030FBE0E72F3096E7CDE.PNG</Image>
+      <Description>Win an action race without firing any weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Remixer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/112529CCEB630D89270572C6C08BFB3B327AD787.PNG</Image>
+      <Description>Remix a Mod, a kart, and a track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Series Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/1A04E549F0D8D219050754A645D3547B5A46B223.PNG</Image>
+      <Description>Win a ranked race series</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>ModNation™ Prospect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/8F3E9DAA4AB6D599FF67C13BD58B04EFA640FF90.PNG</Image>
+      <Description>Earn at least 1,000 Total XP (including Race XP and Create XP)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Say Cheese!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/EDD3F507EC2EB9834DD9CF854AD16560540B106F.PNG</Image>
+      <Description>Use photo mode in a race, in a studio, or in the ModSpot</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Beat Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/7667D53C30013343EA187B69DF8E026CEFC8F69A.PNG</Image>
+      <Description>Win your first online action race on a particular published track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Bruiser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/6F60D668FBBC590EFACD1530D4985C43C500853F.PNG</Image>
+      <Description>Get a total of 200 takedowns</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Aggro Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/886176504ECA059B292DD4108E205E383E5F6340.PNG</Image>
+      <Description>Sideswipe 75 opponents</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Sharing Karts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/41D54DD7BCA8333F5F90B66564D145DEBB4F9E68.PNG</Image>
+      <Description>Publish a kart and have at least 10 people download it</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Sharing Mods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F5A7D3AC4234E0ACEEB5D60A484F025398F6C458.PNG</Image>
+      <Description>Publish a Mod and have at least 10 people download it</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Sharing Splines</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/54A7C4C0F5E0B41DD7287E0A074CEB1E8A1B9B41.PNG</Image>
+      <Description>Publish a track and have at least 10 people download it</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Win Grand Tour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/0CAA3B4923B4D792DD6D9B30597A30F44E7AECAC.PNG</Image>
+      <Description>Win the Grand Tour</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Elite Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/22D79A6350EC863F54BE62E85D76F950A52DA2B5.PNG</Image>
+      <Description>Beat all the Elite racers in the grudge matches</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Flaming Hot!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/247C07712604B5B283D7C9D6CBDD15456745711E.PNG</Image>
+      <Description>Get in the top 10% in Hot Lap Mode on any given day</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Join the Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/A72C998FCA9F934E3C9E671FD1F923B9FEA19720.PNG</Image>
+      <Description>Beat all 28 developer best lap times in career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>ModNation™ Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/64452D6C775E90A94D6D70787F2281B1BFA8CD4F.PNG</Image>
+      <Description>Earn at least 5,000 Total XP (including Race XP and Create XP)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Level of Merit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/5DB9AC2F78833DD3DA99A60910E5029B44569994.PNG</Image>
+      <Description>Complete all the career challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/3AD0F5B9436880585806D4BC8DE32E327B241A86.PNG</Image>
+      <Description>Collect all the tokens in the single player career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Taking On The World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F7CA55950A6417A01B9A676D90352A1D9CDCA036.PNG</Image>
+      <Description>Win 100 Online Races</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/A653352BCB0BA48A31F22219185963D20AD7EC83.PNG</Image>
+      <Description>Come 1st in every race in the career</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Star Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/E03B3DBE174D28D509E0865291AABF5CA2CDFCBC.PNG</Image>
+      <Description>Earn at least 250,000 Create XP</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>ModNation™ Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/992156150CC2FF863DF34ADCA4E56006D11E4DD7.PNG</Image>
+      <Description>Achieve level rank 30</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Ricochet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/4DD1DA551568DC23369A93F8183904495F8876FE.PNG</Image>
+      <Description>Ricochet a Straight Shot then hit an opponent on the Great Wall track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Shocker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/5CC27192C243E8B5DEF966E368BB97BC25CBDC42.PNG</Image>
+      <Description>Hit three opponents with a single Chain Bolt on the Fortress track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Coat Tails</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/A88590CBEA76C46D54179DB2771A318D12141D81.PNG</Image>
+      <Description>Follow an opponent into his or her Warp on the Terraced Drop track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Far East Promoter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/5C0A987115B182BB5607892951AD4ABB07D2C767.PNG</Image>
+      <Description>Host a casual race using a UFG track from the Far East theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Far East Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/8E1E4F154C77CD04A83CFC68ED9372E12A5124FA.PNG</Image>
+      <Description>Create and publish a track using the Far East theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Far East Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/4CFE92B79C913E547ADA4B346182E549318200AA.PNG</Image>
+      <Description>Win the Far East Tour</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Undisputed Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/5BC8BC9C4FCDC3A092C378F4A00E00136BB3DAEC.PNG</Image>
+      <Description>Come 1st in every race, collect all the tokens and complete all the race objectives in the Far East Tour</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>The Mighty Deflector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/55C9F8910EA43B68572DCD9CA1C91345D6F5C704.PNG</Image>
+      <Description>Use your shield to defend against a Bolt Storm on Snow Storm City</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Air Defense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/44B4A4DD428B35B4F876BF635827F4FE047B70B0.PNG</Image>
+      <Description>Use your shield to defend against any attack whilst in the air on Downhill Peak</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Dance Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/CB18228B6D41C52A66F01EFF49DC5A0ECA7D832B.PNG</Image>
+      <Description>Hit three opponents with a single Sonic Bomb on Iceberg Edge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Arctic Promoter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/7B0A376B77519A876F88521853C3A2E798C7B2D0.PNG</Image>
+      <Description>Host a casual race using a UFG track from the Arctic theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Arctic Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/D5C809BF1EB12ECBDCD5CC33B9E6D42776F7DB2D.PNG</Image>
+      <Description>Create and publish a track using the Arctic theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Arctic Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/986D6BB69CD3ECDE81048DA5A3968DEAA91EF11F.PNG</Image>
+      <Description>Win the Arctic Tour</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Ice Cool Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/8DAEBAA59D5D218CB786427D67355707CE60F6D0.PNG</Image>
+      <Description>Come 1st in every race, collect all the tokens and complete all the race objectives in the Arctic Tour</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Speeder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/F7B52AAD6B510791DADB8F1239EF9A16A3F88A48.PNG</Image>
+      <Description>Use a Supercharger and for the duration of the boost don't hit a wall on Tourist Trap</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Mind The Mine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/E4132462DC0C64B4CE90A032034A75D6C46B2DAF.PNG</Image>
+      <Description>Hit an opponent with a level 1 secondary weapon on Gridlock River</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Air to Air Combat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/85510EC8773F0D34F38157E7C8290B54D04E5C38.PNG</Image>
+      <Description>Hit an opponent in the air with a Swarm on Skyscraper Hop</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Big City Promoter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/A9C4297415F790A269F94756D7A94D55AC0E563B.PNG</Image>
+      <Description>Host a casual race using a UFG track from the Big City theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Big City Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/96925933243DDA8F3967128D049A21557C52A6FC.PNG</Image>
+      <Description>Create and publish a track using the Big City theme</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>Big City Tour Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/21C3774ED7A8F4E7A11C216E3311B9C0CFB49ED8.PNG</Image>
+      <Description>Win the Big City Tour</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR00300_00</GameId>
+      <Title>City Slicker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00300_00_6F574F598B113AFAB1311736BDC9AC680EB41D10/74E632089164EF48AB03062DC89EA58547BEAEB2.PNG</Image>
+      <Description>Come 1st in every race, collect all the tokens and complete all the race objectives in the Big City Tour</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

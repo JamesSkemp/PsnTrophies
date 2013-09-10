@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01208_00</Id>
+    <IdEurope/>
+    <Title>Gundeadligne</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/EF719FAD2D50F60A9E00EF6B664DA7EF63D9B61A.PNG</Image>
+    <TrophiesCount Total="10" Bronze="5" Silver="4" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Rosenkreuz Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/997128C3CC89C87AB36E89DC5BD3F0D4E4E2D3FB.PNG</Image>
+      <Description>Finish the game on Novice difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Operation Successful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/B5311162F7B2AE9CE4E81734BCD85C702F280446.PNG</Image>
+      <Description>Finish the game on Standard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Matrix Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/5778EEDA654508FAD4361F7F3AAAD36E34965E4D.PNG</Image>
+      <Description>Finish the game on Advanced difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Que Pholith Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/E12011D61E7556CC70721C070EC29DCD613CEC4E.PNG</Image>
+      <Description>Finish the game on Demonic difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Far East Temple Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/E245F7723AD7BA2FDEF3E433A7E30816C6DD7420.PNG</Image>
+      <Description>Finish the game without continuing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>The Spice of Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/E08C677DF572613F3FE4AF4BAF5BC2FD7E0FF263.PNG</Image>
+      <Description>Finish the game with every character.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Revenge is Sweet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/E7917E474B774E5026B85D7012C8B2440277621B.PNG</Image>
+      <Description>Defeat the true last boss.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Who's next?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/225BF0EE1B6C576D19F332189B274C048A3F1F64.PNG</Image>
+      <Description>Defeat every opponent in Demonic Challenge mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>Line 'em up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/956FEE6A267418A4A040450BC6864960666FC5EB.PNG</Image>
+      <Description>Clear 25 lines in Endless Babel mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01208_00</GameId>
+      <Title>The Long Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01208_00_A65C6F19200697DA8CF5A6291F67B9F50651E458/4B9B7FDAB987E4B13F207FCE6073FB2447448029.PNG</Image>
+      <Description>Get 6 Alter Breaks in one game.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01307_00</Id>
+    <IdEurope/>
+    <Title>Tetris</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/68F5A6E37B6E160AC8455CB476DB839B6D84B001.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/B66B070C8C3C899A5DDBAC1132552A2F51DF9AE1.PNG</Image>
+      <Description>Finish all variants on level 15 and Radical</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Advanced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/199C179165539CCC23F733EBE5DE1B05AC4F58C4.PNG</Image>
+      <Description>Complete all Advanced Feats</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Achiever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/C9EFE7FC3F5A3A6F3B849AD3C16A5C170C76DB74.PNG</Image>
+      <Description>Complete all Career Feats</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Insane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/E9725E8009719BEB77F329D8006616F4BD53B7EC.PNG</Image>
+      <Description>In Origin clear lines 20, 10 and 1 in that order</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Clear as Water</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/855951EDE97D540BFE96DB858DB0CBD8E7EA0FB6.PNG</Image>
+      <Description>Perform a Bravo (clear your matrix)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Teamwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/EC2F171BC5F0BE0D566D806B68DD91922FF203CA.PNG</Image>
+      <Description>Clear at least 2 lines with a piece swapped to you in Shared (additive)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Lockpick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/A19347380B480FEC637E4AC0F013AB6A31A54440.PNG</Image>
+      <Description>Unlock all Variants</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Giver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/8F8E283D7F05EF343558234C1C5E508EDABF7B3F.PNG</Image>
+      <Description>Pass 100 lines to opponents on any multiplayer mode (additive)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Next!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/C7FA99B8C47C3039269EC72D56159D41A3A1C9FB.PNG</Image>
+      <Description>Surpass a Friend on Next Best Score</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Synched</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/5134C58A300059BD796CBD0EE2BCD4D6E153E051.PNG</Image>
+      <Description>Get a Tetris within 3 seconds of a friend getting a Tetris in Team Battle</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/46E97C1DDDDE604246770DB89EB8732203A817A6.PNG</Image>
+      <Description>Finish all 4 Multiplayer modes online</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01307_00</GameId>
+      <Title>Trigger Happy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01307_00_9E26968FC774D13D82CFA41B8D5012C315CB6626/D492C1E357486EDA92EE92D26F5E5C2C85CBFA19.PNG</Image>
+      <Description>Send 12 or more lines to one opponent in under 5 secs in Battle, Timed Battle or Team Battle</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

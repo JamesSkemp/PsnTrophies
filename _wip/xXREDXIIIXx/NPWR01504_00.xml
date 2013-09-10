@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01504_00</Id>
+    <IdEurope/>
+    <Title>Ico</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/8A0031E446CC02E7B1953C545DE07C97ECA21B07.PNG</Image>
+    <TrophiesCount Total="16" Bronze="2" Silver="4" Gold="9" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Enlightenment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/53BE4A80B91D56E0958000D6B4DE6F6DE1CDA6FD.PNG</Image>
+      <Description>Acquire all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Rescue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/D45D3BFF00A151474D3500E3AF67ABFDA4060923.PNG</Image>
+      <Description>Rescue Yorda</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Failure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/F07A7E15884C32C6E4C1AB1DA3BE187112B6F9C5.PNG</Image>
+      <Description>Finish watching the demo scene confronting the Queen at the front gate stage</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Armed and Ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/173DCE37834A0F104A45C33257B4D46C1548E501.PNG</Image>
+      <Description>Acquire Sword</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>East Gate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/84A6898070D6A588F55983BA33905D1A130B9B96.PNG</Image>
+      <Description>Open East Gate</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>West Gate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/C70D0E1AF66320275C78B3E41EFADF9AF49CC584.PNG</Image>
+      <Description>Open West Gate</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Farewell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/E8BE20402FEC69D8AFF2FC3875585C19B44A1447.PNG</Image>
+      <Description>Finish watching farewell demo scene with Yorda at the front gate stage</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Royal Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/AB8316421986CB6476185C52CDE9DF89A295CAAA.PNG</Image>
+      <Description>Acquire Queen's Sword</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Emancipation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/9515175282E6590CF745BD160AC7ED0A8CF2B8A9.PNG</Image>
+      <Description>Clear the game</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Split the Watermelon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/C0DA9B59856F72568A39F24F7FD2985756EB5570.PNG</Image>
+      <Description>Bring the watermelon to Yorda upon completing 2nd time through</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Spiked Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/E6C8E441D61DA5290AFE4D916123B0579F636B4B.PNG</Image>
+      <Description>Acquire spiked club</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Shining Sword</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/B4A2A0A0D7230475E86B46249308597F1B675465.PNG</Image>
+      <Description>Acquire shining sword</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Bench Warmer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/3647EDFDE40706A18E2351904E74CF30633EC98D.PNG</Image>
+      <Description>Save at all save points</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Express Journey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/26984177C350DFFA3AA7F28D742F872C8F30E43F.PNG</Image>
+      <Description>Beat the game within 4 hours</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Castle Guide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/296E2CC002773AD2F8AAC154D2F5BE332E3DCD05.PNG</Image>
+      <Description>Beat the game within 2 hours</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01504_00</GameId>
+      <Title>Unscathed Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01504_00_6C210379D27B895FE7D557FE537DB59D32252A7C/52CDBB9E3ADE0AC1990F6359E3D848BDA4617CA2.PNG</Image>
+      <Description>Clear the game without viewing a game over screen</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

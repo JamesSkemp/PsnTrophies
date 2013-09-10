@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01821_00</Id>
+    <IdEurope/>
+    <Title>Snowy: Treasure Hunter</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01821_00_002ED67FD343A855309A2C005D7AEBE4A31E99DB7F/2FAC77BC3638956CCDB024211AAC0088E3C0FD7A.PNG</Image>
+    <TrophiesCount Total="19" Bronze="0" Silver="0" Gold="0" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01821_00</GameId>
+      <Title>Bad Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01821_00_002ED67FD343A855309A2C005D7AEBE4A31E99DB7F/35AFA867FB600C197412BBB904E109017B1DB326.PNG</Image>
+      <Description>Could not finish level from 10 attempts in a row</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01821_00</GameId>
+      <Title>Treasures Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01821_00_002ED67FD343A855309A2C005D7AEBE4A31E99DB7F/417F6B2E1128A7EEB0528D28636F92123792CD7B.PNG</Image>
+      <Description>Collected 500 treasures</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

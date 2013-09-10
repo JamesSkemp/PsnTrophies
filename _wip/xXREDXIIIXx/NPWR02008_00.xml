@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02008_00</Id>
+    <IdEurope/>
+    <Title>Tenchō no igo</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/C1EC32999C69B5254C78DEFBDCD8529B3701A02D.PNG</Image>
+    <TrophiesCount Total="5" Bronze="1" Silver="1" Gold="3" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02008_00</GameId>
+      <Title>初段</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/FA4C10A82DED2141949B12F69B438610C6450163.PNG</Image>
+      <Description>通常対局　初段勝者への授与</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02008_00</GameId>
+      <Title>二段</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/A60246E4E1D259F5FDE40805DF518434CAB2EA79.PNG</Image>
+      <Description>通常対局　二段勝者への授与</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02008_00</GameId>
+      <Title>三段</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/656F69A8C0A0715C23BCFFF5C897CF8A44D49EA4.PNG</Image>
+      <Description>通常対局　三段勝者への授与</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02008_00</GameId>
+      <Title>碁会所モード</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/843E07A25E276F7D52AB4E177EC9174FB80BF772.PNG</Image>
+      <Description>碁会所モードで最高段位取得者に授与</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02008_00</GameId>
+      <Title>レーティング戦</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02008_00_63BE8559E93A5FD815E49D524F86737628DED712/5B6EAE785959791454453BD0522BDAF5CD8AC9F7.PNG</Image>
+      <Description>レーティング戦で最高段位取得者へ授与</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

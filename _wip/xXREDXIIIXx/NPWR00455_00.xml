@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00455_00</Id>
+    <IdEurope/>
+    <Title>Wolfenstein</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/45CB9A7F61F0926B42598C769FEF1D3B90B84CC4.PNG</Image>
+    <TrophiesCount Total="50" Bronze="33" Silver="15" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/21742F0B1185B4176ECCD74D8291E599FB37EEA7.PNG</Image>
+      <Description>Receive all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Safe Keeping</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/AA2940DE4CC67F6900541D8CF6DF144C292EBD75.PNG</Image>
+      <Description>Win a multiplayer game on Bank while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Canalysis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/C02A329C11E4DFF13B3DF3C6573A53F8DBA48B14.PNG</Image>
+      <Description>Win a multiplayer game on Canals while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Chemical Burn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/37A33418798265754BC04902AF649228E03F3D92.PNG</Image>
+      <Description>Win a multiplayer game on Chemical while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Facilitated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/6B62CC3E565852318E3BF5A11A99CCD02692B17A.PNG</Image>
+      <Description>Win a multiplayer game on Facility while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Hospitalized</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/4E5606E4E794964EB6B7DA701ACFB7DA530B25BB.PNG</Image>
+      <Description>Win a multiplayer game on Hospital while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Mind your Manors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/838DE55400D91F3FA94C035E9EE3B2C77DD93726.PNG</Image>
+      <Description>Win a multiplayer game on Manor while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Pirate Radio</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/4B612EFEAD4537C141610E2E8AB592DAC7643544.PNG</Image>
+      <Description>Win a multiplayer game on Rooftops while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Shock and Awe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/0A09330F66225918E9855FB099D7DB5E43E1E2A2.PNG</Image>
+      <Description>Win a multiplayer game on Tesla while on the winning team for at least 50% of the match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Test Subject</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/A06D4E3F73D4135090105ACCDC82DB650BB6D8DF.PNG</Image>
+      <Description>Use every Veil ability once in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Veilophile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/50E5CF921A97CEEC179BCBD1EE483AB59A9C2579.PNG</Image>
+      <Description>Spend 5 minutes in the Veil in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Veil Vacuum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/C76508DAB110059B613FF1C12DBF17DDCB288C1F.PNG</Image>
+      <Description>Suck up 5 Veil Pools' worth of Veil energy in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Surgical Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/DDCDA2C817B437DFAB3B9D765B4D402ED41B47A4.PNG</Image>
+      <Description>Kill 200 enemy players using the Veil Strike in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Sneaky Pete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/9815CD064A6E69A1E71EF3512BA98C1081EA4D6F.PNG</Image>
+      <Description>Kill 100 enemy players with the Satchel Charge in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Unholy Lifeline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/A9032CBA0A11B3070F850C7B5B48C9FFCCECED29.PNG</Image>
+      <Description>Revive 250 teammates, including 10 revives in a single match in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Focal Point</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/E342B5C4E48E0715EFA3E8EC01F315623BBBC24B.PNG</Image>
+      <Description>Restore 5000 points of health to teammates using the Healing Aura in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Quartermaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/7B7EFA19ABF002A0A017225BDBD4B45B334F4E0D.PNG</Image>
+      <Description>Give 100 Health Packs to teammates in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Run-gineer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/454BFDBBA196C88AA64F3FF176453DEBBF7813BE.PNG</Image>
+      <Description>Use Veil Speed for 30 minutes in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Engineering Corps</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/8B7F5A118820B2F41321CBB56F6F01ED99FBFD8A.PNG</Image>
+      <Description>Complete 30 primary objectives and 50 secondary objectives in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Career Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/6A4F62B5643CCB8F13759772D4FBE5BEB6B2FF7E.PNG</Image>
+      <Description>Reach Rank 25 in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Das Big Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/04E75ED504DD483B85A924F3EDCE785657C6C358.PNG</Image>
+      <Description>Reach Rank 50 in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Boot Camp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/76147A9C8935DFEAA557C48E6D84C01AE95E54E3.PNG</Image>
+      <Description>Get a kill with each Soldier weapon, the Satchel Charge, and Veil Strike in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Heavy-Handed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/C944CBF6680105D2E581F327754F384AFB004733.PNG</Image>
+      <Description>Kill 200 enemy players with either the Panzerschreck or the Flammenwerfer in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Med School</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/59A4957EA761D568048EF8676FE85943003A1D91.PNG</Image>
+      <Description>Revive a player, supply a Health Pack, and heal someone using Healing Aura in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Basic Training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/834C6E188C603BC96BB3E98B9CA289FB55BBBBD9.PNG</Image>
+      <Description>Complete a primary objective, supply an Ammo Pack, and use Veil Speed once in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Johnny-on-the-spot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/A58E88409526B8BF0EED96C72D4683989FF541CC.PNG</Image>
+      <Description>Give 100 Ammo Packs to teammates in multiplayer.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Endgame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/4FABF6177FAD8A54FBF5471AC203173D845C1EED.PNG</Image>
+      <Description>Finish the single player campaign on any difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Gun Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/BA2C99C0B1CAC03115021AE484377750077C4F94.PNG</Image>
+      <Description>Collect all the weapons in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Slumming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/402032C8226A70C8357870752F4E8261BF15E0EA.PNG</Image>
+      <Description>Complete all the Midtown missions in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Man About Town</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/12BB734C6EEBC4BDD4C1093A5EBA429AB3AC2615.PNG</Image>
+      <Description>Complete all the Downtown missions in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/85ECE88087E5CD92F4008B4D89A0573FBF457D7E.PNG</Image>
+      <Description>Kill an enemy of every type in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Warchest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/3E3A39E65E99E8BC12591B545717596F824EE766.PNG</Image>
+      <Description>Collect more than $30,000 in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Honorary Geist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/22780171FFFCC35C598C4D5B75053C1F080DC1F9.PNG</Image>
+      <Description>Spend two hours in the Veil in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Enemies in a Barrel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/D82E698DFC484A2D9BA919EE8E28CD236977F150.PNG</Image>
+      <Description>Kill 3 floating enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Bubble Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/6580F27F56EC2AFF0D8DD003BEAA375F563B0D5F.PNG</Image>
+      <Description>Block 1000 shots with Shield power in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Time Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/3C027B3299DCAB5C5CE965BF55C166934C46561D.PNG</Image>
+      <Description>Use the Mire power for more than an hour in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Rampage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/C37D112EAE31C0650FAD41B93E269E67FF75F39A.PNG</Image>
+      <Description>Kill 200 enemies with Empower in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Master Spy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/0E1B90D6F57C8FEB32EE9B37920EB2D64C1B9109.PNG</Image>
+      <Description>Collect all the Intel in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Librarian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/4AF4711F592BBED144315DA411FB819A420700EF.PNG</Image>
+      <Description>Collect all the Tomes of Power in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/CAAEBFCBCE39A05A770770ABE19BEF9C4D4B6555.PNG</Image>
+      <Description>Destroy 1000 breakable objects in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Nerd Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/E1E055BB759308374B51A6143FE390270C1FC1E7.PNG</Image>
+      <Description>Complete the single player campaign on Hard or Uber difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Gold Digger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/5BF09F5F6472E1914118D4B975CC6AECAFD8B32D.PNG</Image>
+      <Description>Collect all the valuables in a single player campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Conservationist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/9C906AD7A808932802D3BA00BDADFA1CBAB89EB3.PNG</Image>
+      <Description>Complete a story mission in the single player campaign without reloading a gun.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Blitzkrieg</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/F35A5050D7E76072B2AA5972EA4C7DE4A4F0B378.PNG</Image>
+      <Description>Complete the single player campaign in under 12 hours.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Monitor Tan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/B771741E3E2B856ED1987F389C24E10C8355CEC7.PNG</Image>
+      <Description>Collect every collectible in a single player campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Single Quarter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/94AC98399786370BED07447F81B30EEDCEED1E3E.PNG</Image>
+      <Description>Complete the single player campaign with less than three deaths.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Super Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/4D0C9092ED7F1C4235733DB81E2550D919DD2D99.PNG</Image>
+      <Description>Complete the single player campaign on Uber difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Newbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/14598A7007845360E9A76E620BC941E82FA2CA08.PNG</Image>
+      <Description>Complete the Trainyard mission in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Gadget Freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/F366FAE080CFFCDFA2BC4A6FDD7755A3A2D92F43.PNG</Image>
+      <Description>Purchase all the upgrades for one of your weapons in the single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00455_00</GameId>
+      <Title>Beatdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00455_00_0EA9D25028C976BE044C789290274AEA7183CB94/189F646F2C8B39029C08053E77A1B65666F113BE.PNG</Image>
+      <Description>Kill 50 enemies with melee attacks in a single player campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,545 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01064_00</Id>
+    <IdEurope/>
+    <Title>Nail'd</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/2B0260E63AC1CBB540BEDABB6FE94B1F7B6A779D.PNG</Image>
+    <TrophiesCount Total="59" Bronze="45" Silver="10" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Got it all!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/0A23D7F0F8844BBCC8AC01FB022C2B6DB4B1318E.PNG</Image>
+      <Description>Unlock all other 48 trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Newbie coming!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/7C6F01B72A253B50141855E9E5F260A591634BA9.PNG</Image>
+      <Description>Win your first nail'd event</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Just started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/2DB40ADD34E14638C2FDC0DA8B333EB450CCBF27.PNG</Image>
+      <Description>Race for more than one hour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Greece Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/C580940BDB72FD8A523996136B0107663CC33D72.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Greece Amateur Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Andes Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/5B65AAFA414421EA4BB89CE5F3AE3502FB2C07B0.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Andes Amateur Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Yosemite Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/562617DCF41CE216BD15F9A8A87304C0BBB6508F.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Yosemite Amateur Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Arizona Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/FD471BDDB4A953836AF535D7512294C00645BB74.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Arizona Amateur Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Amateur World Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/0ED7D5FF86E6E719E9FC025998F95CCE49B56DA8.PNG</Image>
+      <Description>Win at least a Bronze Medal in all the Amateur World Cups in Tournament mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Stunt Mania competition medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/29901E68C3FDAC8D41A7A12747AB646271D1142C.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Stunt Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Afterburner competition medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/2A6B9D513D5D0376DAA9180136BF6C0620524FE9.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Burner Cup in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Pro World Cup medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A85A39A3E7A3AE6D7689672EAE17CDC3B00DAFC4.PNG</Image>
+      <Description>Unlock The Grand Finale in Tournament mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Dirt devil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/B6EF72474CDC09508DE0DDD7615F902E8D1FE248.PNG</Image>
+      <Description>Win at least a Bronze Medal in the Tournament</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/B1790310307B9B9D0FFED8036242079E23CF98A6.PNG</Image>
+      <Description>Win 10 events in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Glider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/D8D27364884B26737FF96F817EA86B78C4FB0388.PNG</Image>
+      <Description>Fly for more than 10 kilometers / 6.2 miles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Boost expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/15CD9AD20DD1555C0A1246BB5B44410FD31C2578.PNG</Image>
+      <Description>Earn at least 200 Boost Feats</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Boost master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/D07A38939CED75AF797988848A9B9889748B7E2F.PNG</Image>
+      <Description>Earn all possible types of Boost Feats</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Beat Jasiu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/DF4D757BF4CF4B3F7155246C428AA83ACD99ED0B.PNG</Image>
+      <Description>Beat Jasiu's time of 2:37 on Aqueducts in simple race with no mutators</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Crush master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/802C4E6559E1FA92BC077C5BFB193FD0EA07CB90.PNG</Image>
+      <Description>Smash at least 100 opponents in multiplayer races</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Airborne</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/1526C49CF7BCE577DF9CB73E7D54044EDEF3BCB3.PNG</Image>
+      <Description>Gain a boost feat using air control</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Pressing hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A27C11FF04CFB188197AC7DA4D47574CADE8D19D.PNG</Image>
+      <Description>Gain a boost feat using pressure control</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Dangerous maniac!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/0996397EA2E94E648AD03A9DC94DFFFE6223398D.PNG</Image>
+      <Description>Be at least 3rd in 100 online events</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Unwelcome guest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A8E6EB288DFC2F48B0EC02F6D559F172EA88E6CB.PNG</Image>
+      <Description>Play and win 30 online events you have not created</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Home sweet home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/55D0C8CDE3C090B809439CD6EF5C1945EB923652.PNG</Image>
+      <Description>Play and win 20 online events you have created</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Not a scratch!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/2B888FD91A2D7D10B541D4CA2BF92BE64060D22F.PNG</Image>
+      <Description>Win 5 online events in a row without crashing</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Flying monster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/C4EE18B6CFF7C2C0580E7043E267E12F0C3C5B31.PNG</Image>
+      <Description>Perform 20 Monster MTX Boost Feats</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Flawless driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/7898A67CF059F19067AFC11F0DA5E878705440F1.PNG</Image>
+      <Description>Perform 20 nail'd Expert Boost Feats</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Globetrotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/6029063B0E9C0EB68A70CEB6214212C5E8823F4C.PNG</Image>
+      <Description>Drive a total of 1,000 km / 621 mi</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Judgement day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/D6E3683FC6613CB1DBD792E9AE65EAE1709B9675.PNG</Image>
+      <Description>Gain a Off-road rage boost feat 50 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Brave, brave Sir Robin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/289ABC7DCEF18DB13ADFDE446D12A9086E29ACB5.PNG</Image>
+      <Description>Find a shortcut that leads to a three headed knight statue</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Wrecked God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/E9E063A7E350A36AD94EF3CC7F030AEA0488CEAE.PNG</Image>
+      <Description>Win a tournament race in which you crashed at least 5 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>And who's the best?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A7DE5FC253B02443DB7EDAEE11C95461468B3902.PNG</Image>
+      <Description>Win races on all tracks in all modes</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Working on it, guys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/8BA8B6AFCA786F292478284CB5BD412183B400C9.PNG</Image>
+      <Description>Beat developer bests on 4 tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Got you, guys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/3659D5024032AB87E4CDF235323CA74F7EB88283.PNG</Image>
+      <Description>Beat developer bests on 8 tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Faster than you, guys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/351BE46039C97537844B7A719FC30A9B15DFC595.PNG</Image>
+      <Description>Beat developer bests on all tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Stuntman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/246277844074A13B4148C37272D72082C33DD35F.PNG</Image>
+      <Description>Fly for more than 260 meters / 853 feet in a single jump</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Still alive!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/0A34984C6C459853D9C390BF7D1CF8BD79F5E7EA.PNG</Image>
+      <Description>Wreck your vehicle 250 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/C2498E2A0103B1D0D08CA42DEAED753250EA0A84.PNG</Image>
+      <Description>Win a race by more than 5.0 sec.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Heart of a champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/ADF0A265A719A80B7920E611378DEEEF9C11D41F.PNG</Image>
+      <Description>Win an online race with 5 other, higher classified players</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Runner up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/7213F26AEDD5AA2B2E987598E033A9C504774878.PNG</Image>
+      <Description>Win at least a silver medal in each of 49 Tournament events</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>A true winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/3B5C0B43AB2EB04C20A4F1F3BD4975CB52236458.PNG</Image>
+      <Description>Win 100 online races</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Golden guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A3E018806ED7B2FC19BF3A2CA3B7A91F1D250AA3.PNG</Image>
+      <Description>Win all 49 Tournament gold medals</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Bronze collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/49F7844652B0898577A107BCC65BE62E0C8EC640.PNG</Image>
+      <Description>Win at least a bronze medal in each of 49 Tournament events</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Native of Greece</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/44E886127F95F86B0845AB41761F7E5922F3EA5E.PNG</Image>
+      <Description>Win races on all Greece tracks in all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Native of the Andes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/2DEFD730C0D52A5C4BE20119DF6E62600DFBD39E.PNG</Image>
+      <Description>Win races on all Andes tracks in all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Native of Yosemite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/0E4E046ED7DF82D0E9C324D12AC0059279D6603A.PNG</Image>
+      <Description>Win races on all Yosemite tracks in all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Native of Arizona</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/E3B344974647348AAB1DE6BB89504C1C72863770.PNG</Image>
+      <Description>Win races on all Arizona tracks in all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Quick like a bunny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/45FB90F0CED8A7F12BEBA1BAB82D468A4A012611.PNG</Image>
+      <Description>Perform 5 Boost Feats in less than 10sec.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Never lose faith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/4516222E2EEA87EC58F44FB53B42E314014AD7C5.PNG</Image>
+      <Description>Win an online race in which you were last after the first half of the track</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>The great battle of our time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/D596B6B081B17EDEB1259E20A1B55E46163C78C9.PNG</Image>
+      <Description>Win an online race in which you smashed two opponents and were smashed twice</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Gender equality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/658E65527875D46387A348CDD99CACE568A1E964.PNG</Image>
+      <Description>Win 2 events in a row, each one with a different gender driver (SP or MP)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Now it's really done</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/125D8EB9D268899BE12749A71A9FDCC1E5446B3F.PNG</Image>
+      <Description>Win DLC Tournament extension</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Andes fight back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/20A2C8F7D0A2C34563B9DA3E0AD21A9C0C97CE3E.PNG</Image>
+      <Description>Win races on all DLC Andes tracks in all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>The trees are strong</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/7BEF4B44955E451A99B4AB8AF45F966F1969F456.PNG</Image>
+      <Description>Win an online event on all Yosemite tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Still counts as one</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/ED374585558C76D726910ACACA3C22CE482ABF72.PNG</Image>
+      <Description>Win an online event consisting of 5 or more tracks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Golden guy deluxe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/E6106E545331FF7BD7C59F4AF6DC7BC950EF25CC.PNG</Image>
+      <Description>Win all Tournament gold medals including DLC extension</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Like a snail</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/A673DDC64482B0BB73C746EC505C00CCC9DEE9EA.PNG</Image>
+      <Description>Win a race without using boost</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Bombproof</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/D25EB1B1CD1FA9D1EFAB921E83DFD32848178072.PNG</Image>
+      <Description>Win a detonator race without being blown up</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>AI, human - doesn't matter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/E322B9E5C28C68D179726567A5F6E8DBCE27BEED.PNG</Image>
+      <Description>Win races on all tracks (including DLC maps) in all modes in multiplayer</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01064_00</GameId>
+      <Title>Bomb disposal expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01064_00_065B7FFE3202EC35BCFDA9647108C10CF5FF48D2/51EDEDB31D3FBD69C87D09506163C7B5E79D479B.PNG</Image>
+      <Description>Win 20 online detonator races with more than 5 players</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

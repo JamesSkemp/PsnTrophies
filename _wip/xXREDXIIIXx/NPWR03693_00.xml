@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03693_00</Id>
+    <IdEurope/>
+    <Title>Schlag den Raab – Das 3. Spiel</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/DC7C6BD1D87F85048D5980E2F698561E1ED97A9D.PNG</Image>
+    <TrophiesCount Total="41" Bronze="30" Silver="6" Gold="4" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin ein Trophäenjäger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/B66DA4F36556C061B1A8F3824A8C287347EBA12E.PNG</Image>
+      <Description>Schalte alle Trophäen frei</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Der Demütiger hat gesiegt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/0FE7C338D3BAC809547D2CFB604F6CD2F12104B5.PNG</Image>
+      <Description>Gewinne alle Spiele gegen Stefan Raab im Showmodus</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Meine Freunde sind meine Feinde</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/7D021AE4A6991CC2FA0D6C97AF1597D6F13D1B14.PNG</Image>
+      <Description>Gewinne alle Spiele im Team Modus</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin einfach unbesiegbar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/6BACA5A77D177A95DAD4EBE58383103323F95B04.PNG</Image>
+      <Description>Gewinne 10x den Showmodus gegen Stefan Raab</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Der größte Sportler bin ich</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/E7BD52251CEAB1DB18A7D8C6E489CB21AB89B878.PNG</Image>
+      <Description>Gewinne Airhockey ohne einen Punkt zu verlieren</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Bin ich so gut oder er so schlecht</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/7DE0C6F4DE0B4F1135EE50DBA0F81CD1676522F1.PNG</Image>
+      <Description>Besiege Stefan Raab im Showmodus bei mindestens 10 Spielen (in der selben Show)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich kaufe mir die ganze Welt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/433CE9BF0B5CF555ECE43353667376479DEB1918.PNG</Image>
+      <Description>Kaufe alle Dinge im Bonusladen</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Gestatten – Raab</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/5FEEA8966FE66B27F70E05B3C7D5E14BF62C6BCA.PNG</Image>
+      <Description>Gewinne als Stefan Raab im Team Modus</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Hach ist das spannend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/AC1A85C87B52BE07958B17842EB493A5353EA1AD.PNG</Image>
+      <Description>Gewinne ein Entscheidungsspiel gegen Stefan Raab im Showmodus</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Wir sind das Killer Kommando</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/770F3E5B1A535385945EF2D72D1B2A708AFA3A89.PNG</Image>
+      <Description>Gewinne im Teammodus mindestens 10 Spiele (in der selben Show)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich weiß alles und noch mehr</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/8751275472A44C74883CA8EEE3B1144BF2004D44.PNG</Image>
+      <Description>Gewinne Wer Weiß Mehr gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Natürlich stimmt das</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/5C4D8C5C54F854FD0DA3B68843AC86C34110B0F9.PNG</Image>
+      <Description>Gewinne Stimmt’s gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Und jetzt kauf ich mir ein Feuerzeug</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/81E0B3A5DB6F28E1C7F17E0E45CE46DB3FBA0D8C.PNG</Image>
+      <Description>Gewinne Kerzen Anzünden gegen Stefan Raab im Showmodusmit mindestens 3 Punkten Unterschied</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Lügen haben lange Beine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/68D96296DD5DD9D5CAA3B2952A72CD62B27480B9.PNG</Image>
+      <Description>Gewinne Wer Lügt gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Mann ist das spannend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/15F5B6E1C91C56E476B83193C2EED86D00D88287.PNG</Image>
+      <Description>Sieh Dir die Credits bis zum Schluss an</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>NAMN IBN HCI GTU</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/0280645295FE8B633A0F76A002C055806E00F0D5.PNG</Image>
+      <Description>Gewinne Buchstabensalat gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich schätze das sehr</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/8B802B6EA34FF7F00A63A8D9FAE82D871481C9EC.PNG</Image>
+      <Description>Gewinne Schätzen gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin ein Roboter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/907334826F336D35CC94B6715811B8AA90962B23.PNG</Image>
+      <Description>Gewinne Kopfrechnen gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Da stimmt doch was nicht</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/EB7832009ABE7B790B2B2AC4D3C7E33A846F78E7.PNG</Image>
+      <Description>Gewinne Fehlerbilder gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>6 Blöcke und ich weiß alles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/3A0C1B58E388B31AF7830D98B96097B38FE94202.PNG</Image>
+      <Description>Gewinne Was Ist Das gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Isch bin sehr gutt mit Worte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/3A27916A5C95884721469E8045B50BFCDFE0EB9D.PNG</Image>
+      <Description>Gewinne Fremdsprachen gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Europa ist mein Zuhause</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/983E3C6D35D42DB87D2271709943F37C8E0D7092.PNG</Image>
+      <Description>Gewinne Wo Liegt Was gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Danke, Elton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/3CC27B8A16548D9207988C4ADA1537A341870BF8.PNG</Image>
+      <Description>Gewinne Blamieren Oder Kassieren gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Mit dünnen Nudeln kenne ich mich aus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/3875FE34EEB637F382E57401B0649FEE7335D1AD.PNG</Image>
+      <Description>Gewinne Spaghetti gegen Stefan Raab im Showmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin mehrfacher Baummörder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/CD0EFB524CDB7CA9CDA4F7570F68A5A71D7CCF04.PNG</Image>
+      <Description>Gewinne Bäume Fällen gegen Stefan Raab im Showmodus mit mehr als 3 Punkten Unterschied</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich reise immer mit einem Schrankkoffer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/829E4680D1024209441C205C8DEE7AE74EAC9016.PNG</Image>
+      <Description>Gewinne Koffer Packen gegen Stefan Raab im Showmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Mal hier, mal dort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/03D3370E51F3F81FE9370D66D1BF0CC4FB8B0C99.PNG</Image>
+      <Description>Gewinne Sortieren gegen Stefan Raab im Showmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>So nennt mich Wilhelm Tell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/2B8AFA6551453BD55A3B1BB528816ADECDF938FE.PNG</Image>
+      <Description>Gewinne Armbrustschießen gegen Stefan Raab im Showmodus mit mindestens 160 Punkten</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin Polizist und stolz darauf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/FD601DC277384E53EE3C294584A8E0161F1C0597.PNG</Image>
+      <Description>Gewinne Autokennzeichen gegen Stefan Raab im Showmodus ohne einen Punkt zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich geb Gummi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/0F951212CBA3D151A5614FC3F5B24684C084C6F9.PNG</Image>
+      <Description>Gewinne Flitschen gegen Stefan Raab im Showmodus mit 3 oder mehr Punkten Unterschied</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich war ja schon immer sportlich</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/F47329D1AE44D3A31F7A7D63A9E228713A32074F.PNG</Image>
+      <Description>Gewinne Airhockey gegen Stefan Raab im Showmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin ein echter Kartenhai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/7E17B3C239F6F704053B3750D02166D3671A05A5.PNG</Image>
+      <Description>Gewinne Kartenduell gegen Stefan Raab im Showmodus ohne einen Punkt zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Mein Daumen ist kaputt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/49E94CC8C8AB00D8AC7A6978F4F890C74A65C12C.PNG</Image>
+      <Description>Gewinne Knöpfchen Drücken gegen Stefan Raab im Showmodus mit mehr als 20 Punkten Unterschied</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Gut gerollt ist halb gewonnen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/925960AAF5CF39096C451D4D4AA2C2EF7E00D11E.PNG</Image>
+      <Description>Gewinne Autoreifen gegen Stefan Raab im Showmodus mit 3 oder mehr Punkten Unterschied</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Was bin ich nur für ein begabter Scheibenschieber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/D6DE80B33670C1F80957792C19578981F75DA1AE.PNG</Image>
+      <Description>Gewinne Shuffleboard gegen Stefan Raab im Showmodus ohne eine Runde zu verlieren</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich hab zuviel Zug abbekommen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/77AF39E563E916CA771CA111D19827CD3EF2F884.PNG</Image>
+      <Description>Gewinne Eisenbahn gegen Stefan Raab mit 2 vollen Waggons Vorsprung</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Im Fernsehen sieht das leichter aus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/86E6B426533CC6CE067AD1EBA3DCA80D80BE974D.PNG</Image>
+      <Description>Verliere gegen Stefan Raab im Showmodus ohne ein Spiel zu gewinnen</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>So nicht, Freundchen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/B1E54CCD18EC77472240A53D3386A1ECE8E99B24.PNG</Image>
+      <Description>Gewinne gegen einen Freund im Team Modus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Glück muss man haben</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/4B6A8547A3F3ED9B86F7F6D9C34F01432561FC7F.PNG</Image>
+      <Description>Gewinne ein Mal den Showmodus gegen Stefan Raab</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Ich bin alle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/6F0929D59B41E3D07DC29629D262324ECD1EBB4E.PNG</Image>
+      <Description>Spiele mit jedem Charakter im Showmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03693_00</GameId>
+      <Title>Im Training schaffe ich alles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03693_00_BEFE412C92791BBD59B506A6B297F8C68B5C80F1/C4874812C345E51FAADF85E08B5C20A6B1A0F5DF.PNG</Image>
+      <Description>Spiele jedes Spiel im Übungsmodus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

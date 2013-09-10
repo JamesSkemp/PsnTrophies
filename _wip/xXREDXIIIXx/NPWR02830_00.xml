@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02830_00</Id>
+    <IdEurope/>
+    <Title>Invincible Knight</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/A328FF90FF7A3570605510CD0BE4558E61F2BCEA.PNG</Image>
+    <TrophiesCount Total="11" Bronze="6" Silver="4" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>First step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/80677DB48C14A9E4475E40E6F0208F268A6F8DB3.PNG</Image>
+      <Description>Finish the first stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Jousting winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/E4D256577541C779BE5919844AF6C152CC8B0E35.PNG</Image>
+      <Description>Defeat the Legatus in Stage 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>War hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/429AA170F1E93EFBF1D0C3EEB6A2D295FAE0ADF0.PNG</Image>
+      <Description>Kill 10000 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Saviour of the kingdom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/EB6B469647703E5E78B1BC3A52BFF4CE3C776C62.PNG</Image>
+      <Description>Complete the game under any difficulty setting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Knight of BOOST</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/C34E86D888A058CB6A402F24D0CE43D49F67C927.PNG</Image>
+      <Description>Achieve EXCELLENT BOOST 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Knight of STRIKING</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/481C2DAEA6276EDD7BCE36637D1348295D9DDAEA.PNG</Image>
+      <Description>Perform a 6 CHAIN STRIKING.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Self-Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/C7C6E2BBB43E1E9B7C1D2A2AFE6312F172FC2DF4.PNG</Image>
+      <Description>Complete the game at the hardest difficulty setting.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Knight of COUNTER</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/C001705241B95B69A0C76339AE4464771D721905.PNG</Image>
+      <Description>COUNTER 100 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>That was close</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/16C0016C1DCE556C1F8067CFF148E0193818FA8F.PNG</Image>
+      <Description>Finish a stage with the remaining time less then one second.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Busker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/DDB16C08B3AF33184C4E384033C1A50DB76DB974.PNG</Image>
+      <Description>Jump to dodge the Dark Eques's scythe attack ten times in a row.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02830_00</GameId>
+      <Title>Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02830_00_004DE816B8FFE09AC2E1CF6D541EF19E1E0FB31238/4A1ADCFD37C7AEDE4BDBE4C31A67E716B3332FF4.PNG</Image>
+      <Description>Get S rank in all difficulties and stages.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

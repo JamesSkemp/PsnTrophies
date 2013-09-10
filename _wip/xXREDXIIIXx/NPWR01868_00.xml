@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01868_00</Id>
+    <IdEurope/>
+    <Title>Goldeneye 007: Reloaded</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/AC64A96F06151581199001ACCB7272FBEE837586.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Reloaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/56CE01D1CD267FBAF9FFCF9DA865E4E61C6B2867.PNG</Image>
+      <Description>Unlock all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>MI6 Ops Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/3C0997D8FAC59566582E947474E3BD320B9E4E0D.PNG</Image>
+      <Description>Earn 10 stars in MI6 Ops.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>MI6 Ops Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/84398CF6EFF8DF90AC888D3DA3EFA4F49774387A.PNG</Image>
+      <Description>Earn 25 stars in MI6 Ops.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>MI6 Ops Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/54E118D204B07F651A06E0C5B47062B2B01D8501.PNG</Image>
+      <Description>Earn 44 stars in MI6 Ops.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Operative</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/0D9A6261CFC012432DB4A6202885781892BAEF51.PNG</Image>
+      <Description>Complete all objectives for every mission on Operative difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Agent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/BA6E81323BA0B9EF4F4E491E53942801012CBA80.PNG</Image>
+      <Description>Complete all objectives for every mission on Agent difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>007</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/CB2DC95E045914F86FA81B1A8ED20CB512939917.PNG</Image>
+      <Description>Complete all objectives for every mission on 007 difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Classic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/0023806D70D7E8ECCDD5EFD7AF0117FBF261EB86.PNG</Image>
+      <Description>Complete all objectives for every mission on 007 Classic difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Arkhangelsk Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/59882D1FC8643A25827CD6B683CC230F028A12F1.PNG</Image>
+      <Description>Complete all objectives in Arkhangelsk on 007 difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Barcelona Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/CF02EAD7FB4AB2CC943E658C3B46CFB1E4CDD970.PNG</Image>
+      <Description>Complete all objectives in Barcelona on 007 difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Dubai Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/98A48DDB4AC0D4DE53B2D80A23419B97B6A3945B.PNG</Image>
+      <Description>Complete all objectives in Dubai on 007 difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Severnaya Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/46281C0F59E1E9A8D325D9CA8542D34D6CD75044.PNG</Image>
+      <Description>Complete all objectives in Severnaya on 007 difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>St. Petersburg Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/F497AD450891B06287C3B9AF2F67E67E8DF45E14.PNG</Image>
+      <Description>Complete all objectives in St. Petersburg on 007 difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Nigeria Dossier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/E376F79C034A7D84D3692031FD9897DAA21574F4.PNG</Image>
+      <Description>Complete all objectives in Nigeria on 007 difficulty or higher.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Phone a Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/70F5DFF90D0DEA63A548BE3ECF0F36B19710D1FE.PNG</Image>
+      <Description>Get 20 kills with hacked drone guns in 'Jungle'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Bullet Dance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/10E42B1370E0BB9338317D28EC7E166E9FA7CDCC.PNG</Image>
+      <Description>Get 40 kills with the Wolfe .44 in 'Nightclub'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Rocket Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/9508F2389032AB06EEFCC358A2B98CD0DE901F0C.PNG</Image>
+      <Description>Kill an enemy with the RPG in 'Dam'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Royal Flush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/19B421F99E23D36226CD4F8FA7F3C806E9EC45D9.PNG</Image>
+      <Description>In 'Facility', successfully kill the enemy in the toilet cubicle without any shots being fired.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Emblem Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/8629C90121BA49A29D9E64E06A87AEE32398411C.PNG</Image>
+      <Description>Single Player: Find and destroy a Janus emblem.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Emblem Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/6E98F201075D8413E1171128A88A47BACC8C1B6D.PNG</Image>
+      <Description>Single Player: Find and destroy 20 Janus emblems.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Emblem Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/EDDC329FC548EB99530BFC973F4C82F2B014CEDD.PNG</Image>
+      <Description>Single Player: Find and destroy 50 Janus emblems.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>I am INVINCIBLE!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/B6F4AAB12D7F5E08A8BEB51741829DB2D8E6965B.PNG</Image>
+      <Description>Single Player: Complete any mission without taking any damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Dressed to Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/98CB779899AB4C0B4B9DBE0A519DCBC7DE8E6D37.PNG</Image>
+      <Description>Single Player: Complete any mission without collecting any body armor on 007 Classic difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Going Dark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/83989B5150FA12DA3AB3B2758CFE039CD5399761.PNG</Image>
+      <Description>Get to master engineering in 'Facility' without reinforcements getting called in.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Choppers Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/AD51EF58F975A5E091992B0D87BAE1A78E16A1BE.PNG</Image>
+      <Description>Shoot down 15 helicopters in 'Tank'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Invisible Descent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/FA7FDB4B0D509D0DBD802D6C2C8B4C3C0DAA616B.PNG</Image>
+      <Description>Get to the server room in 'Bunker' without reinforcements getting called in.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Secret Servers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/F75FDAEFADFD689633E05CDD3FD8DDDAFC2D17E1.PNG</Image>
+      <Description>Destroy all the servers in 'Archives' within 40 secs of the first being damaged.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Haven't Got Nine Minutes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/C24496531534E9F266BB0D7C6EF53744DBCE7A07.PNG</Image>
+      <Description>Complete 'Airfield' in under 4:35 (007 Classic difficulty).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Welcome to Russia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/D245E56B0B91C44D446975824AD29A82A3D58FF9.PNG</Image>
+      <Description>Make the initial rendezvous with 006 in 'Dam'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Made you feel it, did he?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/EAD1484D48EEA195FA7AE14AFFF3F2D2A162EFE1.PNG</Image>
+      <Description>Single Player: Silently subdue 30 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Master at Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/DC7D39173FF0634344A361285E2F6794C77A0248.PNG</Image>
+      <Description>Single Player: Make a kill with every weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Dance Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/02432CF4DB593E66BD8195CA26A75FB3735BB8E0.PNG</Image>
+      <Description>Surrender to the music in 'Nightclub'.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Get to the Chopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/11DC6A5D346B6B356A806D0E51D6C0DACC9598D1.PNG</Image>
+      <Description>Complete 'Carrier' in under 11:00 (007 difficulty or higher).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Russian Escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/FBB780CA6595AC64941FD7EE992815749ABFB927.PNG</Image>
+      <Description>Complete ‘Archives’ in under 15:10 (Agent difficulty or higher).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Solar Agitated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/96EAD1841DAD79F5FB4BBD930FAC579FB3422A5A.PNG</Image>
+      <Description>Complete ‘Solar’ in under 13:00 (007 Classic difficulty).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Orbis Non Sufficit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/82A33604DADE603AF24F94A931AD69AFAEDDF0A2.PNG</Image>
+      <Description>Public Match: Complete a match on every map.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Butter Hook</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/2AEF23DD173B91AC2DB8BE628386FE8996EFEEF3.PNG</Image>
+      <Description>Public Match: As Tee Hee, get the most kills with a melee strike (min 3 melee kills).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Au-ned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/3FE5A9CA6B3994391018A48A95DEFE51BE54D694.PNG</Image>
+      <Description>Public Match: Achieve 79 kills with the Golden Gun in Golden Gun mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Clobbering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/365DDEA3F1B38D0EEB9BD9A6F8DD8778518253B5.PNG</Image>
+      <Description>Public Match: Achieve 64 melee kills with the KL-033 Mk2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Cheated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/D3B96ACF9BBA0A32166941BB7565903CC28338F4.PNG</Image>
+      <Description>Public Match: Get killed the most times by Oddjob's hat (min 3 deaths).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Hat Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/51835B19B9FF070D3B68CC1562E7EAD70355C612.PNG</Image>
+      <Description>Public Match: In one life, make three kills with Oddjob's hat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Braced for Impact</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/810EE75FABF96169924DF8126FA99702CBA825A7.PNG</Image>
+      <Description>Public Match: As Jaws, survive a shot to the head which would otherwise have killed you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>The Man Who Cannot Die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/5BE3BC0B8AC4F15E71980A45A0C783B7BFF51956.PNG</Image>
+      <Description>Public Match: As Baron Samedi, survive a bullet which would otherwise have killed you.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Console Compliancy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/5D92B376569150AB62F450AB45C5B4B50B1456C7.PNG</Image>
+      <Description>Public Match: Capture and defend the most consoles in one match of GoldenEye mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>For England, Alec</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/F63D9E2560F0C489C3086B6FC4687A5AE83E7F99.PNG</Image>
+      <Description>Public Match: As Bond, kill 006 with an explosive device.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>The Other Cheek</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/443448F87C0796BA61A21639A57332A5E344A17B.PNG</Image>
+      <Description>Public Match: As Bond, kill Zukovsky with a melee strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Full Deck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/D3CEC0FCEB2228A58B1A528CEA3B21BF6448CBAC.PNG</Image>
+      <Description>Public Match: Play at least one complete match of Classic Conflict with every character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Boys with Toys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/3F6EEE829ECF948E81311DBB355B32E0CC87CF2B.PNG</Image>
+      <Description>Public Match: Kill 50 enemies with Proximity Mines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Lucky Seven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/B7B5D8A44D78927A5E85DF5CEAD2CABC8BADE79F.PNG</Image>
+      <Description>Public Match: Defuse a planted bomb which has exactly 0:07 seconds remaining on its fuse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Boxing Clever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/6688DC6FDF10277B421050929551B5BBF3088180.PNG</Image>
+      <Description>Public Match: Earn all accolades specific to Black Box.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01868_00</GameId>
+      <Title>Had Your Six</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01868_00_989AA597092177C9D30FA7359629E58470566768/013E539E287BE79625DF79889D0A7F5F9639F63F.PNG</Image>
+      <Description>Public Match: Kill six enemies with the Wolfe .44 or Gold Plated Revolver without reloading.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

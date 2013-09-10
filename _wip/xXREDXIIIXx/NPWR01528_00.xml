@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01528_00</Id>
+    <IdEurope/>
+    <Title>Venetica</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/0AB2B03D24D11A00A37A7CD86E7EF40E4485892E.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Venetica</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/8127E2F05C7B762FBD6E7E8071F7DEAA4994FFDF.PNG</Image>
+      <Description>Earn all Venetica trophies to unlock the platinum trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>The End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/573DD69029BD9C7AB67B4290EF22B4851E0F236D.PNG</Image>
+      <Description>Game completed</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Knowledge of the Guilds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/56939EE46467F92965C97F8B36C1322F563F35E7.PNG</Image>
+      <Description>Quests of all guilds accomplished</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>No Drugs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/82695C2E09DCBBF71B237560704A94519267F827.PNG</Image>
+      <Description>Game finished without consuming any healing items</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>First Chapter Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/83A340400A232FEE405DB5C5849937F2D128C130.PNG</Image>
+      <Description>Chapter 1 completed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Second Chapter Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/DAFE6B355A9DCF19F5821B0F24F7BC06CB729586.PNG</Image>
+      <Description>Chapter 2 completed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Third Chapter Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/5E3D76715BFAD007FAB9C243DC9D59B3266D3259.PNG</Image>
+      <Description>Chapter 3 completed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Legendary Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/D3C1C12C34BD01B0905BB219B59A490D9A52733E.PNG</Image>
+      <Description>Level 32 reached</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Pale Hearts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/F93D14765A51DF8565567846E8A0952F52DAA7DC.PNG</Image>
+      <Description>All Pale Hearts collected</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/29A4AC1521286A5A29DA25B139EA694D997DDCAB.PNG</Image>
+      <Description>Dig out all treasures</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Quest Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/F71382893D843266F0E916AF244C48ACD69D8715.PNG</Image>
+      <Description>Complete 50 quests in one game</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Rogue Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/AA5EAE31E7DA8CE21545DA2B6DC35D68BF313942.PNG</Image>
+      <Description>Three rogue quarters cleared</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Beast Nightmare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/832A60E38FFDF716B753066AC10EBE8769BEDE05.PNG</Image>
+      <Description>Roof Beasts in Outer and Inner City defeated</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Holy Seal completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/059718DE66D744E4F6A1D0D46176A7A9779AF57E.PNG</Image>
+      <Description>All regular quests of the Order of the Holy Seal accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Hooded Wings completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/AFCF30030CEC5ADE9CFD1444BB00D0328153A42D.PNG</Image>
+      <Description>All regular quests of the Hooded Wings accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Net of the Mask completed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/0D83C343A947E9011137D508896852D5342EB87D.PNG</Image>
+      <Description>All regular quests of the Net of the Mask accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Trained Villager</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/00A43EBBBE46602D7D63780E55BD3CA261C70B38.PNG</Image>
+      <Description>Training in village successfully accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Trained Attack Combiner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/947A0F2EF1DDC283CC983D884B33D3ECC465C141.PNG</Image>
+      <Description>Combined Attacks training successfully accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Trained Roller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/B771F68D44F01101DFFF7A7F75FD27EDDB9C2514.PNG</Image>
+      <Description>Rolling training successfully accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Arena Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/8193EE9093356CB5C02545F93F71130C8DDE681F.PNG</Image>
+      <Description>All enemies in the arena defeated</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Moonblade ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/38F9675D73B2B99E0FBCD43079F56CCAAE506919.PNG</Image>
+      <Description>Have the Moonblade repaired</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Leather Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/CD48F266D26EF3A71F9849607FC6F670A9BE4673.PNG</Image>
+      <Description>Leather mail acquired</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Plate Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/494B163D05D8BCA5BB6FA6C533669B1A2BEE5806.PNG</Image>
+      <Description>Plate mail acquired</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Honorable Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/A7C043CB8875A3F01F0C4935759F61F83A930BB3.PNG</Image>
+      <Description>Play and complete the game the honorable way</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Villainous Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/1F1BB1EFC464D4017C9CFCDB8941567F48796583.PNG</Image>
+      <Description>Play and complete the game the villainous way</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Holy Seal Membership</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/B8ADA0FEE0DFE9684C4C4933B42A5ADEE95564E1.PNG</Image>
+      <Description>Become a member of the Order of the Holy Seal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Hooded Wings Membership</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/01429ABFC7B8D0B4752C3862A5C70F1660BC4FEF.PNG</Image>
+      <Description>Become a member of the Hooded Wings</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Net of the Mask Membership</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/4DD2065C0BAB6F0AE24186BD36AC84D7CAE7F272.PNG</Image>
+      <Description>Become a member of the Net of the Mask</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>True Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/B0DED1BAB19393CB5C0CE7D6D2E4541E3C8FEEA2.PNG</Image>
+      <Description>Level 20 reached</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Burglar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/6A0642D57925F15077138A4D494859A5AE82CD04.PNG</Image>
+      <Description>Gain 1200 experience by cracking locks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Gripper Queen Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/2579CAABFA229952A3CE02DF6780628B80654A4C.PNG</Image>
+      <Description>Defeat the Gripper Queen</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Apple Wine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/24A53A1385F2CE6FE20272339DEB3B2EBD4BA6C1.PNG</Image>
+      <Description>Exchange the innkeeper of the Inner City</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>High Esteem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/7291D6966142C38BCF4669C383FEE31FADB13893.PNG</Image>
+      <Description>Earn 2000 reputation points</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Stealth Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/61249F8ADBEE453C71A4EA5EB313B0C1192265F4.PNG</Image>
+      <Description>Collect all medicine parcels without killing the guards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Bright Views</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/29B4D87CF73BDC89099DB76254871F31153E3D47.PNG</Image>
+      <Description>Find a special lookout point in the Outer City</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Dark Views</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/3B3B84C3508B59A5FDD950896065696371B8C167.PNG</Image>
+      <Description>Find a special lookout point in the Arsenal District</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Beast Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/DB4EC9EEC5CB63EA948C35F8B467514936895975.PNG</Image>
+      <Description>One roof beast area cleared</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Rogue Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/3CA139973FA04A09C1D84C3602C62033AAB5EA2D.PNG</Image>
+      <Description>One rogue quarter cleared</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Sherd Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/72065AEBCB9B40B5124256DEF6E910927E2DD56D.PNG</Image>
+      <Description>Destroy 100 vases</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Scythe Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/2AD06CE2720EDB8FB7AB71629EEB7C4FA396B025.PNG</Image>
+      <Description>Learn the strongest Scythe skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Sword Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/4389141E53C2C5BEDB095DF13F95A5EA0A43FD1A.PNG</Image>
+      <Description>Learn the strongest Sword skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Hammer Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/E7138E84CFFC93972FF7596258571CD80B9F88AD.PNG</Image>
+      <Description>Learn the strongest Hammer skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Spear Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/F96B127D9CA6DA37779FBFA13BFFFB2A79985FBB.PNG</Image>
+      <Description>Learn the strongest Spear skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Trained Blocker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/719C721026D486477ED3B899C83BFDF3461C702F.PNG</Image>
+      <Description>Blocking Training successfully accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Trained Group Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/04D3F19837C63DA8C530296216435904F3E6D945.PNG</Image>
+      <Description>Training against many enemies successfully accomplished</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of First Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/00C27271020A15C44717511547B622CDE80FBE73.PNG</Image>
+      <Description>Learn the strongest skill connected to the first Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Second Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/0372C8264E6ADC98F609EAED51E054E1F4C19E26.PNG</Image>
+      <Description>Learn the strongest skill connected to the second Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Third Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/1D72C5A0B06CE240CAA39EDE79C74FE3DB86C99E.PNG</Image>
+      <Description>Learn the strongest skill connected to the third Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Fourth Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/E7DD9149BDBB3FD7F4551B358E626E7C3FCE691D.PNG</Image>
+      <Description>Learn the strongest skill connected to the fourth Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Fifth Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/A10D0632DB0F12EC7679310F65B377C86C16784E.PNG</Image>
+      <Description>Learn the strongest skill connected to the fifth Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01528_00</GameId>
+      <Title>Master of Sixth Twilight Circle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01528_00_9D8ACDDFD061FA554B960535571C9559FF41F6E5/4D975351408F7D0707CABFF5AF4E15887856DE7B.PNG</Image>
+      <Description>Learn the strongest skill connected to the sixth Twilight skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

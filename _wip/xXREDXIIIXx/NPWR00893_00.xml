@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00893_00</Id>
+    <IdEurope/>
+    <Title>Frogger Returns</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00893_00_337203A2DA844773BD72DDF6278A26AA67937D9C/B1BC4B886B7E74B5037F7ED5CDF82A00B826F4A6.PNG</Image>
+    <TrophiesCount Total="4" Bronze="0" Silver="1" Gold="3" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00893_00</GameId>
+      <Title>The Big City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00893_00_337203A2DA844773BD72DDF6278A26AA67937D9C/6FF41D120B08B9A3C6A53535AC279435BD05FCE9.PNG</Image>
+      <Description>You conquered the streets!!!</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00893_00</GameId>
+      <Title>The Subway</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00893_00_337203A2DA844773BD72DDF6278A26AA67937D9C/328C3BF2235769F5AE06FCA39CF06E2A0CF01C05.PNG</Image>
+      <Description>You made the commute!!!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00893_00</GameId>
+      <Title>The Sewers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00893_00_337203A2DA844773BD72DDF6278A26AA67937D9C/AA538AE2D8D10629A378CFBA4166E33135C2DB51.PNG</Image>
+      <Description>You cleared the stinky sewers!!!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00893_00</GameId>
+      <Title>The Swamp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00893_00_337203A2DA844773BD72DDF6278A26AA67937D9C/9D3CCA55F2144634BB0CA1FB9F248B953DD3F353.PNG</Image>
+      <Description>Frogger has returned home!!!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

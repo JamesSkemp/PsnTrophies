@@ -1,0 +1,608 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01512_00</Id>
+    <IdEurope/>
+    <Title>Dragon Age II</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C6D19CE1EB5107420F76DA7E9DC9DCDC0DA34694.PNG</Image>
+    <TrophiesCount Total="66" Bronze="43" Silver="21" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>The Ultimate Reward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/ADC74BF5A804D3A2424C73E67514C132381D5CC9.PNG</Image>
+      <Description>Completed all Bronze, Silver and Gold Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Stone Cold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/1AA51C5CAD2B3F0B89E4D746BBB41B214F1CF4A1.PNG</Image>
+      <Description>Defeated the rock wraith on your expedition into the Deep Roads.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>King of the Hill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/F731F94710D606A2918BDDAC3B48A9A65F24E2E5.PNG</Image>
+      <Description>Defeated the Arishok.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/4D314E1365ED0FF2B104CD55611F5521A018DB34.PNG</Image>
+      <Description>Defeated Meredith, knight-commander of Kirkwall's templars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Talented</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/CFCDCFBE475102178956FF65BE51AA92ECA22F14.PNG</Image>
+      <Description>Upgraded a spell or talent</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Tag Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/66E9BF59A946683D441049C854C638B2B0F8E62E.PNG</Image>
+      <Description>Used teamwork to perform a cross-class combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>That Thing Has Legs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/521062C66BC34C1971D6D83A7966B5C500588324.PNG</Image>
+      <Description>Found and killed a varterral.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Dragon Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/BA7C3A180A83416BA665B7B180078AEA0F41FF88.PNG</Image>
+      <Description>Found and killed a high dragon.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Exorcist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/CBDBEE00B93A6EE5B908D0E75B77DFE2E35B7D31.PNG</Image>
+      <Description>Found and killed the undying Xebenkeck.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Demon Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C2BBB2201A47A1D0C02E924B7B75ADE2D9798B41.PNG</Image>
+      <Description>Found and killed the ancient demon, Hybris.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Weapon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C1E7C2259454162B7621AA175331D76BD7B8FC44.PNG</Image>
+      <Description>Mastered a weapon style.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/AA7E1B16F5B1C7B0045943BFEE0E5A40112EE430.PNG</Image>
+      <Description>Completed a full year in Kirkwall without any party member being knocked unconscious.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Craftsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/74A519FC0A932E1C2C342E01D2A1F9F16CAA0180.PNG</Image>
+      <Description>Acquired your first crafting recipe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Financier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/05B360A73108AD12114BF049B67AC71624BBE488.PNG</Image>
+      <Description>Became a partner in a Deep Roads expedition.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Dedicated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/B51C405B144FAD8176E1208B598D194B9E9E525A.PNG</Image>
+      <Description>Reached Level 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>A Friend in Need</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/630C4C71A7DF71DBD36C9B2A15DAE3DD930891A2.PNG</Image>
+      <Description>Upgraded the armor of one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Enchanter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C38D290AFE91D77BF2E734ED4EA5654710C438B7.PNG</Image>
+      <Description>Enchanted an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Master Craftsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/A3D6CCF2D5FCA6C34CC0C27893F72FA52A1BB593.PNG</Image>
+      <Description>Crafted all of the items from a single crafting tree.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Mogul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/40D803DF54C79EB5CC7705C372C9829920F57CCD.PNG</Image>
+      <Description>Had 100 or more sovereigns in your purse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Crowning Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C52B511245BAC94D50DF1918CDC69D6476A910E3.PNG</Image>
+      <Description>Became the viscount of Kirkwall.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Specialized</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/DF72B88226E90FC8B07BA83B4C913AD2077DCDA8.PNG</Image>
+      <Description>Took two class specializations.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>I Got Your Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/E95D0769375E43FEC0672E8BDF8703BFB10F297F.PNG</Image>
+      <Description>Completely upgraded the armor of one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Legendary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/B3D3CBA3383D11AED5A6843387EADB45913AF50B.PNG</Image>
+      <Description>Reached Level 20.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Immigrant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/8C42A15F3BEE6F3C4783D99E78642DCD13392C6A.PNG</Image>
+      <Description>Became a resident of Kirkwall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Delver of the Deep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/6789BE35BC53CF8771B8D991DA9919E3E92FEA3A.PNG</Image>
+      <Description>Explored the Deep Roads.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Birthright</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/2657BFE56C0176618361EC760475DBB7280AEEEF.PNG</Image>
+      <Description>Kicked the slavers out of your ancestral mansion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Darkness Falls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C97507A1DDF7E322FC4054ED11E1F83F720A5D0E.PNG</Image>
+      <Description>Toggled the map from day to night.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/5769C894E8C4F78FB2F488CA6C7DFCCABE2CBCAE.PNG</Image>
+      <Description>Left Kirkwall to explore the outlying regions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Spelunker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/78B0EC7CFD0EACD56B89D70FDC336BDD65F8400B.PNG</Image>
+      <Description>Visited 10 caves in Kirkwall and the surrounding area.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Mass Exodus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/9FFA1F12EFF0841D636EBD9009665ABF69492552.PNG</Image>
+      <Description>Reached Kirkwall with each character class across multiple playthroughs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Knowledgeable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/889A848640CC48DA798604945CF7C8D39D8B261C.PNG</Image>
+      <Description>Unlocked 100 codex entries.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C6912A2B2423C4EE4FD9CB6F7381A74B22BF0A63.PNG</Image>
+      <Description>Opened 50 chests.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Supplier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/79B1154891CDAF46928AFB55913F845DE2A52DB8.PNG</Image>
+      <Description>Found every variety of crafting resources.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Archeologist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/2E203AD33B27C1ABF3B46ABA8049D1623BB0362A.PNG</Image>
+      <Description>During each year in Kirkwall, discovered 3 secret messages from the Band of Three.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Tale Within a Tale</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/768FAA16EB20736DAEC49044B0325E0642C8D705.PNG</Image>
+      <Description>Listened to Varric begin his tale of the Champion of Kirkwall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Full House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/5B1BE6B0ACCB06DE7F1D34951BEE937C06CF100C.PNG</Image>
+      <Description>Recruited four party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Friends in High Places</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/1B8C530F2E2C0F5AA93E8A7C4A005E8E028ADAFB.PNG</Image>
+      <Description>Met Grand Cleric Elthina, Viscount Dumar, Knight-Commander Meredith, and First Enchanter Orsino.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Gift Giver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/96707F82382B22F92EA241B3D3EADC252F6229DF.PNG</Image>
+      <Description>Gave a gift to one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Flirtatious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/AAD97BA477CF11D3AA0098E38D1C4FA339622D60.PNG</Image>
+      <Description>Flirted with one of your party members and began a romance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/067EA867FE92DAF80FA8B0EE5C2E11A98B60D7E3.PNG</Image>
+      <Description>Earned the friendship of one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Rival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/2FBC807732D09E3F35AA3AA31E4D5EE473525A15.PNG</Image>
+      <Description>Earned the rivalry of one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Romantic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/95DE4F6CE53E2AAECFF4F4C29EAF82E090708C3B.PNG</Image>
+      <Description>Completed a romance with one of your party members.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Chantry Historian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/9D2FC15ED2289CDE8C37F470C187535868925D50.PNG</Image>
+      <Description>Found all four chapters of "The History of the Chantry," by Brother Genitivi.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>A Worthy Rival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/03D10C1078C203F4CD6A7D3183A47FA8463DB5F8.PNG</Image>
+      <Description>Earned the Arishok's respect.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Great Minds Think Alike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/4A0CCE4F1177BBC62C83440DE6416B086A86DAE0.PNG</Image>
+      <Description>Earned the friendship or rivalry of four party members.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Champion of Kirkwall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/E82BC3AF63E59A47EBD39EBA3557224D4CDF1B62.PNG</Image>
+      <Description>Completed Dragon Age II.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Mercenary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/87758BA16BA4266EBFAD1A3352E3567AC6EA960C.PNG</Image>
+      <Description>Allied yourself with the mercenaries upon arriving in Kirkwall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Nefarious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/FF471C1B82D7E4C38EF07641E83E4F943C8DD032.PNG</Image>
+      <Description>Allied yourself with the smugglers upon arriving in Kirkwall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Arcane Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/039E55418B31A00CCCE96200363F6358D6DB5745.PNG</Image>
+      <Description>Sided with the mages five times.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Mage Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/3823CA0C28ABD81212B42A14A5B9B007EE86929C.PNG</Image>
+      <Description>Sided with the templars five times.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Epic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/ECC811754C948DE40A517467083D494CF94BC0C8.PNG</Image>
+      <Description>Completed Dragon Age II twice, or completed it once with a save imported from Dragon Age Origins.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Avenged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/F496DC19B5C77C4E78DD9C4D27156A2BFE8ACB94.PNG</Image>
+      <Description>Confronted the culprit behind the Vael family's murder. ("The Exiled Prince" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Cloak and Dagger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/7E3F4267869B0AFFB5389E2BA75A08CC865B0AEA.PNG</Image>
+      <Description>Met secretly with the agent of the Divine. ("The Exiled Prince" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Retribution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/9FE763BCAC89D9F838B94E7202D2123FFC2EA50B.PNG</Image>
+      <Description>Dealt with the mercenaries that killed the Vael family. ("The Exiled Prince" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Loyalty of the Prince</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/C00A38B1A929AF3454D617344D04BC11071B203F.PNG</Image>
+      <Description>Earned either a friendship or rivalry with Sebastian. ("The Exiled Prince" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Memento</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/0728422FA84D71B9188442E1D42B5E3F38E6422E.PNG</Image>
+      <Description>Gave Sebastian a family heirloom. ("The Exiled Prince" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Conductor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/4697B3EA8C224F1B8A1A868ADE9D635109792B39.PNG</Image>
+      <Description>Defeated an ancient evil in the Vimmark Mountains. ("Legacy" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Deep Roads Safari</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/BC8F033DFA68907E367D870E9DCEBA6545BE6E60.PNG</Image>
+      <Description>Killed a genlock, genlock alpha, hurlock alpha, bronto, and deepstalker in the Vimmark Mountains. ("Legacy" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Family Legacy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/AA135876F3ECFF5E798606EEDC7C1E5B3B5F27EF.PNG</Image>
+      <Description>Applied three effects to Hawke's Key. ("Legacy" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Family Outing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/797609BEDB8D89036D5DB08B3A862847FB2B40FB.PNG</Image>
+      <Description>Completed the main quest in the Vimmark Mountains with Bethany or Carver in the party. ("Legacy" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Tower Sweeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/E884118E1FE459C3AAA3008744A8AD3F0E406A0A.PNG</Image>
+      <Description>Completed every side quest in the Vimmark Mountains prison tower. ("Legacy" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>A New Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/5BD7039C8A3F10BA45A9B16261BB1151672C65F3.PNG</Image>
+      <Description>Tallis joined the party. ("Mark of the Assassin" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Chasing the Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/55B49092B17AAE6101F7DE5ABEF0F4BAA8B67F98.PNG</Image>
+      <Description>Lured and killed an alpha wyvern near Chateau Haine. ("Mark of the Assassin" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Blackjack Subtle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/5523C8EF26D5D46C7C8645E4D3DB7C12C530F80C.PNG</Image>
+      <Description>Evaded vault security in Chateau Haine. ("Mark of the Assassin" downloadable content)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>The Take</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/675C89ED8C462DD64BED4C07528527062B8138B9.PNG</Image>
+      <Description>Disarmed the fire traps in Chateau Haine's vaults. ("Mark of the Assassin" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01512_00</GameId>
+      <Title>Mark of the Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01512_00_9946F6DD47F8D8A55CA7299B979557B971DC3CD8/02072CA119370FAC632B5609FEDFE8B0DBF593D5.PNG</Image>
+      <Description>Defeated Duke Prosper, with or without Tallis. ("Mark of the Assassin" downloadable content)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

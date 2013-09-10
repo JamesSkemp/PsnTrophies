@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01994_00</Id>
+    <IdEurope/>
+    <Title>Disney Universe</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/1A43DEA48EDB0F40D26E7E0E8E4F2F33570692C1.PNG</Image>
+    <TrophiesCount Total="41" Bronze="29" Silver="7" Gold="4" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Platinum Universe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/8B37FEF066A7484F3D6748F8A2EBCCFED57BBF2B.PNG</Image>
+      <Description>Collect all other trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Saviour of the Universe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/4F07BFE67B2F864169D0D1B67ED72C3EE4A231F2.PNG</Image>
+      <Description>Complete all of the worlds.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Hero of the Sands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/3D908AFC2966585581CFFB04BFC245E92BEE4BDE.PNG</Image>
+      <Description>Complete the Aladdin world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Time for Tea!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/C3604C38FC39764B0B8BA489C6892FD31EB3F0D1.PNG</Image>
+      <Description>Complete the Alice world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>It Means No Worries!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/F8145E5BD98140F3DC5FCE28A5E995568BCB9528.PNG</Image>
+      <Description>Complete the Lion King world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Scary Feet!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/9BAD614897ECB18A7D5EF768088AC692B5C43009.PNG</Image>
+      <Description>Complete the Monsters, Inc. world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Swash Buckler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/D50BC94F5DD0412A8F435094738DB33075297FEC.PNG</Image>
+      <Description>Complete the Pirates of the Caribbean world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Returning to Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/46F4D421666299C42B8ECEEBC81257AE7A7AD86F.PNG</Image>
+      <Description>Complete the WALL-E world.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>World Beater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/728D058A8F74D93602A23623AEA5C8992F022D90.PNG</Image>
+      <Description>Get a Gold Grade for a world.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Champion of the Universe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/DB927E42D9736CC4A5914F8CFF27EA25D9CFBB30.PNG</Image>
+      <Description>Get a Gold Grade for all worlds.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/C9E605D2614883D56BA6BBF6199FE16212FCAA69.PNG</Image>
+      <Description>Collect all of the World Collectables within one level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Serious Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/8799C746614A93EC66C4463D9234D7C89F12F0D8.PNG</Image>
+      <Description>Collect all of the World Collectables within a location.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>World Set Complete!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/E363987A2A99A30D311CB0E06BA8E5EFDC0FBF20.PNG</Image>
+      <Description>Collect all of the World Collectables within a world.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Compulsive Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/B83D24BE0299E6AB15CA604D5F3183A3D8F6850F.PNG</Image>
+      <Description>Collect all of the World Collectables in the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Suit Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/7E3BD122F879492475DA208CFEECC037FF45BE54.PNG</Image>
+      <Description>Purchase a costume.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Dressed for Success!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/10C9DA37E8CABF274C9CEEB605350B4192643FF9.PNG</Image>
+      <Description>Purchase all of the costumes.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Four Star Costume!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/CF6AC2F3915065ABA56DFB0C723E0BDE3ABC8BC6.PNG</Image>
+      <Description>Fully upgrade a costume.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>World of Hurt!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/001D63CB0CE91EBF37E056D81B6C39C2FAC91282.PNG</Image>
+      <Description>Fully upgrade all of a world's costumes.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Ultimate Cosmic Power!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/CB6481505E1472D8E8C5A75D660E2090CECEBF75.PNG</Image>
+      <Description>Fully upgrade all of the costumes in the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Challenge Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/B3CF6D66DDC2B6BC9F2982730AC0500F0A0F2623.PNG</Image>
+      <Description>Play 50 Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>For The Win!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/3D87B182336443484A3CD1DEDF62909195B9AEA8.PNG</Image>
+      <Description>Win 50 Challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>The Bigger They Are...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/78BFECF2DE66BEDB12BC212A4D28A6E42CA28598.PNG</Image>
+      <Description>Defeat the Brute.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Dizzy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/12E0B1F1B9F5995DC68D23B797FCD82178435298.PNG</Image>
+      <Description>Defeat Roto.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Time for a Diet!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/FB57777181142203BD90B9743E7D3028FD6C0231.PNG</Image>
+      <Description>Defeat the Spawner.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Bad Dog!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/CB9D3E383080DA7D2A199F4FAC5E5F306E718446.PNG</Image>
+      <Description>Defeat the Bulldog.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Gold Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/9FEE1BCECF652308E0F24D1ECF159E194B5C56A5.PNG</Image>
+      <Description>Store 1,000 coins in the bank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Richer than a McDuck!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/89AA3C6B5C8D76AD8A580CC326F288D1C57C2136.PNG</Image>
+      <Description>Store 10,000 coins in the bank.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Along for the Ride</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/78D58FFD2FA59B39E7C08D10B8BDBABC4382A6C1.PNG</Image>
+      <Description>Complete a level in multiplayer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>All Together Now!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/2078E3D116E84815A4B3D4E5F3D7088BE3F59D12.PNG</Image>
+      <Description>Complete a level with 4 players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Playing to Win!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/649BF9E55CFAD9A69CD0431E0502D2024BD44C58.PNG</Image>
+      <Description>Defeat 5 players in a single level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>To Infinity... and Beyond!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/E56117029935AC401E3E40716C0BF686BC36031E.PNG</Image>
+      <Description>Defeat another player by throwing them.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Keep 'Em Coming!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/CF4E96DEE1C2CCB450C92B8F6B3411EB18D0261B.PNG</Image>
+      <Description>Defeat 100 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Anti-Virus!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/B199E18A70A8D7016108E899533C3E4B4EE5649E.PNG</Image>
+      <Description>Defeat 500 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Giddy Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/D28C09950E7AD516D34EE0B0AF463C73C6A0229B.PNG</Image>
+      <Description>Defeat an enemy whilst riding an animal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Freeze!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/B20E8B79D2605A7E8A79EC5ED21426578926AD5A.PNG</Image>
+      <Description>Defeat 5 enemies using a single Snowman power-up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Boxing Clever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/D384B5E4E55CD5A5A59CD6298ACC97295FC9CC93.PNG</Image>
+      <Description>Defeat 5 enemies using a single Power Punch power-up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Bad Hair Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/B8EC54182EFB8D1B1F8F28210C69F8A068177AC2.PNG</Image>
+      <Description>Defeat 5 enemies using a single Medusa power-up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Rapid Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/F197EBCE1F1261F5B2EF53C2C57F74C17B175791.PNG</Image>
+      <Description>Defeat 5 enemies using a single Shooter power-up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Tag! You're it!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/69DD2E8B0C1BA3ED728A8F4C08DAF5A7F44F8EED.PNG</Image>
+      <Description>Transfer a curse to another player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Unstoppable!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/9AA7BD765A9BB2306D42728743FCE4105274C871.PNG</Image>
+      <Description>Complete a level without respawning.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01994_00</GameId>
+      <Title>Old School</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01994_00_280D30E4038091D8673516F6EAC7E4601EFD2836/FF74375A123AB550537B0DD54C56D8E0BB3ADE67.PNG</Image>
+      <Description>Complete a level without using help arrows.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

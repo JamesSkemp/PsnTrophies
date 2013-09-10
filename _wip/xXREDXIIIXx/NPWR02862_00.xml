@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02862_00</Id>
+    <IdEurope/>
+    <Title>Pool Nation</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/7FE7802FA0EFF21B1C46C4DD5B129F25468049EB.PNG</Image>
+    <TrophiesCount Total="13" Bronze="0" Silver="0" Gold="0" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02862_00</GameId>
+      <Title>Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/4A181929AE7591EBBF96B68F5D692298F6FFDE04.PNG</Image>
+      <Description>Win First Star in Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02862_00</GameId>
+      <Title>Side Tracked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/769A17DAA1A5ED1BB1C73D730D28A9E053B01966.PNG</Image>
+      <Description>Win First Bonus Match in Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02862_00</GameId>
+      <Title>Does Not Compute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/B7559788A4EB92C80610986354F6B9E273DCA35E.PNG</Image>
+      <Description>First Win Against AI in Versus</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02862_00</GameId>
+      <Title>Zen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02862_00_00091C3520E4D7FDB2DB122F3EF18F1F592B2D966A/46D0F03BEFBF0403DB94040608B4937DA2263DD9.PNG</Image>
+      <Description>Reach 4 minutes in Endurance</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

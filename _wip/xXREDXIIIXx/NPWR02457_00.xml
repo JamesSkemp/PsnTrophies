@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02457_00</Id>
+    <IdEurope/>
+    <Title>Gravity Rush</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/29C660C80C6C4B4F770E83D937ABAD40D063948C.PNG</Image>
+    <TrophiesCount Total="64" Bronze="40" Silver="19" Gold="4" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>It's all Relative</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/B38E8C33384997181E09A3D50306E41999071A98.PNG</Image>
+      <Description>Collected every trophy. Congratulations!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Lost Kat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/CE735E452B9F23311AA7F5E90AA5D4A021186921.PNG</Image>
+      <Description>Awakened in Auldnoir.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Learner's Permit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/AE9DCFA05BCE897B36A8FDC19EF58DC2786CF5D5.PNG</Image>
+      <Description>Mastered the fundamentals of gravity.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>From Oblivion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/AE16B0B4709238B1A98A9638F3134B6BB5AD16E6.PNG</Image>
+      <Description>Completed Episode 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Shadows Over the City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/0483841BDA8E4D0E4E1DEC1733C5D02FB9D8F020.PNG</Image>
+      <Description>Completed Episode 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Home Sweet Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/8C3027C2AB9A68F76819C3F710DE6C2A95DE7599.PNG</Image>
+      <Description>Completed Episode 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Hekseville Phantom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/A46F6B2F4E612B5636D286FAA4D12EE4F94B00D9.PNG</Image>
+      <Description>Completed Episode 4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>A Meeting with Destiny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/E1C16698B2F4CA1929FEDD180E9CF6269CC57D3A.PNG</Image>
+      <Description>Completed Episode 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Lost City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/161A214C886FF1903F41C7195AF2E8222131B7B2.PNG</Image>
+      <Description>Completed Episode 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Too Many Secrets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/E8846059D62DB367091DCAA97A48650A30EE1582.PNG</Image>
+      <Description>Completed Episode 7.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>A Hundred and One Nights</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/8C84EB41461449C9C808666179DDB62B0A52260E.PNG</Image>
+      <Description>Completed Episode 8.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Letting Old Ghosts Die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/0EA9EE41B83BF133039E511146A4017A16750D5B.PNG</Image>
+      <Description>Completed Episode 9.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Curiosity Killed the Cat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/5C7DDA2571241002D60F0A550A9C2632CD0D2171.PNG</Image>
+      <Description>Completed Episode 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Thick Skin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/809257A04D3FB7A32F68A44645D7326644271A1D.PNG</Image>
+      <Description>Completed Episode 11.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Look Out Below</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/A0E3BD8303651B374A20C79F40267AB919DA1EE8.PNG</Image>
+      <Description>Completed Episode 12.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Kids Just Don't Understand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/74073BA4980BB0B0EA90A81BFB8E709536C665D4.PNG</Image>
+      <Description>Completed Episode 13.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Lost Tribe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/A92618BA050F85E65BD76460B9D04F8C7BA9D3BD.PNG</Image>
+      <Description>Completed Episode 14.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Memories of Another World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/CE3B58236F8EA7471325AD5410794A37B743CD68.PNG</Image>
+      <Description>Completed Episode 15.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Children of the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/647E95143B6DA69FE8A394073F512380CCFC17A2.PNG</Image>
+      <Description>Completed Episode 16.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Fading Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/FE24FFBE164AFFBB0D885918CC38004176838C0B.PNG</Image>
+      <Description>Completed Episode 17.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Adreaux On Call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/4412D89FEA437B77BA8950CC4B11EB5AEE2C888C.PNG</Image>
+      <Description>Completed Episode 18.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Falling to Pieces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/01A115B2279F5424B1BE0F62D6049F5B891EBE6B.PNG</Image>
+      <Description>Completed Episode 19.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>An Unguarded Moment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/7FB53BB898E037EB8FD95F3B277A46D50C31FA17.PNG</Image>
+      <Description>Completed Episode 20.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>No Rest for the Virtuous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/B3CCE3BC5CA3AE5C95229F4EB44EF109B1A6CB26.PNG</Image>
+      <Description>Completed Episode 21.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Ancient Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/D98238A0CA4B8955B0CF47731F7425BF09B02725.PNG</Image>
+      <Description>Defeated the rare Nevi in Rift Planes: The Ruins.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Burning Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/970D3EF619E1AB0733EECEDE904500744EA9B403.PNG</Image>
+      <Description>Defeated the rare Nevi in Rift Planes: The Inferno.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Illusory Game Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/C776004DF4ACAD6C4006D0355A49D2B48397ECA3.PNG</Image>
+      <Description>Defeated the rare Nevi in Rift Planes: The Mirage.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Frequent Flyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/BB0525A7770B0A451CF3680598C4B2352ADB08AF.PNG</Image>
+      <Description>Landed 10 gravity kicks without landing or taking damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Pitching Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/D28FBA24AEDE9D74E38AED627C5DECD92E967319.PNG</Image>
+      <Description>Hurled 10 objects into enemies without missing or taking damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Gravitational Anomaly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/E7FD30B62178B927BAABDADF0AAA45C758BA3503.PNG</Image>
+      <Description>Defeated 8 enemies with one special attack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>New Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/522DF94F0ACDEFBE5A9709AB5F0F706B373376E3.PNG</Image>
+      <Description>Cleared a challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>True Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/0E9D30147F3C0E7F481D5A3CA504FCCE2F94FCD7.PNG</Image>
+      <Description>Cleared EVERY challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Gold Medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/0753FEAFB80483C737F823B3625E8BED91CD4054.PNG</Image>
+      <Description>Gold-medaled a challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Silver Lining</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/B394B0F6157BF815D5479B7D76D3FF0AD018222C.PNG</Image>
+      <Description>Earned a silver or better in every challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>All That Glitters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/410004FDCA5FE2F5700A5F2C451999A995B60679.PNG</Image>
+      <Description>Gold-medaled EVERY challenge.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Going Underground</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/04625E377F1ADDC83D5506AA43C6DADD7C41BB02.PNG</Image>
+      <Description>Discovered every manhole.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Lost in Time and Space</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/29FAC898B50EBA045BFF70AC7987E723D5217C55.PNG</Image>
+      <Description>Heard the mysterious couple's complete story.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Gem Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/B646F44E46F4733782EC5E343EB908583DE9B59C.PNG</Image>
+      <Description>Collected a total of 20,000 precious gems.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Gem Aficionado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/4399BB02A1F473494B94AEF8538332F33A1A366C.PNG</Image>
+      <Description>Collected a total of 40,000 precious gems.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Top Cat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/6F599A01A692F376A65A6E1C3945DD23E2D7B81A.PNG</Image>
+      <Description>Raised Kat's reputation to “Top Cat.”</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>In Service</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/6E5AEB9892EDE03A58AADA4006673D48A4E96A78.PNG</Image>
+      <Description>Obtained the Maid costume.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Diary of a Maid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/E2F092AE5424CEC039ED3F0D736A2EB0706D452F.PNG</Image>
+      <Description>Completed “The Diary of a Maid.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Madam and the Shifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/EF057ED54BB20E8DBD5663643148CDE892D4990F.PNG</Image>
+      <Description>Completed “The Madam and the Shifter.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Rooftop Walker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/F200A4D9182290AD922D13A00CC9245BBC2656B1.PNG</Image>
+      <Description>Earned a silver medal or better in Auldnoir Free Race II.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Rooftop Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/7F1C9CE1DA7C2BC0F202E8DFFF0F19AA40A63B63.PNG</Image>
+      <Description>Earned a gold medal in Auldnoir Free Race II.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Unlimited Shifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/DD29062D1FA4C7CE6546D8A7940AECE7546F48E5.PNG</Image>
+      <Description>Earned a silver medal or better in the Rift Plane Unlimited Time Attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Maximum Shifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/202AA4563C9D93D33FF219540C65E48AEBC6E200.PNG</Image>
+      <Description>Earned a gold medal in the Rift Plane Unlimited Time Attack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Head of the Household</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/6DECEF8D5523FB893C3A7CCF816E0CF90B9393D6.PNG</Image>
+      <Description>Cleared every mission and challenge mission in the Maid Pack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Undercover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/BF87F7E1750B28916DC9A6A6B1EBA140D406C556.PNG</Image>
+      <Description>Obtained the Spy costume.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>A Time to Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/5A87C64844B0C0509E746A925F92442949D7A4A1.PNG</Image>
+      <Description>Completed “A Time to Play.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Dreamlife of Ghosts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/220D0B02EB7B09CA741DEDC7AFA981EDCC3143ED.PNG</Image>
+      <Description>Completed “The Dreamlife of Ghosts.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Second-String Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/01B34778DEA15BC3CB8954872461F07208289F68.PNG</Image>
+      <Description>Earned a silver medal or better in the Pleajeune Pitching Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>All-Star Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/C7363A1903D925F9D80953E0351412569978EBD5.PNG</Image>
+      <Description>Earned a gold medal in the Pleajeune Pitching Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Magma Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/730D1E016FF2892D937207C66D06F43DDC99C0E1.PNG</Image>
+      <Description>Earned a silver medal or better in the Rift Plane Health Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Fireproof Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/5E0D4035069756DBC47319DC9EB315C735206809.PNG</Image>
+      <Description>Earned a gold medal in the Rift Plane Health Race.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Superspy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/C9ED5A7874A3BD4E86A069BDCB7FAA042C3AECD3.PNG</Image>
+      <Description>Cleared every mission and challenge mission in the Spy Pack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>New Recruit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/2A5F1126FA3933A151C582A16F8C24C8D936D6E0.PNG</Image>
+      <Description>Obtained the Special Forces costume.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Rules of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/574BC0BEF2FF1463EA0B3CEE1E9D4E0183680A3B.PNG</Image>
+      <Description>Completed “The Rules of War.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>The Phantom of Bravery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/B3587E7F2EC6D231FF34C8BF824AEE6CEA7E2501.PNG</Image>
+      <Description>Completed “The Phantom of Bravery.”</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Apprentice Plumber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/C51CCB53642CF251664EE6F171818B0659F942B8.PNG</Image>
+      <Description>Earned a silver medal or better in Endestria Energy Race II.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>World-Class Plumber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/CEEA1EAA462DDA34DEB2CFC40499FF82AB3C2CD1.PNG</Image>
+      <Description>Earned a gold medal in Endestria Energy Race II.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Mushroom Slider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/C2FD0E32CEC52284A31A47C4EF56A3B263536846.PNG</Image>
+      <Description>Earned a silver medal or better in the Rift Plane Sliding Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Truffle Slider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/72BBB085E13E87D8B6ADAA3F0E01831AAC78B23C.PNG</Image>
+      <Description>Earned a gold medal in the Rift Plane Sliding Race.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR02457_00</GameId>
+      <Title>Special Forces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02457_00_26EAF5B3C4F0480990228151623FA9DFAB50E062/D605F60A59D9EE36D53E1BEEA5852C54B3DB9CCF.PNG</Image>
+      <Description>Cleared every mission and challenge mission in the Special Forces Pack.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

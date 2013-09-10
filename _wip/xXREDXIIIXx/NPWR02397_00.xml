@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02397_00</Id>
+    <IdEurope/>
+    <Title>Virtua Tennis 4</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/138BC5F2B29684FC59CD4F43294D50DB9F52EA33.PNG</Image>
+    <TrophiesCount Total="49" Bronze="38" Silver="7" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Tennis God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/9F22160A9A9BB8C389B6E13436A5FCC5E3856702.PNG</Image>
+      <Description>Collect every trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Arcade Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/07305144D7DB146CABC5A1F0899821A719E95256.PNG</Image>
+      <Description>Clear a stage in Arcade Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Doubles Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/116FC11D55E4B54ED7D4F4C9AE3A412F97896E42.PNG</Image>
+      <Description>Clear a stage in Arcade Mode Doubles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Grand Slammer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/DAB0DB1BC131AB8E5AF32989864F8846113FCA63.PNG</Image>
+      <Description>Clear Singles Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Doubles Grand Slammer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/74397C689AC746993067708ABE1927E3436AD07E.PNG</Image>
+      <Description>Clear Doubles Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Great King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/C136EB485FDF1B4224CAD5CAAE1462D44E67E573.PNG</Image>
+      <Description>Defeat the King in Arcade Mode Singles</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Balloon Popper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/2EF80E3798805C08B9FAF91F466354A64273E4D3.PNG</Image>
+      <Description>Pop 30 balloons in Practice Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Exhibitionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/2411651AB65C052E0A2927BD22CBBF947BBF77CB.PNG</Image>
+      <Description>Play 10 Exhibition Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>In Your Face Tennis!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/3584E35B67FA554A3747C54B5065EF222BE68795.PNG</Image>
+      <Description>Win 5 VR matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Screen Sharer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/B34125390968CAE23274042E2D987B0E2E8F3AA0.PNG</Image>
+      <Description>Play a Touch VS game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Classic Photographer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/10CC70F37A417D5DE641807D950543BC4B0B0013.PNG</Image>
+      <Description>Take a classic photo with VT CAM</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Great Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/81C319E190601C2A83D3D4DF7F68F7E4F9B0022C.PNG</Image>
+      <Description>Achieve a 5x Combo in Clay Shooting</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Mother Hen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/841B7F347E66902204A3618096E805CF6706E817.PNG</Image>
+      <Description>Deliver at least 10 chicks simultaneously to their mother in Egg Collector</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Hat Tricker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/2B7331DCC076B527AC27E3EB0E69D18AB3CAFCA2.PNG</Image>
+      <Description>Score 3 goals in a row in Ace Striker</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Poker Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/944A0EF8F9851097894469E170414455E2EFAB13.PNG</Image>
+      <Description>Get 10 royal straight flushes in Royal Poker</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Bomb Fiend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/3942C16A58C6B06D368D9FCC8A92D9DCA0F95D93.PNG</Image>
+      <Description>Detonate 20 bombs in the opponent's court in Bomb Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Moneybags</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/0513999419FAC432C8BA0BF4FD131882EEAF2199.PNG</Image>
+      <Description>Collect 1000 coins in Coin Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Wind Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/13CB89CA4540848877B9D479F933C9856EF9D781.PNG</Image>
+      <Description>Pop 3 balloons in one Wind Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Wall Whiz</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/5E37D82D64C9471604181018A6F0D284ACBB224B.PNG</Image>
+      <Description>Hit a wall 5 times with the ball in one Wall Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Turkey Bowler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/CEC76A1293AD01F27856B6D11DDF2A625C87A108.PNG</Image>
+      <Description>Get a turkey in Pin Crusher</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Emergency Stop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/FB579D912F50990CFF4622AF5EB72FD9351FE0E3.PNG</Image>
+      <Description>Stop the ships 10 times in Rock the Boat</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>World Tour Cleared!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/6B34038012D56E594BBE0DD7E3EEE7B1999735C8.PNG</Image>
+      <Description>Clear the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Famous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/7C8AD1893762972A72F4423947226EEF7B1735DB.PNG</Image>
+      <Description>Become: Famous</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Accomplished</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/A06EFBA31A875B77635C3C40793114E1A7F4198D.PNG</Image>
+      <Description>Become: Accomplished</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Ticket to the SPT Finals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/07EB0E1FCEDE6A3C629FEB69CF6FF9BCA8C581C4.PNG</Image>
+      <Description>Make it to the playoffs</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Future Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/7B51A4E5B3889B03747BBF8C8721B8C68EE961C4.PNG</Image>
+      <Description>Win the final tournament of the Tour Break</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Look Alike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/E26A381C4F2FDBB3DBA27BAF433E941CD6A2F0D5.PNG</Image>
+      <Description>Create a player by taking a picture</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Regular Customer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/08A8E5659BAAD4FE395D4E70FC514CF10C443796.PNG</Image>
+      <Description>Stop at the Management Office 30 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Top Condition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/7E0EDC4F7C1997B3054F61211AF15397621A7775.PNG</Image>
+      <Description>Reach a Condition level of 20</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>International Traveler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/FC04CBC86FADBADDD9EA5507109230CC44E679B9.PNG</Image>
+      <Description>Play an online visitor 10 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Tycoon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/82C897A1A242E75DCCF6B8924D28D5AD12A4039F.PNG</Image>
+      <Description>Earn 1,000,000 in total prize money</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Jack of all Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/5A9C1770D74B48C8873ADFCEDD81FB4850793647.PNG</Image>
+      <Description>Take lessons for all play styles</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/4956AE00207DD5E657CFC392DA317954D968E0FF.PNG</Image>
+      <Description>Purchase 50 types of items in the Kit Catalogue</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Online Debut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/B148E082809C7D7C69F47536C18106FBF8695661.PNG</Image>
+      <Description>Play online with a customised character</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>First Online Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/C3F4EAB02BC3069BAF1EB930B5F4FE247E03490B.PNG</Image>
+      <Description>Win a match online</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Online Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/396EE58B15DD60DAE4273F5B35232DD8B7D61459.PNG</Image>
+      <Description>Win three consecutive matches online</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Online Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/530E50888FF729648F1B66E483765DD757DDF1B5.PNG</Image>
+      <Description>Reach Rank A</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Loving It!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/6656CE6F85B34DF337A5D3678717999BC74E923D.PNG</Image>
+      <Description>Win 10 Love games</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Big Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/1B18471C6D524E7E8F2E3B1681899D2F76DE60E3.PNG</Image>
+      <Description>Hit 250 MAX Serves</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Power Smash!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/11DB52992C3AFB9E07C69A442741258129BF3899.PNG</Image>
+      <Description>Hit 250 smashes</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Endless Rally!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/B730AD46792528EE84ACB300FC1892CF506ABED5.PNG</Image>
+      <Description>Sustain a rally for 30 shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Super Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/C4E8F3A9AC56D8B5E11CE42A8A4735DE245D2A55.PNG</Image>
+      <Description>Hit 100 super shots</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Marathon Runner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/7F6F752508E4370187B081E15F9A1E078BD22838.PNG</Image>
+      <Description>Run 42km (26mi)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Swing Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/B4F6734F808C4B1940C9A4E6DA03BCF612F123AF.PNG</Image>
+      <Description>Swing 5000 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Best Stroker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/0B475AE4323E9680E8FBA4BF2B0E2275C9DBFB84.PNG</Image>
+      <Description>Win 100 points with ground strokes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Volley Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/267E1C0E0CEDB822F857B0D30C407A26D304A38A.PNG</Image>
+      <Description>Win 100 points with volleys</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Pro-Tennis Fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/C2D6BB394A061948F1B51E430A6C8F18C66312E7.PNG</Image>
+      <Description>Play using all the real tennis players</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Full Swing!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/53F39C1D27346B6BBDC19203A02C4D80B9311760.PNG</Image>
+      <Description>Hit 50 MAX power shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02397_00</GameId>
+      <Title>Breakthrough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02397_00_D1A3532DB28A1603ED8421B13FAB7D49C379BF1D/8AA9688853E72C3C0D1A6C652D2302ED2A01C162.PNG</Image>
+      <Description>Win 10 games as the receiving player</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

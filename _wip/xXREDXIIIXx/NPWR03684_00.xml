@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03684_00</Id>
+    <IdEurope/>
+    <Title>Hitman 2: Silent Assassin</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03684_00_00F3C0656F994F451D177664592DF157E22106F075/9D9BA12474E95FEFC36075001AFA27772CBF9BBA.PNG</Image>
+    <TrophiesCount Total="26" Bronze="5" Silver="15" Gold="5" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03684_00</GameId>
+      <Title>1st Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03684_00_00F3C0656F994F451D177664592DF157E22106F075/B0F98751D70D5FBD01657474F406B6B5B938C962.PNG</Image>
+      <Description>A successful kill has been performed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03684_00</GameId>
+      <Title>Killed the wrong guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03684_00_00F3C0656F994F451D177664592DF157E22106F075/EBE3127C7FE1C7DB86B9ACCF12855C9D9AD5205F.PNG</Image>
+      <Description>An innocent person has been killed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

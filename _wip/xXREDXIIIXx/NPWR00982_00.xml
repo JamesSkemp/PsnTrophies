@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00982_00</Id>
+    <IdEurope/>
+    <Title>NBA 2k10</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/6BC4CFB3590D80649B954FBE8DE677C93DA2493D.PNG</Image>
+    <TrophiesCount Total="50" Bronze="33" Silver="15" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>All-NBA Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/E00B4060C6CECA37865BF64F18671B862B609A28.PNG</Image>
+      <Description>Earn every trophy in NBA 2K10.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Summer Circuit Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/7D519DC6015E4BB9BA9A70672207AB308BC964B9.PNG</Image>
+      <Description>Complete Summer Circuit in My Player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Training Camp Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/D21845416BC92CE20BB6AF64C5453A0A6B43AAA7.PNG</Image>
+      <Description>Complete Training Camp in My Player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Play in the NBA Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/6E4881B60687B87467A8522347970F252DD5533A.PNG</Image>
+      <Description>Play in an NBA game in My Player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>30 Assists Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/35A6E02E1950F2B908C59D174507CE6589C6B1A4.PNG</Image>
+      <Description>Record 30 assists or more with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>10 Blocks Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/F86292150C9927379A71CC9B6C6DF6A94302DA0C.PNG</Image>
+      <Description>Record 10 blocks or more with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>15 Steals Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/C975BCC8F5F8B3F37CB1DB9F0340B095ED0445CD.PNG</Image>
+      <Description>Record 15 steals or more with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Rebound +10 Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/FCE959112C69611A7E2B89AE8DD419FB2E8E3820.PNG</Image>
+      <Description>Win the rebound battle by a margin of +10 with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>15 Threes Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/1A6849CF4F45EC7A07681696629BEDFEA90EA022.PNG</Image>
+      <Description>Make 15 three pointers or more with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Defensive FG% Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/56FDA36D5B2A0798807ADAD0C6D57E6F0BEEC832.PNG</Image>
+      <Description>Hold the opposing team's FG% below 40% with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Lights Out Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/3626B25B9831835114DF50292E06C4C5AB09EF32.PNG</Image>
+      <Description>FG% over 60% for the game [min 40 FGA's] with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Track Meet Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/76C647B9D793C55D8E2868D2A0D91D71BBA955ED.PNG</Image>
+      <Description>Score at least 20 fastbreak points with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Second Unit Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/FB176DFCE93FE05C4E7A40EE3DDFD70C0C2E2B04.PNG</Image>
+      <Description>Score at least 40 bench points with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Inside Domination Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/E94494352CF062A21E32210BD48F2ED751F743D1.PNG</Image>
+      <Description>Score at least 70 points in the paint with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Good Hands Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/64FE3C6D406FAB07E547CB7548FECF52C9977F9A.PNG</Image>
+      <Description>Record at least 20 assists with no more than 5 turnovers with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>All-Hustle Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/42E8AAC11B9BC4C79FEFDBB0B8C8F77B3318876F.PNG</Image>
+      <Description>Record at least 5 offensive rebounds, 5 blocks and 5 steals with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>All-Heart Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/836BFAFF83264F4B59738800DF7B45F27D727E2E.PNG</Image>
+      <Description>Start the 4th period losing by 5 or more points and win the game with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>3-for-All Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/BA76DB407AEEAC87AF4C7E05F7D82684FEC00D02.PNG</Image>
+      <Description>Make at least 10 3pt FG's while shooting at least 45% from 3pt range with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Ice Water Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/B02D8EA6B6AE02C2DF7A9140724E213E498B6485.PNG</Image>
+      <Description>FT% over 85% with at least 10 FTA's with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Lockdown Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/A6DB45C01744D335F000EFD06226454AEEC1A83C.PNG</Image>
+      <Description>Record at least 5 blocks and 5 steals with any team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Celtics vs Lakers Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/D65B6E83A7DA84CB254A6C9893000939CFA19FD7.PNG</Image>
+      <Description>User controlled team from either side must win against opponent at All-Star difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>East vs West Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/D644D863E8D41EA40DAAEFF2180B0223778043AB.PNG</Image>
+      <Description>User controlled team from either side must win against opponent at All-Star difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>G Performance Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/2F8AACC2141CEA8EEAC37E4C2B58F2F993320EAF.PNG</Image>
+      <Description>Record at least 25 pts, 3 stls and 2 blks with Dwyane Wade.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>LeBron James Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/898CCEE65ABDBC35F94F4073381F185C52F34E57.PNG</Image>
+      <Description>Record at least 25 pts, 8 rebs, and 8 assts with LeBron James.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Kobe Bryant Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/2AFD413EB1C94721B33CD2DC06A5D6AC7C0BFE15.PNG</Image>
+      <Description>Record at least 50 pts with Kobe Bryant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Brandon Roy Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/8DC1EE941FA1744B0A47A778FA58BAE1E2576727.PNG</Image>
+      <Description>Record at least 25 pts and 6 assts with Brandon Roy.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Danny Granger Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/C746A0C010C89EE49DF4F42CC1ED25D7DF8D1022.PNG</Image>
+      <Description>Record at least 30 pts, 3 threes and 2 blks with Danny Granger.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Dwight Howard Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/911AA2E8136470985DC6ADBD9A63E05BB209EB4A.PNG</Image>
+      <Description>Record at least 20 pts, 15 rebs and 3 blks with Dwight Howard.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Kevin Durant Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/58C266BE5CA95379C4ACD4D7F6A0D00FEC848017.PNG</Image>
+      <Description>Record at least 35 pts and 6 rebs with Kevin Durant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Carmelo Anthony Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/E7AF6156C36B0E9C35DB6742003EADC4234DC6F0.PNG</Image>
+      <Description>Record at least 40 pts with Carmelo Anthony.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Chris Paul Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/46CC9B031DB18122A3269D0CD943D569452367CE.PNG</Image>
+      <Description>Record at least 20 pts, 10 assts and 3 stls with Chris Paul.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Deron Williams Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/A12392CCFB2C7319431D3D112DCD7A86369AF51B.PNG</Image>
+      <Description>Record at least 20 pts and 12 assts with Deron Williams.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Yao Ming Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/571CCDCC2D9F9F5E912CE7EC298718453B175500.PNG</Image>
+      <Description>Record at least 20 pts, 10 rebs and 3 blks with Yao Ming.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Dirk Nowitzki Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/519183FF189C610DA285C94E5DBFCDF707147E79.PNG</Image>
+      <Description>Record at least 30 pts and 8 rebs with Dirk Nowitzki.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Sprite Slam Dunk Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/000178A721D3FD3EC27B6E3BEF37D5217671F2AD.PNG</Image>
+      <Description>Win the Dunk Contest using LeBron James.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Dunk-Off Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/8C43A6B58B210B5A652985F275FB1C4822A81716.PNG</Image>
+      <Description>Defeat any challenger in a Dunk-Off.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Rookie Challenge Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/8196C4338F9F7FE70FCEED75DC8CF94BB5875023.PNG</Image>
+      <Description>User controlled Rookie team must beat the Sophomores at All-Star difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>3pt Shootout Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/0C9E8FE5C5531A29F45EB518F0518912C027474D.PNG</Image>
+      <Description>Win the 3pt Shootout.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Create-a-Player Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/CD30BFD89298905A7D777BACCEDB572C10D5030A.PNG</Image>
+      <Description>Create a Player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>2K Beats Playlist Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/644B71F8D0E83A602B85428A4FEE9CAE5DCA1280.PNG</Image>
+      <Description>Create a 2K Beats Playlist.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Ranked Match Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/1C312E19945398F710732735C1FD77D8D4EADD0D.PNG</Image>
+      <Description>Win one online ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>3 Ranked Streak Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/3608CAA104F3F024836E784D3E9A8865C3CCBD30.PNG</Image>
+      <Description>Win 3 ranked matches in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>5 Ranked Streak Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/09B7BB99D2F10B2FBA8924D681ADCA1EA0BDF959.PNG</Image>
+      <Description>Win 5 ranked matches in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>5 Ranked Matches Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/BBFFD8E0768C9BF9290F2A3976E1B2D944C0CFC3.PNG</Image>
+      <Description>Win 5 ranked matches total.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>10 Ranked Matches Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/F77ACB2082A5AA9BF65972AF67B6CC052BD9F4DE.PNG</Image>
+      <Description>Win 10 ranked matches total.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>20 Ranked Matches Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/3BBD1EC2D8AF38656EBBD2EF577BC35E5AD2F83F.PNG</Image>
+      <Description>Win 20 ranked matches total.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Crew Game Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/7248EE2A461E39C20C869069FE33C65381C0B952.PNG</Image>
+      <Description>Win one online crew game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Pick-up Game Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/2FDE5B88BC523DE150D524B185ADE7A2BFD2801E.PNG</Image>
+      <Description>Win one online pick-up game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>Good Teammate Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/0FCF808FFD40C6543716187AB79B1F16E96EF1D5.PNG</Image>
+      <Description>Earn a positive "teammate rating" in the online Team Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00982_00</GameId>
+      <Title>It's Better to Give Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00982_00_3663B8299F60AF721CCA8E0CFFCCA8ECD0913FB3/37A35FE297C4A2D6B152953167C82E7CF88A757D.PNG</Image>
+      <Description>Share any file type through 2K Share.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

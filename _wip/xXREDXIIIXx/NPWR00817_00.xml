@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00817_00</Id>
+    <IdEurope/>
+    <Title>Dark Souls</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/5D679B3A330595EE11D2AD1474548405CB6E0C79.PNG</Image>
+    <TrophiesCount Total="41" Bronze="18" Silver="20" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>The Dark Soul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/ECB0B39B7A2449707FB3A09117596DEAA9BEAE21.PNG</Image>
+      <Description>All trophies obtained. Congratulations!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>To Link the Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/38362311A205B65ABED7EDA5F1398EA6AD947112.PNG</Image>
+      <Description>Reach "To Link the Fire" ending.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Dark Lord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/CC898864B4FE31342B4CC75C4A47F9E2E389E25C.PNG</Image>
+      <Description>Reach "The Dark Lord" ending.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Knight's Honor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/FFE188D3E2F625701E97E333DC551307F23AAB41.PNG</Image>
+      <Description>Acquire all rare weapons.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Wisdom of a Sage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/C93B01181AB0201134F867DF023C1D2110CE69D5.PNG</Image>
+      <Description>Acquire all sorceries.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Bond of a Pyromancer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/3BEC74DB7E1C9924C7EAF6152441F0C0F4668E7C.PNG</Image>
+      <Description>Acquire all pyromancies.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Prayer of a Maiden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/0C2B6A979676366659CCEB345C9A99C398E7087B.PNG</Image>
+      <Description>Acquire all miracles.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Way of White</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/DDEC0EC173DB9C4F020757FC92B9EC4F81AE2EBA.PNG</Image>
+      <Description>Discover Way of White covenant.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Princess's Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/46E44FF9AABC56168908C4237BA28D59A9C88A84.PNG</Image>
+      <Description>Discover Princess's Guard covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Blade of the Darkmoon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/1DF7EF1D5BDC31B4CBEAA786C8ED874614AE5BA1.PNG</Image>
+      <Description>Discover Blade of the Darkmoon covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Warrior of Sunlight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/FC526C3E6C00FE1EAFACF44F21651F6A90D0E6A6.PNG</Image>
+      <Description>Discover Warrior of Sunlight covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Forest Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/1E5D035190D52C98FD98087D2561B36EBC3A8E9A.PNG</Image>
+      <Description>Discover Forest Hunter covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Darkwraith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/2BDBE1D97E486942CE65D1C1A83442F5301239E9.PNG</Image>
+      <Description>Discover Darkwraith covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Path of the Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/E340CBB6784E3BE01DB94EF35F4C7738A181AFCD.PNG</Image>
+      <Description>Discover Path of the Dragon covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Gravelord Servant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/2A97EA8413FDDA6E1CA78B46A9A2EEE7646010B5.PNG</Image>
+      <Description>Discover Gravelord Servant covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Covenant: Chaos Servant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/3D248CBE8C29C7ECC608EEAC4A5B1F61D28E93D5.PNG</Image>
+      <Description>Discover Chaos Servant covenant.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Strongest Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/3B720BEC3B35AC0FBF837CAE4A6064FE249D0B63.PNG</Image>
+      <Description>Acquire best wpn through standard reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Crystal Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/36945CE847FEF64F4283CA7643DC0E9D84B00334.PNG</Image>
+      <Description>Acquire best wpn through crystal reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Lightning Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/109580E32066811D10EA1C383621A15F5973D276.PNG</Image>
+      <Description>Acquire best wpn through lightning reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Raw Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/D41C1D331751A106D0990D57228A061F205C78A5.PNG</Image>
+      <Description>Acquire best wpn through raw reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Magic Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/E5673E06816215FE3B4BF46FF19130CF64E1381D.PNG</Image>
+      <Description>Acquire best wpn through magic reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Enchanted Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/D756A7AFB0D16A2D40AF40EE542E4A18617C7F25.PNG</Image>
+      <Description>Acquire best wpn through enchanted reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Divine Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/93AB2DB353C457DC2438A2AE5C57F9820D67175F.PNG</Image>
+      <Description>Acquire best wpn through divine reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Occult Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/E198A91CBBCA02AF22B8AFEA278EC99F735D6363.PNG</Image>
+      <Description>Acquire best wpn through occult reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Fire Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/EA9A78434AB0105A01D59D0D40061EBEB4A600E8.PNG</Image>
+      <Description>Acquire best wpn through fire reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Chaos Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/F5E2D1AF1B7EFA190678449286AA96E37E30AE94.PNG</Image>
+      <Description>Acquire best wpn through chaos reinfrc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Enkindle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/1B570D7FF016F7F01884A771C41DB89368EBF448.PNG</Image>
+      <Description>Light bonfire flame.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Estus Flask</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/6192F4E4A08D48EF3BF426212298A96BF49FB51F.PNG</Image>
+      <Description>Acquire Estus Flask.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Reach Lordran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/4B1B3E01A521B964651A218D223C047C08F00B0E.PNG</Image>
+      <Description>Arrive in Lordran.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Ring the Bell (Undead Church)</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/41A6AD8C92CD73B07BECE6057A6741C2192D2299.PNG</Image>
+      <Description>Ring Bell of Awakening at Undead Church.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Ring the Bell (Quelaag's Domain)</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/2690D9E6830598703C8FE86BA1C722D61475255F.PNG</Image>
+      <Description>Ring Bell of Awakening in Quelaag's domain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Rite of Kindling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/330160635621E476AE84E7864B54F9013B54BEF1.PNG</Image>
+      <Description>Acquire the Rite of Kindling.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Art of Abysswalking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/68AE99F9B55564B99A0F77905BA3D4805FC6C972.PNG</Image>
+      <Description>Acquire the Art of Abysswalking.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Reach Anor Londo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/E291E2B01E06EA4FF354947D5A70AA729E196DC1.PNG</Image>
+      <Description>Arrive in Anor Londo.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Lordvessel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/06FE460168B053B405C4091AD16E8EA989876AB3.PNG</Image>
+      <Description>Acquire the Lordvessel.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat Gravelord Nito</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/01E17B5794A21DEB4407C22A777DFAAD785F6D9F.PNG</Image>
+      <Description>Defeat the Soul Lord Gravelord Nito.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat Bed of Chaos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/EB44E15D9375BC91C66D7B9AB3C4BFE63A610E54.PNG</Image>
+      <Description>Defeat the Soul Lord Bed of Chaos.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat the Four Kings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/F9CC4FF1EC185750D6FC5B79A8BE0A79A284A6F6.PNG</Image>
+      <Description>Defeat the Four Kings, inheritors of souls.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat Seath the Scaleless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/3984E6605930513D47B77F317DB14ADCCD71B5F5.PNG</Image>
+      <Description>Defeat Seath the Scaleless, inheritors of souls.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat the Dark Sun Gwyndolin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/1277BF23660394FC87551A13F3EB7E984C29FA87.PNG</Image>
+      <Description>Defeat Dark Sun Gwyndolin, the Darkmoon God.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00817_00</GameId>
+      <Title>Defeat Crossbreed Priscilla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00817_00_18699C4415CCDB413A543EDF44C2D40F3FB4BAC3/1EEEB0C6FA29261B45B2867678E2F742D860A44E.PNG</Image>
+      <Description>Defeat Crossbreed Priscilla, the Lifehunter.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

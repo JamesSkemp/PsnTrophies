@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02733_00</Id>
+    <IdEurope/>
+    <Title>Table Top Tanks</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/9BFB54BC4C817EC463E5AAE2C1CEC033409AB70B.PNG</Image>
+    <TrophiesCount Total="7" Bronze="2" Silver="3" Gold="2" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>Challenge Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/9D8DA5DFC71F08EA1C429082B9A4FC11A341AFCD.PNG</Image>
+      <Description>Complete all solo challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>Centurion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/7FED586616D8594F62FB59119A1AFAEC13C918D6.PNG</Image>
+      <Description>Destroy 100 tanks using any game modes</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>War Room Owner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/FE96A823ADFC671AF9B32AAB254060CCB2CF2466.PNG</Image>
+      <Description>Win 5 multiplayer matches</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>HOT SHOT!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/75235A7208BD5CBBCF6482853A0157B051DB4B1F.PNG</Image>
+      <Description>Destroy 3 tanks with 1 Air Strike in any mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>Field Marshal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/4E046FEA61E7A939BB5A0C47B76B4C1CFB58319A.PNG</Image>
+      <Description>Win one of each game type using Solo Creator</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>Ricochet Rocketeer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/C1FEEAA473DE99EF4861462D2B7322FBB25DF481.PNG</Image>
+      <Description>Bounce a rocket to destroy a tank</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02733_00</GameId>
+      <Title>War Artisan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02733_00_7C0D49BED436F7BCAEC398C2C9E102230B48C0D5/DCC0C430DB31CD42BEF0FBEA96163771931903C6.PNG</Image>
+      <Description>Create an arena with custom shapes and objects using Solo Creator</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00051_00</Id>
+    <IdEurope/>
+    <Title>Mainichi Issho</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/C7EDEBFDE37A6872DFED58CEEB4643DC7F9E2DE7.PNG</Image>
+    <TrophiesCount Total="7" Bronze="3" Silver="2" Gold="2" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>まいにちいっしょ プレイ賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/3A112BD6B585280C02E53F10496690FE7619D712.PNG</Image>
+      <Description>いつも まいにちいっしょ を遊んでくれてありがとう！</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 ３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/55ED5137155BBD379CAF71FEFA6B5248DD65BE4C.PNG</Image>
+      <Description>ニュースの既読数が3以上で賞</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 １０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/ADE1DE8D54982C95D4075E77460A272EE4D38D4C.PNG</Image>
+      <Description>ニュースの既読数が10以上で賞</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 ３０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/6443FC7913A506A3DC8AFE943409324DF6E99EA4.PNG</Image>
+      <Description>ニュースの既読数が30以上で賞</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 ５０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/DCBE88321F2C2A7D1562F35DF8CAA86B3EB04100.PNG</Image>
+      <Description>ニュースの既読数が50以上で賞</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 ９０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/49D8D2B5A93E4EBE1E92EDE8887C198696C33C00.PNG</Image>
+      <Description>ニュースの既読数が90以上で賞</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00051_00</GameId>
+      <Title>トロ・ステーション 既読賞 １２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00051_00_44E0024CA589C35CDD9584EF080A92E0BDA0A468/FF41BFB3F52D58023346C1FD82D28E242F6F3412.PNG</Image>
+      <Description>ニュースの既読数が120以上で賞</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

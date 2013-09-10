@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01103_00</Id>
+    <IdEurope/>
+    <Title>Resonance Of Fate</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/03FB34E35EB63F2C7659F25DF94B3F663E2E9743.PNG</Image>
+    <TrophiesCount Total="49" Bronze="40" Silver="5" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/B46448440EB394871A851E418512DF20D9CBAD79.PNG</Image>
+      <Description>You've unlocked every trophy in the game. You've mastered "Resonance of Fate"!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>First Contact</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/FEA93857383911E92870DEEF8291AB80B13DACC3.PNG</Image>
+      <Description>A trophy for defeating your first enemy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Maiden Mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/BCE85FE6F6FDF954D8E2B70E4813995D3E4CA044.PNG</Image>
+      <Description>A trophy for clearing your first mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Bonus Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/2DC8B2D24C0E0A7693AA8A083A76083378064190.PNG</Image>
+      <Description>A trophy for landing your first Bonus Hit on an airborne foe.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Tri-Attacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/45C687099E2D35B02346BF3351860DB3B0B43F2E.PNG</Image>
+      <Description>A trophy for using your first Tri-Attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Hundred Plus Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/141DC5A6FFB7F51F612F9293013C03A819001B72.PNG</Image>
+      <Description>A trophy forraising a character's level to 100.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Bullet Barrage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/73C71ACA25E50AAAB32DFD3BC84849914BBB23B6.PNG</Image>
+      <Description>A trophy for landing a combo of over 500 hits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Resonance Miser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/69E638EEBA8DD33CA4E45E11B43D1EF5397E750F.PNG</Image>
+      <Description>A trophy for storing over 20 Resonance Points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Hero Actor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/FBCB0C879C701E0B8005F6658EE4ECCD97B2F551.PNG</Image>
+      <Description>A trophy for attacking over 1,000 times during Hero Actions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Spite Monger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/3CB0B130A53292AEE9DFFF2234D8225A4404722E.PNG</Image>
+      <Description>A trophy for landing over 100 Bonus Hits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Extreme Spiker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/1C3ED06FB4A237B1F0B128566F3C609B77D3D4EE.PNG</Image>
+      <Description>A trophy for performing over 100 Smackdown attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Professional Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/CD72DAFE3ACF9D52E63C9A7EAB414FBC32BA5B91.PNG</Image>
+      <Description>A trophy for defeating over 3,000 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Material Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/2F540EE3FD769C5D0D059051B780EBA7B7454620.PNG</Image>
+      <Description>A trophy for destroying over 3,000 enemy body parts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Thousand Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/5622F901159D9373F1FCFF9CA1DA8460D5A66502.PNG</Image>
+      <Description>A trophy for throwing over 1,000 attack items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>The Iron Fist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/66DAC1A60CAB53AAEFD43297B24915C5835AE2CE.PNG</Image>
+      <Description>A trophy for defeating over 30 enemies with no weapon equipped.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Big Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/9E6D98F3DA25B738B51D4A9A4F8417219BDD5A66.PNG</Image>
+      <Description>A trophy for dealing over 2,000 damage in a single attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Material Creator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/C6A2964B1E49C2FE6703E03A4B5DBB4159DBA6F3.PNG</Image>
+      <Description>A trophy for having fused and scrapped items over 200 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/5ECC89514B59CFBB757769DD75A745D0206A4190.PNG</Image>
+      <Description>A trophy for spending over 500,000 rubies on clothing and accessories.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Customaestro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/8F766651738AAECF54C0649DA2529254F079423A.PNG</Image>
+      <Description>A trophy for connecting over 10 custom parts to a firearm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Basel's Repairman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/750D7ECB719B0C66659E33F2879CA6A8DE5F3DBF.PNG</Image>
+      <Description>A trophy for making over half of Basel's hexes accessible again.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Four-Terminal Chain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/9260AD55140C090846F37668C4A050968F0E3846.PNG</Image>
+      <Description>A trophy for connecting four distinct terminals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Prologue Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/D9C6797B7558E9BA9DFA97B9EAB7375D10E248A4.PNG</Image>
+      <Description>A trophy for completing the prologue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 1 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/12208639F4E2E3C21CB74B1C19D10B1C733440F1.PNG</Image>
+      <Description>A trophy for completing the first chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 2 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/015056EEEBAE71E5C4C3E808E3D225F837ADA311.PNG</Image>
+      <Description>A trophy for completing the second chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 3 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/21BA32475EE4F867245DA8A2A4FC5B4CF1087A52.PNG</Image>
+      <Description>A trophy for completing the third chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 4 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/AF33BFCB266764D84997ECF8690086B89E9B6C08.PNG</Image>
+      <Description>A trophy for completing the fourth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 5 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/1DA2BCC52C229BD9FEB42EB3503E8C8BB2403EF5.PNG</Image>
+      <Description>A trophy for completing the fifth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 6 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/703E2239820E63472CACB8CF6C7B35B5C9E67F2F.PNG</Image>
+      <Description>A trophy for completing the sixth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 7 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/25464D4F2A44C1DFBC7F533C0B3467B9C380F06E.PNG</Image>
+      <Description>A trophy for completing the seventh chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 8 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/9F31E0BDB9DCE222C9CECA0465DF91DE15A0C92D.PNG</Image>
+      <Description>A trophy for completing the eighth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 9 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/76869962AE010BF60680050D81834361134D7013.PNG</Image>
+      <Description>A trophy for completing the ninth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 10 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/B0882E93E0C02646C090D28A368336366D31D996.PNG</Image>
+      <Description>A trophy for completing the tenth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 11 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/7087F5E1D31F76D158A3C57C4CA7E17FBCB1F3A3.PNG</Image>
+      <Description>A trophy for completing the eleventh chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 12 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/6DB625956C82A5B4C0B27E87E8DD5105585BC53D.PNG</Image>
+      <Description>A trophy for completing the twelfth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 13 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/E8D06822776A6FB8AA5D6732FE00E8E565DBA448.PNG</Image>
+      <Description>A trophy for completing the thirteenth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 14 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/D6208FE8A74F2037C993434B493809A64867C78A.PNG</Image>
+      <Description>A trophy for completing the fourteenth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Chapter 15 Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/F27F96A2DFC5D2B7DCE429AA645D6FFC1B1EC716.PNG</Image>
+      <Description>A trophy for completing the fifteenth chapter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Game Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/357787A2E29E30FAD110312AD74BD31A798307CF.PNG</Image>
+      <Description>A trophy for beating the game. Congratulations!</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>A New Beginning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/2AD7E061B0ED2750F00742AC8B746CE044DB5084.PNG</Image>
+      <Description>A trophy for beginning a second playthrough.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Unison Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/9FF7BAF5DD3A74A6B9485230CB430D2F5F2B99D9.PNG</Image>
+      <Description>A trophy for defeating two or more enemies in a single attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>An Unfortunate Accident</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/49C91AAE098B1F1C888FF01D2B677360583FEA0B.PNG</Image>
+      <Description>A trophy for taking out your own party member in an explosion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Tera-Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/BA0EA26EC3757A9320FEC5074E38E861CDDCD1E9.PNG</Image>
+      <Description>A trophy for loading over a terabit of data from the disc.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Disrespect Your Elders</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/A3775120CB54F51A282559ED4AAAD7B99481F694.PNG</Image>
+      <Description>A trophy for defeating the Elderly Man. He's with the stars now!</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Basel's Liberator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/47C18BC55341E134CC981EB79527FFD11ED7535A.PNG</Image>
+      <Description>A trophy for making all of Basel's hexes accessible again. Are you even human?!</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Challenge Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/D08E6AD4370B22293C652927D08A3F129928C009.PNG</Image>
+      <Description>A trophy for defeating the top-ranked team, the Last Line! Amazing!</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Kings Of Neverland</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/03046DF9A755815D9601983BBDDEB444875CF333.PNG</Image>
+      <Description>A trophy for clearing Neverland.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>The Legendary Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/3758ED8A9D18BA215DD28ED144297A3ECB506092.PNG</Image>
+      <Description>A trophy for completing every mission in the game. The legend will never die!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Stardust Hunters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/48CD44295C1951A6B3FC6D6C10A9628FBE7B839A.PNG</Image>
+      <Description>A trophy for getting a ☆ in every rank!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01103_00</GameId>
+      <Title>Lap Two Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01103_00_9AAA61705AB13A0552D7F4FE9971C03FF8E94650/B68FF1D455C2F065F83140A86028B70E8A7284E6.PNG</Image>
+      <Description>A trophy for finishing your second playthrough. Congratulations, and thank you!</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

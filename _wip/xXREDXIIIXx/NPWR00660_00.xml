@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00660_00</Id>
+    <IdEurope/>
+    <Title>Infamous</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/8546620AAAE8EA9097ED90B9EE8DD37AC34C9226.PNG</Image>
+    <TrophiesCount Total="50" Bronze="37" Silver="11" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>inFamous Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/E28B56F8739DC1842724D640AE89F43CCEEDD714.PNG</Image>
+      <Description>Collect all other inFamous trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/D663A3B7CA113E3C2DEDCE1BC27CC5FD20A6FA12.PNG</Image>
+      <Description>Beat the game as a Hero.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/272C2EA4F066B31844EED793BB80C349183547BE.PNG</Image>
+      <Description>Beat the game while Infamous.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Hard Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/1488E9DDB4C3232A72090730CB8ABEEF54F9C0B0.PNG</Image>
+      <Description>Finish story mode on Hard, without changing the difficulty setting.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Community Organizer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/3C48995EEC483511E06D1AFA0AAE3BA73A2FE8F3.PNG</Image>
+      <Description>Take over all territory in the Neon District.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Civic Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/BCBBAAE2222A4BC7E48DD7DB5041FCD1F8E86A15.PNG</Image>
+      <Description>Take over all territory in the Warren.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Urban Designer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/B082BF3D9E9C2293CFCFCB01D2BAEA655B77B8BF.PNG</Image>
+      <Description>Take over all territory in the Historic District.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Just Scratched the Surface</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/421B9E06FBDCFB8D7B58B2EC67631A37DDEACE56.PNG</Image>
+      <Description>Collect all Dead Drops in the Neon District.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Further Down the Rabbit Hole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/2DFA81FCB7EC075E2F9BC805AAFD6B92CF595716.PNG</Image>
+      <Description>Collect all Dead Drops in the Warren.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>You're so Sly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/121C72197A7526D70C1229525548BF7FD005D88C.PNG</Image>
+      <Description>Collect all Dead Drops in the Historic District.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Junior Geologist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/68B9FC0304E3F542860D1777B225B6E3AED72902.PNG</Image>
+      <Description>Find 25% of the Shards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Member of the Mineral Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/635AAD53C8FE766821272FBB2B9277C1A50C54F4.PNG</Image>
+      <Description>Find 50% of the Shards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Rockhound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/1ED0E5CE0A981498C167FD5A2643AEB7BA2B4748.PNG</Image>
+      <Description>Find 100% of the Shards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Frequent Flyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/2B75EB9B0A9B348C68D71605D4E1B6561BEF42A6.PNG</Image>
+      <Description>Travel 5 kilometers using Static Thrusters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Hotfoot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/2B3EC2D5E849E2FBB38BC7FECB691E4E2CC56158.PNG</Image>
+      <Description>Travel 25 kilometers while riding the rails.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Electric Hobo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/7193DABBC51CA64D32C6978B2DA338F94DA65C12.PNG</Image>
+      <Description>Ride the train for 2 kilometers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil to the Core</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/CCA7A97C2A98329AF869E2492F4BBB06E65C1A30.PNG</Image>
+      <Description>Purchase every negative Karma upgrade for each power.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>True Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/E214EB7931171BFE9C8561BA4A64A250BF8AD16F.PNG</Image>
+      <Description>Purchase every positive Karma upgrade for each power.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Casey Jones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/27F4F654035C2F1D85EBE5B2C0504D92645DECEA.PNG</Image>
+      <Description>Take down 25 enemies while riding on a moving train.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Road Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/348953E793D75F183E4025F68B8967DE7FC6AA0C.PNG</Image>
+      <Description>Take down 25 enemies while riding on the roof of a moving vehicle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Drop Everything</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/CEB0905BFEF24381C40AD0E380E210545F1E7C87.PNG</Image>
+      <Description>Thunder Drop for a total distance of at least 500 meters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>AC/DC</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/CE22933179C1EA6405DA219671BFA71E5F1AE64C.PNG</Image>
+      <Description>Drain 750 megawatts of power from Empire City.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Get Off My Cloud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/7F04C9E7241B6336C0E6227AD07B6356759C870C.PNG</Image>
+      <Description>Get 100 High Fall take downs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Red Baron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/CFE46A7F155ED2E074D1CACCC9D52CDCF29B0188.PNG</Image>
+      <Description>Take down 100 enemies while they are airborne.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Fish in a Barrel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/65394F6CD4FD213094A4BDD23E6A04E93EE2F6F7.PNG</Image>
+      <Description>Kill 50 enemies by using water.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>True Potential</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/7AE69DD6444E49E6F08C80EFCDCC23251E00ED20.PNG</Image>
+      <Description>Purchase every upgrade for a single power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Oh, You've Done This Before</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/B8408AFC3EFB8B61C2B9D559674F9868FE461228.PNG</Image>
+      <Description>Take down 50 enemies by sticking them with a grenade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>The Hunger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/EB50A0E69303373C920BA8A7B9DE5D87C31E4770.PNG</Image>
+      <Description>Bio Leech 100 enemies.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Doctor Cole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/2E38CD8FC756C7B9C4C34E5ABBF8A52124FBD4AC.PNG</Image>
+      <Description>Heal 250 pedestrians.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Goody Two Shoes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/71C8D6BFCF3A0B8418E9877036F121AB523C046D.PNG</Image>
+      <Description>Reach full positive Karma.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Truly Infamous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/BB06E117977F85ADA500BE66CD5459A164793903.PNG</Image>
+      <Description>Reach full negative Karma.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Eats</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/56A742FBA5EB623E4971717F912433573E2BC5F0.PNG</Image>
+      <Description>Good guys feed the needy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Eats</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/556B827EB29D6D496C87FC56363F377FF3B39ED6.PNG</Image>
+      <Description>Bad guys never share their food.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Riot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/C9072C3C62EDAE73E7BAD0CC3CD003F31E35492F.PNG</Image>
+      <Description>Good guys stand up and take the heat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Riot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/FA2D529FB2C5800124CAE3132B99E249E1963458.PNG</Image>
+      <Description>Bad guys love starting riots.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Train</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/C8F523A2A6E7E7FB206D9721B27FCF13DA91F3FA.PNG</Image>
+      <Description>Good guys proactively facilitate transportation solutions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Train</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/A67A43DD5174388032CB26EF90F2F21002EEB699.PNG</Image>
+      <Description>Bad guys make it clear who the boss is.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Exposure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/E368AE9FBD3C2D0808B95C775BF4CA13AE456CD6.PNG</Image>
+      <Description>Good guys are heroes to others.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Exposure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/3BA22F5FC6DD89CEF4A39A91B9753572B6FBAB18.PNG</Image>
+      <Description>Bad guys love to be seen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Sphere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/BE12DE4CEE4459463E351BEC0FF88E990B897098.PNG</Image>
+      <Description>Good guys put a stop to the madness.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Sphere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/54D1C312D02B09F1427DCF87A49902138AB1D598.PNG</Image>
+      <Description>Bad guys always want more power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Good Intentions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/FCB9E2DAECA6C090672B83B957323D57B55706AF.PNG</Image>
+      <Description>Good guys work for the greater good.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Evil Intentions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/CE6BD47E20413DDC33E85AB23D87EDE669E85087.PNG</Image>
+      <Description>Bad guys can't say goodbye.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Back With Trish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/AD03B1BEFF288E05AF0700FE0AC520996D12F016.PNG</Image>
+      <Description>Reconciled with Trish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Confirmed Bachelor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/EE631729A95CD8C4E467F0674E5ECF1BB4E1D4B4.PNG</Image>
+      <Description>Trish Hates You.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Clean Up Your Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/16DB53C8D95A0F6C66CA0D27D4161C3D74A18F87.PNG</Image>
+      <Description>Defeat Sasha.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Taking Out The Trash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/412FCD6C130D287A07378702A6635B92488AF37F.PNG</Image>
+      <Description>Defeat Alden.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Stunt Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/06177AEF8382A4D66E5A7E3AEEDC4EBF3A8CBA0C.PNG</Image>
+      <Description>Complete any one stunt from the stunt list.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Stunt Coordinator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/7898B458B35855BB8D273F244137E13AED0AC019.PNG</Image>
+      <Description>Complete 10 of the stunts on the stunt list.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00660_00</GameId>
+      <Title>Stunt Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00660_00_79F27BF1F16D20D0CE3DAC5CC11F5784C7C573DB/8C26BFCF677F9F1C051D47A178BD1D20C882E05D.PNG</Image>
+      <Description>Complete all of the stunts on the stunt list.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

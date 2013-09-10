@@ -1,0 +1,959 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01216_00</Id>
+    <IdEurope/>
+    <Title>Uncharted 3: Drake's Deception</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/11409DB013E52392A886B242E55CDB52A965C7C1.PNG</Image>
+    <TrophiesCount Total="105" Bronze="93" Silver="10" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/E97EEAA3FB64666628EA44B8C130FEE818C6551A.PNG</Image>
+      <Description>Platinum</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>First Treasure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/B58827BD421C31061DFA07B8DD4D4B5608DEF2C1.PNG</Image>
+      <Description>Find one treasure</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Apprentice Fortune Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/C5421B020B195A808559B39DD6E5915E1EFEE6D1.PNG</Image>
+      <Description>Find 20 treasures</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Skilled Fortune Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/1C6634E123AC49062511E3A6575B60D60084ED4B.PNG</Image>
+      <Description>Find 40 treasures</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Adept Fortune Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/75BD3DC7A66B30E13C8742B1E6F5E5F240AB86E6.PNG</Image>
+      <Description>Find 60 treasures</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Expert Fortune Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/60B7D392EE77C2BD23F8BDC0B619F3EB85ECC87D.PNG</Image>
+      <Description>Find 80 treasures</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Master Fortune Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/57823D4BC64C6B7E18B2F133666B3AEE2496B7AC.PNG</Image>
+      <Description>Find all 100 treasures</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Relic Finder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/1DC064E79B1F83417E20D28FA69E5B360183BAD5.PNG</Image>
+      <Description>Find the Strange Relic</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/C3466607EFC9849021C6E1DA9E78AB42CC71D95C.PNG</Image>
+      <Description>Defeat 75 enemies in a row without dying</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Combat Leapfrog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/AC225FF401568C42F840812CF947D2CB3F2E8448.PNG</Image>
+      <Description>Defeat ten enemies in a row, alternating hand-to-hand combat and gunplay</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>20 Headshots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/B48B134E9DE5B77C0BCC8ECFF3D9851127895257.PNG</Image>
+      <Description>Defeat 20 enemies with headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>100 Headshots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/58C78C4DEB1C403E851A1290E5605E71FFF26C3A.PNG</Image>
+      <Description>Defeat 100 enemies with headshots</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Headshot Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/4AF14C18A6A5DBF8D779CF25E98E25CB38D56531.PNG</Image>
+      <Description>Defeat five enemies in a row with headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Side Arm Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/2E6935E2AF33A3843714A50669663CCC93A323AC.PNG</Image>
+      <Description>Defeat 30 enemies in a row with your side arm</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Reload Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/C4AB147C737FEA4E01728473B0CA1BF1D26F0220.PNG</Image>
+      <Description>Defeat 50 enemies in a row without auto-reloading</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Rolling Ammo Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/DEA2728A900086406290A6E7B2B01F700A86D9FF.PNG</Image>
+      <Description>20 times in a row, pick up ammo while rolling</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Blindfire Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/6794E9320920F651E2BDA8E8B2D1125B33AC330C.PNG</Image>
+      <Description>Defeat 20 enemies by blind-firing while in cover (without aiming with L1/R1)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Run-and-Gunner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/BF3F24108B3FC7A916203D7648BB7695DB5FD500.PNG</Image>
+      <Description>Defeat 20 enemies by shooting from the hip (without aiming with L1/R1)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Hangman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/7E6BE02BE98DB062E5C4D669C7C25B4A6B6D8311.PNG</Image>
+      <Description>Defeat 20 enemies with gunfire by aiming while hanging</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Land Shark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/EF12B394EF3A1846B49A99858FDEDF8FC63090A3.PNG</Image>
+      <Description>Defeat 20 enemies while swimming</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: Mag 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/20D2051F4AF202FE6AA427E7D46FBA7B71D596BD.PNG</Image>
+      <Description>Defeat 30 enemies with the Mag 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: Arm Micro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/0BB52AE069EAD0D3558865B5982BD101EC47D676.PNG</Image>
+      <Description>Defeat 30 enemies with the Arm Micro</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: Tau Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/628FBDA7F6F4639C4B0C747A263A52A37B5EE73E.PNG</Image>
+      <Description>Defeat 30 enemies with the Tau Sniper</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: KAL 7</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/640F35B08D561B39A03D1032CE22C34C8587E8BA.PNG</Image>
+      <Description>Defeat 30 enemies with the KAL 7</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: M9</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/702560A3389824546C40CFA9D5D0DA003DF944A9.PNG</Image>
+      <Description>Defeat 30 enemies with the M9</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: G-MAL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/3C7713875DAB38F71F63FB5418F0963BB85298FA.PNG</Image>
+      <Description>Defeat 30 enemies with the G-MAL</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: SAS - 12</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/306534C449A40BD3343ABD96C3E54BE808F7BD9C.PNG</Image>
+      <Description>Defeat 30 enemies with the SAS - 12</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: Dragon Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/4148B8B1DFEDF57A653131316455E9F29F342C50.PNG</Image>
+      <Description>Defeat 30 enemies with the Dragon Sniper</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: T-Bolt Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/1360A461FC67B45A8175B85A6DF90DF29A37CA34.PNG</Image>
+      <Description>Defeat 30 enemies with the T-Bolt Sniper</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: RPG - 7</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/9486ABDF7BE6AD1993C548946B9BEDC79F944634.PNG</Image>
+      <Description>Defeat 30 enemies with the RPG - 7</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: PAK-80</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/D24DC5010812ACC7ACFDE6DF0832E122132B9961.PNG</Image>
+      <Description>Defeat 30 enemies with the PAK-80</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>30 Kills: Mk-NDI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/843D1DEE8F3B3B0369F1D6D70D0FE3E2050DA48D.PNG</Image>
+      <Description>Defeat 30 enemies with the Mk-NDI</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Pro-pain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/16D6FB3FAB2BF0E363DAC11292CE4DF48ED2BF9C.PNG</Image>
+      <Description>Defeat ten enemies with propane or acetylene tank explosions</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Dyno-Might Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/2D3E45B701891062916336795A5C680E834967CC.PNG</Image>
+      <Description>Defeat four enemies with one explosion</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Grenade Hangman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/E72C6D7DC92861AC7A0C72346A47F787E754293A.PNG</Image>
+      <Description>Defeat ten enemies with grenades by aiming while hanging</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Drop the Bomb Hotshot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/6AE2F2CCD3B1520526F97035B9EFEC6EE0FEE2F4.PNG</Image>
+      <Description>Make five enemies drop their grenade by shooting them</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Throwback</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/3609DDF2601A13677D2E2CB1D308AFE27759FAEE.PNG</Image>
+      <Description>Kill 10 enemies with thrown-back grenades</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Throwback Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/2E6DB8F6977A7C0EF33CE2D586E30AD7DED19C31.PNG</Image>
+      <Description>Throw back a grenade and defeat two enemies at once</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Bare-knuckle Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/76187DCA788543248FA52C9790FA0DBE2B9B16F0.PNG</Image>
+      <Description>Defeat 20 enemies with hand-to-hand combat</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Bare-knuckle Slugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/9C4731FC1011D294DE59373474B14E8D2C969199.PNG</Image>
+      <Description>Defeat 50 enemies with hand-to-hand combat</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Master Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/886E5AFCDCA008F2A001D0A7EC300A58FA26908F.PNG</Image>
+      <Description>Defeat 50 enemies with stealth attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Expert Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/31F17127C4A4B33AF44EAB9C5E1AE3A8B9EF54AF.PNG</Image>
+      <Description>Defeat five enemies in a row using stealth attacks</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Riot Rocker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/EDAA68A15FC95771DFDDEE941FC0377A043BCBD5.PNG</Image>
+      <Description>Defeat five Riot Shield enemies by running over their shield</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Brute Beater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/966A93EC966031B4219A69EB9E2D22601CC40BA8.PNG</Image>
+      <Description>Successfully counter all of a Brute’s damage-giving attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Quick Study</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/7EB0DD9F9A3C8F6764A73ABA24A26B28DDB2BB31.PNG</Image>
+      <Description>Inspect almost every display case in the Cartagena Museum</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Ride the Crocodile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/20A4117DC5104F2589FA99E7E7F6D56FF91E3F97.PNG</Image>
+      <Description>Stand on the crocodile in the Secret Library</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>He's Gonna Need a Sturgeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/F890B648D8AC0AA40B64CA26B0F2D49C941AC246.PNG</Image>
+      <Description>Hit three enemies with fish in the market</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Marco Solo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/A1C8BD3C120B045C3AB59C04E79FFA1E337FB707.PNG</Image>
+      <Description>Play in the swimming pool on the Cruise Ship</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Truck Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/AF71124B6C7D2C21E912E25A8FE6A0F6D74B6F89.PNG</Image>
+      <Description>Defeat ten enemies using hand-to-hand combat on the back of the convoy trucks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Charted! - Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/679C66F4F20473B8C8250EDAB52B5DF21CFE72A6.PNG</Image>
+      <Description>Finish the game in Easy Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Charted! - Normal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/15A247A74266E0B942BFA6DADBADC6433C11164D.PNG</Image>
+      <Description>Finish the game in Normal Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Charted! - Hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/7119960197F4D9C5E11238373D8175F2AEEEFBCC.PNG</Image>
+      <Description>Finish the game in Hard Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Charted! - Crushing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/4DF429D94EFB9D85DFB1502794831191543BCACE.PNG</Image>
+      <Description>Finish the game in Crushing Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Thrillseeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/6C791EB184B674012252F423B8B37DB5B2AAF963.PNG</Image>
+      <Description>Complete one Competitive Multiplayer game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Buddy System</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_8AE11CE82D772A304AB1111502B3E16813EF12D9/E88BCF2735E6A8AE789F218FAA3E8B1F5D7F7ACA.PNG</Image>
+      <Description>Complete one Cooperative Multiplayer game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Treasure Domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/2B800F932A92835E8ADD1B364921345B76A8AB13.PNG</Image>
+      <Description>Win a Plunder game without letting the opposing team score (5-0)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>And Stay Down!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/AEBC73B3930766C9892F247BBE4FE3F46FA05C7F.PNG</Image>
+      <Description>Win 50 matches of Elimination</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Omnipotent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/A21FDE717D8504047C1F4BB811D9B47837C69BCD.PNG</Image>
+      <Description>Complete a Co-op Adventure Map on Crushing Difficulty without losing a single life</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>All Together Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/06A596A4CACFABB8FBEB1F6D7F5AAA353F951F47.PNG</Image>
+      <Description>Kill the three end bosses in Chapter 5 (Harry Flynn, Eddy Raja, Zoran Lazarevic) within 20 seconds of each other on Hard</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Air Mail</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/CF5A3DFA3C89710CAF7B1CCE331CC055E0708E20.PNG</Image>
+      <Description>Get 25 Return To Sender Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Statuesque</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/F102FD3819709EA9909F5373093AA94E57C2C82C.PNG</Image>
+      <Description>Get the Curator Medal while on Hard Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Payback is a…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/03E07BCA9B02D50FAC2FD87B296551055F932242.PNG</Image>
+      <Description>Get 50 Retaliation Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Colonizer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/873EEDCE99BAFFDE8CD615563899613220688218.PNG</Image>
+      <Description>Get 50 Expansionist Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Everyday I'm Tauntin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/732712B5B3B5576B665043CEC973C69EEF7CD010.PNG</Image>
+      <Description>Get 50 In Your Face Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>How's That Taste?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/9A55ED7CE5CE112ACBC1980B2E9DA86E255AFC3E.PNG</Image>
+      <Description>Get 50 Fisticuffs Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/55DAA3758788C0945FBABD5024E54EAF3FD6E353.PNG</Image>
+      <Description>Win 50 matches of Team Objective</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>From All Angles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/9BBF6CE978EDCD880B77D6717438EE2E5432D638.PNG</Image>
+      <Description>Get 25 Triple Threat Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/63A21C545DCCF3753FF4B59524C462CC8D3CB170.PNG</Image>
+      <Description>Complete the Artifact Treasure Set</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Look Out Below</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/9BB3CC9FF813B04AFA660DDC5A6A0CD0CDB9D4D5.PNG</Image>
+      <Description>Get 10 Detonator Medals while on Hard Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Wild Wild West</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/387A0AE81DE4153CE12B2B4432E03A98F2EBD78E.PNG</Image>
+      <Description>Get 50 Gunslinger Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Eyes on the Prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/09DE9E274771C7B00B07E1478C23B2454CC7C94B.PNG</Image>
+      <Description>Earn 3000 Objective Points</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>72</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>You're Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/842A574E6B5D6679E82F8213E1FC3637702BB991.PNG</Image>
+      <Description>Get 50 Strike Three Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>73</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>It's Good to Be King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/2CE29B33DF90807F236C85E94710A266428FA703.PNG</Image>
+      <Description>Get 50 Three Kickback King Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>74</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Key Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/52375B9A3C85A07CAAF4B0FECEAC6C99B8A46661.PNG</Image>
+      <Description>Get 100 Gate Keeper Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>75</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Hanging On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/2B0F626E802977B964931EB891F6720FC414C4C6.PNG</Image>
+      <Description>Get 3 Hang In There Medals while on Hard Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>76</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Invincible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/5D3801E15B6A337200C06D245015D2F843BDA27A.PNG</Image>
+      <Description>Complete a Co-op Arena Map on Crushing Difficulty without losing a single life</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>77</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Two by Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/8937E38D82358B4D49D3BCE054B100B5FFF95377.PNG</Image>
+      <Description>Win 50 matches of Three Team Deathmatch</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>78</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/73DE9DD74BC3AC5485A5F58C9EE306A18955288D.PNG</Image>
+      <Description>Complete the Antiquity Treasure Set</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>79</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Up Top!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/28273CB3BE4E17C8525FD4A23D3356AA56B862DF.PNG</Image>
+      <Description>Get 50 High Five Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>80</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Boom Goes the Dynamite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/2B2DAA9DD9BBFA03DE999BA991CF14919306D3B8.PNG</Image>
+      <Description>Get 50 Frag ‘Em Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>81</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Overpowered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/448AEB0E25DFCC1FD8AD9EE607242063860A9689.PNG</Image>
+      <Description>Get 50 Power Killer Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>82</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>I Think You Dropped This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/A5FB23EEB4ADA872648DBD51464DB0C685D9D3A9.PNG</Image>
+      <Description>Get 25 Here, Hold This Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>83</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Detonator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/550A9F74225052F64C2613BB9CA974071AB90D71.PNG</Image>
+      <Description>Get 10 Mad Bomber Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>84</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>We Can Kill It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/502515210F98B5289D1B00E55D6D308E16FEEF49.PNG</Image>
+      <Description>Get 25 If It Bleeds… Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>85</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Pop Top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/230FABB223BB0F249B28D2A44FBEF48175A42EEF.PNG</Image>
+      <Description>Get 100 In The Soft Spot Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>86</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Treasure Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/11BEBCB4BADAC7468C8DC012168668DFBB01A5C0.PNG</Image>
+      <Description>Win 50 matches of Plunder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>87</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Overseer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/B17296F397FCD4F2AA6C5FDA91528B3DB3C59416.PNG</Image>
+      <Description>Get the Curator Medal while on Crushing Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>88</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/BAF0697DE3925E775BC48B8269A48F819F45FAC7.PNG</Image>
+      <Description>Get the Unyielding Medal while on Crushing Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>89</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Immortal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/5A97124D312AD17E97E4132850637A5CC79AB25B.PNG</Image>
+      <Description>Complete a Co-op Arena Map on Hard Difficulty without losing a single life</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>90</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Not Afraid of the Dark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/D9AF09FBAFDABBE8C12B5B3893EA6ADBE9CA8B16.PNG</Image>
+      <Description>Get 50 Lights Out Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>91</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Spartan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/670728AA379EB49D0DBB9A4E1A1F9171BCC5D600.PNG</Image>
+      <Description>Get 150 In The Shade Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>92</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Firefighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/964654DF2C1B67E8C746EC394A087954A0983C83.PNG</Image>
+      <Description>Get 150 Shade Survivalist Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>93</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Capital Punishment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/654584DBA5EE29256792F5314410B985776E837F.PNG</Image>
+      <Description>Get 25 Executioner Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>94</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Head Crusher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/E6B9178A62DA271A625116A62CE7FFF6A9710DE0.PNG</Image>
+      <Description>Get 50 Head Hunter Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>95</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Hold the Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/0443725E0124CA589EB2628B3318ED9215DC50B9.PNG</Image>
+      <Description>Get 50 None Shall Pass Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>96</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Triumvirate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/E7FD018433F9673C7FA15040197FC23610EE6695.PNG</Image>
+      <Description>Kill the three end bosses in Chapter 5 (Harry Flynn, Eddy Raja, Zoran Lazarevic) within 20 seconds of each other on Crushing</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>97</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/CFDEFA9C68AC56CB540ED5B12C246A5501C051AC.PNG</Image>
+      <Description>Win 50 matches of TDM</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>98</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Fly on the Wall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/74F2D4FF101E598D2F980141C471022549307781.PNG</Image>
+      <Description>Get 3 Hang In There Medals while on Crushing Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>99</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Deathless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/F63141AD49F37FCF6DF37DEEFFB03403F64FAC82.PNG</Image>
+      <Description>Complete a Co-op Adventure Map on Hard Difficulty without losing a single life</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>100</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Stealth Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/5B6A616AE22DED11A01E0327ACCE8C0BA5FB8641.PNG</Image>
+      <Description>Get 50 Assassin Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>101</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Looking for Loot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/82E4EAB49CF260E20F0FE5C4096E779171B7D8B4.PNG</Image>
+      <Description>Get 50 Three Medal Pickup Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>102</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Long Gun Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/85F16F1C835FA1C73F5F3E7C7667077514D8D2FD.PNG</Image>
+      <Description>Get 50 Commando Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>103</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Double Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/CD10E072EC6B35F74EF5829054A290AE2C1AAAC0.PNG</Image>
+      <Description>Get 50 Double Down Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>104</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>Boom, Headshot!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/6017990A081B112AAEE65361F5D72772277CCEEF.PNG</Image>
+      <Description>Get 50 Head Cracker Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>105</Id>
+      <GameId>NPWR01216_00</GameId>
+      <Title>I'm on a Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01216_00_013C7280153A363C3EA7A3E56751EF954C6B9DFF70/321F070C6176FCF75DBD46A46A13639095A35F87.PNG</Image>
+      <Description>Get the Unyielding Medal while on Hard Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

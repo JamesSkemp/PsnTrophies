@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02868_00</Id>
+    <IdEurope/>
+    <Title>Virtua Fighter 5 Final Showdown</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/4A05F986EC742D6E40EF019560331A9951CE5477.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>You Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/20F788AF4542A69F1532A47E25FE4569D95E9D36.PNG</Image>
+      <Description>Win a match in Arcade Mode without losing a round (any difficulty level)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Ring Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/57CD5A75701C7CA95DA3EF23A57AD9D676E1634D.PNG</Image>
+      <Description>Win a round by knocking your opponent out of the ring in Arcade Mode (any difficulty level)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Excellent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/C4890E3302768AD0CA00F28D1C5D0FB2CA2FF783.PNG</Image>
+      <Description>Win a round without taking any damage in Arcade Mode (any difficulty level)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>VS Dural</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/06D396E79BDD690BA78900DD428C47B8C46625AE.PNG</Image>
+      <Description>Face off against Dural in Arcade Mode (any difficulty level)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Score Attacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/6B9D7951D10E04D5E375310C55811107B2AB62DB.PNG</Image>
+      <Description>Play Score Attack Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>5 Hit Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/A57D09B08DD13FA2841B86F67101C48A7C152E66.PNG</Image>
+      <Description>Perform a five-hit combo in Score Attack Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Test Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/4C329F69247054EAC5A9D854516EF083E387FB24.PNG</Image>
+      <Description>Complete a test in License Challenge Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Five Tests Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/F11B3F4E128B1B975C9817A5CAF74971504D1376.PNG</Image>
+      <Description>Complete five tests in License Challenge Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Ten Tests Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/03CF9C84A62CF8464BF84F7C7D868E8D5111D8C6.PNG</Image>
+      <Description>Complete ten tests in License Challenge Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Up and Coming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/A11366172CB07074E6DDE37466103549CC5709F8.PNG</Image>
+      <Description>Play one ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/5AE9ABE2F58E9FFF9D885D8E4B2B6319F14DE187.PNG</Image>
+      <Description>Play ten ranked matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02868_00</GameId>
+      <Title>Student</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02868_00_ED3457842A3B9EB38F1D1FC9040D9071B7E0A739/151FF15F369E3A47EF0EFFE379D7A07977318F3F.PNG</Image>
+      <Description>Play any training session in Tutorial Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

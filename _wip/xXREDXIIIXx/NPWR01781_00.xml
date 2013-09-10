@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01781_00</Id>
+    <IdEurope/>
+    <Title>Street Fighter X Tekken</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/7E0C3E59FF581BA8A6B97592CDA0AC57372766D5.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Zenith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/BBDE94049EA3932C60EB69663AE43AC2112FA5C4.PNG</Image>
+      <Description>Unlock all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Title Idol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/8E6B9A00289FF40612A41CDA43D84609FB98F606.PNG</Image>
+      <Description>Obtain 300 Titles.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>A Very Special Gift</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/25C6EE009475254E2217B353A22C3886116D5399.PNG</Image>
+      <Description>Connect with 500 Special Moves.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Blink Of An Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/3F925F777F58A454D39E30CCD43E3F33C1967FAA.PNG</Image>
+      <Description>Connect with 500 EX Special Moves.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Time For Some Fireworks!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/CE9CE0B6052B01EF62DD7402F88B93EC41BDD731.PNG</Image>
+      <Description>Connect with 500 Launchers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Anything Goes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/A451971E68F32704E737D4D4D9A031C49E143913.PNG</Image>
+      <Description>Activate Cross Assault 500 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>An Unknown Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/7072592F7A3570C433268C332A63D5731ED4FEDC.PNG</Image>
+      <Description>Activate Pandora 500 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Trump Card</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/45A1A6AC8B96CAC165AF881938C19083D7B42C1F.PNG</Image>
+      <Description>Connect with 500 Super Arts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Two Minds, Fighting As One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/F7366C66A4EDB075A87127AE9555AC3D866AE12D.PNG</Image>
+      <Description>Connect with 500 Cross Arts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Maelstrom Of Combos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/BF7A85C5FE8BD9F1FA7D8B1AFDA8DE7657589E4A.PNG</Image>
+      <Description>Connect with 100 Quick Combos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>A Glimmering Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/544B3B438A4DD300187D2739D31B2344282450C1.PNG</Image>
+      <Description>Activate your Assist Gems 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Let's Heat Things Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/9EA5549EEC8C5041EB8522527572AD979370BF13.PNG</Image>
+      <Description>Activate your Boost Gems 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Sturm und Drang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/50AC47FC64635A01114368A96E15DEF396D6F54C.PNG</Image>
+      <Description>Finish a round with Cross Assault 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Power Consumes All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/CCE598C9829A39F555C89A9F03247C57FEC21447.PNG</Image>
+      <Description>Finish a round with Pandora 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>A Splendid Conclusion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/5BF42E2DDB99381DC2F1CFC45686050D3E31DC18.PNG</Image>
+      <Description>Finish a round with a Super Art 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Cross Revolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/303F24183B4EA7FA8B372CEF4DDC5DA010589163.PNG</Image>
+      <Description>Finish a round with a Cross Art 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>A Perfect Victory!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/49E984C66AA666BC2CBCE2B9FABAC2A7352FDF3F.PNG</Image>
+      <Description>Win a round without getting hit 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>After The Dust Has Settled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/5C3CE08B7FB62B966627B1B31D264C20AAB94DBF.PNG</Image>
+      <Description>Clear Arcade mode on Medium difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Trail Of Ruined Dreams</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/344B0F22256223AC059AC7EC335FCD57B019906A.PNG</Image>
+      <Description>Defeat 5 rival teams in Arcade mode on Medium difficulty or higher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Root Of Chaos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/E788E126CF82E73DFE677BBB079C49D1B15EEDA5.PNG</Image>
+      <Description>Defeat all of the bosses in Arcade mode on the hardest difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Just The Beginning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/5966FAD3A275BBDEF9EFF2623EE60BC3B5725EF3.PNG</Image>
+      <Description>Clear one trial in Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Trial Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/0C5CE492437E47BE46497D5F6104DA149844893A.PNG</Image>
+      <Description>Clear ten trials in Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Excellence of Execution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/75625DCBFB782304904FD142D674E962B4A71010.PNG</Image>
+      <Description>Clear 300 trials in Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>My Big First Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/D35D231DD119FBF10CF951D14719B5AE68DFD787.PNG</Image>
+      <Description>Clear one lesson in the Tutorial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Maturity Through Discipline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/6961AA53F6906DA254C5800C8D3AC9263C6458A9.PNG</Image>
+      <Description>Clear all of the lessons in the Tutorial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The First Mission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/CB092A108FA98537F389AA725B6E144B51758096.PNG</Image>
+      <Description>Clear one mission in Mission mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Mission Specialist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/583934304CDDBCD5D69288B684DB81442AED7094.PNG</Image>
+      <Description>Clear all of the missions in Mission mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Fruits of Labor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/1AE4BB36D975B5B9804228944B4D0A6752F41D72.PNG</Image>
+      <Description>Go into Training mode 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Stones Guide Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/57D8F94FA6C7CDEDDD6A90EF950B6B940C4C628A.PNG</Image>
+      <Description>Customize a Gem Unit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Doused In My Color!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/4A50D95424396113B76956B275DBD708072480F3.PNG</Image>
+      <Description>Customize a character's color.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>This Is How I Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/CAF1FA7A8D674565EFA79C1A2D2A80FAB86D5E37.PNG</Image>
+      <Description>Customize your player Title.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Here's My Shoutout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/C952E7CBFA04CF5113D5591E5B2AA0C2129475DC.PNG</Image>
+      <Description>Customize your player comment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Warrior's Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/91C648080E500EAC751E4BB8BA9A87077A54377E.PNG</Image>
+      <Description>Fight 50 matches online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Crossroads of Tragedy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/0566A38C609BC2CD769C55182641E221603D52EF.PNG</Image>
+      <Description>Fight 100 matches online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Harsh Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/802C03578B96DDA6D409534CEEDE192C0D190517.PNG</Image>
+      <Description>Fight 300 matches online.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Endless Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/92DD8145C048A2AD372ECD8AB60E92D47FB29D00.PNG</Image>
+      <Description>Fight 500 matches online.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Learn The Fundamentals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/E33C8637339E5CEDB3E1BE359841DB5FB7A2F4E4.PNG</Image>
+      <Description>Win 5 matches online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Forge Your Own Path</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/2B5452117BF33170FB5137243F839C3154B910A8.PNG</Image>
+      <Description>Win 10 matches online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Transcend All You Know</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/63C57BF6CE318E266BEAA52D84467F617361B770.PNG</Image>
+      <Description>Win 50 matches online.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Your Legend Will Never Die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/0356A2AAE3D3AEBD1B2271A475795B939D381140.PNG</Image>
+      <Description>Win 100 matches online.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>One Down!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/F5484D3F618FEB8C8D615E8CA82362061DCFBC92.PNG</Image>
+      <Description>Win in a Ranked Match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>To The Victor...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/11BBF1691C81F1B43BD2D4C851C2B60A20F0E09F.PNG</Image>
+      <Description>Raise your battle class rank for the first time in Ranked Match.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Proof Of Your Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/F8476C386AC5E3D3F07F7D2463F2E42EDAC06F97.PNG</Image>
+      <Description>Get to C rank for the first time in Ranked Match.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>The Battle Never Ends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/F08721CB1CE954EC7AA7B6AA8E7A26CDFD20254E.PNG</Image>
+      <Description>Win a match in Endless Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Head Of The Dojo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/13C0EC3B1E8E05B540A35866F81C11CE3F76CD91.PNG</Image>
+      <Description>Create 10 lobbies in Endless Battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Observer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/7E91B205018A9ADE6666123A56659E6DFE3B4D80.PNG</Image>
+      <Description>View 50 replays in the Replay Channel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Evangelist Of The "X"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/50690DDC7583EA666631026C06F199C5CCFFB2DF.PNG</Image>
+      <Description>Have your replay downloaded 20 times in My Channel's Broadcast Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Love Is Blind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/9323B262FB978EC238E3EF6F97AF8EF4DD7E387A.PNG</Image>
+      <Description>Use a character in battle over 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>Any Time, Any Place!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/2AF873B6891176CA57AA524320A37CDE1B86C3C3.PNG</Image>
+      <Description>Use Arcade Fight Request 30 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01781_00</GameId>
+      <Title>It's Just For Research!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01781_00_163601CBD0537C8BDC792A7543FE9771EF3256D9/477A1FDD4EE7039FCCE12F85A24714050C9282A4.PNG</Image>
+      <Description>Access the Store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

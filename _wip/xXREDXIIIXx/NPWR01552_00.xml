@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01552_00</Id>
+    <IdEurope/>
+    <Title>Alice: Madness Returns</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/349D1B64A22193ED78952B3611B20A9FA8C0BE86.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="13" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Platinum For All Other Trophies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/C8B25339285E530E9B4755FEAE498687A9452CA4.PNG</Image>
+      <Description>Platinum For All Other Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>No Happy Returns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/B8A0B584457075A12AC1CD1AE1BE0A0A54E36B94.PNG</Image>
+      <Description>Back to Wonderland</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>End of Innocence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/264FEA6EBA6D5D41DDB8D09D7CB3961DE57FE681.PNG</Image>
+      <Description>Complete Vale of Tears</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Hatter's Demise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/DB365928EC263D5E364B45A8FB3EF8178CF8882E.PNG</Image>
+      <Description>Complete Wonderland Chapter 1</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Grim Folly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/B3C984B3F80A790B4A3CE0F8B2CF34C44E93A4D3.PNG</Image>
+      <Description>Complete Wonderland Chapter 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>When Worlds Collide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/8FB0F5833705997FAA8F02B19773A6694EB9CB8D.PNG</Image>
+      <Description>Complete Wonderland Chapter 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The Harder they Fall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/C6400A3BA40EE044FA7C8B50196A290EEEEBFD22.PNG</Image>
+      <Description>Complete Wonderland Chapter 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The End of Daze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/D5C87FD89E6AFD47FCE3EA4B73FE0A5A8BE4063A.PNG</Image>
+      <Description>Complete Wonderland Chapter 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The Strong Survive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/3C10A01E88AA0FFED9F37BC324359FF6C44CB985.PNG</Image>
+      <Description>Complete the Game on Easy Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The Imaginative Endure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/9519F86ED6C92FA05E8F88A70AF9A4B877C63FD1.PNG</Image>
+      <Description>Complete the Game on Normal Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The Persistent Flourish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/0F4BE5094D95B332B147304F8462813DB3193860.PNG</Image>
+      <Description>Complete the Game on Hard Difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>The Beginning of the End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/1D344D09BF6FA69C5C9141DFB33FF4246AD8A10F.PNG</Image>
+      <Description>Complete Chapter 1 on Nightmare Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Madness Prevails</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/D134FDAB5D344B6345563434523672E3FA6FAF96.PNG</Image>
+      <Description>Complete the Game on Nightmare Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Snicker-snack!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/74301082643452C059FF12BFB73AF784E78718B6.PNG</Image>
+      <Description>Acquire the Vorpal Blade</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Ground Pork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/D441BB60562B00AB6B151EF19368FD495BF71869.PNG</Image>
+      <Description>Acquire the Pepper Grinder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Strange Hobby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/ACC0FCE8101F1EA5B9C11D5E7A544AD80C7C0C38.PNG</Image>
+      <Description>Acquire the Hobby Horse</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Death by Darjeeling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/BA6B1DDCA1DFF74109C8CF69AB93DD0AF0CEAE52.PNG</Image>
+      <Description>Acquire the Teapot Cannon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Strike a Deal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/BA85AB537CD216B78593C0C59862473425EEB5BF.PNG</Image>
+      <Description>Upgrade a Weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>More than a Mouthful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/1F2236773F31B077583793B01A1AA44CDC55674C.PNG</Image>
+      <Description>Fully upgrade a Weapon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Armed to the Teeth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/689F5F138A82465EB4A01718AA7AEFC692448332.PNG</Image>
+      <Description>Fully upgrade all weapons</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Shooting the Moon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/11646EA13AFBB4113BB6B7A14257793808986147.PNG</Image>
+      <Description>Collect 4 Jars of Rose Paint</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Painting the Town Red</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/832C2445BC545544D796FDE30DB5A6E2FAA9D235.PNG</Image>
+      <Description>Complete all Radula Rooms</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Family Memories Fond and Faded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/8C9F14ABA3EF7162C10FD0EFD1222E3F8AA2655C.PNG</Image>
+      <Description>Find all Liddell Memories</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Everything Fit to Remember</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/BCFE0732391D2B09099E8134DE6CB71045BCE7C3.PNG</Image>
+      <Description>Find all Memories</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Nothing Like the Smell of Bacon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/5FD0F39420DAB4795E293B44CB1A84E2065353F2.PNG</Image>
+      <Description>Pepper All Snouts in a Chapter</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Seasoned Campaigner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/75646EB8BEF56DE8AF53230A563843CF8CB5C348.PNG</Image>
+      <Description>Pepper All Snouts in the Game</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Ship of Fools</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/6BEC99F46B67DE96A00ADCAA309B680B82CB1ADA.PNG</Image>
+      <Description>Complete HMS Gryphon without taking Damage</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Just Peachy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/E23F14E2281F0ED0CCF358EE98166B5699D1B28E.PNG</Image>
+      <Description>Collect all the Peaches in the Scroll of Destiny</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Grandmaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/897FE7C5B015A57B9DFCFDDDC9A89CF8BE2F6D15.PNG</Image>
+      <Description>Complete a Chess Puzzle without failing</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>That's Using Your Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/EA7E406E6AB6CBD06592B5C0514240973505F8B0.PNG</Image>
+      <Description>Complete Off With Her Head Part 2 in under 6 minutes</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Dress-Ups</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/5D4B3517892221BC112728A04CAB9A940A9E7A87.PNG</Image>
+      <Description>Equip a Different Domain Dress</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Weapon Schizo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/CC8F882F7FC233DFDB4B06C1C33222C9942D75A3.PNG</Image>
+      <Description>Hobby Horse to Vorpal Blade to Hobby Horse Combo</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Grind 'em All!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/3FC57B88106A48AFFE10840CB82538E4ADADA0C1.PNG</Image>
+      <Description>Kill 5 Bolterflies in a row with the Pepper Grinder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Neighslayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/0DA70DF7E957A053BD09295D8269BB1D11CCF8FB.PNG</Image>
+      <Description>Hit 4 enemies with a single Hobby Horse ground smash</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Tea Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/843C2B672ED040561062740125F6A2344BC5A90C.PNG</Image>
+      <Description>Destroy 10 Ruin Barriers</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Venting Frustration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/1B4A32DF1862AEF27B0C5F0FC3F10EBD7D70E395.PNG</Image>
+      <Description>Spend 7 minutes on steam vents</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Level-Headed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/70CB3F746107C69C4FBF33F45ED05690D8FF435D.PNG</Image>
+      <Description>Finish the game using Hysteria only once</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Eyes on the Size</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/EF918E1E52695DA54FD17F9EFA9F4B1A4AA78FC5.PNG</Image>
+      <Description>Find the hidden Shrink Sense Decal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Brollyant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/49A740B9D69DBFD4BD991D2CBAFDDDC745DC3870.PNG</Image>
+      <Description>Kill 10 Bitch Babies with Deflection</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Beware of the Lagomorph</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/59966590B03DF8EB6FA0843EED50BA3F8EE8A6FB.PNG</Image>
+      <Description>Kill 30 enemies with the Clockwork Bomb</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Cold Arms, Cold Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/1562FF89A7D3CD0F4AD84D7719B343863BFE73AE.PNG</Image>
+      <Description>Defeat the Drowned Sailor without taking any damage</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Pulling His Strings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/B71B07C059674DD5629579FE89990A107DF58B5C.PNG</Image>
+      <Description>Defeat the Dollmaker without taking any damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>No quarter! No mercy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/0949D78635D422369EE3AE3D7FD862E6F3059C4A.PNG</Image>
+      <Description>Defeat 100 Ruin Enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>52-Pick-Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/907D51891FE868E56FAD59F25FF8FF2A7F61AC61.PNG</Image>
+      <Description>Defeat 52 Card Guards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Calm In the Face of Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/17A633003240B9A7A661DB6FCCF33662E6CA7B5E.PNG</Image>
+      <Description>While on your last Rose, kill 5 Enemies without activating Hysteria</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Madness Begins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/C1BADC6B5CCAFC5CFDFDE5A2303354217FD68621.PNG</Image>
+      <Description>In American McGee’s Alice, Complete Village of the Doomed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Skool-Leaver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/AF17970656FB51BC3C44814EF436B26C4580FF28.PNG</Image>
+      <Description>In American McGee’s Alice, Complete Fortress of Doors</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Out of the Woods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/367F628FDC4C79AC3E0FE297FBEE0555102640B8.PNG</Image>
+      <Description>In American McGee’s Alice, Complete Wonderland Woods</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Dead Hatter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/CFDAC7C92D7232A78914BE6448F8D54F94CB23ED.PNG</Image>
+      <Description>In American McGee’s Alice, Complete Behind the Looking Glass</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Royal Approach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/88E259A065848693E13E36068667FEDF87A5BB84.PNG</Image>
+      <Description>In American McGee’s Alice, Complete Queen of Heartsland</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01552_00</GameId>
+      <Title>Full Recovery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01552_00_37BBF20872FDCE52843F8860DE383D4353B63B76/EDF739349F1364B1517FA539B8CD8CD2CBED8413.PNG</Image>
+      <Description>Complete American McGee’s Alice</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

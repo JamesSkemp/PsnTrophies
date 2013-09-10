@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01747_00</Id>
+    <IdEurope/>
+    <Title>Mortal Kombat</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/EA6E5F1C0DA23B52E5CE3053F6F4AFCEC62A2611.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="15" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/6757598C58DF92102046A7109C3C2D7231C5D2D0.PNG</Image>
+      <Description>You've unlocked all Trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Halfway There!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/DBEB2CF07221796268FC7963DE267EF666282EF8.PNG</Image>
+      <Description>Complete Story Mode 50%</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Back In Time...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/D735623B320C1FD514173D4BC5FF9FCEE4892BCD.PNG</Image>
+      <Description>Complete Story Mode 100%</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>A For Effort</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/BD56642AB0745E7AF2F04B9519ADFB9EB23DB7D9.PNG</Image>
+      <Description>Complete Tutorial Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Fatality!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/C45662EC0E65CD347CBBFE56494205D48D39BE7F.PNG</Image>
+      <Description>Perform a Fatality!</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Block This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/23A29D94DB7B13E17493834A951BF70313883960.PNG</Image>
+      <Description>Perform a 10-hit combo with any fighter</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>The Grappler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/02977EBB2F55FD03D0ECD6E415FEA475BC120148.PNG</Image>
+      <Description>Perform every fighter's forward and backwards throws</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Where's The Arcade?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/D3D41AD14B66BD986B2A9202C63C89B8618CD08C.PNG</Image>
+      <Description>Complete Arcade Ladder with Any Fighter</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Arcade Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/786372E62005510E91BF1A0F43AF57DD2C223EE4.PNG</Image>
+      <Description>Complete Arcade Ladder with All Fighters</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Finish What You Start!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/EB818A2061983FEF599BE7031ACB34C1B1A19FA5.PNG</Image>
+      <Description>Perform a Fatality with all playable fighters</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>The Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/28A704CF4841B1ACEA69BACCB960FDBB03897177.PNG</Image>
+      <Description>Complete 200 Versus matches (online OR offline)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Ladder Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/7F9B9D2A0998CA19CB5E29C95FEB377D2F0CF895.PNG</Image>
+      <Description>Complete Arcade Ladder on max difficulty without using a continue</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Don't Jump!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/C2BB3A0384CC0E14134DF5BB2D2D5DBD9CB9E12C.PNG</Image>
+      <Description>Win A Ranked Online Match without jumping</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>What Does This Button Do??</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/E354CA8F1090BE0B0B7CB0B7168E365BCA79D80A.PNG</Image>
+      <Description>Complete Arcade Ladder without blocking (allowed to continue)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Tough Guy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/4F95A213C1E613EC15B4C7F2528103E42298ABE0.PNG</Image>
+      <Description>Win an Online Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Robots Rule!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/3EDDBCC060EC15256092E0B29D3F69678E829A0F.PNG</Image>
+      <Description>Win Arcade Tag Ladder with robot Sektor and Cyrax</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Outstanding!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/4FEF921CA35E542D6316852C114C2C1EB10F80EB.PNG</Image>
+      <Description>Win 10 Ranked Online Matches in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Cyber Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/9FC0788985999BCED5BD3302748DE35D246CD771.PNG</Image>
+      <Description>Complete 100 Online Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Wavenet...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/FA726B9B3B6A2B4680CA10725435C921ED174CF0.PNG</Image>
+      <Description>Win 100 total Online Matches</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Humiliation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/DF9B5616F89D064E0A1C31B17D539331CD0A899C.PNG</Image>
+      <Description>Get a Flawless Victory in an Online Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>You Will Learn Respect!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/7E4CA1DB68721943DC527A1B811358D487E1E4F8.PNG</Image>
+      <Description>Earn 1000 Respect Points via king of the hill Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Undertaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/146AD98FC5C8ADEE061B75C16362DB0AD1E8B0C4.PNG</Image>
+      <Description>Unlock 50% of the Krypt</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>The Krypt Keeper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/3D71CB6DC690D0E84804ABBCB10A666BF26B3DC4.PNG</Image>
+      <Description>Unlock 100% of the Krypt</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>There Will Be Blood!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/19383CB2057152D9D65EF69A759290C8CC95D8D8.PNG</Image>
+      <Description>Spill 10000 pints of blood</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>License to Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/557F96CB26D1BE2E2EBCF6569615A3CC1B61DD7A.PNG</Image>
+      <Description>Complete Fatality Trainer</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Ultimate Respect!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/4BED75C7EC66D8C951E447E5302AA9E2D141ABE1.PNG</Image>
+      <Description>Earn 2500 Respect Points via king of the hill Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>There Can Be Only One!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/222C63A93003FB84D9DD6249B3F31EF1B2C53C39.PNG</Image>
+      <Description>Win 10 king of the hill Matches in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Throws Are For Champs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/7877C99A8D1FB509DC448DA88AE6B6E8FBA3A305.PNG</Image>
+      <Description>Perform 8 throws in an Online Ranked Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Turtle!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/08CC2ACF6E6A02B2B229B4CED97EC624BD981FCE.PNG</Image>
+      <Description>Win both rounds with timer running out in an Online Ranked Match</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>I'm Not Dead Yet!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/F8E3706DF2ED9F2A8FC57C62944E4297490976FA.PNG</Image>
+      <Description>Comeback with under 10% health in an Online Ranked Match</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Cold Fusion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/D727B0D3CA17CC4332806FA758A5C9C7FAC21BCE.PNG</Image>
+      <Description>Unlock Hidden Fighter "Cyber Sub-Zero"</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>e-X-cellent!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/043C8747252B566DEC380AC06F641ED42BB8ED4A.PNG</Image>
+      <Description>Successfully land every playable fighter's X-Ray</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Luck Be A Lady</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/8334C763B8BC788AB56DF1167B5F4BE3A009594E.PNG</Image>
+      <Description>Get all MK Dragons in Test Your Luck</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>You've Got Style!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/58C6E1C2953D8E492BEBBF43F2A1D06C098954C7.PNG</Image>
+      <Description>Unlock all Alternate Costumes</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Best...Alternate...Ever!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/BB0CF0F3975AFED86B8374AA424E752DFF30C9D1.PNG</Image>
+      <Description>Unlock Mileena's 3rd Alternate Costume</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>My Kung Fu Is Strong</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/6DBAB80C034B6921EF75B24DE3C6DC4F98329E77.PNG</Image>
+      <Description>Gain Mastery of 1 Fighter</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>My Kung Fu Is Stronger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/A685DD210CD709A79DA1B380E2AEC676F63B4782.PNG</Image>
+      <Description>Gain Mastery of All Fighters</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>I "Might" Be the Strongest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/D0BEE0F6069BD9E3D3AC8826DF41A95CB5A9ADC4.PNG</Image>
+      <Description>Complete all Test Your Might mini-game challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Dim Mak!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/1740FB616952CBA734850EE4808DFBE9D0A68FAB.PNG</Image>
+      <Description>Complete all Test Your Strike mini-game challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>These Aren't My Glasses!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/1BCE6F944532E328D7B15935484E27447ACBFB91.PNG</Image>
+      <Description>Complete all Test Your Sight mini-game challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Tower Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/1A6D503E970E031A0F179A1E92889E216871E7EA.PNG</Image>
+      <Description>Complete 25 Tower missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Tower Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/61A47A03343356AAFE0A96FFEF03B04DA5F8F3B4.PNG</Image>
+      <Description>Complete all Tower missions</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Tag, You're It!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/A88F459BAEF3CB617699DCD38721C7E10F494774.PNG</Image>
+      <Description>Perform and land a Tag Combo</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Complet-ality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/591C7F3A2A8734947F29938D94F121D0718D10A5.PNG</Image>
+      <Description>Perform 1 of each type of "-ality"</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Finish Him?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/14541B520033A5D3534159CDC5ED7495A58FEF89.PNG</Image>
+      <Description>Perform any fighter's hidden finishing move</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Ultimate Humiliation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/DAE32C3F8375C68B97C08D69FE6A750E32AAB1ED.PNG</Image>
+      <Description>Perform every fighter's hidden finishing move</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Quan-Tease</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/CF2145ADD0B99413092ED211B05B870AA22DD6F4.PNG</Image>
+      <Description>Unlock Hidden Fighter "Quan Chi"</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>You Found Me!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/154F469D3640F541D05569AD15B9586140B23079.PNG</Image>
+      <Description>Discover and fight Hidden Kombatant 1 in Arcade Ladder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Hide and Seek</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/A0345C3153EB7A48C3E530C86A05461230ADF525.PNG</Image>
+      <Description>Discover and fight Hidden Kombatant 2 in Arcade Ladder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Pit Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/A3EE54BD38521B1174B605152B968F48C53DD8C8.PNG</Image>
+      <Description>Discover and fight Hidden Kombatant 3 in Arcade Ladder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01747_00</GameId>
+      <Title>Brotherhood of Shadow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01747_00_5A61C03439C887402380168CA0A9681B90D2A427/4D5E43AB242AC466D18C294F9D2A51AA7D86B7DB.PNG</Image>
+      <Description>Discover and fight Hidden Kombatant 4 in Arcade Ladder</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,338 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00621_00</Id>
+    <IdEurope/>
+    <Title>Mini Ninjas</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/EF27EFC4EE84A4B3687F2DAB722E23C1D6EE7CB8.PNG</Image>
+    <TrophiesCount Total="36" Bronze="21" Silver="9" Gold="5" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/00981D24C99718D8297D6433390D7581F9457629.PNG</Image>
+      <Description>Congratulations, you have unlocked all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Off You Go</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/6479DD148CD9EDD447EB42BF62D72A8D87C9B423.PNG</Image>
+      <Description>Completed basic training</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Found Futo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/B5F921BB11C61D5236B4EF83F3E1D5A63AA9B07B.PNG</Image>
+      <Description>Find Futo</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Found Suzume</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/F29C77F1EE4D8DFC7B219788FEE92A0D92AB9CCD.PNG</Image>
+      <Description>Find and free Suzume</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Found Shun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/F8541C1D5A0CAFD97F5254F41CE4FB994D1CF3F4.PNG</Image>
+      <Description>Find and free Shun</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Found Kunoichi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/55D3295D1EE432EC47EC269742E60191BB6A06F2.PNG</Image>
+      <Description>Find and free Kunoichi</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Found Tora</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/714869B3F5DD84429561495B57E63F9BAC63196C.PNG</Image>
+      <Description>Find and free Tora</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Lost and Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/9DF2A4B28E20BD91BAA5955B6B4A2240254081F2.PNG</Image>
+      <Description>Retrieve all five missing ninja</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Off the Richter Scale</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/FE7F2CBF270A6579FD6293BA23A97A17B4BAD38D.PNG</Image>
+      <Description>Defeat Boss Lumbering Fool</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Smell You Later</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/B562C0411598A83A657C183E3DABCBD077E7CC59.PNG</Image>
+      <Description>Defeat Boss Windy Pants</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Tripped and Fell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/1DEC91F95035EB31D4805A09FC644249C0F2ED0F.PNG</Image>
+      <Description>Defeat Boss Timid Swimmer</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Crash Landing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/9B48B485373F3BA1A6D64C7AFFD2E7FF42146CDA.PNG</Image>
+      <Description>Defeat Boss Screeching Owl</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Restore Balance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/C971DA00315642F9BD43EA8EEF5DCC05712D0427.PNG</Image>
+      <Description>Defeat the Evil Samurai Warlord</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Animal Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/DC73E02907C42AB854BFED961FF83302C87F9FA1.PNG</Image>
+      <Description>Free all caged animals</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Tree Hugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/C4B783EB9C2814886D37B41C514C48767A228C8A.PNG</Image>
+      <Description>Shake 15 trees</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Sage of Philosophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/67788F574930C94DB9F29D015FD089AF00AF9B3C.PNG</Image>
+      <Description>Reach level cap</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Avalanche</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/28843F444FADEBABFA5E5FBBAD3DAA5F084EE820.PNG</Image>
+      <Description>Defeat an enemy as a snowball</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Smooth Sailing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/DBF933278593C4954C88DBC979B76B4D0FB72A0C.PNG</Image>
+      <Description>Flawless Great River Canyon rafting</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Little Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/A6C6459D8471FE48B1A722056CE4822B936AD8DD.PNG</Image>
+      <Description>Complete game on easy or medium difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Hard Little Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/4C13154F9428336616AC7ADE45DE1B7033881D03.PNG</Image>
+      <Description>Complete game on hard difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Bow Before Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/B96E4D45CEE0093CB6D72C24EB9C92FF008BA888.PNG</Image>
+      <Description>Defeat 50 enemies with the bow</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Stop! Futo Time!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/8BDBCF76B1C56EC0AF5A80B6033BB126F81C6C5A.PNG</Image>
+      <Description>Use Futo in combat on all levels</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Eat My Dust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/D07DBC59C016B159D5B2D38226AB3AF562EAD539.PNG</Image>
+      <Description>Travel far in full gallop</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Pied Piper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/C46AEA8FC63319CA601F6A17D7DF079276ED1ACE.PNG</Image>
+      <Description>Incite 50 enemies to dance</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Poker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/9763C33F85B0A5F7B8D7C2A66D7A3EC35DB2040D.PNG</Image>
+      <Description>Defeat 30 spearmen with the spear</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Don't Blame it on the Sunshine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/CC4981A289C3849FE68A031374DE76F813132F7B.PNG</Image>
+      <Description>Bring sunshine to all the denizens of the graveyard</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>No Conjurer of Cheap Tricks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/B58CCFA8CC96CA2C013EF8EBA6F337983C5FEF56.PNG</Image>
+      <Description>Expend 1500 Ki using Kuji magic</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Now You See Me ...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/EA2ECF79A34B5ED554B58439968D757CCE2D0A94.PNG</Image>
+      <Description>Defeat 100 enemies with stealth attack</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Big Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/4B4E3A9FED3614694D489A720252915B00B6421C.PNG</Image>
+      <Description>Defeat a large one</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Boardom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/00236E338029FD76B3E7BAC92F8DFDBF377CAF46.PNG</Image>
+      <Description>Defeat 10 enemies as the boar</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Bear With Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/A5C1D72009C156529BC5EA1936F01A327F2F1D2F.PNG</Image>
+      <Description>Defeat 10 enemies as the bear</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Silent Assas... Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/1C999AD0DD54382EBC6277C6E070AD91BAE85A04.PNG</Image>
+      <Description>Complete a level without being seen</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Botanist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/67E5A3A1688003F0452BD8B323D1F693EECB946B.PNG</Image>
+      <Description>Collect one of each ingredient</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/AA737572F728EF98068FD670723F57A5BB4A1C1E.PNG</Image>
+      <Description>Collect all Jizo statues</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Tengu Friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/BB28EF22FF877280C725EACF4099CC3DC28556C4.PNG</Image>
+      <Description>Complete all Wandering Tengu quests</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00621_00</GameId>
+      <Title>Sightseeing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00621_00_B8AEAEDB031560540335C0F7AA479E476AFEE08A/8667B3BE681E498F431CCEC90A4571AA97E67CB1.PNG</Image>
+      <Description>Visit all temples</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

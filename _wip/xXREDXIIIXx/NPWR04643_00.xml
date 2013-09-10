@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04643_00</Id>
+    <IdEurope/>
+    <Title>Giana Sisters: Twisted Dreams</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/1D0891E621976CDDE73499F5797DF88B34B17737.PNG</Image>
+    <TrophiesCount Total="12" Bronze="0" Silver="0" Gold="0" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04643_00</GameId>
+      <Title>Dream Twist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/2C1712BB80855D98573B09399C195D6AF2AD9DEA.PNG</Image>
+      <Description>Unlock the power to warp your dreams.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04643_00</GameId>
+      <Title>Beattime Story</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/50F05E8682BE85A696EAE6B52B9BDAAEC5E67812.PNG</Image>
+      <Description>Defeat Hansel and Gretel</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04643_00</GameId>
+      <Title>Ruby-Red Pirouette</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/01675544D2ACF2FB0B24B9EDF76CF64534AECB47.PNG</Image>
+      <Description>Collect a red gem while twirling</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04643_00</GameId>
+      <Title>Flurry of Feathers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04643_00_003B7C5D3F818B3194B97D077F28700C16E7F9CDB0/2A73716514046507EE8D34DB581EE94F76AECA09.PNG</Image>
+      <Description>Jump or dash onto three owls without touching the ground</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

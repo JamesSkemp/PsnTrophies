@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01239_00</Id>
+    <IdEurope/>
+    <Title>MotoGP 10/11</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/863FCC4ABA97E0218230B1106DCD22E71F729454.PNG</Image>
+    <TrophiesCount Total="44" Bronze="31" Silver="9" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>The Ultimate Prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/DE50ADCEBBC1637FF5B0BEE376FDDFF32567E589.PNG</Image>
+      <Description>Complete all other Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Ride Your Way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/9FD126BDE9D177A42C64120205625257F011A22B.PNG</Image>
+      <Description>Host a multiplayer race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Online Dominator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/A2246F3A6BD00FB43A70C922CFFA469D8D44B34D.PNG</Image>
+      <Description>Win 21 races online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Hometown Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/C98BA2EAC06931C380C9050C53C6128C100F2249.PNG</Image>
+      <Description>Win on your home circuit in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>DIY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/892A6DC6AC842315F5B7C312F65CB54D8F97EC8D.PNG</Image>
+      <Description>Customise every aspect of your bike and rider. Not applicable to Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Dinner with Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/2C03CA6B439F87C157C24BCB2300F7FFC8237BCD.PNG</Image>
+      <Description>Win a race against a full grid of human riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Collected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/12C0E4FAE68DDE1E4E4ACDEA809E0E3B68A0A3B5.PNG</Image>
+      <Description>Obtain a full complement of sponsors. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Running the Economy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/B85082A9FBF6FA9E771D65D2DA687BC282217650.PNG</Image>
+      <Description>Spend a total of 10 minutes slipstreaming in Challenge Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Spick and Span</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/294708FD8BE0123890C5EEC985EA7BC8188D172A.PNG</Image>
+      <Description>Win with no penalties, all clean sections, no crashes, no collisions. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Voltaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/949AD5C2DEBE3BB025ADF2079DC681DBC9F9625D.PNG</Image>
+      <Description>Successfully perform every type of dynamic objective. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Big Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/1FB6978FE88E0EF95F4FE6B19717FC5F71600FC5.PNG</Image>
+      <Description>Hire a full complement of staff in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Methodical</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/CB87BE3BFB62E1901016DDC7CF7709125EF3E40F.PNG</Image>
+      <Description>Get every type of time bonus within the same lap on Challenge Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Show Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/C36E64573856496E31798480056441A16A90F5E6.PNG</Image>
+      <Description>Do a wheelie lasting at least 500 feet on a motorbike. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Time Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/73D3B93238F103628A1ACC2D4FB82DA10E541577.PNG</Image>
+      <Description>Finish a race with more time than you started with without using any continues in Challenge Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Dedicated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/02806A168055701425D0C4C768FFBF37D7EE8A0F.PNG</Image>
+      <Description>Use your own Career Mode motorbike and rider in a multiplayer race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>125cc World Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/EC0151E01F25A2FB590FC0D8896AB0FC162320B9.PNG</Image>
+      <Description>Win a 125cc class season. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>A Class</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/78FA3F39BFBF50882B0EEDEE381F639B4EE5B021.PNG</Image>
+      <Description>Obtain an 'A' rating in all sessions of a race weekend in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/8833112DCF2451A6C35C9EE40ECD7771E9A0E6BD.PNG</Image>
+      <Description>Your first win. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Ding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/E50B77ECE3AD2439E51EE0821FC14847D1FA8186.PNG</Image>
+      <Description>Obtain a reputation level of 1 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>New Kid On the Block</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/65B5175E4FD13698B568E85563239525352CBD32.PNG</Image>
+      <Description>Obtain a reputation level of 5 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Self Sufficient</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/418463FFDAAB66B4631C902FC6B901FDD563D8D2.PNG</Image>
+      <Description>Obtain a reputation level of 10 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Admired</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/22B068AB6908119F7380FBD3AFA58A5A5EE96061.PNG</Image>
+      <Description>Obtain a reputation level of 15 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/A188B0A7C8952F62293F34FC7F8CF8EB796567B9.PNG</Image>
+      <Description>Obtain a reputation level of 20 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/92D0DF3F3C397E06D0BABCB36C1B1A4BCE0A5249.PNG</Image>
+      <Description>Obtain a reputation level of 25 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/893F05C76895A382A859F0BC3BE669CF0D3E2646.PNG</Image>
+      <Description>Obtain a reputation level of 30 in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Consistency</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/4AB4030F940C6C3515F7606A2C98AC8D1C03B92D.PNG</Image>
+      <Description>Earn first place 10 times in any mode. Not unlockable in Splitscreen Mode or by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Addicted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/BB348E6976230E570C39CE6B4A58DB4BFFC47643.PNG</Image>
+      <Description>Earn first place 20 times in any mode. Not unlockable in Splitscreen Mode or by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/992BBA3AB372BAD9179C63A44F751DAC343ECAD7.PNG</Image>
+      <Description>Earn first place 30 times in any mode. Not unlockable in Splitscreen Mode or by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Stabilisers Are Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/BC961780DF7F47562A470147530AA2FC723496BB.PNG</Image>
+      <Description>Ride over 100 miles. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Oil Change</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/4E4A4756BC43DC349886E17FD0BC862C927FF6DB.PNG</Image>
+      <Description>Ride over 200 miles. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Bedded In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/FF6C1FC553A1B8464E0438210B2376941D081769.PNG</Image>
+      <Description>Ride over 400 miles. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>1st Service</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/9A7D936E69F064D05E9EF6ADA28F00BF6FD8C15F.PNG</Image>
+      <Description>Ride over 1000 miles. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/8C38452FB26D2A8598C3A772133CD0A134C8741B.PNG</Image>
+      <Description>Complete a full Challenge Mode season without using a continue.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>World Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/FFEE8581D5E652D6401458DECDE3C072B4DD4A8C.PNG</Image>
+      <Description>Win a MotoGP class season. Not unlockable by Co-riders.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>125cc Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/1AD661B6C3069D1CE1FBAF3BA7620A4C9F1AF136.PNG</Image>
+      <Description>Win a 125cc class season on Insane difficulty. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Moto2 Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/636A055F4D53BAECA59B0CD4DE1D8F0C38402692.PNG</Image>
+      <Description>Win a Moto2 class season on Insane difficulty. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>The G.O.A.T.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/5EDB7E55026BC61933445246AC6EE10F8FDF263D.PNG</Image>
+      <Description>Win a MotoGP class season on Insane difficulty. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Been Practicing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/A320D3183BB369FE57B2E58E7A084EF8EDD0B4EC.PNG</Image>
+      <Description>Win any race on Insane difficulty. Not unlockable in Splitscreen Mode or by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Piggy Bank Full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/B077427634BEEFE766011A3C5157E533DD40588F.PNG</Image>
+      <Description>Amount 50,000 in savings in Career Mode. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/73E9489C7FBB440C3FA11714199B88373A5E5BC8.PNG</Image>
+      <Description>Amount 100,000 in savings in Career mode. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Fixed Overheads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/C6E9D5343B9D82BE912FDEBCEDBE332BE2E2AA06.PNG</Image>
+      <Description>Spend over 100,000 on staff wages in one pay day. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Staff Liability</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/14A975898FAEEB1F4A3666CEC83330805916A36D.PNG</Image>
+      <Description>Spend over 200,000 on staff wages in one pay day. Not unlockable by Co-riders.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Savvy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/C74BFBD60C513AECB087B6556A885772B22D3008.PNG</Image>
+      <Description>Spend over 100,000 on upgrades. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01239_00</GameId>
+      <Title>Leader of the Pack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01239_00_588A66FE833ABF177090C167F73DA693A79FCEC9/3FBF20A453CE1984C1433A904BCF3DF115A15D67.PNG</Image>
+      <Description>Qualify for pole position. Not unlockable by Co-riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

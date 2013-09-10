@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01235_00</Id>
+    <IdEurope/>
+    <Title>Batman: Arkham City</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/F8B36205D3DF958A5BF698A1C053B4632FF941DC.PNG</Image>
+    <TrophiesCount Total="71" Bronze="51" Silver="18" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/3862BB6306445D15410339D1E7B439D525F077BC.PNG</Image>
+      <Description>Congratulations!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>I'm Batman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/3D585E3355E972C320AC6C40F00EA077775C5CA3.PNG</Image>
+      <Description>Become the Bat</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Acid Bath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/28E6DD9FB927A07FBB2C21E46FECE2C621B91CBC.PNG</Image>
+      <Description>Save the damsel, but is she in distress?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/F2E8E39C30328182D5A6D1725D8321F11A7080B8.PNG</Image>
+      <Description>Save the medical volunteers</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Chimney Sweep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/A6BE01513643A2D50C8A69B7CB884EA766870D4E.PNG</Image>
+      <Description>There is only one way in</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>One-Armed Bandit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/D507A53D0D17DE516D55E0EAD07AC018CC8E8482.PNG</Image>
+      <Description>Hammer the point home</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Communication Breakdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/E730BB8B3EAAFF13FD9E9587A4F294E7B8B94C37.PNG</Image>
+      <Description>Clear the airwaves</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/DBC8FAEE51D99E643DD4C60581CE05C95759B07F.PNG</Image>
+      <Description>Last man standing</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Wrecking Ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/AD88AAE92AAA99939DAE13BA5344B229141339EA.PNG</Image>
+      <Description>Stop the unstoppable</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Lost And Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/5ACBB0964257B66BEEF584FB6985E62ADF4B406B.PNG</Image>
+      <Description>Uncover the secret of Arkham City</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Sandstorm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/E9CFDF6583A85DC5A320CFE731BAA00707C9FCBD.PNG</Image>
+      <Description>We are legion</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Hide And Seek</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/20601A17B453FEAFA4CC18428116727B01A6D958.PNG</Image>
+      <Description>A deadly game of hide and seek</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Ghost Train</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/1EC05B2C75EE5DEF3B402BE16C9A187050F0C4E8.PNG</Image>
+      <Description>Fight for survival</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Freefall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/904CEB3226164E382523B7A117FD53E0A7822B55.PNG</Image>
+      <Description>Don't look down</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Exit Stage Right</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/09E8CD299788A8501EDF0C1DC5CE9DCD7EFECCB2.PNG</Image>
+      <Description>All the world is a stage</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Forensic Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/C2792DA58FC967ADFA2A14661D3722DF511ED74C.PNG</Image>
+      <Description>Collect enough evidence to locate the gun for hire</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Contract Terminated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/FD1C8B8278351CB6F244DD46768E08B7D93EAAFE.PNG</Image>
+      <Description>Stop the contract operative</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Serial Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/7AE0E4132F3D9275433E92C29262788BD9409F4A.PNG</Image>
+      <Description>Track down the serial killer</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Mystery Stalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/78C38986302DB33376E3B0BC14E232AFF3CD41F6.PNG</Image>
+      <Description>Reveal the mystery watcher</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Distress Flare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/7C40C2AB452D1F71EEC3B5D1168B294E477C17C7.PNG</Image>
+      <Description>Answer the call for help</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Broken Toys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/BB88B213597827D3B7372B452A04108861E8A5EB.PNG</Image>
+      <Description>Destroy it all</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Ring Ring</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/F978CAAE9863B42B9B2450344194ECB73FF4E46B.PNG</Image>
+      <Description>Answer a ringing phone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Dial Z For Murder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/155A78B5A6B996FD41F279E1D8FBC4D53AD02DEF.PNG</Image>
+      <Description>Stop the phone booth killer</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Stop the Clock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/8794271374E21F4EE405A461F4B490F354763DE3.PNG</Image>
+      <Description>Time is running out</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Bargaining Chip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/DE5F53C9CB9FAAD67E700966881DD90E996A1ABC.PNG</Image>
+      <Description>Reunite the separated couple</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>AR Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/7F57ECC2A5C3CDB936B42465A8B2A946A4AF63F7.PNG</Image>
+      <Description>Complete all augmented reality training exercises</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Fully Loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/14F7C2A7421ED950F880CFF6BFBD956038BF420D.PNG</Image>
+      <Description>Collect all of Batman's gadgets and upgrades</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Aggravated Assault</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/A53BDCF7061E5747A15DEA665003C730C9764DE3.PNG</Image>
+      <Description>Stop all assaults in Arkham City</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>IQ Test</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/9BE6C7B7A3A90B363CD63D5B80D60DCDB649C280.PNG</Image>
+      <Description>Solve the first riddle</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Conundrum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/C9DFE0DE82C0998F1921CB748532E9D1652EE279.PNG</Image>
+      <Description>Rescue the first hostage from Riddler</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Mastermind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/57BC660C432A455AAF5911A0DD859A6460BE7BE2.PNG</Image>
+      <Description>Rescue the second hostage from Riddler</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Puzzler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/BAF3953E11A09B5435E36CEB5182C02152C212C6.PNG</Image>
+      <Description>Rescue the third hostage from Riddler</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Intellectual</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/21A264B5F30B2BC874068DBC9539D7439FCC7E84.PNG</Image>
+      <Description>Rescue the fourth hostage from Riddler</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Brainteaser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/5A0002FC105CF35F4B12B761C2C748DB2572879E.PNG</Image>
+      <Description>Rescue the fifth hostage from Riddler</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Genius</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/4C1162474941D50FA001D83D2BFD2F930D428D8A.PNG</Image>
+      <Description>Rescue all the hostages from Riddler</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Bronze Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/5D1F42009224B782A27C73D2B28FFF6B22111974.PNG</Image>
+      <Description>Obtain 24 medals on the original Arkham City ranked maps (as Batman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Silver Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/85A4AB1D97C9D9A0C5169F48C45885E715A25A7C.PNG</Image>
+      <Description>Obtain 48 medals on the original Arkham City ranked maps (as Batman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Gold Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/720557625D8AB4795FDDDCFC6ACA4FB10B7A535B.PNG</Image>
+      <Description>Obtain all 72 medals on the original Arkham City ranked maps (as Batman)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Bronze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/EB373CD2444C95D19462B26DAFF3649672111FE1.PNG</Image>
+      <Description>Obtain 36 medals on the original Arkham City campaigns (as Batman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/80D8C2A9695C9E71CB2DE0A040FE0E15E48556F8.PNG</Image>
+      <Description>Obtain 72 medals on the original Arkham City campaigns (as Batman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/827E181F5A1B570D5056CB4FDC3A7D0453D79AA2.PNG</Image>
+      <Description>Obtain all 108 medals on the original Arkham City campaigns (as Batman)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Flawless Freeflow Fighter 2.0</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/5E3365071FF101B8AA6494B2F9C81752C24A537C.PNG</Image>
+      <Description>Complete one combat challenge without taking damage (any character)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Twice Nightly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/37F088999CFADDF7DE7ECDFD236692F14C975D33.PNG</Image>
+      <Description>Complete New Game Plus</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Gotham Base Jumper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/5A167E7CAA416909CA7EF159714742B6F2C1B970.PNG</Image>
+      <Description>Jump off the tallest building in Arkham City and glide for 1 minute without touching the ground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Pay Your Respects</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/3AC6E163621D4F658FF86CF982A5974C5692BA26.PNG</Image>
+      <Description>A moment of remembrance</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Storyteller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/1A0FF105F3CA8346E77912EBB300F3EEE7E581AD.PNG</Image>
+      <Description>Have 12 murderous dates with Calendar Man</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Catch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/0008E89224EDF21A21D445309E8C5B1ACF42B4AD.PNG</Image>
+      <Description>Find someone to play remote Batarang catch with</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>50x Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/8C2E6D366353D507D3CAE3890C842A86C475B8C8.PNG</Image>
+      <Description>Complete a combo of 50 moves (any play mode, any character)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Perfect Freeflow 2.0</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/0EED5989110A98A3415CA5CF5BB98DF93C613E41.PNG</Image>
+      <Description>Perform a perfect combo including all of Batman's combat moves (any play mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Gadget Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/E013FAA97FEFA7D64D425278F4A2C4ABAFDE1712.PNG</Image>
+      <Description>Use 5 different Quickfire gadgets in one fight(any play mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Perfect Knight - Day 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/449771EF0944B98627A258A3577DAD7600A14CCA.PNG</Image>
+      <Description>Complete every challenge in Arkham City - Main Story, Side Missions, Upgrades, Collectables, New Game Plus and Riddlers Revenge (as Batman)</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Sphinx' Riddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/33D71DB2ECE7BEBB2A999CB09A87F9CAFA7611FC.PNG</Image>
+      <Description>Complete all 40 of the Catwoman Riddler grid items</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Arkham City Sirens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/E73160BC347DFCE21D46282AF73F58E0349C7FC1.PNG</Image>
+      <Description>Drop in on an old friend</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Pick Pocket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/4DAA6C5D5220A1BB60F65C0421C209311D0AF68E.PNG</Image>
+      <Description>Steal the score of a lifetime</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Family Jewels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/BD033CB20919A1E3498F4BC1E2F7F100CC2FED6D.PNG</Image>
+      <Description>Retrieve your stolen goods</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Feline Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/31C718879B49EFBED8793DC5B7FB629D6534DC4F.PNG</Image>
+      <Description>Obtain all 72 medals on the original Arkham City ranked maps (as Catwoman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Kitty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/2919F8BB87B9722B7D856B117CE678F2873300BD.PNG</Image>
+      <Description>Obtain all 108 medals on the original Arkham City campaigns (as Catwoman)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Robin Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/2AA2DDD7BE84592AE6B3BA3342F4A30781829BD5.PNG</Image>
+      <Description>Obtain 78 medals on the original Arkham City and Robin Bundle Pack ranked maps (as Robin)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Wonder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/BD415C5821EF96A56619154C68E4AEC6235FAF97.PNG</Image>
+      <Description>Obtain 114 medals on the original Arkham City and Robin Bundle Pack campaigns (as Robin)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Nightwing Revenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/F0A253B0F06AAB6A4EAEA091B423521452EB2707.PNG</Image>
+      <Description>Obtain 78 medals on the original Arkham City and Nightwing Bundle Pack ranked maps (as Nightwing)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Campaign Nightwing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/CFB5F99E634DA7F3B8E4CEC5FD3AF33D385455E9.PNG</Image>
+      <Description>Obtain 114 medals on the original Arkham City and Nightwing Bundle Pack campaigns (as Nightwing)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Lost Property</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/D24218DFA7DB3E476ED7D8DCB56725B4A5ECA44A.PNG</Image>
+      <Description>No crimefighter should be without this</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Breaking and Entering</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/B3A1990A9796CEAC190E88204080FB8AD9463C6C.PNG</Image>
+      <Description>Find a way into the secret base</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>How's It Hanging?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/ACBCF0ACE0F8FD4E8C126C9ECDEA9EDA41CFF33E.PNG</Image>
+      <Description>Clean up the Dry Docks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>The Last Laugh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/3427AA479BCA2D2469BC3D35550DF9D2F0D309BC.PNG</Image>
+      <Description>The joke's on who?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Frequent Flyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/C7EA757DD925B9D292680FEB0EF564A9D9864969.PNG</Image>
+      <Description>Zip Kick 5 different thugs</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Battering Ram</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/F6990ACF4BC43D536B72FC56C31B7D272004E06C.PNG</Image>
+      <Description>Shield Bash 5 different thugs</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Snap To It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/B9AF24A47B2F3C2E7F2C43C24093CCBA4B104359.PNG</Image>
+      <Description>Snap Flash an unarmed thug, an armed thug, an environmental object and a Titan</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Bomb Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/DE75F111879F8EB232945E1681382EB64C0CC934.PNG</Image>
+      <Description>Defuse all bombs in 3 minutes or less</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>A Few New Tricks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/9B4D0928472531A7459B3632F1A86C771582D5CD.PNG</Image>
+      <Description>Use 5 different Quickfire gadgets in one fight as Robin in Harley Quinn's Revenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01235_00</GameId>
+      <Title>Party's Over</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01235_00_1D028C77CB0E1FCB8E80FBBAF71AFBE41C28F156/D2BE512E4499119DC0DB34341229649D6D53507A.PNG</Image>
+      <Description>Destroy all Harley Balloons</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

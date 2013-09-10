@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01686_00</Id>
+    <IdEurope/>
+    <Title>London 2012</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/A1E8E8ACF7470978D5EFCF45D2D8929280E9F7AB.PNG</Image>
+    <TrophiesCount Total="45" Bronze="26" Silver="16" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/B52F3A39E34D25B689E0A6DD0D0350A3B44AD7B4.PNG</Image>
+      <Description>Earn all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>My Way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/3BD4060DBB4EA5AC69731288D761FBCB96EE765A.PNG</Image>
+      <Description>Create and play through a custom playlist</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Team Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/CAEA2DBEFE162C56B17C030930F6BADE4AC65845.PNG</Image>
+      <Description>Earn 3 Gold medals in team events</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Team Spirit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/F239BD8D3ADBCA425B33105C0E250EDD458941FE.PNG</Image>
+      <Description>Beat your personal best in Team Archery or Synchronised Diving</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Friendly Competition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/20D8815BE1A8D77A3FAA15F27E6CBA421A76D930.PNG</Image>
+      <Description>Win an Events Mode session with four players competing</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Kit Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/4762371FA25C0F86CFF0F02EBE81C9F5F3C87127.PNG</Image>
+      <Description>Unlock all available sporting accessories</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>The Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/20B2902F1058AF30BC959810A1CAF67922A233DE.PNG</Image>
+      <Description>Qualify for the finals of an event in The Olympic Games mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Got Gold!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/3EF65E5EAE2BEFDB5A5DBD25E92140D3CF189B01.PNG</Image>
+      <Description>Earn a Gold medal in The Olympic Games mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>All-Around Athlete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/16FE0261D744A6165E045832D8AA6B6629C22CF6.PNG</Image>
+      <Description>Qualify for the finals of every event in an Olympic Games mode campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Successful Campaign</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/19B11F6DCD23D4AFDE02829955C201DBB10F383A.PNG</Image>
+      <Description>Earn 20 medals in a single Olympic Games Campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Self Improvement</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/9087563C28C2A9E372EAC9D4CF7F383626902F4D.PNG</Image>
+      <Description>After using a Retry Token, get a better result than before, and finish in the top 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>24 Carat Campaign</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/41115A2FA8A94D9D918CA3A465368FC27A74E273.PNG</Image>
+      <Description>Earn the Gold medal in every event of a medium or hard Olympic Games mode campaign</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>World Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/AB910E5E5FECD245C009088C3BB93ABB914B6AEF.PNG</Image>
+      <Description>Beat a World Record</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Pushing Yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/084DAC053C3CCFD2C66A6B188008C5E755F6D801.PNG</Image>
+      <Description>Beat your own personal best in every event possible, irrespective of gender</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Style Conscious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/EE21AE8938376D1D6E7B2A2FE019FECA43F7D157.PNG</Image>
+      <Description>Wear an alternative national kit in an event</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Competitive Spirit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/8A045F91443F2843B301084E960ADC0BCF5FF506.PNG</Image>
+      <Description>Complete a multiplayer game, while representing a nation</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Never Touched the Sides</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/FF930B4C9F430B606F78C681E27DF69FCA0ADD4C.PNG</Image>
+      <Description>Complete the Men’s K1 Kayak Single course with no penalties at all, while representing a nation</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>How's That?!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/0E566CCD4253F535FE0F6A945D042619404A1811.PNG</Image>
+      <Description>Hit the bullseye camera of the archery target, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Aimbot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/7E7E27FE5D6ABB2AE2B1BC6A2CA49788B95A04F2.PNG</Image>
+      <Description>Score ten or more on every target in a 5-shot round in Rapid Fire Pistol, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Game, Set and Match</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/9223C8DC9945C2371218C5569C6A65A18010EDFF.PNG</Image>
+      <Description>Earn a Gold medal in every Versus event, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/D9534ADDDA20CA099FFF921400DEEAE1F0DB7368.PNG</Image>
+      <Description>Earn a Gold medal in every Shooting event, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Flipping Fantastic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/D6A1C98CF98DD95C757FFF75C9737BA5D026ED4E.PNG</Image>
+      <Description>Earn a Gold medal in every Gymnastics event, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Leaping Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/B4AB6BA107E0F2FE5D7B216132A7D077AD1501C8.PNG</Image>
+      <Description>Earn a Gold medal in every Jumping event, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>The Running Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/69901DCCE79CFA4FB2838543F283431A842DD600.PNG</Image>
+      <Description>Earn a Gold medal in each of the 4 types of Track events</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Human Catapult</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/2D76BE8EC22ED5FAC17036A34953E3353D77F1EC.PNG</Image>
+      <Description>Earn a Gold medal in every Throwing event, while representing a nation</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Super Fish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/1B87BD4A28C4C46A4FEA97E604C6F63812BFAF3B.PNG</Image>
+      <Description>Earn a Gold medal in each of the 5 types of Swimming event</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Close Shave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/FB40CFDF8AB5A137979323503E90A8F9E3A2AE83.PNG</Image>
+      <Description>Touch the bar in a High Jump and still clear it successfully</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Quick and Painful</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/EC8F947D0F650FC7B610A016F10886DCE4B84B83.PNG</Image>
+      <Description>Touch the last hurdle and win a medal in 110m Hurdles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Cracking the Clay</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/2FFB2C8C293508C84FE87AFC79DD44E5B39E8344.PNG</Image>
+      <Description>Hit every target at Station 4 in Skeet</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Total Shutout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/4D2DD8EF175A5B777DE0A4F2CA4DE4E73F7406CD.PNG</Image>
+      <Description>Win a Table Tennis or Beach Volleyball match without losing a point</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Photo Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/E7ED899D904CF0267FC272E559120E41810F5332.PNG</Image>
+      <Description>Win a Race by 0.07 seconds or less</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Big Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/3617E9E0D149A21E4CB0E537A2B03933972F346C.PNG</Image>
+      <Description>Perform 10 Power Shots in a Table Tennis match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>No Splash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/B675F16F8775E0FF6E350004CEB0C0393AEDEC60.PNG</Image>
+      <Description>Receive a perfect ten from one of the Judges in Diving</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Marathon Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/C76198AC5E249F0601051693FD5ED282360259F4.PNG</Image>
+      <Description>Distance run over career is 42.195km</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Foul Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/DA53E59ACFA9C66C851C22D56DE5F3230F860529.PNG</Image>
+      <Description>Perform 30 foul attempts in field events, over your career</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Superb serving</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/07FD05D9D806FDC8C1D4E1BE0AFA79C29F23E017.PNG</Image>
+      <Description>Perform 10 ace serves over your career</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Social Sports</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/CFDDF707317D48BA0616508C1222C7DF4F8155F7.PNG</Image>
+      <Description>Play an Online Tournament with one or more friends</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Take on the World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/F92BB123A3567BE6082FCA1F92B1121B620D9F51.PNG</Image>
+      <Description>Win an Online Tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Represent!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/033D1FDAFCDC28B3E6B46B4F4064639FA69779DC.PNG</Image>
+      <Description>Play online and complete a Quick Match or Custom Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Glorious Results</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/AFECDE54BB31EC6045ABEF7B20CF3EB17A0CED4A.PNG</Image>
+      <Description>Win a total of 5 Gold medals in Online Quick Matches or Online Custom Matches</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Awesome Foursome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/9274E41B4E86B4B78863DE2843F3F42E89DBD7EB.PNG</Image>
+      <Description>Complete a Challenge Set with 4 players</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>All Star Performance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/AE7238AB9AF3C8DBB5945A4F57213C29E44F1117.PNG</Image>
+      <Description>Earn 9 Challenge Stars in a single Challenge Set</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Up to the Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/211E03161C90B70AB70AE9BE6D282457923E5400.PNG</Image>
+      <Description>Complete all Challenge Sets for any controller type</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>No Weak Links</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/41788F8C19925B99CE374535957E45C925F35D61.PNG</Image>
+      <Description>Complete a Challenge Event, where every player scores more than their share of the 3-star target score</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01686_00</GameId>
+      <Title>Show Pony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01686_00_B4AB6308453E27E7F79BDDFAFC9D82E324BA56C8/D57B68A29D40B16A473776E86AD933AC267BAB9E.PNG</Image>
+      <Description>When two or more players are introduced all together for a race, be the one who emotes first</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

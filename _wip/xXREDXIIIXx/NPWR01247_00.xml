@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01247_00</Id>
+    <IdEurope/>
+    <Title>Call Of Duty: Black Ops</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/00A079854AD3C67E23DD447F3F3E5CAC1FC56F10.PNG</Image>
+    <TrophiesCount Total="71" Bronze="51" Silver="18" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/48C2C008652236A2D989CDA3300498D8A4977DBF.PNG</Image>
+      <Description>Awarded when all other trophies have been unlocked</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Death to Dictators</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C7A81CE10CD9803830851247A461120E1DA1EF59.PNG</Image>
+      <Description>Take down Castro with a headshot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Sacrifice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C628253AACECB6117333EFC69843878240ECB059.PNG</Image>
+      <Description>Ensure your squad escapes safely from Cuba.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Vehicular Slaughter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/E9151F38E557C9A7D34454B067F29FD455473963.PNG</Image>
+      <Description>Destroy all enemies on vehicles during the prison break.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Slingshot Kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/43DB4DBAA493F9EEABB703A930B602EA0F9545C7.PNG</Image>
+      <Description>Destroy all slingshot targets in 3 attempts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Give me liberty, or give me death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/77E0B67AE97B5AFF8205CD9A029F135F1F2D3DBE.PNG</Image>
+      <Description>Escape Vorkuta.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>VIP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/2F0959A6B20E684244433FB9E1B381A9A30B16AA.PNG</Image>
+      <Description>Receive orders from Lancer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>A safer place</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/4646B2378EEFAB8A695B1FDA0B6D635BDDD36889.PNG</Image>
+      <Description>Sabotage the Soviet space program.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Tough Economy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/96BE2ED9DC7EF424F95AEA7DFCB5102CCFBD1673.PNG</Image>
+      <Description>Use no more than 6 TOW guided missiles to destroy the tanks in the defense of Khe Sanh.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Looks don't count</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/751C74583A20F25F05E5FE7C8D5A9BDAE8F9C1BF.PNG</Image>
+      <Description>Break the siege in the battle of Khe Sanh.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Raining Pain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/A1D85842EE1E518E7161427B6D49F110FA1CEDC8.PNG</Image>
+      <Description>Rack up a body count of 20 NVA using air support in Hue City.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>The Dragon Within</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/056B67ABEF19830D8BD75E49B7210B7C28C3F2AF.PNG</Image>
+      <Description>Kill 10 NVA with Dragon's Breath rounds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>SOG Rules</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/9C6391448DD0D6E725926029C82E44F4604F4D0E.PNG</Image>
+      <Description>Retrieve the dossier and the defector from Hue City.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Heavy Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/1D440B1D9504D9E7A3B20213556AABEBADD366D6.PNG</Image>
+      <Description>Use the Grim Reaper to destroy the MG emplacement.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Up close and personal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/A50A5484C03E10A71832DAD21D6AA7A588F847AA.PNG</Image>
+      <Description>Silently take out 3 VC.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Double Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/1C19BEBC541CEECA97AFFDF59CD900F18B0BA0C4.PNG</Image>
+      <Description>Use only dual wield weapons to escape Kowloon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Broken English</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/4D2AF1140F5DF7CA761D0D8530C005EAFED499E1.PNG</Image>
+      <Description>Escape Kowloon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Lord Nelson</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/AED2A1F03A88637333ACCC4C0D64A4AAC72DFE47.PNG</Image>
+      <Description>Destroy all targets and structures while making your way up the river.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Never get off the boat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/B32F4FC9A3F7EA38A3038909175F9B6FBB03A4D1.PNG</Image>
+      <Description>Find the Soviet connection in Laos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Pathfinder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/F3B0F2718C916514CE805D6C7054E4AC91723546.PNG</Image>
+      <Description>Guide the squad through the Soviet outpost without them getting killed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Mr. Black OP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C304CF98A17F4C79D52D1DC1C2BD8E61CAF2924F.PNG</Image>
+      <Description>Enter the Soviet relay station undetected.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>With extreme prejudice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/A172B435152DB79EBE5D3ED64B2D346BAC8AF65D.PNG</Image>
+      <Description>Get to the POW compound in the Hind using only rockets.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Russian bar-b-q</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/A5419733538D591BB097F769318F1E8C5887BBF6.PNG</Image>
+      <Description>Incinerate 10 enemies with the flamethrower attachment in the POW compound.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Light Foot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/7A380993E2C39E49CE376A9C96A963B010AE0737.PNG</Image>
+      <Description>Escape the ship with 2:15 left on the timer in Veteran.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Some wounds never heal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/296123A03358DA72397FC3758817CC05B5695A30.PNG</Image>
+      <Description>Escape the Past.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>I hate monkeys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/481106F3712279AA5F6440FBF8C94236D5F3C4EF.PNG</Image>
+      <Description>Kill 7 monkeys in under 10 seconds in the Rebirth labs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>No Leaks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/64CEDFC915390AD8D476B4DE88B1044F7F1D8FF1.PNG</Image>
+      <Description>Make it through the NOVA 6 gas without dying on Rebirth Island.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Clarity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/2B2DABC2D094B1B969BDC3321051231E63BEC3B7.PNG</Image>
+      <Description>Crack the code.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Double Whammy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/731DB03ADE8B0077C4EE14AE4EF554CBAAAD1B09.PNG</Image>
+      <Description>Destroy both helicopters with one Valkyrie rocket from the deck of the ship.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Stand Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C17411D882F2BCDF3AAAE7B8CA0A4B92AE6C921A.PNG</Image>
+      <Description>Complete the campaign on any difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>BLACK OP MASTER</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/32AB206399F53B11EF5BAB8DFD638C5B784FA903.PNG</Image>
+      <Description>Complete the campaign on Hardened or Veteran difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Frag Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/88B848E2D9D28D7E1762399812FB0D037B381EF8.PNG</Image>
+      <Description>Kill 5 enemies with a single frag grenade in the campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Sally Likes Blood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/52567E1C6A0DAB67DD4524737DA7A46F9AE7E5DA.PNG</Image>
+      <Description>Demonstrate killer economic sensibilities by taking down 3 enemies with a single bullet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Unconventional Warfare</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/7DE9446E061C6789B862578DE5E09B71E191EC2B.PNG</Image>
+      <Description>Use the explosive bolts to kill 30 enemies in the campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Cold Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/35C196DFA64E9D88DD0F47C21F61CEBFBFCF4B4E.PNG</Image>
+      <Description>Complete "Operation 40," "Vorkuta," and "Executive Order" on Veteran difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Down and Dirty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/F48F088F185111D615162C51CA8D01A833051A69.PNG</Image>
+      <Description>Complete "SOG" and "The Defector" on Veteran difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>It's your funeral</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/DFFA5B3008088E2AE14FFD8FF74ADD3D4687510B.PNG</Image>
+      <Description>Complete "Numbers," "Project Nova," and "Victor Charlie" on Veteran difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Not Today</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/7F658CEC9257B80F601C8EFBA54D0938D23592F7.PNG</Image>
+      <Description>Complete "Crash Site," "WMD," and "Payback" on Veteran difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Burn Notice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/2D89E74E82E6DD190CB79129B6BA7AFEE4B1A016.PNG</Image>
+      <Description>Complete "Rebirth" and "Redemption" on Veteran difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Closer Analysis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/E5BBB046A42F690057E816F1C6168CDCFD593CED.PNG</Image>
+      <Description>Find all the hidden intel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Date Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/77AEB33A3933AC567FFDC84279D7B8068F66B4F3.PNG</Image>
+      <Description>Watch a film or clip with a friend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>In The Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/332AFAB774B153C455791DB232A0AB4ED2239B6F.PNG</Image>
+      <Description>Finish 5 Wager Matches "in the money."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Ready For Deployment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/225677FF3825673EEDE734914772DB514789BFC0.PNG</Image>
+      <Description>Reach rank 10 in Combat Training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/E2A767FFDC198D6B544A52806CF4D9D72B82B0C1.PNG</Image>
+      <Description>Buy every weapon off the walls in a single Zombies game.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>See Me, Stab Me, Heal Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/7B657CA0BAF23FC7EC69524F33DF9D2BEA31F949.PNG</Image>
+      <Description>Fire a Pack-a-Punched Ballistic Knife at a downed ally to revive them from a distance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Hands Off the Merchandise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/B7E24E04CFB25F1F37729CBB6F52AC35B8A497F0.PNG</Image>
+      <Description>Kill the Pentagon thief before it can steal your load-out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Sacrificial Lamb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/757B4845EEDE48ED03C45425DD96AE85CD7FD841.PNG</Image>
+      <Description>Shoot at or be shot by an ally with a Pack-a-Punch crossbow and kill six zombies with the explosion.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Insert Coin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/F49D2137A1AA6ECDD99D3817FCD3061BCD09A3D8.PNG</Image>
+      <Description>Access the terminal and battle the forces of the Cosmic Silverback in Dead Ops Arcade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Easy Rhino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/6AF9B97551869BED80886C9EAC4FAEA090A797D5.PNG</Image>
+      <Description>In Dead Ops Arcade, use a Speed Boost to blast through 20 or more enemies at one time.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Just ask me nicely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/350C2FB51F8E08B4D19177DF7B2C80B7D70546C7.PNG</Image>
+      <Description>Break free from the torture chair.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Eaten by a Grue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/3B20B5E759BC078AED8AF33357CD9F0B0BCD194E.PNG</Image>
+      <Description>Play Zork on the terminal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>The eagle has landers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/8C160F99935A1F82BB7E063202BB01DA4F8E1D49.PNG</Image>
+      <Description>In Ascension, escape on all 3 lunar landers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>They are going THROUGH!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/058553E6057D9FE6AF355382D7356096F86A75CB.PNG</Image>
+      <Description>In Ascension, kill at least 5 zombies with 1 Gersh Device.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Space Race</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/6A01AD4B0A561162D194F6283542AAC7AFE88B20.PNG</Image>
+      <Description>In Ascension, Pack-a-Punch a weapon before round 8.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Chimp on the barbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/67364A37BCAFE312ACDC8DC86B46323461FCC32B.PNG</Image>
+      <Description>In Ascension, kill a space monkey with a fire trap.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Stand-in</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/BCD68572A6B735EF5ED8E72DFB03DF2E34B5E34F.PNG</Image>
+      <Description>In Call of the Dead, send the crew to Paradise in solo or co-op.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Ensemble Cast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/B88F07C927D3CD1D439830CA5BE7AE4ACCED96F9.PNG</Image>
+      <Description>In Call of the Dead, send the crew to Paradise in co-op.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Stuntman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/4AE064A9313E0B0B7CFCC1E0ABB8DEFB465A1950.PNG</Image>
+      <Description>In Call of the Dead, make a zombie explode using the V-R11.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Shooting on Location</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C06AE9285023CBAC97131857C4C96CB1B7040581.PNG</Image>
+      <Description>In Call of the Dead, kill 10 zombies with one Scavenger shot from over 100 feet away.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Quiet on the Set</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/7E7D5B4ED04CE7E52C6466125A8386DB18A5E598.PNG</Image>
+      <Description>In Call of the Dead, cut the lights on the Director.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Time Travel Will Tell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/BA73E1874A5BE426A4998CD5925CEDB61AC4643D.PNG</Image>
+      <Description>In Shangri-La, acquire the focusing stone.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Blinded By the Fright</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/C702163560972BC710235E169E1F44C1EAB095CA.PNG</Image>
+      <Description>In Shangri-La, kill a Shrieker zombie while blinded by it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Zomb Disposal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/55E68D35B546E27A66E1FF306AE11F6E439607FA.PNG</Image>
+      <Description>In Shangri-La, dispose of a Napalm zombie without it harming any players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Monkey See, Monkey Don't</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/4DBDF056FFBDE22E407797147C79F4886662CBFC.PNG</Image>
+      <Description>In Shangri-La, get something from the monkeys.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Small Consolation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/003E1ED98E4D3FD8DC6A7B9C10E4D18645CF43FB.PNG</Image>
+      <Description>In Shangri-La, use the 31-79 JGb215 on each type of zombie.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Cryogenic Slumber Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/8147AFA0971649CF300773DF21A99D93267E9DFD.PNG</Image>
+      <Description>In Moon, complete Richtofen's grand scheme.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>One Small Hack for a Man...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/CBEFFA4DB5CA0D76FDD8E077DDEBDFAA80A4B9BB.PNG</Image>
+      <Description>In Moon, hack something.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>One Giant Leap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/E16413D352F7E460B99C4393B29B700A1099DF91.PNG</Image>
+      <Description>In Moon, become trapped in the Receiving Area and free yourself through resurrection in co-op.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Perks in Spaaaaace!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/2E89F81F141F774E24977957E89722FBA3AFCD81.PNG</Image>
+      <Description>In Moon, purchase every perk in one game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Fully Armed and Operational</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/60D36D35A466A9C381E910965B834CA5FAACB43F.PNG</Image>
+      <Description>In Moon, acquire 3 pack-a-punched weapons at the same time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01247_00</GameId>
+      <Title>Ground Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01247_00_C5B87F036E2FB6104C9644BB0CD761EEC737CC48/6B44D65E8DC88ED2E4D9C0F4EB0ED8929536D6CE.PNG</Image>
+      <Description>In Moon, prevent each excavator from breaching the base in one game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

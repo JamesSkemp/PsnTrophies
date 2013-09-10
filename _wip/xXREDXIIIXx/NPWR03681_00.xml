@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03681_00</Id>
+    <IdEurope/>
+    <Title>Hitman: Contracts</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03681_00_007BDD5FAF45E4C87E37E048E46C7826B7ADAD40AA/3C75CBC824FEC084405440475416100AAE132FB9.PNG</Image>
+    <TrophiesCount Total="29" Bronze="12" Silver="10" Gold="6" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03681_00</GameId>
+      <Title>1st Kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03681_00_007BDD5FAF45E4C87E37E048E46C7826B7ADAD40AA/3F2CD125F73CFF4B082774FC7EF14C0239E6D6E2.PNG</Image>
+      <Description>A successful kill has been performed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03681_00</GameId>
+      <Title>Killed the wrong guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03681_00_007BDD5FAF45E4C87E37E048E46C7826B7ADAD40AA/BA1DDCB63DFF529E9C3E6D187E2F362826FC2468.PNG</Image>
+      <Description>An innocent person has been killed</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

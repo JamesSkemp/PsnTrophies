@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04175_00</Id>
+    <IdEurope/>
+    <Title>Defiance</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/499D8FF3465FA1BA796CFD0C7A5BCF647E62FB7B.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Legend of Defiance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/AF780A2304699BB51BFB14F94F9A25F88C9970A0.PNG</Image>
+      <Description>Complete all other trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Holy Shtako!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/7A84836EF4EC859A4C92B3254479BF446A15B9C2.PNG</Image>
+      <Description>Complete the tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Skruggin' Ark Core</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/3E618691563F4AD484478191F6E56B5B88C6A6D4.PNG</Image>
+      <Description>Complete Act 1</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Wrong Hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/78A31726C3042A4227E73195F35FC32203322391.PNG</Image>
+      <Description>Complete Act 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>That Hagisi Lied</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/099B8017FD4B6A37F61DF969F6978A45728F092C.PNG</Image>
+      <Description>Complete Act 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Everyone Will Die</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/CE5677614DA3B98D827B5D5191F1950D57628282.PNG</Image>
+      <Description>Complete Act 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Who...  Are You?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/1C54D51819A5DCB43F07F6E3D09DA9CE4014FFE9.PNG</Image>
+      <Description>Complete Act 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Overdosing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/7C0DBE1BC67145A08A76855BEE430B183BD5D6A3.PNG</Image>
+      <Description>Complete the Liberate the Lost co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Broom Closet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/8E93F295D47F6A1BCFF431C39D7637D615B0E1D6.PNG</Image>
+      <Description>Complete the Soleptor Excavation co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Save Your Ganchis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/8652A33B529C1E7CA23E14104B0E254E64076513.PNG</Image>
+      <Description>Complete the Explosions 101 co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Call Me Psycho</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/B7B20E790B2A605EBF8BFE3951BFC9826D35D1BC.PNG</Image>
+      <Description>Complete the Island of Lost Soldiers co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Ha! Ha! Ha! Ha! Ha!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A4AC31EDF37EB47D785893FF31513154F3A729D7.PNG</Image>
+      <Description>Complete the Motherlode co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Not Bad at All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/2144B8C4A0ADDAD2CB2C62DBFAA3A72E85D5990E.PNG</Image>
+      <Description>Complete the Commandeer Cronkhite co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Super Excited</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/9ADA90E1B709F49E33F2E427BAC5D4B1F705AA55.PNG</Image>
+      <Description>Complete the Scrapworks Salvage co-op map</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Individual Pursuit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/75F16CEC08905CBA9156846698A6B53E7B92C0A6.PNG</Image>
+      <Description>Complete your first pursuit in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Hot Pursuit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/37379DF189F6D8D88168169A61DD8870760F31E1.PNG</Image>
+      <Description>Complete 5 pursuits in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Pursuit of Happiness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/793B0E523D67EFB5C54DD0DB55DD1BFD4694773B.PNG</Image>
+      <Description>Complete 10 pursuits in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>High Speed Pursuit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/ED53898E009F4F56B3512D4E621C4D9FFB0154E2.PNG</Image>
+      <Description>Complete 15 pursuits in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Pursuit of...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/90D661351DA094CEFB92FD4AC22A7BA169B5E1A8.PNG</Image>
+      <Description>Complete 20 pursuits in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Executive Wash Room</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/71220D8377C376D3831ED3A416410107BC9D066F.PNG</Image>
+      <Description>Complete a daily contract for Von Bach Industries</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Private Booth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A37FA96DC1A99CB15153ED090B616F94C9A73DFC.PNG</Image>
+      <Description>Complete a daily contract for Soleptor Enterprises</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Office in Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/066F6DC9D7C9BC1817D344B3A60C02A80CFCFD7A.PNG</Image>
+      <Description>Complete a daily contract for Top Notch Toolworks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Secure Channel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/DA9666CF8E98408816ACCAE36906985764DB7ECB.PNG</Image>
+      <Description>Complete a daily contract for Echelon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Seven Days a Week</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A2202488D50E8D0CCF9BE98CB159F6BB659750A5.PNG</Image>
+      <Description>Complete 4 weekly contracts</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Key to Paradise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/B92A4F25A45B997E0CCFA85D1836625F9DF86AB7.PNG</Image>
+      <Description>Increase reputation with Von Bach Industries, Soleptor Enterprises, Top Notch Toolworks and Echelon</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Widely Regarded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/922D73572E35D8C2E8CA4BF2D6E0F49222694E6D.PNG</Image>
+      <Description>Get max reputation with Von Bach Industries, Soleptor Enterprises, Top Notch Toolworks and Echelon</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Arkhunting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/987B8B83DEEAF002ABB332F663D38D0A459F3A0A.PNG</Image>
+      <Description>Complete your first minor arkfall</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Arkhunting Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/BC69401540251A711A3080B45CB0C04E2ADEA552.PNG</Image>
+      <Description>Complete your first major arkfall in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Arkhunting Safari</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/8322C9E34A04A174EB146410F146CB555A4B33CE.PNG</Image>
+      <Description>Complete 10 major arkfalls in the Bay Area</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Freight Magnate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/F2DD7EC118512658621A2CE2D43A5BBB8D10B5D8.PNG</Image>
+      <Description>Win 10 matches in Freight Yard</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Stargazer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/9D517BA9BC8EB076E9E5446480EC5A1BC856B6DF.PNG</Image>
+      <Description>Win 10 matches in Observatory</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Wharfie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/783004521EC4DBE8AD876E61AC965E66C9C153C8.PNG</Image>
+      <Description>Win 10 matches in Waterfront</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Bit of an EGO</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A74A9921B212A986DEE3CEC5D5BCDA891203F342.PNG</Image>
+      <Description>Earn your first perk</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Abundance of EGO</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/3264B1803958DFA80CF99F95FDA747FB8C3AEA99.PNG</Image>
+      <Description>Earn 50 perks</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Stroking Your EGO</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/25C3EC89350A6DE499B881A6174EE0406643C401.PNG</Image>
+      <Description>Completely upgrade a perk</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>EGO Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A38AD6E76F5417D6D60D2B1ABE67FD9F2AA332D6.PNG</Image>
+      <Description>Completely upgrade 25 perks</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Powerful EGO</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/12D2525D5B41E05C73226C28E20692FE715C181D.PNG</Image>
+      <Description>Completely upgrade an EGO Power</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>EGOtistical</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/CEB1FDA3E07D60C16A83B10954C3CD49A14AAAFB.PNG</Image>
+      <Description>Reach EGO Rating 500</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>EGOcentric Arkhunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/E655C6475D9E28E9D4A5C0780723FC72462BABAB.PNG</Image>
+      <Description>Reach EGO Rating 2500</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Wait For It…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/6A1A2E27C4399BBB922A464702DB6FF714709AE1.PNG</Image>
+      <Description>Equip your first legendary weapon</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Shoot to Skill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/B1F5E2D94D8414DE42745E3BB93B2D82BEB08A75.PNG</Image>
+      <Description>Max out one weapon skill</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Calculated Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/C28E8AA692807375CF20F9852733A64F698D14D7.PNG</Image>
+      <Description>Kill 10,000 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>A Friend in Need</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/86F650F4806FBF3B2FDAB4EC20287ACB12A40723.PNG</Image>
+      <Description>Revive another player outside the tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Chasing Shadows</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/FB14509B101D67D9498B49D8F24642B610CC60DB.PNG</Image>
+      <Description>Capture 50 points in Shadow War</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Vehicular...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/F46D10F5DE8AAE0C3FE2409325E5CBD37670CD4F.PNG</Image>
+      <Description>Kill 25 players by running them over</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Brain Surgeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/A510EDD61A2D4D19D7BA0DFB7AA90C4A271B64C4.PNG</Image>
+      <Description>Kill 50 players with headshots</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Upper Echelon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/5FEB6C488AD1E4C662F5CF6F90A7C7BF1EFC1451.PNG</Image>
+      <Description>Kill 100 players</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Yeeeeeeehaaaaawww!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/8A82C5CFD847AF80B5A2F9A00D2F1DC0E1F76CFA.PNG</Image>
+      <Description>Jump a total of 5 kilometers with vehicles</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Good Cardio</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/AADF75E50AE27FB215A2159FE8FF1D95D7845454.PNG</Image>
+      <Description>Swim a total of 1 kilometer</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR04175_00</GameId>
+      <Title>Monolithic Landmark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04175_00_001C2FC6AFEADA86CD5639764A2ECB96F7EE337BB7/936E270553CFE67A882C1846AC63AA7A4B9A16BC.PNG</Image>
+      <Description>Cross the Golden Gate Bridge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

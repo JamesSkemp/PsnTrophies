@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02969_00</Id>
+    <IdEurope/>
+    <Title>Le Tour De France 2012</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/A5BEE2AC2999634B1153A3606E714AE5CED96C10.PNG</Image>
+    <TrophiesCount Total="41" Bronze="32" Silver="3" Gold="5" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Champion of champions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/BDF9944E4A8C1A25D47E3C06064672C04A933F72.PNG</Image>
+      <Description>Obtain all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Training complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/50501C1044B21F494FF5921E14A1BB85BC3C83DD.PNG</Image>
+      <Description>Complete the full tutorial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>TV time for my sponsor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/170137DB2F0F1BF5B7A103FC01789A285E46B237.PNG</Image>
+      <Description>Maintain a solo breakaway for, at least, 20 kms.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Never alone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/B20332CEE0D6AED8A259D25AB1AB90741F27482C.PNG</Image>
+      <Description>Use all Team Communication options.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Be my guest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/98FAB791CAC739C0B4D09E9499C6977443016FA3.PNG</Image>
+      <Description>Win a quick match in multiplayer mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Attack!!!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/101A3D5D8C11F96E947E6548A5A6664EA3CA9791.PNG</Image>
+      <Description>Launch an attack from the peloton to gain a few metres lead.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>I slipped boss!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/5D3EAE3B6600A1112FD9BB03D49C985F419214E7.PNG</Image>
+      <Description>Fall off the bike while wearing the yellow jersey.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Rider combativity prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/DBE1CC9FD925E649749E8360529912A8DFCC1527.PNG</Image>
+      <Description>Be on the first breakaway (E1) for at least 500km during the same Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>125cc</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/B411B64C8481060C87575F34715B711FC0E93C04.PNG</Image>
+      <Description>Ride faster than 70 km/h in a flat section.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Moto GP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/ABCBE45877FAF24CB15241C1F0B22A890B8B661A.PNG</Image>
+      <Description>Ride faster than 90 km/h.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Finally some rest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/88238A6D39F411A02FBA1D940D9A0FA58684E15F.PNG</Image>
+      <Description>Reach the first rest day (stage 10: Mâcon).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>The most difficult is still to come</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/6AA1CFD52C4827538DE64E6BABD096F2C45580CC.PNG</Image>
+      <Description>Reach the second rest day (stage 17: Pau).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Raise your arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/AF504E31EDC25BBB312B6E09476326E619A93A72.PNG</Image>
+      <Description>Your first victory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Enjoy the victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/5A6C9A0C2368D3FF4E256EAD073A3E4A474384B7.PNG</Image>
+      <Description>Use a celebration combo when you win a stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>On my own</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/D30F6C7894C3BA2BF1E756E207201A80EE6FBCA9.PNG</Image>
+      <Description>Win a stage with a solo breakaway (at least the last km).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Faster than you think</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/7290743B397F8B0B70627B677A476F1D0A0B2E18.PNG</Image>
+      <Description>Wear the green jersey for at least 1 stage with a silver or bronze sprinter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>King of the hills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/E2165A15E138D2DEC8D58148963D60B3F18D0E2E.PNG</Image>
+      <Description>Wear the king of mountains jersey from the end of the 2nd stage until the 1st mountain stage (Stage 11: Mâcon).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Fast </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/C80B038B4E741AED4E7D42A7B46D954B310C303B.PNG</Image>
+      <Description>Win a flat stage with a gold medal sprinter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Demolition man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/27DC106EF29FD37B3AFD58951EDF921DAC2DDAC2.PNG</Image>
+      <Description>Win a stage with more than 2 minutes advance on the 2nd rider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Master of alliances</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/7B1F4110A0A00BC6BF1A470706A8060056945459.PNG</Image>
+      <Description>Create 1 alliance in mode Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Like father like son</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/88E178E4892FC7376F62298D08777838EA13C056.PNG</Image>
+      <Description>Win a stage with a 30+ rider and with a -25 rider during the same Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Champs Elysees</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/7D227CEC3E023DFAF0D021A5ACAB8EDE82078769.PNG</Image>
+      <Description>Complete a Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Back-to-back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/EFD76EB87EF0C071E82E932839B0101CAC7294F7.PNG</Image>
+      <Description>Win 2 consecutive stages with the same rider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>When the going get's tough . . .</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/DD1B906D4412EDC2E8F603BAAD538AF1B97BCC61.PNG</Image>
+      <Description>Wear the yellow jersey for 7 stages with an Expert level team during the same Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>All-rounder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/79FAB3100F897818E01552A868C03CF5B8A5E65B.PNG</Image>
+      <Description>Win a stage of each type (Tour or One-off) with any rider of the same team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>On the souvenir photo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/6B0DD80230F851A28F7508A2A6C54717E65CF037.PNG</Image>
+      <Description>Finish the Tour de France in the top 3 (Tour only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Start and finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/1AEAE3867E5D59449B5BBD2D7E13F946AD0480E3.PNG</Image>
+      <Description>Win the first and last stages of the Tour de France in Tour mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Welcome to the club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/BFE17DE0FD1BCC6246DEC0730BBD280EF0F1458D.PNG</Image>
+      <Description>Win a Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>King of the mountains</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/12FF7C1F4FEE7FE314B8155283CBF9917F2691A4.PNG</Image>
+      <Description>Win the polka-dot jersey.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>King of the sprint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/8E6AA44034D7B835025080C7ED62C647F87CBA12.PNG</Image>
+      <Description>Win the green jersey.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>King Midas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/4D1EEDC37A5814F8AC433640610AE279E913341A.PNG</Image>
+      <Description>Accumulate more than 500,000 EUR during a Tour de France</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Baby champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/A8B1B5114FA037035923B29562043CE535319988.PNG</Image>
+      <Description>Win the white jersey (tour mode only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>I'm at home in the mountains</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/5D4D5151E88A10121D5FD9E301D689F10AEFF9DA.PNG</Image>
+      <Description>Be the first across all Hors Category climbs during the same Tour de France.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Three in a row</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/905E52FBA768C7E4794D46AB7FBD8BBE3DAC8DCF.PNG</Image>
+      <Description>Win 3 consecutive stages with the same rider (Tour mode).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>From nowhere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/3AF763A94CDE7CAAA79BF34596922FAF1C1482E8.PNG</Image>
+      <Description>Win a stage with a rider who has no medals (Tour or One-Off).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Monsieur Tour de France</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/757A3A4FAADBBC1E490A2426DA52EA5803E0E43A.PNG</Image>
+      <Description>Win at least 5 stages on the same Tour with the same rider (Tour mode only).</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>From start to finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/4EE76AD12AFE82A8F4E63BE6019DE32AEB198E6C.PNG</Image>
+      <Description>Win the first stage and keep the yellow jersey on the same rider throughout all stages of the Tour de France.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Dream team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/B68D72CAD6AF1A552058CC22CDC9698728E1D573.PNG</Image>
+      <Description>Win the Tour de France and have a team-mate on the podium.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/DFC2142C25A718FC60048180DC43BB2C1F46C5F7.PNG</Image>
+      <Description>Win the Tour de France with a Difficult or Expert team.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Tour legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/2D9D9D1401ECFE81C538D299125D514A69FC2C45.PNG</Image>
+      <Description>Win all stages (Tour or One-Off) with the same or different riders.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02969_00</GameId>
+      <Title>Son of the Cannibal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02969_00_A3B3D5394F848C85164472484D59BCFDC9F3E20C/BE5D26BCA3930AC431A204242E29F7886D19058E.PNG</Image>
+      <Description>Win the Yellow, Green and Polka-dot jerseys on the same edition with the same rider.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

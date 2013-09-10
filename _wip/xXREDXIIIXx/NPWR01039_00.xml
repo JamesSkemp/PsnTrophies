@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01039_00</Id>
+    <IdEurope/>
+    <Title>Summer Challenge</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/601C1FC303657EA547C0E557CEA9E73E2A7619DC.PNG</Image>
+    <TrophiesCount Total="50" Bronze="32" Silver="16" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/C2FC7FDE0A18D0EE3A993EFA9842795EB7C7F8D2.PNG</Image>
+      <Description>Win all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Meet Gino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/0A8DCB14616923BCC38249BBEE4A75029E2363DD.PNG</Image>
+      <Description>Win the challenge "Meet Gino".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Greedy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/A4B4EF4918FD79A4FBF158646273A25C1C62A2B3.PNG</Image>
+      <Description>Win the challenge "Greedy".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>In shape without training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/43B7EF9AFE04D00FD036A83F4BE0C7EA20383606.PNG</Image>
+      <Description>Win the challenge "In shape without training".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Pocket money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/72F7C4EA858DDA47C0DBF55C129DA4A10412193C.PNG</Image>
+      <Description>Win the challenge "Pocket money".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Seed capital</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/892E5D507C079093B2324072245BE234AB7E9403.PNG</Image>
+      <Description>Win the challenge "Seed capital".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Prosperity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/EB77E231B72AC060BB929708DB1B636A14A1F109.PNG</Image>
+      <Description>Win the challenge "Prosperity".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Fabulous wealth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/B02A40CD4BA5E8F614007AC40D1C0D386EA3ABC3.PNG</Image>
+      <Description>Win the challenge "Fabulous wealth".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Impress Nikolai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/EAFFFE9B54B3A36DBC71BA9D93C2E8B9485F6E9B.PNG</Image>
+      <Description>Win the challenge "Impress Nikolai".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Impress Stacy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/1F854EBC1305C24DD3ACE330E0DA83ADA00F902D.PNG</Image>
+      <Description>Win the challenge "Impress Stacy".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>I've got the power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/2E8E15CCF2CA4746B417B3C3BC6A8732ED7E22D5.PNG</Image>
+      <Description>Win the challenge "I've got the power".</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>One half of the treasure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/818FE4BD383226ADA9EF69E2418749DDC078C6FB.PNG</Image>
+      <Description>Win the challenge "One half of the treasure".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Gold obsession</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/98821E58BBF441D29897C8D20C38A5E516F8F1A7.PNG</Image>
+      <Description>Win the challenge "Gold obsession".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Rookie Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/789085E4909DD986C58B19A16D5980A16CC4B417.PNG</Image>
+      <Description>Win the challenge "Rookie Cup".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Motion Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/B5E1926B534E68C728D43318DF14F7C3EF19810E.PNG</Image>
+      <Description>Win the challenge "Motion Cup".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Cosmos Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/5EED041CA1C7C25979A1014D324D95C611678D79.PNG</Image>
+      <Description>Win the challenge "Cosmos Cup".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Destiny Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/C5590E0D935821065603D77F405249BDF6A15AFD.PNG</Image>
+      <Description>Win the challenge "Destiny Cup".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Good company</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/F4292017B80647AF42B10EA94660D0A9BE65BC85.PNG</Image>
+      <Description>Win the challenge "Good company".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Access all areas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/1CEF8C96B7A63D650FAECD08EF0EE46B3B865A7E.PNG</Image>
+      <Description>Win the challenge "Access all areas".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>One on One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/0E82BC9D7F684A19EB16B78BECF49FDD430F0D08.PNG</Image>
+      <Description>Win the challenge "One on One".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Couldn't care less about Marc</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/C077B08EB33F621EC7DBD154E0ED28F9B78539FE.PNG</Image>
+      <Description>Win the challenge "Couldn't care less about Marc".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Record breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/B1A14FECCED73E593BD648EAADC831DCAB012925.PNG</Image>
+      <Description>Win the challenge "Record breaker".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Perfect 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/6C8473E297A6097AD1539FC386CB6841303CD821.PNG</Image>
+      <Description>Win the challenge "Perfect 10".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>World domination</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/AE4A81CC2EDF2199EF1D4859DBC1BEAAE50D3CC8.PNG</Image>
+      <Description>Win the challenge "World domination".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>In a hurry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/D584A7F00D48FC4460CC96868F5BF19ED25D3AA6.PNG</Image>
+      <Description>Win the challenge "In a hurry".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Dislike of prime numbers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/B97D05F568CDF3D7B6794E514A2A0DCC91DE7605.PNG</Image>
+      <Description>Win the challenge "Dislike of prime numbers".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Narrow path</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/D34034FBA41D1CE8EAE377605E83129D863CE57E.PNG</Image>
+      <Description>Win the challenge "Narrow path".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Two's company, three's a crowd</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/78F1EF184CC926AE843DC7476AA41E7AA8D6772C.PNG</Image>
+      <Description>Win the challenge "Two's company, three's a crowd".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Roadblock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/B0ABFA6A114D1845DFA1D8685C96A70F0FED51CD.PNG</Image>
+      <Description>Win the challenge "Roadblock".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Last chance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/4D8E336C179CE13873E252028F6268ECF6B0B5EB.PNG</Image>
+      <Description>Win the challenge "Last chance".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>First try</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/D647DC6126566769B4ADE2114B2A4CFF1A5CBCF2.PNG</Image>
+      <Description>Win the challenge "First try".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Choose wisely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/3066990EC95FF2E906E7A575A1B86EE4D68A8FF4.PNG</Image>
+      <Description>Win the challenge "Choose wisely".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Bad posture</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/2C34A9D91AEE5E7A58B868F77CB58B11CFDB4F07.PNG</Image>
+      <Description>Win the challenge "Bad posture".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Stumble and win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/56F3898F4FDB60EACDCB222358AD28C17667EC2B.PNG</Image>
+      <Description>Win the challenge "Stumble and win".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Reserved</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/F5CEE4288F72D95D9E1E97AEFB0B86247152B9BA.PNG</Image>
+      <Description>Win the challenge "Reserved".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Torpedo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/0588C6DCBCB3F746A0E71B3B4DFBDABA2FACD80A.PNG</Image>
+      <Description>Win the challenge "Torpedo".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Belly flopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/063478940BB9EB4CB1E33EBC3DA37CD0B7E49659.PNG</Image>
+      <Description>Win the challenge "Belly flopper".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Flawless flight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/3D2BD2D9511706016DC30181529976E11B249C4A.PNG</Image>
+      <Description>Win the challenge "Flawless flight".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>International emergency call</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/5F8AB1B7BAAA41DCBD40F84D35B8211EAF98FD3C.PNG</Image>
+      <Description>Win the challenge "International emergency call".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Counting up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/155500DA96423EFB56A31F9E0243AA62C989A741.PNG</Image>
+      <Description>Win the challenge "Counting up".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Counting down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/CDA40E25C2F3737E759B9C0E6A950A6BF95D9412.PNG</Image>
+      <Description>Win the challenge "Counting down".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Maximum airtime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/E0CD8537231124D98AE23AED37338DF53ECAFAD4.PNG</Image>
+      <Description>Win the challenge "Maximum airtime".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Jolly jumping 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/591FC92652346D6B3509FA81040F0187A52E97F7.PNG</Image>
+      <Description>Win the challenge "Jolly jumping 1".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Jolly jumping 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/717F135E861959177890759D1789AB895D77035C.PNG</Image>
+      <Description>Win the challenge "Jolly jumping 2".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Jolly jumping 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/43C7C7CBF293982B49650DC498F3CCE86881AC44.PNG</Image>
+      <Description>Win the challenge "Jolly jumping 3".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Ultimate body control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/1A93AAA14D78F898D8B98D7E22EB87C7915F9F85.PNG</Image>
+      <Description>Win the challenge "Ultimate body control".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Almost untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/280E4DDD0A8C78A498DE2C8B5219E66DC6E9F2CD.PNG</Image>
+      <Description>Win the challenge "Almost untouchable".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Lucky strikes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/E0BE502D6DE112003097C125583C951A44999BE3.PNG</Image>
+      <Description>Win the challenge "Lucky strikes".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Counterstrike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/FF8EB9EE3CC90E01B0D5E14169D946D546BB7AB5.PNG</Image>
+      <Description>Win the challenge "Counterstrike".</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01039_00</GameId>
+      <Title>Flawless victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01039_00_31264127A27A937882D10DBD441E680CDD2B0E55/121FB7E083A89F4C09F1DB8DFD04CD545E29E4D3.PNG</Image>
+      <Description>Win the challenge "Flawless victory".</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

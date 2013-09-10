@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01884_00</Id>
+    <IdEurope/>
+    <Title>X-Men: Destiny</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/ACBB56C45517029A87B1CAB7A2697B5E78DA2287.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Homo Superior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/049FF41AF02AFEAD9A2D23C0CD8B2F1D74599FFD.PNG</Image>
+      <Description>Collect all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Destiny Begins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/61B11B83554B009F1889A5922004E50EABB9F1E4.PNG</Image>
+      <Description>Select a Power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Think About It...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/9B7DA0BA73BA3DFA168B66879FFABA7FE6BAF48E.PNG</Image>
+      <Description>Make first power destiny choice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Choose Wisely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/AE002E0EAA1B7BA717EA4852C2898F897E1FC3B3.PNG</Image>
+      <Description>Make second power destiny choice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>The Choice Is Made</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/C4C4DE99D6AF8B3C46FE33F5122DD852CD57826D.PNG</Image>
+      <Description>Make third power destiny choice.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Got My Eye on You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/BC7E8705DF06A8D6FEFE51E805B5B044744DF69C.PNG</Image>
+      <Description>Join Cyclops and the X-Men.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Magneto Is Right</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/A78BA8A23BC865CDFD5D5C61CF4C292275CBFC86.PNG</Image>
+      <Description>Join Magneto and the Brotherhood.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Diamond in the Rough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/78491AF8A02C8C256ADD029842748DE8A6512186.PNG</Image>
+      <Description>Help Emma Frost defend mutant civilians from Purifier attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Things Look So Bad Everywhere...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/C90A8CCC6F67AC9916ED16C75395826703F43F4E.PNG</Image>
+      <Description>Survive Magneto's attack on the Purifiers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Ace In The Hole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/2F45E864A5A200F163D907B81CDD00C86F5CE4F8.PNG</Image>
+      <Description>Defeat Gambit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>It's a Secret to Everybody</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/BB3EA09542162FF03CF1679E8433A5976FF4BB71.PNG</Image>
+      <Description>Find the U-Men secret lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>David Beats Goliath</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/346C3C89663258E795D65E625C2F60EB123ED409.PNG</Image>
+      <Description>Defeat Sublime.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Shock and Awe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/02E73C29640673971B9CF1D6F634D0FA27D45A77.PNG</Image>
+      <Description>Defeat Cameron Hodge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>An Unstoppable Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/C484CAA8C292A027411442C286A9E57CF3C6CBC7.PNG</Image>
+      <Description>Defeat Magneto and Juggernaut.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Logan's Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/DE1C07434E16CBC672B9ED477D549088C7A4DDF3.PNG</Image>
+      <Description>Help Emma Frost turn Wolverine back to normal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Satellite Interference</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/8839B53065945E97CEBDBB4A3AD728B0CCADA2FC.PNG</Image>
+      <Description>Interrupt the transmission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Better than the Best</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/79B0766964545CF39D119702B8B2AE60C1FD2C63.PNG</Image>
+      <Description>Defeat more enemies than Wolverine in the Prime Enforcer factory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>The Roof, the Roof...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/469139C62A21B3AE3DF13A72CCEAA6CD85B50CEE.PNG</Image>
+      <Description>Help Pyro set the roof on fire.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Teleport This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/0538F2CF4C6AD8BA019083C69FB5D1D4702E7898.PNG</Image>
+      <Description>Help Nightcrawler rescue mutants.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Stay Frosty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/E199334E0DDB28C5B79F6A5989061BC14672456B.PNG</Image>
+      <Description>Help Iceman, Cyclops and Emma Frost defeat the Purifiers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Flash Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/0B07CA3554A007E9DF29A8FC70CFE94B8335B92A.PNG</Image>
+      <Description>Help Pyro, Juggernaut and Quicksilver defeat the Purifiers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Mutant Tracker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/D3DCD1F13AC30FFDFE8263F2660D74772968D792.PNG</Image>
+      <Description>Rescue Caliban.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Another Shrimp on the Barbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/13C9DDD72144FA0B9D52947F1A4DEF568FBD3C3C.PNG</Image>
+      <Description>Stop Pyro from being mind-controlled.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Fist of the...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/B68811BB02FFEE0D0AE1CF7804DBC2CF31CFB2E8.PNG</Image>
+      <Description>Stop Northstar from being mind-controlled.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Why Do They Keep Coming?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/7C04D9D298B86FA720C1EB60A9002194B7249BFC.PNG</Image>
+      <Description>Help Forge's hacked Purifier Stalker Mech defeat the MRD Troops.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Splicer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/592B582774A8E48DC8E714BEC292218338E3BE2E.PNG</Image>
+      <Description>Equip your first X-Gene.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>At Least It's Aerodynamic...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/EF0A2FA13D12F5A8C0D4F6120F75C8F556343C17.PNG</Image>
+      <Description>Equip your first suit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>I've Got the Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/FD1497C825864AAB611AF13401B7F1F416A966A2.PNG</Image>
+      <Description>Fully level up a power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Fully Evolved</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/4755F91B1DB50E38BE357EDF152B0EA40A8A69FA.PNG</Image>
+      <Description>Fully level up all powers.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Four of a Kind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/9599E54C8F056B88717380D6724933911607FDBC.PNG</Image>
+      <Description>Equip a complete X-Gene set and suit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Beginner's Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/0BB73CF9BBA186D8BE6693E0DE1BC0FEF132425B.PNG</Image>
+      <Description>Complete your first Great combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>This can't be happening!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/FA46C1937531258A5BEEC17272CCDA50E9303667.PNG</Image>
+      <Description>Complete your first Insane combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>How Strong Could It Be?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/6CC46C175F6B3AD5F6ED7AC6019B6D6BB3B6D2E6.PNG</Image>
+      <Description>Trigger X-Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Broken Glass, Everywhere...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/A455F8E7CAEEA9BA8D45EB74BF595E64D71EBD0C.PNG</Image>
+      <Description>Break 30 Combat Text Pop Ups.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Fight Terror with Terror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/6FC616C889399655E3E5FAC6F097CC76E29EFFF7.PNG</Image>
+      <Description>Defeat 10 enemies with one Ultra power.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Side-tracked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/8ACCB63871EB7F8BC0346EE9660D7EC954F26A42.PNG</Image>
+      <Description>Complete your first challenge mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Taking Every Opportunity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/A38D69CC94AB7C8EEEA71A884069E4F412B0A8C9.PNG</Image>
+      <Description>Complete 10 unique challenge missions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Completionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/05CA571B924D929F8D05FA84208CEC4E7560E10B.PNG</Image>
+      <Description>Complete all 15 unique challenge missions.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Garbage Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/EF44C07EE219CEC9D855DAC87CD392675FC01F41.PNG</Image>
+      <Description>Destroy your first piece of propaganda.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Cleaned up the City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/31D8B89B8130E920D748AC5B0EE9E4F141632214.PNG</Image>
+      <Description>Destroy 25 pieces of propaganda.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Profiler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/E033B525A76ECA9F88987F56078BAB1A41E156C7.PNG</Image>
+      <Description>Collect your first dossier.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Archivist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/FBD6045E26C5175422DE1CF517A5971591A5D9FD.PNG</Image>
+      <Description>Collect 15 dossiers.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Purify the Purifiers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/B55D290CD51919F5740F1C91EFCCDB515880E7DA.PNG</Image>
+      <Description>Defeat 2000 Purifiers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Mechageddon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/F8084505A2BC39C2AF7EBEB71FE930712BD8DEBA.PNG</Image>
+      <Description>Defeat 20 Purifier Stalker Mechs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Reinforced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/E630501BE4D2FD0775439BED236AA6B75141F9CF.PNG</Image>
+      <Description>Defeat 20 Prime Enforcers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>U Mad, Bro?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/CC401EAC2D8D50C9CD64C29D738EF170DD9030CB.PNG</Image>
+      <Description>Defeat 30 U-Men in the Secret Lab.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>The Goon Squad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/5F2AF54568698BB8F10F96377E66EAC298A8C301.PNG</Image>
+      <Description>Defeat 500 MRD Troops.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Beta Level Mutant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/F51842A6703905DA17F01560D79A063E3BCE6400.PNG</Image>
+      <Description>Finish the game on New Mutant difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Alpha Level Mutant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/07E9784294835C85E3F1EB4C16E9EC42C0977C8B.PNG</Image>
+      <Description>Finish the game on X-Man difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01884_00</GameId>
+      <Title>Omega Level Mutant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01884_00_FCF4DA5E1F10F3EE81987ECAECF2AFBBE25B718F/8BE5ED161A5EF970893D09056F4BB45DF36BEEC7.PNG</Image>
+      <Description>Finish the game on X-treme difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

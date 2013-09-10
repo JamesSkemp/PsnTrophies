@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01006_00</Id>
+    <IdEurope/>
+    <Title>Battlefield: Bad Company 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/39AC59E4E6BFCBA0E516F49C547DBA05B7649FAD.PNG</Image>
+    <TrophiesCount Total="73" Bronze="58" Silver="12" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Bad Company Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/32BEB9EC9F7BB1009606C267A816D70E80C7341A.PNG</Image>
+      <Description>Obtain all Campaign and Online trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>I knew we'd make it</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/9A23C0A57B06C1D527645D93503BAD738CA80457.PNG</Image>
+      <Description>Campaign: finish Operation Aurora</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Retirement just got postponed.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/3B60409AD08AEDD759524FD6B223456AB7CC883A.PNG</Image>
+      <Description>Campaign: finish Cold War</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>It's bad for my karma man!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/352DE919127698695A125DA3BCD50F3A6FB44D69.PNG</Image>
+      <Description>Campaign: finish Heart of Darkness</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>They got all your intel?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/18E4D05B29F985F621897C898DF956E845B93550.PNG</Image>
+      <Description>Campaign: finish Upriver</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Salvage a vehicle.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/A5579DDD2C08921F840D414C1209738292FFDD3B.PNG</Image>
+      <Description>Campaign: finish Crack the Sky</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Alright, here it is.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/DAE216A9F90A8929AA8DBD2331E587EB15295BA6.PNG</Image>
+      <Description>Campaign: finish Snowblind</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Nobody ever drowned in sweat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/3A9A34AAB5D4F3F9BBA130A507353A3488A62186.PNG</Image>
+      <Description>Campaign: finish Heavy Metal</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Ghost rider's here!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/F2E21DB84462C7665ACBBE72B6AFF85427D7CA1B.PNG</Image>
+      <Description>Campaign: finish High Value Target</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Sierra Foxtrot 1079</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/DF1EB55FE9C1A9AC726A82302D88478592C6A4AC.PNG</Image>
+      <Description>Campaign: finish Sangre del Toro</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Thanks for the smokes, brother!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/6FC2BB557F71DD90FD76DFB5C60AD85C3F230A44.PNG</Image>
+      <Description>Campaign: finish No One Gets Left Behind</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Save me some cheerleaders.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/B2A8645AEFF64452BAF1ED20FF4124E9BED0587D.PNG</Image>
+      <Description>Campaign: finish Zero Dark Thirty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Turn on a light.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/7A78D65DB299272C0194D7EA98099394F38FA3BA.PNG</Image>
+      <Description>Campaign: finish Force Multiplier</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>P.S. Invasion cancelled, sir.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/E03C8D2B17C537E6FDF10E83D4D58D3D4045116D.PNG</Image>
+      <Description>Campaign: finish Airborne</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>It sucks to be right.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/DCE2249C74DC4CFF460227C65173B5940A4AA64D.PNG</Image>
+      <Description>Campaign: finish Airborne on Hard</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>New Shiny Gun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/F713664448DA758984C2DB1D04A2B84664230D06.PNG</Image>
+      <Description>Campaign: find 5 collectable weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Guns Guns Guns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/5873BC1BD8A341D945FCBA20C1BFE8054DDD1A41.PNG</Image>
+      <Description>Campaign: find 15 collectable weapons</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Link to the Past</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/B1E3042A87A06AF1AD6D698498DC5CA7DCEDC5E8.PNG</Image>
+      <Description>Campaign: destroy 1 satellite uplink</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Communication Issues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/BC44D8768A3860B081BACB80A183632E6B778122.PNG</Image>
+      <Description>Campaign: destroy 15 satellite uplinks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Complete Blackout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/E100D7D827F99FF75147C53D3C8F8E36FF7359DB.PNG</Image>
+      <Description>Campaign: destroy 22 satellite uplinks</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Ten Blades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/BC8262F937A1A4C72A870C11DBE7E39C67E5BE98.PNG</Image>
+      <Description>Campaign: 10 melee kills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Taxi!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/5A4C29328B4BCD895C8DE47A3CE9F1EF5A1A4992.PNG</Image>
+      <Description>Campaign: drive 5 km in any land vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Destruction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/A850F80F819377F8FB0269D575C7D80C489B0ACE.PNG</Image>
+      <Description>Campaign: destroy 100 objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Destruction Part 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/8C7A8DAC7A50591517ECC4842CEC52FBF9A9A7DA.PNG</Image>
+      <Description>Campaign: destroy 1000 objects</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Demolish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/77425988B0E10E1F8F0E5CB8C0A587EBF35BD09F.PNG</Image>
+      <Description>Campaign: demolish 1 house</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Demolish Part 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/0F20273E6AA247FF07787047B29147B4DA129ED9.PNG</Image>
+      <Description>Campaign: demolish 50 houses</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Assault Rifle Aggression</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/BCFF10C8E960E95BBC6D6B34E74A27BCF56C4851.PNG</Image>
+      <Description>Campaign: 50 kills with assault rifles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Sub Machine Gun Storm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/11EDB835577AE7F7E0F99C7B211E5793A2B5479D.PNG</Image>
+      <Description>Campaign: 50 kills with sub machine guns</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Light Machine Gun Lash Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/60D3467BF3DD4829CD68FE67BD2DF622A2231AAE.PNG</Image>
+      <Description>Campaign: 50 kills with light machine guns</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Sniper Rifle Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/5970094CE2758B3FCF705453842C3A1A75F13882.PNG</Image>
+      <Description>Campaign: 50 kills with sniper rifles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Wall of Shotgun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/F740D6C1F89DA92E96C4DB4E88CD27559D1CD659.PNG</Image>
+      <Description>Campaign: 50 kills with shotguns</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Multiplayer Knowledge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/D9BA725591E9814DC5CEEA410512E29C9FF521B3.PNG</Image>
+      <Description>Online: reach Rank 10 (Sergeant I)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Multiplayer Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/680BE66CB95F152D3FDB81123E2038F1B2633D71.PNG</Image>
+      <Description>Online: reach Rank 22 (Warrant Officer I)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Assault Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/D07BFE0DAABA6A26A94290CA9024374C250D1614.PNG</Image>
+      <Description>Online: unlock 3 weapons in the Assault kit</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Engineer Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/6DFCE5A3658B290D44DAA9CBA1628057D057FB57.PNG</Image>
+      <Description>Online: unlock 3 weapons in the Engineer kit</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Medic Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/39E84B099CF6BFDBD2295B02B5FAABA02E04C18B.PNG</Image>
+      <Description>Online: unlock 3 weapons in the Medic kit</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Recon Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/06ACA2324DBCB69B1F1EB11926935345BED86AC0.PNG</Image>
+      <Description>Online: unlock 3 weapons in the Recon kit</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Battlefield Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/3C99AB3B386322ED5C3C279F15A586852E9FA130.PNG</Image>
+      <Description>Online: obtain all unlocks in any kit or all Vehicle unlocks</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>15 Minutes of Fame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/8A2A898936CBD069702F18E3BB4349CC48ABB2B6.PNG</Image>
+      <Description>Online: play for 15 minutes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Mission... Accomplished.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/7027EE2B484E6B5467DF15B0333CA36F23269AB5.PNG</Image>
+      <Description>Online: in a round do one kill with the knife, the M60 and the RPG-7</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Pistol Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/803BE23CF1D6B7A4813863C53E80BE436AF5C82C.PNG</Image>
+      <Description>Online: get 5 kills with every handgun in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Airkill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/D0B9CF1A2ABF20ED976C262AD1486E486236FA0B.PNG</Image>
+      <Description>Online: roadkill an enemy with any helicopter</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Et Tu, Brute?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/D0C6C5992B83EBEC297484183B90B95ACA9942B7.PNG</Image>
+      <Description>Online: knife 5 friends</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Demolition Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/0C0B18F1B3695B48F6803E2BB6971E521BEF4C71.PNG</Image>
+      <Description>Online: get 20 demolish kills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Careful Guidence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/C42394FB54B0742E91BFF2FD86EA228DEFEBAE63.PNG</Image>
+      <Description>Online: destroy an enemy helicopter with a stationary RPG</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>The Dentist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/182F3BFDCF464EDF2AE2B23B8824287C5A19FC0E.PNG</Image>
+      <Description>Online: do a headshot kill with the repair tool</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Won Them All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/2E59D3E3C8F0A45C8109A576C937B86133E46A3D.PNG</Image>
+      <Description>Online: win a round in all online game modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Squad Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/1F293D38C94EED9D449AF09A4D8928FC8CA2E979.PNG</Image>
+      <Description>Online: obtain the Gold Squad Pin 5 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Combat Service Support</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/C1728A92C9DDF6FD001F1DA0E0BFF539A84009D1.PNG</Image>
+      <Description>Online: do 10 resupplies, repairs, heals, revives and motion mine spot assists</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Award Aware</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/EF08D7E531741A804B844A12482EFC1F7E169291.PNG</Image>
+      <Description>Online: obtain 10 unique awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Award Addicted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/1AAB733E7EDE27993944975C9F8729F831FC959E.PNG</Image>
+      <Description>Online: obtain 50 unique awards</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>SPECACT Assault Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/FF9315C261F88AF34CB6A3256D6740984ED77935.PNG</Image>
+      <Description>Get all SPECACT Assault awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>SPECACT Engineer Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/AF5E63B9494B18B607F48B3D0818271CE81EAF04.PNG</Image>
+      <Description>Get all SPECACT Engineer awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>SPECACT Medic Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/1B1254FC5888A52A0E0176E6416CA432C7AE2AC1.PNG</Image>
+      <Description>Get all SPECACT Medic awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>SPECACT Recon Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/D01D37437F8F3AC2D3746591C22DD9492DBA072A.PNG</Image>
+      <Description>Get all SPECACT Recon awards</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Valpariso Conquered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/CC7ADD9D25D57CD521A3FA500B0A96E57C5E3698.PNG</Image>
+      <Description>Successfully complete Valpariso in Onslaught mode on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Valpariso Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/7F181936116E6F005AD5C6D93D736A33598339BA.PNG</Image>
+      <Description>Successfully complete Valpariso in Onslaught mode on Hardcore difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Isla Inocentes  Conquered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/9B185CD169CD7AF7BA0D6AB09D3A147EB4188198.PNG</Image>
+      <Description>Successfully complete Isla Inocentes in Onslaught mode on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Isla Inocentes Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/0502D24B69C5D64EB28A4F1B53AAA8F313EC27DB.PNG</Image>
+      <Description>Successfully complete Isla Inocentes in Onslaught mode on Hardcore difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Atacama Desert  Conquered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/7B9FB74AD26AEC3DFDAF33454F6F11079AA08C2E.PNG</Image>
+      <Description>Successfully complete Atacama Desert in Onslaught mode on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Atacama Desert Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/A168B72C02D1A70FF93D00952BC8013CB6127FCC.PNG</Image>
+      <Description>Successfully complete Atacama Desert in Onslaught mode on Hardcore difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Nelson Bay  Conquered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/4C7F01CA5AB287C0DFE3CF98457DD71D7EF7BE76.PNG</Image>
+      <Description>Successfully complete Nelson Bay in Onslaught mode on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Nelson Bay Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/BD5B4BBF3942458B3D431B9402D5A72FF7887A90.PNG</Image>
+      <Description>Successfully complete Nelson Bay in Onslaught mode on Hardcore difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Can I Go Home Now?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/C4BF97180574953D28B3DB447936CAAEA0C52402.PNG</Image>
+      <Description>Win a round of either Rush or Conquest on all four Vietnam levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Every Gun has a Silver Lining</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/4700B61BE1CABF17AC332504578BFAE17D515A8E.PNG</Image>
+      <Description>Get silver stars on all primary Vietnam weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Ecstasy of Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/099C6D40F1E4C057686D7714F263452E69B7B498.PNG</Image>
+      <Description>Get gold stars on all primary Vietnam weapons</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Doing the Rounds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/EF7011A0808F4B23564C7EC99A143A0C89846D86.PNG</Image>
+      <Description>Get a kill with all Vietnam vehicles</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Cantankerous Chauffeur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/B9B044F6573254E9CE8529D3C9F0CC41BA43EEC7.PNG</Image>
+      <Description>Get 100 kills with Vietnam tanks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Ride of the Valkyrie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/F57720560144B07B31A24432A3B62A288FCF8EB3.PNG</Image>
+      <Description>Get 50 kills with the Huey</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Would you kindly STFU?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/4332411676793B337BA730CFFEA94C14163BC8BA.PNG</Image>
+      <Description>Destroy a Hannoi Hannah propaganda speaker</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Great Balls of Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/E76C146221107B6585ECC8105FD39DF024813CA6.PNG</Image>
+      <Description>Get 20 kills with the flamethrower</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>72</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>Just Because I Can</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/69056CCF5B8CA54B5BFD1D530581FE5F3D7FB522.PNG</Image>
+      <Description>Finish first on the scoreboard on any Vietnam level</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>73</Id>
+      <GameId>NPWR01006_00</GameId>
+      <Title>2nd Tour of Duty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01006_00_7C95BCDBD46860F2D45302E46EBCE170A55685A8/C333B9B6512103F6D0AED653602A40C5CF531BD3.PNG</Image>
+      <Description>Achieve the best squad award on Operation Hastings</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

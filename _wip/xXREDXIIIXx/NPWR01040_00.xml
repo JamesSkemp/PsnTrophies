@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01040_00</Id>
+    <IdEurope/>
+    <Title>How To Train Your Dragon</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/50382D6A63C4A9D99A78E73A651214E708AE665A.PNG</Image>
+    <TrophiesCount Total="48" Bronze="32" Silver="13" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Best Viking Ever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/E635DAC85D239DF570ACB0EA5BEDBC5EC51E417C.PNG</Image>
+      <Description>Get all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>First Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/99A67F9D7383F28E63F23871ACECDE1C2D1652F6.PNG</Image>
+      <Description>Win a fight in either Story mode or 1 Player Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Glory to Hiccup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/90833522AF1ED62DD308238AB31C94F2CCBAD2BC.PNG</Image>
+      <Description>Finish the Story mode with Hiccup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Glory to Astrid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3C780DF9DE26AD73D72EB1DB8BDE3F0D5CE49E0B.PNG</Image>
+      <Description>Finish the Story mode with Astrid.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Great Speaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/7C729FACFEC2BACBB3E6DCD31B49567DFFDD68D5.PNG</Image>
+      <Description>Talk to every person on the island in Story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>In Feathers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/9887D7C1737F3639E0E5EC84585E91DF008B0342.PNG</Image>
+      <Description>Catch 200 chickens.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>More Wild Meat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/0E1B621712559F7364DE19F34713AF7598B0388F.PNG</Image>
+      <Description>Catch 200 sheep or boars.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>New Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/9275D0AC37390E7F7715AC5305057983D301F547.PNG</Image>
+      <Description>Win against the leader of the first Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Courageous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/AB924A3AFC7A63C494292E91E8D872AFEC7D692C.PNG</Image>
+      <Description>Win against the leader of the second Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Daring</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/DC1D61BB55C7BBE7669AEFE9916BDA8F591F9313.PNG</Image>
+      <Description>Win against the leader of the third Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Fearless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/66884856067D56D25E6F6EE3E8D85D1D0D14E6B4.PNG</Image>
+      <Description>Win against the leader of the fourth Tournament.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/C49C8CFD1C95B2395F4F0EFD3D60B31C65A967D9.PNG</Image>
+      <Description>Win the first Tournament without being defeated.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>In Great Shape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/F74E96CF0170E264019E810CAF49CCC584C64D68.PNG</Image>
+      <Description>Win the second Tournament without taking care of your dragons during it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Valiant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/2A816892C6029AB04F06751C8DE9BF2E337B699D.PNG</Image>
+      <Description>Win the third Tournament always fighting the lowest rated opponent.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Brave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/49C20907A4DCC2D4237524F605655E40687610E2.PNG</Image>
+      <Description>Win the fourth Tournament always fighting the highest rated opponent.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Invulnerable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/40D33F3B986BC3F2329D03928A42E921E466923F.PNG</Image>
+      <Description>Win the final Championship with none of your dragons being KO.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Weapon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/E6794D63B9AD52A06A42364A1364969B330F7FE0.PNG</Image>
+      <Description>Make a dragon finish all trainings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Duelist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/D0E1CB5934E247D4BBE740EE7FFD9A6871B9343D.PNG</Image>
+      <Description>Win a wild fight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Legendary Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/C17712668F6897DE7A5196627B14E08264F5B621.PNG</Image>
+      <Description>Win all wild fights.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Shopping Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3CA24CA96A5996318D1398243A9C189C1CBCAA43.PNG</Image>
+      <Description>Spend 10,000 gold at the shop.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Cooking Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/D525BA0970EED9333956B8235B6EE0F55DE803CA.PNG</Image>
+      <Description>Buy all recipes from the shop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Rich Harvest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/669354AC37F75537D0033CB4CAB3E903617B1A87.PNG</Image>
+      <Description>Gather 1,000 common ingredients.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Enlightened</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/72EF041CCC779138F12EE5F674D781C0D992A2D2.PNG</Image>
+      <Description>Gather 100 rare ingredients.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Dragon Doctor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/401D2119F573144D3D246EF43EE6E14AEF76051A.PNG</Image>
+      <Description>Have 4 dragons in a great shape in Story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Final Evolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/6D98E5C1A350AAAB0A93B61D92196E0FBED550BF.PNG</Image>
+      <Description>Have a level 25 dragon.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>All Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/1104A079BAA1259D5B3BA98E4249B70CDB825DA6.PNG</Image>
+      <Description>Have 4 level 25 dragons.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Belong to the Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3B974D7E9226F4DAE349AFDBB56288B0D1475CCF.PNG</Image>
+      <Description>Unlock all legendary dragons.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Perfectionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/57455A712D38D865DD1C3E4B748EC63345B1E4DF.PNG</Image>
+      <Description>Have a dragon with 20 points in a characteristic in Story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Ultimate Customization</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/D2A765945BE6427DA0C2B8E0B968E494CF1BA6BF.PNG</Image>
+      <Description>Unlock all customizations of a dragon family.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/BD022906A62675D575E3D13BA7642528133339C5.PNG</Image>
+      <Description>Win 50 fights without being injured in 1 Player Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3826FB616DCF25E21F6C7B189B5883C24D3DBF6A.PNG</Image>
+      <Description>Win 100 fights in either 1 Player or 2 Players Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/BA38CBE4AE1C6467FCBF47BB70DA09E7745E0B33.PNG</Image>
+      <Description>Win 10 fights in a row in 1 Player Arcade mode on Hard difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>All for One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/6613810EA0BB2292873DB53086D21864F8BE781E.PNG</Image>
+      <Description>Win a fight with each default and Legendary dragons in 1 Player Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>They Are Alive!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/6CB73563EF1DE2DBAB286E8ABAAD29FD8E12D603.PNG</Image>
+      <Description>Win 20 fights in 1 Player Arcade mode with a team of dragons created with the Dragon Editor.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Exceptional Tamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/A4312F451B5A099C805DB7BAE972DCC3B93704B6.PNG</Image>
+      <Description>Win 20 fights in 1 Player Arcade mode with a team of custom dragons from the Story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Game Over!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/A07C211C49254C57E574285F35854B5621758A25.PNG</Image>
+      <Description>Win all the medals for all difficulty levels in each challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Young Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3134CDE362E086B53741634810A984CF3D9ABA2C.PNG</Image>
+      <Description>Earn a gold medal in any challenge on Novice difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Outstanding Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/DC220C3FDB85FCA33D772F342C6EAC858E1A9E52.PNG</Image>
+      <Description>Earn a gold medal in any challenge on Normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Extreme Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/C67F1234DC1008CF177658B59A9CFF963B596C3F.PNG</Image>
+      <Description>Earn a gold medal in any challenge on Expert difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>To Hit the Bull's Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/63C7B896C40FE6612B114AE3B06AFDFE3BE4EE05.PNG</Image>
+      <Description>Clear 5 checkpoint rings in a row in the Looping Race challenge on Expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>What an Artist!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/4D844707300C0843A9B57FBF0955BC6165B52587.PNG</Image>
+      <Description>Sculpt 10 ice blocks in a row in the Ice Sculpting challenge on Expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Shepherd Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/07F3D7DC71B56591C747D9F70E2AC1CB53D0029E.PNG</Image>
+      <Description>Bring back 5 brown sheep in a row in the Flying Shepherd challenge on Expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Brainy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/059C89AA500D3131A3ED48D5FC2A70D5B5EFA252.PNG</Image>
+      <Description>Perform 6 sequences in a row in the Memory Torch challenge on Expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Precise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/CAED7DC272C6C16945403CC980CAC89BDAD26DCA.PNG</Image>
+      <Description>Recreate 3 dragons in a row without mistakes in the Puzzle Dragon challenge on Expert difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/3787DE0F82EFB60897C9EF0BF1BB6B7DE4793694.PNG</Image>
+      <Description>Earn a gold medal in each challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Viking Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/B901BB38589B82AE05C3D61B8F7D00B2C923457D.PNG</Image>
+      <Description>Have 10,000 gold in Story mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Viking Inhabitant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/398E5A51473C267F40701BAEF44C067CA665BA18.PNG</Image>
+      <Description>Play more than 20 hours in Story or Arcade mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01040_00</GameId>
+      <Title>Ally or Enemy?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01040_00_73711A22C73AA7986E58BF7102CC84FC5E29DE0D/AD76A730C6F5B0B35988BA9AA2D4E13A5711BF7C.PNG</Image>
+      <Description>Import at least one dragon in Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

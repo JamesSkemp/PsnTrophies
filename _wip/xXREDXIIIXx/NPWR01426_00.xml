@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01426_00</Id>
+    <IdEurope/>
+    <Title>Inversion</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/5E57B268F0DF4300159D6D025C873B907E4C1E94.PNG</Image>
+    <TrophiesCount Total="51" Bronze="38" Silver="10" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Grand Master Gravity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/71E7051D34B733D82C4ED8E4498AAD8DF96F44EE.PNG</Image>
+      <Description>Unlock all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Easy Going</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/7AE5D1268E24B3389D13AF71D01BF8D23FC0F4A2.PNG</Image>
+      <Description>Finish the Campaign on Low Gravity Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Normal Guy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/9C14839F11FEEFEBE6A1439BD71576F8843130F2.PNG</Image>
+      <Description>Finish the Campaign on Normal Gravity Difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Rock Hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/E7561AD35E69FD51F7CFED5D44F06D5168208BDF.PNG</Image>
+      <Description>Finish the Campaign on High Gravity Difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Meatheads</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/F70003A8D42AEB6A669BC0158506B7C660706359.PNG</Image>
+      <Description>Finish the Campaign with a Friend (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/90ADEB84FD70027089FCDED5D343A8165D438321.PNG</Image>
+      <Description>Complete the final checkpoint in Vanguard Down on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Two</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/FAECEB911A3FAF636F28C1D590F2327DE5382553.PNG</Image>
+      <Description>Complete the final checkpoint in Caged on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Three</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/5F58A8C46345DB24E21826C9FE4C2DEF59066425.PNG</Image>
+      <Description>Complete the final checkpoint in Breakout on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Four</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/869E586690971E8086095544BE103D9CB31B668F.PNG</Image>
+      <Description>Complete the final checkpoint in Road Home on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Five</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/B4A5F3D0B609F0C0E6AB0A51FF00EA428F1B5F17.PNG</Image>
+      <Description>Complete the final checkpoint in Street Fight on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Six</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/BEAB75D895C6B347C13410225627958A54DB5E16.PNG</Image>
+      <Description>Complete the final checkpoint in Road to Hell on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Seven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/D13D4169D6F80F009F86DD033F5C99A43F437CB0.PNG</Image>
+      <Description>Complete the final checkpoint in Edge of the World on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Eight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/05C0D4D45FF07A2C982F11454A2E5B90DB3A7572.PNG</Image>
+      <Description>Complete the final checkpoint in Into the Depths on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Nine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/E1347D3C59A8F1C011FBD78FFE645BBFCCC6EAC7.PNG</Image>
+      <Description>Complete the final checkpoint in Enlightenment on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Ten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/9677481754BE233495FD4E4220F9D8FFD64B1779.PNG</Image>
+      <Description>Complete the final checkpoint in Reveal on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Eleven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/BC9E3FCD75417A54291A238ED58CA119E4000458.PNG</Image>
+      <Description>Complete the final checkpoint in Red Sky on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Twelve</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/700D33F55B7A9B57BE13BBA6F2D0E5690825C645.PNG</Image>
+      <Description>Complete the final checkpoint in Deja Vanguard on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Chapter Thirteen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/68484EEC56ADBEFAFBBCC4149F36D179CC193C38.PNG</Image>
+      <Description>Complete the final checkpoint in Reversion on Normal or High Difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Low G Amateur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/85470B00E3B19507B70798545EA7713E71EF3965.PNG</Image>
+      <Description>Perform 10 Finishing Moves using Low Grav Powers (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Low G Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/AF74C08EFA46A5065D7FEAE58466FFC31570936D.PNG</Image>
+      <Description>Perform 50 Finishing Moves using Low Grav Powers (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>High G Amateur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/84BC291D89DDDD216E13E5E1BB4A20A82A9DD496.PNG</Image>
+      <Description>Perform 10 Finishing Moves using High Grav Powers (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>High G Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/7797A79D41E73A0CCAC1EE587C41432F69BE5EB1.PNG</Image>
+      <Description>Perform 50 Finishing Moves using High Grav Powers (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Gravlink Thug</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/EE9D7216A089C7869E80E73D8494B636FC3C20BF.PNG</Image>
+      <Description>Use the Gravlink to throw 15 Lutadore Enemies (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Gravlink Hustler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/F430B13E5A4CB21968984DBE94856491B6A8E2E9.PNG</Image>
+      <Description>Use the Gravlink to throw 30 Lutadore Enemies (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Gravlink Gangsta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/31828AA5900697306C4BA1FB03A9BA69655AEA49.PNG</Image>
+      <Description>Use the Gravlink to throw 50 Lutadore Enemies (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>The Tin Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/A2599F4D830114296CCDB8A66EF92D7E88E1127E.PNG</Image>
+      <Description>Defeat The Butcher (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>The Great Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/D0463EF56881C36A8DB1FB1E1F409A80D0C2F750.PNG</Image>
+      <Description>Defeat The Brute (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/ABEFDA04CDB4F5D260B6E1E8EC7C67E2EEF8BE73.PNG</Image>
+      <Description>Defeat The Slave Driver (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Meet Your Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/9EC6D740D7F20F1405E79CE27966596460EE1167.PNG</Image>
+      <Description>Defeat The Prophet Kiltehr (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>William Tell Routine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/0AE4963DC41A60B09BA120A37E6965B1D1E31FB7.PNG</Image>
+      <Description>Shoot off 100 Lutadore Helmets (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Threesome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/6128196301B068FE474B3168060AA5432D5A42FF.PNG</Image>
+      <Description>Use the Gravlink to kill 3 Lutadores with one object (Campaign)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Fivesome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/8CB1929663A728A4F5514D55E051EEFAFCB50F21.PNG</Image>
+      <Description>Use the Gravlink to kill 5 Lutadores with one object (Campaign)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Kicking Weightless Ass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/9419F01718184FEBC9F832DFA6DF21D05E5FF5FE.PNG</Image>
+      <Description>Escape from a Lurker's grasp 5 times during single player</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>I'm About to Blow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/4B2CFAB581E356EA877417586E848774B6235066.PNG</Image>
+      <Description>Kill 100 Lutadore Enemies with explosives in the Campaign (Grenades, Rockets, Barrels)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Brotastic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/37D601A3FC718FB2E0E4C46584597C7FB1F98039.PNG</Image>
+      <Description>Revive a friend online (Co-op mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Ah Gross!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/2FFA2F9DF83AB46DFC0CE6CA2B59B444E78214D5.PNG</Image>
+      <Description>Use the Gravlink to throw a corpse at your friend (Co-op mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>All Up In Them Guts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/F70CDB4141783DDD614D526A852190250740A3A5.PNG</Image>
+      <Description>Use a Shotgun to gib 25 Lutadore enemies (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Burn it Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/A9D927A3BEF6821469F505586958E30ABCA1FDA6.PNG</Image>
+      <Description>Set 25 Lutadore enemies on fire with the Lavagun (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Dude Bro!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/7EB0F88D63A07E0BD10C072A7F6708E24927530D.PNG</Image>
+      <Description>Complete a Campaign level with a Friend (Any Difficulty)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Spot me Bro!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/FA9DE0FD9B31C3BAA9B401AC099BDD0E67C2318C.PNG</Image>
+      <Description>Have a friend boost you over a ledge (Co-op mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Gold Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/2625EBD343802FC2F10E8BF88BA72C9124231C2E.PNG</Image>
+      <Description>Get 1st Place in a Deathmatch game (Matchmaking)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>That’s Assault Brotha!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/4582289AA16ACC6ADA19E98A1C506F0A3D775412.PNG</Image>
+      <Description>Be a part of a winning team in Assault Mode (Matchmaking)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Teamster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/08DEB2C2D5785F9BFBD5B33861C9474E48BF6AD7.PNG</Image>
+      <Description>Be a part of a winning team in Team Deathmatch (Matchmaking)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>I'm Designer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/AFB4ACC8DD0B360909F52A251D7975B9BF680689.PNG</Image>
+      <Description>Change your multiplayer character's appearance</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Half Sack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/3BAFADE0920735B271DD61732FBF592DB887AEEE.PNG</Image>
+      <Description>Reach Silver Grav Sergeant Rank</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/AD69AF7738BD5D0B0431BBD555EBEC8A711C73C3.PNG</Image>
+      <Description>Reach Bronze Grav Captain Rank</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Enforcer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/53D1E3950DCF239B99423FA38147541DF3B8EE3F.PNG</Image>
+      <Description>Reach Gold Grav Major Rank</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Man of Mayhem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/EFF24E2B4BB4D78702C245A0AFD6B38D405F765A.PNG</Image>
+      <Description>Reach Diamond Grav Commander Rank</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Master Blaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/87A2C9646B1551076ECA776F08A84E5F10D60120.PNG</Image>
+      <Description>Complete All Multiplayer Weapon Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Feats Don't Fail Me Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/347A88D72C63BC1BD427E9AF334F21250CB968AE.PNG</Image>
+      <Description>Complete All Multiplayer Basic Challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01426_00</GameId>
+      <Title>Grappler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01426_00_EB67032024F4E0AD28AF16D1A9EAC685399BC726/2FA3B7CED5D0BB613077DF520EFF564545DEBAC3.PNG</Image>
+      <Description>Take the Gravlink from the Lutadores</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

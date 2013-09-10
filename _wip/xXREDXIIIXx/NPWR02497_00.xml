@@ -1,0 +1,464 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02497_00</Id>
+    <IdEurope/>
+    <Title>Binary Domain</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/5EBF54B95C76F223A3D2422BED7CC364469233C5.PNG</Image>
+    <TrophiesCount Total="50" Bronze="42" Silver="4" Gold="3" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/FA59E5CC5F0C01A917A883D235316C47C4DB4BAA.PNG</Image>
+      <Description>Earn all other trophies in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>HIT AND RUN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/AACEAF45856F384E97D3B8AFF1B0D668C7721760.PNG</Image>
+      <Description>Clear "HIT AND RUN."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>YEARN FOR REFUGE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/9455F2F2AA592BFE76E32D589BF68238D5167747.PNG</Image>
+      <Description>Clear "YEARN FOR REFUGE."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>BAD GROUND</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/99315B916AAF751E2D6A2C42A7F37F8BCFF94114.PNG</Image>
+      <Description>Clear "BAD GROUND."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>REFUSE AND RESIST</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/0CC74F1B55D6815B3B2E4A05AD0D63C47ADF5DAC.PNG</Image>
+      <Description>Clear "REFUSE AND RESIST."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>INTELLIGENT ARTIFICE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/CE53E58FEFB87FB7577ED63D07CA115D03B50902.PNG</Image>
+      <Description>Clear "INTELLIGENT ARTIFICE."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>DENYING DESTINY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/9CAEB3AE8E7822593F5FED4608CB3F6150B35769.PNG</Image>
+      <Description>Clear "DENYING DESTINY."</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Seek and Destroy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/D296DE3A3F508AEDFCE2EF98DCB88C5227E907A4.PNG</Image>
+      <Description>Clear the swimming stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Water Slider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/A0B9CA759B45BFA25E8DA09F5EC965C1D2EC4C29.PNG</Image>
+      <Description>Clear the giant slide.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Aquatic Chase</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/3A3F78CB572B238B997A490C3E6626E5702C1F5B.PNG</Image>
+      <Description>Clear the jet ski chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Fugitive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/33E68EAEC08BA17D61B257A42775BCE3546D2D62.PNG</Image>
+      <Description>Clear the car chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Runaway Truck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/2FF5BA5A3F5E1C69D6FAFA4D3D712BFEF0E577D9.PNG</Image>
+      <Description>Clear the truck chase.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>All Members</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/F44AE220D17F53A7BAC931033B882876BB7DB5EF.PNG</Image>
+      <Description>Add each teammate to the party at least once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>A Private Moment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/6CC16282EC9C948AD3FC6BFF328B592DB8F276DC.PNG</Image>
+      <Description>See the love scene with Faye.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Big Bo Rescue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/9565007F9BD85810CC4330F2EA015819C0B0A17F.PNG</Image>
+      <Description>Save Big Bo from the Cerberus.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Comrades in Arms</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/E6C344111C082784A188B82B5DD7C9F4F970FD9A.PNG</Image>
+      <Description>Earn Big Bo's loyalty in "DENYING DESTINY."</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Jumper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/E67497A08489DD1B065ADD7B91B5B21AA6EA57E3.PNG</Image>
+      <Description>Get onto the Grand Lancer's head.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Spider Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/92B7BA0E10AB4E34E138942F8A4AC48789E44DDC.PNG</Image>
+      <Description>Destroy all of the Spider's legs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Hacker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/97995E058B3CE9C9A882BB1BB0DF0137718D07D7.PNG</Image>
+      <Description>Destroy all enemies with the mobile gun battery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Jackpot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/75DE2BA1E026C8FA3437662D5FFEF5755BF64B3A.PNG</Image>
+      <Description>Hit the jackpot on a vending machine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Transport Takedown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/A4C7C745D796969F8245B4AB5D285337488B3065.PNG</Image>
+      <Description>Destroy the Iron Whale's four engines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Smash Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/02CD06CA5294648293D3091F2109B3D7D5364117.PNG</Image>
+      <Description>Get 50 smash bonuses in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Multi-Kill Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/942453BF798FF1B44101900A2BD6CDE580DCC50E.PNG</Image>
+      <Description>Get 50 multi-kill bonuses in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Headshot Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/99DAF7EF469987810A1597590C5251E09C787D40.PNG</Image>
+      <Description>Get 50 headshot bonuses in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>One-Shot Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/C0FCA77BB6E42C423356B3E98315BFF6062C381D.PNG</Image>
+      <Description>Get 50 one-shot bonuses in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Lifesaver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/6F7C1C7247A21CA33C63299D4B11A8D4F9747B54.PNG</Image>
+      <Description>Use first-aid kits to revive teammates 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>A Friend Indeed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/EEC24F4D6D1A67F7BF242AF4ED1AD06601C75609.PNG</Image>
+      <Description>Purchase nanomachines for a teammate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Shop Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/99E67896A1C28C2CF5051CABCC6131A0EAF30F44.PNG</Image>
+      <Description>Access all shopping terminals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Spendthrift</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/4CFC4E0E4A3B04E41A67F91BA1136C1ECBEE6622.PNG</Image>
+      <Description>Spend 10,000 credits at vending machines.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Assault Shooter Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/9400904F4742AE23C7060A6910D47AED6659AC1B.PNG</Image>
+      <Description>Destroy 100 Assault Shooters in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Tactician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/5925FA655B61E5165C1C563C04FFA43BF471DCAF.PNG</Image>
+      <Description>Get enemies to kill each other 50 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Weapon Crafter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/99F76C5438F1C80ED171298C60660C55A0CF8FEC.PNG</Image>
+      <Description>Upgrade a weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Craftsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/6B6E977D1AE5C7B05757AD9249D28FB3A56784AA.PNG</Image>
+      <Description>Fully upgrade one weapon category.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Big Bo: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/07ED5D040DA29D63F20BE84F2CBB7A651C42F975.PNG</Image>
+      <Description>Earn maximum trust with Big Bo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Faye: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/F305F19B26C1545E996F2C6CED1C7F8625444B34.PNG</Image>
+      <Description>Earn maximum trust with Faye.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Charlie: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/9C9E450DC752D8F1904021ED4A8278B12BD7A5CA.PNG</Image>
+      <Description>Earn maximum trust with Charlie.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Rachael: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/C22AE420F161F6E0B837BF044B72C6591344059D.PNG</Image>
+      <Description>Earn maximum trust with Rachael.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Cain: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/E61FF344BFF7D5B08886183F083B54E7D0ED4ADE.PNG</Image>
+      <Description>Earn maximum trust with Cain.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Shindo: Max Trust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/52D74BD00BD7DF6DA3FDA83F91FAD4F7F0E5922B.PNG</Image>
+      <Description>Earn maximum trust with Shindo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Data Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/E2A79366CE2B631588A2FD7FA3810C2F0672190A.PNG</Image>
+      <Description>Collect 20 SECURITY-COM in Campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Data Retrieval Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/3E044780AFF08D721DBF2D5979265E4171CB32B5.PNG</Image>
+      <Description>Collect all SECURITY-COM in Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Skill Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/F452FFF6EC3715EC8582D8590CB383A7AA06A23B.PNG</Image>
+      <Description>Get all nanomachines within 1 playthrough in Campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Rust Crew</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/588E60967A025D9D33154BC2157F56742E633D36.PNG</Image>
+      <Description>Clear all chapters on SURVIVOR Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/2C4040C74AE55D152C9A87B9A6714A5A9E288D98.PNG</Image>
+      <Description>Clear all chapters on NO MERCY Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>First Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/27C3EFCC81CF6ED31ED256ACB34D0AEBF3152F7D.PNG</Image>
+      <Description>Win an online vs. match with any rule set.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Still Alive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/E91942EEACD49289F36B9976A21DAB528DBE8C0E.PNG</Image>
+      <Description>Clear a stage in INVASION mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Resistance Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/5A7B2169F2C5B1A0ABA7A0E6F487C267414CF296.PNG</Image>
+      <Description>Clear all stages in INVASION mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Battlemaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/D11D574B6D70A61669A87B23255714B85EEEFAF7.PNG</Image>
+      <Description>Win an online vs. match with all rule sets.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Veteran Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/C9E0265644A08CA725936D2212DFB4D54AC5643D.PNG</Image>
+      <Description>Reach online level 50.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02497_00</GameId>
+      <Title>Challenge Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02497_00_C859FF40692734F3A82BDC7677F69F8A679D060D/F8BA610E63A9499E58FDFA460CE83AC707FAA38C.PNG</Image>
+      <Description>Clear all online mode challenges.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

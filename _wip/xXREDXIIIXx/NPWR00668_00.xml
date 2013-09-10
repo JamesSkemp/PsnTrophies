@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00668_00</Id>
+    <IdEurope/>
+    <Title>Rogue Warrior</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/729E5E4F43D419B09F94E659750FB89D01027F3A.PNG</Image>
+    <TrophiesCount Total="46" Bronze="30" Silver="13" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/C32A0E3BC66C109A0E9E7785F48C1D709B7DA060.PNG</Image>
+      <Description>Earn this by collecting all the other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>The Geek</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/A4232639A7C8DDC8A37DD2A8B75196234872FA16.PNG</Image>
+      <Description>Complete the game on Recruits difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Shark Man of the Delta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/A08430DB82A1562DC56D707A1474C128746784BD.PNG</Image>
+      <Description>Complete the game on Regulars difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Demo Dick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/136567418B13F67D07E42E9D90DC36F53FFC61C7.PNG</Image>
+      <Description>Complete the game on Elites difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>SNAFU</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/2D17EC3FE4EEC6CB3A0820EC536BB98039B32F43.PNG</Image>
+      <Description>Complete SNAFU.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>KISS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/1ACC2B70934EF9D00E26BD0EC58B48A005C44DAD.PNG</Image>
+      <Description>Complete KISS.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>GNBN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/91B8066E42E425445EF00F5AE731CFA310856055.PNG</Image>
+      <Description>Complete GNBN.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>PFDL</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/DF014B3E47569DA47CF3223C209E169FAB419E16.PNG</Image>
+      <Description>Complete PFDL.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>FUBAR</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/5A0B68574DBF7E7B92E4EC3B029CC3259C40C047.PNG</Image>
+      <Description>Complete FUBAR.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>HUMINT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/634D661341947EBF0116CB4F44A9442B7A28D971.PNG</Image>
+      <Description>Complete HUMINT.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>KATN</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/FA21A9F437FAB5D2C11F23CA31AA5D944550E349.PNG</Image>
+      <Description>Complete KATN.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>DOY</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/A2792DA4D74EC21B85FB9A11DBAE9E71CE4B5189.PNG</Image>
+      <Description>Complete DOY.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Double Tap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/EF5186BA9582BC5AA457A3566F545E4C289D7FB4.PNG</Image>
+      <Description>Complete an entire level using only the pistol. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Getting Your Gun Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/C447316E02FE07DA2105096ADFC4423DE785B405.PNG</Image>
+      <Description>Kill at least one enemy with every weapon in the game. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Frag Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/14A730D1ACB507BF21E9E1494474AFC6793903DA.PNG</Image>
+      <Description>Kill 20 enemies using grenades. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Now THIS is a Knife</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/12AE2F55784154F364D59AFE266893DCB16D00B0.PNG</Image>
+      <Description>Kill 30 enemies using kill moves. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Never Knew What Hit Them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/41D77E4859E72B3F431DBC059D4F06EF05A78216.PNG</Image>
+      <Description>Kill 50 unalerted enemies. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Improv</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/F2586EBB095CB349119EC9D06AB8B69C43116724.PNG</Image>
+      <Description>Kill 20 enemies using explosive objects. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Guns Don't Kill People, SEALs Do</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/537350FDABF4D158B6144518CCF2C09A180B5041.PNG</Image>
+      <Description>Kill 30 enemies using sniper rifles. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Suppressing Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/C14E03AF68E153A60DF94C2ABE1D209754D14591.PNG</Image>
+      <Description>Kill 20 enemies using blindfire. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Are These Guys For Real?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/F2B77D7AA64C8761E1F70F6750D475446530F2E9.PNG</Image>
+      <Description>Kill 50 Spetznaz. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Health and Safety</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/79578A3BF7B915D4BC6E7F65D8BE788527554FA4.PNG</Image>
+      <Description>Blow up 20 fire extinguishers. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Migraine Breaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/A96217B37514B7F20470B1CFD5DF3D0A7A81BF1B.PNG</Image>
+      <Description>Kill 50 enemies with head shots. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Gang Bang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/F250BBEACFBB7D2D669D69D51DEBC56393BED0D1.PNG</Image>
+      <Description>Kill a group of four enemies with a grenade. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Dick Would Be Proud</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/ECDB6E0D3233D7E6AF26F4A9128817C114C79014.PNG</Image>
+      <Description>Complete a mission without dying. (Single Player)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Military Budget</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/A280E17E102ACBCD725085FB8509B40698DD1108.PNG</Image>
+      <Description>Kill 5 enemies with an assault rifle without reloading or changing weapons. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Come Get Some</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/2956E66A658AB5C5453CC867A1C6490457D86304.PNG</Image>
+      <Description>Kill 5 enemies with a shotgun without reloading or changing weapons. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/2C6B76981EE7AFA977E842F31E927749013C379A.PNG</Image>
+      <Description>Perform 3 kill moves in a row. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Curb-stomper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/7932DF7EBFA62BCE381926467688135EA4B8F7FF.PNG</Image>
+      <Description>Perform 5 finishing moves. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Chop-shop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/C5266BF8FF536EB7B612B44363EFF7B861C22761.PNG</Image>
+      <Description>Destroy 10 vehicles. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Over the top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/FF697E977DE8D9FB839C7411CDC310DF1941462D.PNG</Image>
+      <Description>Throw an enemy over a ledge. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Not the face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/B119030CE25C6868E9C044B71D36AD39F16DE44F.PNG</Image>
+      <Description>Smash an enemy's face into a wall. (Single Player)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Fresh off the boat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/51C201ED9473AB1554F9D76203B7932E8A2599FF.PNG</Image>
+      <Description>Play online once. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>THREATCON</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/7BBAFE3E403843DA8C9CBA4A54B3EC327D79DAE8.PNG</Image>
+      <Description>Place first in a Ranked Deathmatch game. (Multiplayer)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Spec Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/F8CD9D39F2C24D105F8836161CB7F221A942F441.PNG</Image>
+      <Description>Kill 3 people in a row online. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>SEAL Team Six</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/02059143C8E6F6B544EB1FA26DB146E4CCE51474.PNG</Image>
+      <Description>Play a Team Deathmatch to completion with at least 3 friends on your team. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Smack The Rogue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/0D0431E89EEEBAE634DC932B37835CEF690D4AA1.PNG</Image>
+      <Description>Come first in 10 ranked Deathmatch games. (Multiplayer)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Friendship is for suckers ...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/0099F49E00D8B748CF23AA24376885FA1EC05A32.PNG</Image>
+      <Description>Kill someone on your friends list. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Keep your friends close ...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/6BB2552B96CE9D60F03F510D227C9CBBC3DA1FF7.PNG</Image>
+      <Description>Perform a kill move on a friend. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Decorated Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/5087D0AF03FD61881780558E587CF0F3DFAB38F1.PNG</Image>
+      <Description>Play 50 games online. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>From Beyond The Grave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/3D3170073D622EFDE21A318D19F2E506A9672A08.PNG</Image>
+      <Description>An enemy dies from your grenade … after you have been killed. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>POTUS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/8537D2E67D52FEBE61A350E1CBAE19A5F9CADCAC.PNG</Image>
+      <Description>Place first in a Ranked Team Deathmatch. (Multiplayer)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Special Warfare Group One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/F2DE7860379392954762DE5115148DE48D472618.PNG</Image>
+      <Description>Be on the winning team for 10 TDM games. (Multiplayer)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Host-me-up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/05AFB2759F390C51CB45F7DE1500E9245B02204E.PNG</Image>
+      <Description>Host a custom game to completion. (Multiplayer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>Legion of merit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/ED9AD6C544134A3BF15F255A9A51B0C76F53BB20.PNG</Image>
+      <Description>Finish each map in 1st place. (Multiplayer)</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00668_00</GameId>
+      <Title>One Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00668_00_62854BFE8270C2F46F7F4AFB1D06F034187B8568/4AC096B1E4461A3AFFB6DEE6DBA6B873832102A4.PNG</Image>
+      <Description>Kill 200 enemies. (Multiplayer)</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

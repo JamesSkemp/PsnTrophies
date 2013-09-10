@@ -1,0 +1,563 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02441_00</Id>
+    <IdEurope/>
+    <Title>Rocksmith</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/AB24C97C206C4154F99412E59F73A276673289F0.PNG</Image>
+    <TrophiesCount Total="61" Bronze="49" Silver="9" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Rocksmith Platinum Elite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/150CBE32BC1C719914A1564A3A51045D9DF6E6C4.PNG</Image>
+      <Description>Awarded for earning all Rocksmith trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Duck Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/648EA68B305061F588EEA116F2F9E824BE1FD5C2.PNG</Image>
+      <Description>Play the Guitarcade game: Ducks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Fret Fast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/C8B89AA9E10CDC5D946A8ED344FB860C5615B615.PNG</Image>
+      <Description>Beat 10,000,000 points in the Guitarcade game: Ducks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Ducks x 6</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/9F81E557652B1386890E78BF7EFD3DDD4F7DB462.PNG</Image>
+      <Description>Play the Guitarcade game: Super Ducks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Just Super!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/3FA663B90A98D97A667C5718D8370FC3CCCC3266.PNG</Image>
+      <Description>Beat 150,000,000 points in the Guitarcade game: Super Ducks</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Solo Foundations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/1C6B3521210AF5B76577F558322955BF586C9F79.PNG</Image>
+      <Description>Play the Guitarcade game: Scale Runner</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Scales Owned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/906D718079322D9735CBD350236DB91855E66EAE.PNG</Image>
+      <Description>Beat 50,000,000 points in the Guitarcade game: Scale Runner</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Challenge Harmonics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/F2F24200A8C4AB85098D98F51FD9B29865908BC4.PNG</Image>
+      <Description>Play the Guitarcade game: Harmonically Challenged</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Beat Harmonics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/5769BB4F6C9D6D994B7C649ED3867372637EE7F1.PNG</Image>
+      <Description>Beat 1,000,000 points in the Guitarcade game: Harmonically Challenged</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Batter Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/5DA7C5345920FEC4617904F9F4771FD1A786AD0F.PNG</Image>
+      <Description>Play the Guitarcade game: Big Swing Baseball</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Giant!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/5614D470135B07DD1E660E11B50679AC424CF647.PNG</Image>
+      <Description>Beat 2,000,000 points in the Guitarcade game: Big Swing Baseball</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Slide Puzzle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/7FE2DDEB0798920D7FE75465A4171C7A72C9C484.PNG</Image>
+      <Description>Play the Guitarcade game: Super Slider</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Slide to Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/7318EFFF20AF718ACB06A3AAD3CC47053A261FC8.PNG</Image>
+      <Description>Beat 15,000,000 points in the Guitarcade game: Super Slider</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Where Rainbows Come From</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/0C830F6D3C9EB26B38F9E5FFB4521D31D5E4C048.PNG</Image>
+      <Description>Play the Guitarcade game: Quick Pick Dash</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Furious Plucker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/3DCB4667114A30BE36108C5F5B9C559FF5CDB8E0.PNG</Image>
+      <Description>Beat 5,000,000 points in the Guitarcade game: Quick Pick Dash</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>The One With Zombies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/BE59CF5B988DD21FFAC41A006D140670AE710B44.PNG</Image>
+      <Description>Play the Guitarcade game: Dawn of the Chordead</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Guitardead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/50A28D013BC320B90724B1A8236DA57B06447E4D.PNG</Image>
+      <Description>Beat 1,000,000 points in the Guitarcade game: Dawn of the Chordead</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Happy Shopper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/8239005187A51A917B1ED82C90E1D11A7FEDAD1F.PNG</Image>
+      <Description>Visit the shop</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Singles Rock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/EAB128C0841626B3C63D0001A26343E3EEE92C81.PNG</Image>
+      <Description>Beat 100,000 points in a Single Note Arrangement</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Chordinated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/5F903664929779C9C639A953AF0234C698F187DC.PNG</Image>
+      <Description>Beat 100,000 points in a Chord Arrangement</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>All Rounder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/9CD85B41E0A4FA39FB40A3C3AB1CB435415FECCD.PNG</Image>
+      <Description>Beat 100,000 points in a Combo Arrangement</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>The Basics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/626B818C68EA7FB750AAE1E13D981CDC823B42A9.PNG</Image>
+      <Description>Complete Soundcheck (Reach Rank 1)</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>New Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/78F0590190F5DFBE01169C443A3ECB1807CA0C6A.PNG</Image>
+      <Description>Reach Rank 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Local Support Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/A36D656B87B4B6B43E36C303CE1D5DDD574C7D20.PNG</Image>
+      <Description>Reach Rank 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Local Headliner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/83F87182104493F799A406943F53437CA6D6EC7B.PNG</Image>
+      <Description>Reach Rank 4</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>National Support Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/96A52D877E5513D2889976BE3E145EABFED584DB.PNG</Image>
+      <Description>Reach Rank 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>National Headliner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/2C752C8B889597AD9D245DA5ABB8C20BAC28B84A.PNG</Image>
+      <Description>Reach Rank 6</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>International Support Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/F6A8AD5A4C6544B88FDDE6664B9F8A2C238451D5.PNG</Image>
+      <Description>Reach Rank 7</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>International Headliner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/DEEDC285A1362A56770D644C478C7731060A0304.PNG</Image>
+      <Description>Reach Rank 8</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Elite Guitarist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/CFE323642B6C86B4740FCF7420073667CEB62BB5.PNG</Image>
+      <Description>Reach Rank 9</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Super Elite Guitarist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/B3259EE405D6D66FBB56554BA002EA6B3F67A14B.PNG</Image>
+      <Description>Reach Rank 10</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Rocksmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/E2A04FACB85ADCDD72B6D0E66E07F91EAB318127.PNG</Image>
+      <Description>Reach Rank 11</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>My 1st Gig</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/E5BB034AFBD0BC099F13C63F4B6E9CB2A8485F08.PNG</Image>
+      <Description>Play an Event</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>My 1st Encore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/AFBF2DA4CCE95418F36F04832D9929D71ABAE63A.PNG</Image>
+      <Description>Qualify for an Encore</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Better Than An Encore?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/A637B0C5A382BF538F03412712BA80D4BB2CDED9.PNG</Image>
+      <Description>Qualify for a Double Encore</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>The Rocksmith Method</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/28A2FFCBEA13623F58FE05286883007AC42D0296.PNG</Image>
+      <Description>Earn all Bronze Technique Medals</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Tutorials My Axe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/D5B504593CBB41FD6CEF85BFC8BD4251509E57AF.PNG</Image>
+      <Description>Earn all Gold Technique Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Tone is My Avatar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/F245CC8D6B3F027346CAFAB7E877A6B3CE4E53A3.PNG</Image>
+      <Description>Create and save a custom tone</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Hear Me Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/7A79C90AB0A4038201D7349960948DF93228FF35.PNG</Image>
+      <Description>Use the Amp</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>D-licious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/C3CB344E0D8B100936A24CC3EB87C25DC8766C2C.PNG</Image>
+      <Description>Use the Tuner to tune to Drop-D</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Cente-beater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/426FEC374E7F30C7AC194616A646BD4FDB7A252C.PNG</Image>
+      <Description>Beat a 100-note streak</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Just Awesome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/C0DC26C7D21D69E8080B82EA5F6535E29BDBB018.PNG</Image>
+      <Description>Beat a 750-note streak</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Strummer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/19F91A414F9339284317524F04F40EA71E65F1A0.PNG</Image>
+      <Description>Beat a 5-chord streak</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>No Dischord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/12863BCA7792D7413AD1B6F48F73A074EEC0058F.PNG</Image>
+      <Description>Beat a 25-chord streak</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Half-K</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/0008CF260BC9BC22537E88D1B7B7210A875DA7A9.PNG</Image>
+      <Description>Beat a 500-note streak</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Art + Functionality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/8FD877FE9BA594770F1F9B7EF0B8437EF3ADD290.PNG</Image>
+      <Description>Collect all guitars</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Tone Peddler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/A31B4CB46CD792D92EC18D40434F581F11FC270F.PNG</Image>
+      <Description>Collect 50 effects pedals</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>OK, I Learned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/48763C004B0F7A61FA5548BA3B46E754C5E5E2E3.PNG</Image>
+      <Description>Beat 200,000 points in Master Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Stage Ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/05AE384868466A1B308213B9C00804F3ADA5F894.PNG</Image>
+      <Description>Complete a Master Event</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Beneficial Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/13AABE658963947D53D1AEF133BBE62BF75B73F8.PNG</Image>
+      <Description>Play multiplayer with 2 guitars</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Just Singing?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_E3DD20052F61FD820B6DE55FF57DA79D2F64AA93/8B600F29C766B729CF94987CF75FACDFEB610922.PNG</Image>
+      <Description>Using a mic, sing along and achieve Nice Singing</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Bass Camp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/B127AD561C3AA6C93421D43CED4F1FD27D4C65C9.PNG</Image>
+      <Description>Play a bass arrangement</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Databass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/9841A6CEC266AC17348CF8012D2842FE6A21682B.PNG</Image>
+      <Description>Play a song with emulated bass using a guitar</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Bass Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/F6BD9B161DFCFC5E6346181D8EA766EE02427CDC.PNG</Image>
+      <Description>Beat 100,000 points in a Bass arrangement</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>The Bottom Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/AFD278D8C3749859F2F1FB38238ABE546FEA1C11.PNG</Image>
+      <Description>Complete a bass event</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>The Bassics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/C9FF7711F260EAA9721F925D493172E7C23A43AE.PNG</Image>
+      <Description>Complete all Bass Technique Challenges to Bronze</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Ace of Bass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/730A8D5E342FA935C3A50451E22653FD17C464E7.PNG</Image>
+      <Description>Complete all Bass Technique Challenges to Gold</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>All your bass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/3FC7FAB132CCB045065AA350B47C454588F866A2.PNG</Image>
+      <Description>Collect all basses</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Bass-Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/F06C558A3949CF7BEE16AD6023619B40D28D281F.PNG</Image>
+      <Description>Earn a bass pedal, amp, or cabinet</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Bass Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/3CBDDE1E9606010AEB163FED48DC33C367110766.PNG</Image>
+      <Description>Collect all bass gear</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR02441_00</GameId>
+      <Title>Rumblesmith</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02441_00_013780207B21AC2468A433D5B5608171A4EF6218AD/E137F2DD3DA0116D916A037685FD67FF32DA1F42.PNG</Image>
+      <Description>Reach rank 11 on Bass</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

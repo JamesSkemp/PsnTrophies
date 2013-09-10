@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03081_00</Id>
+    <IdEurope/>
+    <Title>Shinobido 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/9DCB5265D639A2E8C91EC09A9CB7041F66DDB5CA.PNG</Image>
+    <TrophiesCount Total="51" Bronze="37" Silver="12" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Shinobido Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/D354D15D0C11C1AF791C6DC4B166C5E778DB1741.PNG</Image>
+      <Description>Acquire every trophy.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Scattered Petals, Burning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/CF1772A9198CA2B4057918DCB055A1F0F67F0BAF.PNG</Image>
+      <Description>Finish Chapter 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Reunion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/8CBC90959A75C721DA4DAE5833A43825513DD818.PNG</Image>
+      <Description>Finish Chapter 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Obsession</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/94218F3BB94DBC3021058F94D52FE2022A5C9658.PNG</Image>
+      <Description>Finish Chapter 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>The Only One I Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/EAF73220B34AA8A1F9C1F76354A9B500521C3D39.PNG</Image>
+      <Description>Finish Chapter 4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Two Flowers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/61108DDD13CD5816C95EB619FC96EBDB26278108.PNG</Image>
+      <Description>View the "Two Flowers" ending.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>One Flower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/501ECDB4237FA0E15F1E44CF13913CF4BF8DDB70.PNG</Image>
+      <Description>View the "One Flower" ending.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Reflections</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/658864C584920E866993DB90BDA706B2540603C9.PNG</Image>
+      <Description>View the "Reflections" ending.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Apprentice Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/06E23D0F5FC274B3DC2D5009D905C640F9C62DB7.PNG</Image>
+      <Description>Beat the game on Easy difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Full-fledged Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/42B5CBDC61E8798475F303C4E50107186BCF6CC5.PNG</Image>
+      <Description>Beat the game on Normal difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>First Class Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/081F47C7FC8001BB8F3714B4C12790864CD58FB3.PNG</Image>
+      <Description>Beat the game on Hard difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Legendary Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/8F2053C24D0611D9E4AFEB8E58BC590EF9FE7F94.PNG</Image>
+      <Description>Beat the game on Deadly difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>The First Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/D1269525E64BEE74C2017128530A2FC5D78A7777.PNG</Image>
+      <Description>Complete the first mission successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Ninja Initiation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/A3F6744F27FDE6F6A7FCD6B8EF653055B3BAC986.PNG</Image>
+      <Description>Level up for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Chimatsuri Sappo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/6B84BF3169067AE82EC2A94AF272E156134EC806.PNG</Image>
+      <Description>Perform a Chimatsuri Sappo successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Counter Puncher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/EC4CDD5785FE67D1614A67B526386C6B4EC2FF54.PNG</Image>
+      <Description>Perform a Mikiri successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Headhunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/233F39097560B055D4D92E062733CED2776B4494.PNG</Image>
+      <Description>Perform a Zankoku successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Assassin's Pedigree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/17B1C81D1E2E1BD94E47B3C59188F23E77310FAC.PNG</Image>
+      <Description>Perform all the special Chimatsuri Sappo successfully.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Flying the Night Skies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/2B042401A53450F57079D4FF05B2ACF3E038F085.PNG</Image>
+      <Description>Use the Fukurou to fly.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Alchemical Aspirations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/C7D138BF4F123A08671E5C5BBF19960A482975FD.PNG</Image>
+      <Description>Use alchemy to create an original ninja tool.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Alchemical Genius</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/E39634BC5EDD287820954DCCD6718BB06FFFD50C.PNG</Image>
+      <Description>Create the symbol of an Alchemical Genius.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Sticky Fingers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/54923BB6DB2CCA592DF938D64957B4FC09BFE656.PNG</Image>
+      <Description>Did you steal something?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Shuriken Sharpshooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/347DE159552ACE6DB91F69132870072372BD96AE.PNG</Image>
+      <Description>Prove the strength of the shuriken.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Recovery Elixir Popper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/7718A6C59ADA836DB5A88DE0825ABE8C865D6357.PNG</Image>
+      <Description>Coming back from the brink of death is part of being a ninja.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Grapple Hook King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/FC25C92301EC795E8AC37A0D8EF81C680BBDE7EC.PNG</Image>
+      <Description>Throw that grapple hook!!</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Gears and Springs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/AB905B414CBC0117FE2655AB950CE653A887E696.PNG</Image>
+      <Description>I love wind-up toys!!</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Mikiri Maestro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/1C5896D6FEDC4AD05EFAF8C4E4B39F1A4D494FEC.PNG</Image>
+      <Description>Find fortune in peril.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Uzumibi Artisan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/7E6DE0F81614849C2289922F70F30A60C7455159.PNG</Image>
+      <Description>It's their fault for stepping on it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Ninja Tool Craftsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/2FB7CFE24A587DF9C3B4B33B44F8FD305F6C1A6F.PNG</Image>
+      <Description>Become a connoisseur of alchemical ninja tools.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Person of Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/062697939942C00B20DF385AB448C6954F3656F4.PNG</Image>
+      <Description>You gave it your all to wipe the enemy out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Saint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/9F4D826E751AEB708C9B682446B3CD322F061197.PNG</Image>
+      <Description>A ninja loves all without bias.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Ichijo's Peace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/9112686EF38B1D645051AB170218EB079195F514.PNG</Image>
+      <Description>View Ichijo's ending event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Kihan's New Journey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/A89FF58FBC01C3080E46CB48D514DD8F71E15124.PNG</Image>
+      <Description>View Kihan's ending event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Kazama is Never Satisfied</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/130002F0E900428A2AB789A1A1D661886E3AF556.PNG</Image>
+      <Description>View Kazama's ending event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Cutie Kaede</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/94D7B19246D5BFBDC6D5651B43C5CD01A7BD907C.PNG</Image>
+      <Description>Kaede is so cute! I wish I could play as her...</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Moneymaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/BA9A059C8E133A2CE6C806FA17409033216D489B.PNG</Image>
+      <Description>A true ninja also knows how to save.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Covert Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/0B675F686B4A40266EDF1ADA496FAC32C2EFC92E.PNG</Image>
+      <Description>A true ninja always goes unseen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>The Silencer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/CF5B40C03B7A239F43B74A2E0E3722EF78379407.PNG</Image>
+      <Description>Silence every witness to your deeds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Hard Worker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/3B50987B6C3DEBE279FEC4403A82A937F3BB5656.PNG</Image>
+      <Description>Complete all the tutorials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Onigami</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/56457EC10B9C2DA30874AAB92FDF354436BE868D.PNG</Image>
+      <Description>Become a master of using Chimatsuri Sappo.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>The Zankoku One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/24AA853C2155C81E27E2FEA4DB6D9B8963664994.PNG</Image>
+      <Description>Become a master of using Zankoku.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Gaga for Greens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/EE8CDEE8BBF1F5280D938AE6E8F71BD3B71EE4C5.PNG</Image>
+      <Description>Collect every type of weed.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Mushroom Village</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/C577F9F41327C94AA41819D57D2D657375101758.PNG</Image>
+      <Description>Collect every type of mushroom.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Gecko Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/D0DFB1809AAF2DCF5F8E0633B7C4124983DE252C.PNG</Image>
+      <Description>Collect every type of gecko.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Jack-of-All-Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/21553B59BE36D1255C3C01E1E450062D0B545198.PNG</Image>
+      <Description>Versatility is part of being a ninja.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Killing Spree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/EFA808D326038784F4F07EB978547C348914C896.PNG</Image>
+      <Description>Kill 2 enemies with a single Zankoku.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Salmon, Salmon, and More Salmon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/2528E48A16BD63A6C3144F358ACDBA35988EFF3F.PNG</Image>
+      <Description>You really like salmon, don't you?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Ninja Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/EFC509D24AAD66A0A8D1799B323330D29FD23B39.PNG</Image>
+      <Description>Every ninja must die.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Bandit Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/D2A187531CAC35A898F1CF1270144CF5525B7054.PNG</Image>
+      <Description>Leave no bandit alive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>King of the Beasts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/F86A885238FE29CFB3BC3CFAA08D1C597C30F9BF.PNG</Image>
+      <Description>Encounter a bear like none other.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03081_00</GameId>
+      <Title>Familiar Faces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03081_00_BF2636D3FD85BC72C0606C6BF670523E0AA82DC4/71F7018F2E483F2DCAE7CF111035C79A6A103FA0.PNG</Image>
+      <Description>You met some familiar ninja from bygone days.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

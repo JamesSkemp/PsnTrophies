@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00770_00</Id>
+    <IdEurope/>
+    <Title>Band Hero</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/F808E8B40610D639AF96EF0C7AACCAA242CDAB91.PNG</Image>
+    <TrophiesCount Total="49" Bronze="38" Silver="8" Gold="2" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B4579CBCEBEE6EF0AC5A9C7173CBA362884EBDC8.PNG</Image>
+      <Description>Earn all of the Bronze, Silver and Gold Trophies in Band Hero</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Welcome to Band Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/25E7BF49F59F8B57331F2D881033E68D0822AEA0.PNG</Image>
+      <Description>Complete all of the tutorials</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Rise to Fame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/0AFC680E04A83D00B8008FBF5890A32CFF34B870.PNG</Image>
+      <Description>Complete 25% of the gigs in Career</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Nation's Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/442EB8804F2102F392908B51A5AEA07BCE2FCC08.PNG</Image>
+      <Description>Complete 50% of the gigs in Career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>World Known</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/795E1D9B09621E3EB6876375CC623BDDE870488A.PNG</Image>
+      <Description>Complete 75% of the gigs in Career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Glimmer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/99D09680A9C8DB84334E127A4A28E2892BE01955.PNG</Image>
+      <Description>Earn 111 Stars in Career</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Sparkle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/6DD08033F1AF190D1BC0D63878531D4321118BB3.PNG</Image>
+      <Description>Earn 333 Stars in Career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Shine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/8925D8F7AB8990DF6595C7F8C0954684C7226D68.PNG</Image>
+      <Description>Earn 555 Stars in Career</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Platinum Blonde</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/4E8FC152EEDCB7CB5A40985C84A4CA95770237DB.PNG</Image>
+      <Description>Earn Platinum level on a Career Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Iced Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/F2A32AE49B1A6A24980762553E04062AD19C71C5.PNG</Image>
+      <Description>Earn Diamond level on a Career Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>My First Gig</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B84374215E99F6589FDD77C909FF29E4C8FB4896.PNG</Image>
+      <Description>Complete a Career gig on any difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Road Most Traveled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B47C994166F44F0E3AA3DC8E0C9567A76DD2FFDF.PNG</Image>
+      <Description>Unlock every venue</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>The Long Road Ahead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/13BB3B8155046AA143CE1FB09A9B63942FB90E73.PNG</Image>
+      <Description>Complete Career on any difficulty with any instrument</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>M.C.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/E1D7D305ABAC8F8CF4742AE85B4B15D547568FAE.PNG</Image>
+      <Description>Host an online Career game and play a song</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Face to Face</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B37BCC0A6D472714FA9578D58EEB74E2152B7376.PNG</Image>
+      <Description>Complete 25 online Pro Face-Off matches, win or lose</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Till Death Do Us Part</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/5DB119D024C8D090FE25390372B7FC695D9314D9.PNG</Image>
+      <Description>Play an online Do or Die game</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Nice to Meet You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/C6DB0B202C830E5796EF44096B0EBDBDFA10020C.PNG</Image>
+      <Description>Complete the gigs and unlock all of the celebrity characters</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>A New Challenge Awaits</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/5B6E3E9C470746BAD7CE8159255F965A6E6F2988.PNG</Image>
+      <Description>Complete 50 of the Career Challenges at Platinum or Diamond</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Testing the Waters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/BB1363A6506C65352CB57A50BDA4769F5D3AF734.PNG</Image>
+      <Description>Play through every Band Hero song once</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>In the Moment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/BD8A20E0F6720DFCA652053A6A84061F45BDD3ED.PNG</Image>
+      <Description>Successfully complete a Band Moment</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Star Light, Star Bright</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/59434EA2AC25E05D7B63BC0F1846F802050BBE7B.PNG</Image>
+      <Description>Score over 10,000 points while in a single Star Power deployment in Career or Quickplay</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>A Cool Mill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/BD241DD0A64166975CCD0295705B9552D42F3B5F.PNG</Image>
+      <Description>Score over 1,000,000 points as a band in any single song in Career or Quickplay</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Studio Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/7C51F276BC53AE8DAFDDFD71514EAA2330351830.PNG</Image>
+      <Description>Create a GH™Studio song</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Fevered Pitch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/CAB29DA60952FCE77997C14CE592BDCEDEFC2251.PNG</Image>
+      <Description>100% a song as a vocalist</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/2693E772FBE4EF3768BDCFA133BA90C64F433E94.PNG</Image>
+      <Description>Complete at least one challenge for every instrument at Gold level or better</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>There's no 'I' in 'Band Hero'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/BC63EE29C7C23D8C5A3C71DC2FDA1A01748CF56E.PNG</Image>
+      <Description>Complete a song with 4 players without any members failing on expert in Career or Quickplay</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Four of a Kind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/575EAB3A6E4C9855D06DA9449014B90F249A643D.PNG</Image>
+      <Description>Complete a song as 4 of the same instrument on any difficulty in Quickplay or Career</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Star Powered</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/C23A1509D81BE503E59A1FD78F0CDCA45F8860D8.PNG</Image>
+      <Description>Earn an 11x multiplier</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Picture Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/3081A2B7EC1E2FDDDC3372BECD67F56367910D31.PNG</Image>
+      <Description>Streak through an entire song without missing a note on medium or harder difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Treasure Hunt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/F37F2A5675A005FD2B83E91C7C3024623AA93FBF.PNG</Image>
+      <Description>Collect all of the Secret Notes</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/716023B91F08A4CD22994B16A02D1EE65C086BC9.PNG</Image>
+      <Description>Hint: *e*** *c******y</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/3C930B6E621D007381F331BD063298E0B5243EBF.PNG</Image>
+      <Description>Hint: **n** ***k***</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/9AA2ED0CB86B04F5F9E6C02656E7FD8747F57C41.PNG</Image>
+      <Description>Hint: *** *ol**** ****e*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/480DF5EC1D898AEB07C6667276C2AD72BDD54288.PNG</Image>
+      <Description>Hint: **l* *ll**</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/FC6749CE5FD141E1E570A194DAD0B7B159473275.PNG</Image>
+      <Description>Hint: A** * A*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 6</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B7A69558B22717F8322C68A6738230C5F4B5FAF5.PNG</Image>
+      <Description>Hint: ***o*n 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 7</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/01CC5383C95488688D9A67F27924C232B881A4F2.PNG</Image>
+      <Description>Hint: **v** *o***</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 8</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/B6045DA1885829A4F481D99C5D1F5C53E568C13E.PNG</Image>
+      <Description>Hint: *v***s***c*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 9</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/F4109478D953D3BAEC37CF8F59FD7279553B7F5B.PNG</Image>
+      <Description>Hint: H*****</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/E3084664C516FB9D9B736622A65AF9E1D911E2A1.PNG</Image>
+      <Description>Hint: *a* B****a*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 11</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/58B3A44BF599A7FECD1DE9CAE079B119BFFA682B.PNG</Image>
+      <Description>Hint: *o ***b*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 12</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/BAD878479C2C336570CB8062C62EEB8CDC024B6A.PNG</Image>
+      <Description>Hint: ***v** **y*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 13</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/E4EC4BE54C847E4B1305E0CB42761C5A9910F445.PNG</Image>
+      <Description>Hint: **i** *i***</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 14</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/51DDFD6BA4EE51B8876CC0DF233277B9F14C9FE5.PNG</Image>
+      <Description>Hint: **ll*** ****l*</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 15</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/CF8C79ABB43CECC05DF9DCD69B83A498024806ED.PNG</Image>
+      <Description>Hint: **l*** **ff</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 16</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/A105197F3CF418A40D25ED8CB6EA1EF736BCE7DD.PNG</Image>
+      <Description>Hint: *e***w***d</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 17</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/168F441F42AE6E6D4B226FD060B7D7A2EDDA9852.PNG</Image>
+      <Description>Hint: *h* *ll-**e***** **j****</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 18</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/9083D954D9430B3F42562BFAE6E83DB392EF588C.PNG</Image>
+      <Description>Hint: **y O******</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00770_00</GameId>
+      <Title>Secret Notes 19</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00770_00_95E97503C38A8323A41BD6C631FA96C582A01502/C34EF22696A48339C73ED6E44725C8087D6BD82C.PNG</Image>
+      <Description>Hint: **r* **u****</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

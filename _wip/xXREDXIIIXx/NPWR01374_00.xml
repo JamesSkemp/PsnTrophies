@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01374_00</Id>
+    <IdEurope/>
+    <Title>Hoard Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/8F77D4C12E95E56139D66D44BC5E16D52C3E20A9.PNG</Image>
+    <TrophiesCount Total="11" Bronze="9" Silver="0" Gold="2" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Legendary Wyrm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/EEDFAD34C327A0BCEC0DA8DF2EE7155EFD7D3994.PNG</Image>
+      <Description>Achieve Hoard Rank 15</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Mythical Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/F3C535DC2D7D884326FE2127D646AD06C21E80D9.PNG</Image>
+      <Description>Earn 90% of HOARD badges</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Youngling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/4EA52F3CC21678F34C2191E1831506FB43DDBF6B.PNG</Image>
+      <Description>Achieve Hoard Rank 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Basic Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/447A23DD6C724A79AC2D3CB76C2C139010864C7D.PNG</Image>
+      <Description>Achieve Hoard Rank 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Advanced Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/C92D852C7C0CF34554BF98624AC28674008F7690.PNG</Image>
+      <Description>Achieve Hoard Rank 7</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Veteran Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/4B87544FD495BE8DAE52E2FD5833F57B60830738.PNG</Image>
+      <Description>Achieve Hoard Rank 9</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Wyrm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/1225F18FBE9CCFB9454DC488228055FC2A715F92.PNG</Image>
+      <Description>Achieve Hoard Rank 11</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Great Wyrm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/61E75BED0EFAAAEFDFC989BAFF7B79B7E24FE3B5.PNG</Image>
+      <Description>Achieve Hoard Rank 13</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Eager Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/6FB0623ED1AD7C3480627DF2CC53A61635B0BE25.PNG</Image>
+      <Description>Earn 25% of HOARD badges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/74B8A17F3CCB10B0B9138F6D9B4F63C3BF599539.PNG</Image>
+      <Description>Earn 50% of HOARD badges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01374_00</GameId>
+      <Title>Tireless Hoarder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01374_00_F79A5C3748323F2EC3BFB8B5DC183E43C736C213/37DF46D0AE44AC9CE002CB089CFF855F58537EA5.PNG</Image>
+      <Description>Earn 75% of HOARD badges</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

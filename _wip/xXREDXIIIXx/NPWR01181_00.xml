@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01181_00</Id>
+    <IdEurope/>
+    <Title>Voodoo Dice</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/33D3CAE90F878FD3170641B2978FED5799A88578.PNG</Image>
+    <TrophiesCount Total="12" Bronze="9" Silver="2" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Good start!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/B3610BCE62A0BBDAC51D2F85AFC5A1680B125F17.PNG</Image>
+      <Description>Complete the first level</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>First golden nugget</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/8923A918B37CD32F795319DD4B980B87DAC83597.PNG</Image>
+      <Description>Complete a level by beating the Voodoo time</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Creeper weaver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/3A62D7973F549B1920FF387E5D051DDFAB0848BB.PNG</Image>
+      <Description>Complete all the World 1 levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Baobab tree climber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/644180F313EA312403BF6F9CEC5C5EC317CE5A25.PNG</Image>
+      <Description>Complete all the World 2 levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Coconut juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/A1793A1A3F806D03614EE4CB3A1622F49258BC79.PNG</Image>
+      <Description>Complete all the World 3 levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Temple looter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/9CB0A88E268B6E5EC7D17AF4B859852A2EAFE6AC.PNG</Image>
+      <Description>Complete all the World 4 levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>King of the jungle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/A367D01C380D4049A156ED37EE8A10A5E367C591.PNG</Image>
+      <Description>Complete all the World 1 levels by beating the Voodoo time</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Prince of the desert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/3C1C4035EE0F4C5FA704FBF934ED6BA031217128.PNG</Image>
+      <Description>Complete all the World 2 levels by beating the Voodoo time</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Champion of the tropics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/EEB861E3E8006A888699FA539F41DE7C894195D5.PNG</Image>
+      <Description>Complete all the World 3 levels by beating the Voodoo time</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Lord of the dungeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/E4DB8642AB7E9C0144B175CC509FE7B10688D604.PNG</Image>
+      <Description>Complete all the World 4 levels by beating the Voodoo time</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>New skin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/E55EDF0F2624FF516739BFBF6926B9A05B994424.PNG</Image>
+      <Description>Change your appearance before selecting a world</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01181_00</GameId>
+      <Title>Voodoo sorcerer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01181_00_4CC8CF7372280F1255B34E990779D448A71F5CE4/9EC43661496CDE2F0DFE03CDEFD76F73CE1911D3.PNG</Image>
+      <Description>Complete all the levels in each world by beating the Voodoo time</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

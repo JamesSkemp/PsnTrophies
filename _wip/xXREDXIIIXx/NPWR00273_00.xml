@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00273_00</Id>
+    <IdEurope/>
+    <Title>Battlefantasia</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/6F9F55DFA6B2A4358A5C0CDFA3DB3538F95FE363.PNG</Image>
+    <TrophiesCount Total="62" Bronze="56" Silver="4" Gold="1" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Champion of Fantasia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/8B5F1238F7C7E9D92AE7607A509C31713277B567.PNG</Image>
+      <Description>Bestowed upon those who have been awarded with everything
+Battle Fantasia has to offer. Thanks for playing!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Serf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/7F488D9FCC26E66C724B44E57FEC014D0BE5FD2D.PNG</Image>
+      <Description>Clear arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Squire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/56A10A372A285C7C57F675F6E8C55B801FA852FB.PNG</Image>
+      <Description>Clear arcade mode on the HARD difficulty setting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Knight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/32647734A581B932A71D92B5FDC8D9C89F0552B3.PNG</Image>
+      <Description>Clear arcade mode on the VERY HARD difficulty setting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Staying Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/58D03E01C47B44E04DDBA9FAA81F4992A8F4BB56.PNG</Image>
+      <Description>Clear arcade mode with no continues.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>The Rainbow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/2F860A55E11A93DCCAC1BF06F9EE4273BDBE0BBC.PNG</Image>
+      <Description>Unlock every character's hidden colors.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Art Student</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/45F813BBA07782500CB7F9E75386A4C7CB081DDD.PNG</Image>
+      <Description>Unlock 25% of the gallery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/7220AF5DDAAEC30E6C4912D58FFACDAEE52FC7C4.PNG</Image>
+      <Description>Unlock 50% of the gallery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Aficionado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/923B04D65A4DE443B8BA7DE8A117A65A64FF2DA5.PNG</Image>
+      <Description>Unlock 75% of the gallery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Curator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/AECC97E2155924AB4B28327D070DD3B0D6A78024.PNG</Image>
+      <Description>Unlock 100% of the gallery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Plays Well With Others</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/A0A39A24088509D8B502038D543D73F1002153DA.PNG</Image>
+      <Description>Play a ranked match on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Local Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/0D9CB72F39C0DB98994312FC7633F42F0CCE2030.PNG</Image>
+      <Description>Win 10 ranked matches on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Success Story</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/FE41352B14E22AB87729A8A3350D38155648F220.PNG</Image>
+      <Description>Win 30 ranked matches on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>International Ninja</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/8ABB502BEFE4A9CFD0493406BB4BC80BDDA7851B.PNG</Image>
+      <Description>Win 60 ranked matches on PlayStation®Network.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Start Me Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/DE26E067470B11A5538F5B7995DC47A675217C3C.PNG</Image>
+      <Description>Outside of training mode, use Urs's tauting to enter Heat Up mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Oh No You Didn't!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/DF7006B08425087F825BFEAE5CF8BB0F7CD6B2D5.PNG</Image>
+      <Description>Outside of training mode, use Cedric's Nose Glasses.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Cruelty To Animals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/F8698EE77E60AB53BABAB3DCAFAC49820DBBE7AD.PNG</Image>
+      <Description>In single-player arcade mode, finish off Watson with Donvalve's throw.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>You Want Me To WHAT?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/0BCF7C020F38B432EDE70E60CE4AA20E373F4885.PNG</Image>
+      <Description>'In single-player arcade mode, on a difficulty higher than NORMAL, survive Deathbringer's Apocalypse Flame attack and win the round with full health.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Didn't Even Break a Sweat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/240180D4C121FD8899C68C423CFC605A6A1A0C02.PNG</Image>
+      <Description>Defeat the End of Deathbringer in single-player arcade mode without Heating Up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Be Gentle...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/2BDBF2880B2B5098E772E86B7DA88AD4E5DAF954.PNG</Image>
+      <Description>Finish off Olivia with Ashley's Steal Your Heart in single-player arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>The Hookening</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/EE1F96A4BD07894A53237DE61542019E1D732019.PNG</Image>
+      <Description>Get a 20+ hit combo with Freed.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Maladie Des Griffes Du Chat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/2EEFAB41AD318EB383AA0364650D0E1A74D1A7C3.PNG</Image>
+      <Description>Get a 50+ hit combo with Coyori.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Final Countdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/62ACD2928D80E5F3732FEF912D389175C47DBEB0.PNG</Image>
+      <Description>In the single-player arcade mode, end a battle with Deathbringer's Final Strike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Older Swinger Seeks Companion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/E47D3344EF7B3556930DE091ABD76901E60C251C.PNG</Image>
+      <Description>In the single-player arcade mode, hit with Donvalve's strongest swing, the Don Don Swing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>The Touch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/ABC99B73C60EB2C2997894904A9540795B6EC106.PNG</Image>
+      <Description>In the single-player arcade mode, finish Face off with Marco's throw.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Groovy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/E437AC2F77C07AC5A1E59AB8CD59218FFE3C1CC3.PNG</Image>
+      <Description>Get a 30+ hit combo with Urs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Can't Fight This Feeling Anymore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/2545940AC6EF4B09AC72DF6B827CDF788F91FCAC.PNG</Image>
+      <Description>In the single-player arcade mode, end a battle with Olivia's Shall We Dance?</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>With Our Powers Combined!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/E4979E7C0B3E9A1D94CC23E6861F2AA836EAFEF9.PNG</Image>
+      <Description>Get a 60+ hit combo with Odile and Dokurod.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Marxist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/53C45226D561717646E62A934B1B21433A67244B.PNG</Image>
+      <Description>In single-player arcade mode, use Cedric's Nose Glasses against the End of Deathbringer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Size Doesn't Matter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/8244214BAB49D8FC59C0F902D8B62AEBC85A6328.PNG</Image>
+      <Description>Get a 40+ hit combo with Watson.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Early Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/CE54DD987BF1476B88D9626A53AC2DEEF570573D.PNG</Image>
+      <Description>In single-player arcade mode, finish off a female opponent with Marco's throw.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Not Creepy At All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/03C3A3311DCB91074712AA4859645E4F9DA09B74.PNG</Image>
+      <Description>Clear Ashley's main scenario in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Hooked Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/6706BDCC4A70AE320C12E706EBF278BE6B9F520A.PNG</Image>
+      <Description>Clear Freed's main scenario in story mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>How Do You Like It?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/95ACEECF7173F05B0B7AEA469005D7CDD5A98642.PNG</Image>
+      <Description>Clear Coyori's main scenario in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Filicide</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/A616AA82178007CDCB826BFE1598CCA6C0D9847F.PNG</Image>
+      <Description>Clear Deathbringer's main scenario in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Risky Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/2037AECBF7D55E7F257353963B354A518BD2A03E.PNG</Image>
+      <Description>Clear Donvalve's main scenario in story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Best Served Cold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/35C9FD35D96EFE40F04901E7D287BFBA062A9F7D.PNG</Image>
+      <Description>Clear Face's main scenario in the story mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Apples And Trees</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/85BE5F1EED196FF5C72D13259C022FD9E02DFDEF.PNG</Image>
+      <Description>Clear Urs's main scenario in the story mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Pretty In Pink</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/7304B31F6A5DC838811426AC865E847AD6A1D8F7.PNG</Image>
+      <Description>Clear Olivia's main scenario in the story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Big Stick Diplomacy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/60606B6C3B22AE116159FE779104B4457B432CFE.PNG</Image>
+      <Description>Clear Odile </Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>You May Feel A Little Prick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/6771E2DE59E6ED9C3A5BDFDE476F0BD2C34DE325.PNG</Image>
+      <Description>Clear Cedric's main scenario in the story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Elementary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/78EC021853989ED78A72A34BAE1445F50BB65DB1.PNG</Image>
+      <Description>Clear Watson's main scenario in the story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>You Have Gained A Level!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/0647E7BE44A938320B7140CD8423A05B13D61112.PNG</Image>
+      <Description>Clear Marco's main scenario in the story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>William Wallace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/8C4E6568E45C5F8B36AF4E15983576F2EC9E13EC.PNG</Image>
+      <Description>10 consecutive wins in survival mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Henry V</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/3FD2D6B1E4DFF6B0D8FEEF74225919E4EBC3AD8F.PNG</Image>
+      <Description>20 consecutive wins in survival mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Leonidas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/DA3378DEE06252C6D99286722D9001675A0489AE.PNG</Image>
+      <Description>30 consecutive wins in survival mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Faster Than A Speeding Bullet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/C3AF087F748265E21227968898074EF224FF58B3.PNG</Image>
+      <Description>Clear time attack mode within 10 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Faster Than Lightning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/9B7A5B484E043D5128E1BB8E517074B82FC7DA44.PNG</Image>
+      <Description>Clear time attack mode within 8 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Faster Than Anything</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/DDC18F8DFEDD519252F7AED7F3921037B8325600.PNG</Image>
+      <Description>Clear time attack mode within 6 minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Population Control</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/07464E8BE0635275F73831295A55E81216922F0F.PNG</Image>
+      <Description>Outside of training mode, dish out a total of over 1,000,000 damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Shameless Flirt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/0D78C5D6B2B9543DD173480E2937307467FE65D4.PNG</Image>
+      <Description>In single-player arcade mode, seduce every character with Ashley's taunt.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Furricane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/9E3B6538AB23E4F44AB9BDF4AE858E4829A8E3B9.PNG</Image>
+      <Description>In single-player arcade mode, get 25+ hits with Coyori's Cat Storm.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>For Whom The Bell Tolls...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/973E6A197F5A3B46711D5D01424246CE9A523B9A.PNG</Image>
+      <Description>Outside of training mode, as Death Bringer, defeat an opponent with a single move.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>AAAADRIAAANNNN!!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/F6E97FF7708D74834713469FA1CFC4C03B245FBC.PNG</Image>
+      <Description>Outside of training mode, win a match with only 1 HP left.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>It's A Trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/BD7CFC9E4D8CE665D94F84C973D1D2BAE83B10C9.PNG</Image>
+      <Description>In single-player arcade mode, hit an opponent with Watson's level 3 Torabasa Minore.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Har-man-ica</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/BDD5A56C14DFF0871449A60B330C79CB49495A7D.PNG</Image>
+      <Description>In single-player arcade mode, see Face whip out his instrument while wearing hot pants.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Freed At Last!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/4EB1FC4F7B1755A406A39223C17CFB6288D99FFB.PNG</Image>
+      <Description>Outside of training mode, have 2 Freeds in Heat Up mode do Magnum Jetter on each other simultaneously.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/CEF32B2E6C2292E62EFFC161220C5B3CBACBD587.PNG</Image>
+      <Description>Play a player match on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Acolyte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/1BA38B692F174B7B2E73A2730917824EAF386532.PNG</Image>
+      <Description>Win 10 player matches on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Mage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/0514D45D497E8252650C8ED33C98DAB26EBD7B34.PNG</Image>
+      <Description>Win 50 player matches on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>Warlock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/EEA5FF0A20FEA0D57E141FD85E5FFB80AC605FC8.PNG</Image>
+      <Description>Win 100 player matches on PlayStation®Network.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR00273_00</GameId>
+      <Title>At The Same Time!?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00273_00_83C5AC26127FF67941BD8AD6DA5CE2590BC84370/275D8E13903915587FEFDAC73D31384CBE8EA10C.PNG</Image>
+      <Description>Outside of training mode, get a Double KO.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

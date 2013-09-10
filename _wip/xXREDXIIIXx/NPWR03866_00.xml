@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03866_00</Id>
+    <IdEurope/>
+    <Title>Escapevektor</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/26D81DA0E4234103F1C8B1A41213BFA60F4E8365.PNG</Image>
+    <TrophiesCount Total="9" Bronze="5" Silver="2" Gold="2" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Detonator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/F504CF57618561C60D7C7E50571CE6DC99AEE479.PNG</Image>
+      <Description>Destroyed 200 enemies using Detonate</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Boostenator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/28B177C0204127BC398B73D9EB9A53AAE9A6A631.PNG</Image>
+      <Description>Destroyed 200 enemies using Boostenate</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Break Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/46A28EFA3398AA0AAD4C29C791E727FA8F1F9B7E.PNG</Image>
+      <Description>Completed Chapter 1</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Discovery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/435457603B5F2D9DD4D78E2DF2A96C2BD94712E1.PNG</Image>
+      <Description>Completed Chapter 2</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Chased</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/1EB98FC511F03B121C262419C0DDA9AB723937D7.PNG</Image>
+      <Description>Completed Chapter 3</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Escaped!!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/D6A3F1E741510FCAD4454F8E3A861AF19F55D7FA.PNG</Image>
+      <Description>Completed Chapter 4</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Set Boost to Detonate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/DB2CD77ABA47FF15D674CE7D397E6C2D028B208A.PNG</Image>
+      <Description>Upgraded Vektor to Ver. 15.0</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>Fully Upgraded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/C6CB2436F84B579A224393BD090B84FD492E019A.PNG</Image>
+      <Description>Upgraded Vektor to Max Ver. 25.0</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03866_00</GameId>
+      <Title>What a star!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03866_00_00B3D4DF7E4FD097FB8B05DD72D5065C220FCA113D/52C41BA72F6ED68A1889AF757490405643608BF5.PNG</Image>
+      <Description>Completed 150 levels without Detonating</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

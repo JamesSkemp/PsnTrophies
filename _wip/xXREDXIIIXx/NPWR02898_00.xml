@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02898_00</Id>
+    <IdEurope/>
+    <Title>Bellator</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/03EBDE243A76D91B05E14ED84CC41F4AF3E47960.PNG</Image>
+    <TrophiesCount Total="13" Bronze="9" Silver="3" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Strike Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/13717C18941FE759591D679D76B1F4A0BC8AEDCB.PNG</Image>
+      <Description>Unlock All Striking Skills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Throw Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/7C32C1855F181E02A310FC114B86D7991F64ABBE.PNG</Image>
+      <Description>Unlock All Throw Skills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Submission Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/50F0CE31751C53034D781B4B3B60496C17D12D22.PNG</Image>
+      <Description>Unlock All Submission Skills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Fight Technician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/FD54AD8CF19DFA75E30CF1F32F8F00618561CD4C.PNG</Image>
+      <Description>Unlock All Technical Skills</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Bellator Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/E77D401B2F388304A0EC06D5532C057F2CBA9D7B.PNG</Image>
+      <Description>Achieve Maximum Level with a Custom Fighter</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Earned, Not Given</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/CEEBB118462EF684499B0777A6732E1200AE63A2.PNG</Image>
+      <Description>Finish Tournament Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Winners Welcome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/76B374D8BD02F110405E88F5A67E349A4BC1E85C.PNG</Image>
+      <Description>Win a Superfight Match</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Super Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/1E9825A2B74603EBAA12860143AD5644BF0130A4.PNG</Image>
+      <Description>Get Grade S in a Ranked Match</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Fast Track to Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/FF217FEE197C2D9E33EC45B6E2529CAEC247FD0F.PNG</Image>
+      <Description>Win 5 Ranked Matches in a Row</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Record Time Win!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/C4EC19CBBC9CB59334789F431F1FB61110D3D523.PNG</Image>
+      <Description>Defeat an Opponent in under 20 Seconds in a Ranked Match</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/17EE7D4290C22E8900CE5AF8E90776CED1CBC849.PNG</Image>
+      <Description>Win a Ranked Match without being Hit by a Standing, Clinch, or Ground Strike</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Immovable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/95B87E31FFB0979B4317EB80C43E5C98E5C38044.PNG</Image>
+      <Description>Win a Ranked Match without being Thrown</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02898_00</GameId>
+      <Title>Ungrabbable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02898_00_E69B4095A29F71A2EEE0AC3257E01F6794690C3C/82F5A574120D77ACCCE6D456172EAD12C9ECBF39.PNG</Image>
+      <Description>Win a Ranked Match without being Clinched</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

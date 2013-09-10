@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02416_00</Id>
+    <IdEurope/>
+    <Title>Pure Chess</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/F97CE0538DD1FB32D47C55012C19021741B9D6F4.PNG</Image>
+    <TrophiesCount Total="13" Bronze="9" Silver="3" Gold="1" Platinum="0"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Check</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/7FFC0978B8CB94A58D825C0C57AA1D0968B73A01.PNG</Image>
+      <Description>Put an opponent in check in an exhibition game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Checkmate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/803DF73DFF6B9658FC7714645641B4BE0D998EBE.PNG</Image>
+      <Description>Win an exhibition game against the computer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Amateur</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/51B9FC81959AB9C0BF33F88D84A5D4FA434B920B.PNG</Image>
+      <Description>Complete all the tutorials.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Pure Correspondence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/A95A1B157224E29B95CF42D1DCEBFA70CA26DE67.PNG</Image>
+      <Description>Win a game of Play By Mail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Double Check</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/B2DD399550DBF4C66BD0F7DF542368A27B35D70C.PNG</Image>
+      <Description>Deliver a check by two pieces at the same time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Promotion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/012330B60B24CEB51D116CE79B8BB969734CC50C.PNG</Image>
+      <Description>Advance a pawn to the eighth rank in an offline game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>O-O-O</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/B1B082D8432483EB354675F2416B3BA4A73E9EE6.PNG</Image>
+      <Description>Perform a castling move on the queenside during any full game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>En Passant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/4875E0B859069DB3708B54D9BECA1120C41F84DC.PNG</Image>
+      <Description>Perform an En Passant during any full game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Piece Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/1023E955DD2D4896B4A646F1C1E056760824FB67.PNG</Image>
+      <Description>Capture 100 pieces.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Epaulette Mate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/44E15E38ECD0AEC7B70A14F8F9E0CDD44197AA9B.PNG</Image>
+      <Description>Deliver checkmate where the king is blocked on both sides by his own rooks.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Tournament King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/AD9E25C1961132F6DAF9193F7663C10F07500CF3.PNG</Image>
+      <Description>Complete Tournament mode on all three difficulties.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Problem Wizard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/3F98A5DE04636E2909A896C3D3418A3ED35ACFC1.PNG</Image>
+      <Description>Solve 100 mate problems.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02416_00</GameId>
+      <Title>Grandmaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02416_00_66E365E561C6EB1FFCCA90AFA5729E653D0E2337/F89D76458D61CA5380C633096F6CBB9B77D7F0D2.PNG</Image>
+      <Description>Achieve an ELO of 2500 or a Grandmaster Pure Chess rating.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

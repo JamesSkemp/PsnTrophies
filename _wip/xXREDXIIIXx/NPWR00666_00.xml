@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00666_00</Id>
+    <IdEurope/>
+    <Title>MotoGP 09/10</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/590766DBBFD09660EE72A61F83CC6D806C14A776.PNG</Image>
+    <TrophiesCount Total="46" Bronze="36" Silver="5" Gold="4" Platinum="1"/>
+    <TotalPoints/>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>The Ultimate Prize</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/AD5372C37895C69FE4D4C2EDADE401F4E15EF14D.PNG</Image>
+      <Description>Complete all other Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/72D260E32E31DBBCD24F123970717808C84614C0.PNG</Image>
+      <Description>Your first win.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Centurion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/59248477B53260F89D2967D238011E732755B7D2.PNG</Image>
+      <Description>Complete 100 races in any game mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/74CCBF5547286C2F6555456E83C523C3F1A8F82C.PNG</Image>
+      <Description>Win a 125cc class season in Career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/D57758B0751E7FE3ABA8BFE0BB56E0A0441B96D0.PNG</Image>
+      <Description>Win a 250cc class season in Career mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/3FB6B05970F741F616D33BA83C48BADC397BBD0B.PNG</Image>
+      <Description>Win a MotoGP class season in Career mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Top of the Class</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/64CB1B25156DE964F4CD7FAA2D9EC1F525AC37FA.PNG</Image>
+      <Description>Obtain an 'A' class rating in all three sessions of a race weekend in career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Middle Management</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/DF0DA0E3D7C3BCAE091B0E1EFBABCF0B3598567D.PNG</Image>
+      <Description>Hire a full compliment of staff in career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>That's A Rep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/F86B95A326B278436FEB0357C7022AD2F036A408.PNG</Image>
+      <Description>Obtain a reputation level of 1 in career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Notorious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/D8C0B6C26057312E5175FBA65AB6193D2C4A4017.PNG</Image>
+      <Description>Obtain a reputation level of 10 in career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Famed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/5C168799C612617CA3B954D82B43F21383DC69A3.PNG</Image>
+      <Description>Obtain a reputation level of 20 in career mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>The G.O.A.T.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/403B5187DBC98B9E5A971B9160061AABA7A51CA0.PNG</Image>
+      <Description>Obtain a reputation level of 30 in career mode to become the greatest of all time.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Brand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/A00EE9796220376D6B8A8E0B87A957EF723A5DB3.PNG</Image>
+      <Description>Choose your own team leather, helmet, livery design and paint with your own selection of colors.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Boy Done Good</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/E329AEB6F1017AAC26E06BE9AB3B03B5F5168E11.PNG</Image>
+      <Description>Win on your home circuit in Career Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Corporate Cartel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/9A7E7C1885ED88F2CE3296E3A0CE7E685DEC2329.PNG</Image>
+      <Description>Obtain a full complement of sponsors.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Egg-Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/DDC690A204707F50123C4C6BE86EDB1945CB32A8.PNG</Image>
+      <Description>Fully upgrade a MotoGP class machine in Career Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Jump through some hoops…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/EF791931E609534A6C9B49C784B2B650A5540C0F.PNG</Image>
+      <Description>Successfully perform every type of dynamic race objective.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Dynamic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/AA68231481648B96EC1B34C61FCFBEBE93005D4E.PNG</Image>
+      <Description>Complete over 50 dynamic race objectives.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>They Made Me Do It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/50549B668749EE70BDF7B6653FC27BC8182D260C.PNG</Image>
+      <Description>Complete a full season in championship mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Unravel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/508738B548FD8693777A462502BB3287F12A250B.PNG</Image>
+      <Description>Unlock the MotoGP Class in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>1UP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/064FAEFE25F6AF61B57CC1421A06E55F78A73FB0.PNG</Image>
+      <Description>Complete a full Arcade Mode season without using a continue.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Draughter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/3197A0A731210FAAD21E2AC603C132A6A8C97023.PNG</Image>
+      <Description>Spend a total of 10 minutes slipstreaming in Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Mirror, Signal, Maneuver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/D5328E37FD347C6C5284D0D65EDD7E6665DFC132.PNG</Image>
+      <Description>Get every type of time bonus within the same lap on Arcade Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Insert Coin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/D65F5B82D26A641A541B310DD857B71E99722ACA.PNG</Image>
+      <Description>Use a continue and then finish first in Arcade Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Out Runned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/3C0E16E249D2EDBD376E6B635F65B91BA81ECE41.PNG</Image>
+      <Description>Finish a race with more time than you started with in Arcade Mode, without using any continues.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Power UP!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/3C3FA7AEE2568AA79726CE25065131FFB9B05CE4.PNG</Image>
+      <Description>Earn more time between timing-out and using a continue in Arcade Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Find Your Own Way</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/4A10EC505698DA5F70574F1360718EF6D01ED25B.PNG</Image>
+      <Description>Create a custom racing line in time trial that you then go-on to use in any other game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Beat the 'Fun Vampire'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/F2D079ED51D32DCBFFD639FA9F0FEAB1258CC271.PNG</Image>
+      <Description>Beat a time of 01:19.78 on Donington in Time-Trial Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Halcyon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/543FF13AA5650F097776D0B7A179C5F91A7FEEFF.PNG</Image>
+      <Description>Win a race with no penalties - all clean sections, no crashes, no collisions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Panning For Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/8D349CB5F2BB9FDFAB876F2C14C37FF81D3C889B.PNG</Image>
+      <Description>Win a race at each track.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Bohemian Unlike You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/6EC739FD9B562EF7480C602BAA9A5BD504E074A2.PNG</Image>
+      <Description>Cross the finish line separately from your bike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Water Sports</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/487DB55B11F3AC5D0E2E9241C7241108D5C00520.PNG</Image>
+      <Description>Win a wet-weather race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Doppelganger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/84EE339897198E70DB7B50C428EA19F32E75FB2E.PNG</Image>
+      <Description>Finish a race with each rider in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Blackjack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/B03260B9B1964764894D4307B98BF44FAFFB6DF7.PNG</Image>
+      <Description>Win 21 races online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Nicky Hayden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/18B12B1D1334AA4857899E80C214FAF2BC6E337B.PNG</Image>
+      <Description>Win 69 races online.</Description>
+      <Type>GOLD</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Back to my place...?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/EFAA2FC7A4EF2A8A1A41732D54D959614E3AF3F8.PNG</Image>
+      <Description>Host a multiplayer race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Owned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/B1E5DC80457780B6374C7E6FC45E394015E6F0D7.PNG</Image>
+      <Description>Use your own Career Mode motorbike and rider in a multiplayer race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Champagne!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/A178CF276407157A66F3305A76BC9A00AA7B7E48.PNG</Image>
+      <Description>Win a race against a full grid of human riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Niko Wheelie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/B7962CD1B1CBAC7CC138C3955212B4090710EE46.PNG</Image>
+      <Description>Do a wheelie lasting at least 500 feet on a motorbike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Endo-Rider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/93213F52224A560C3ED577F6606BCFE2A73F5E06.PNG</Image>
+      <Description>Do an endo lasting at least 50 feet on a motorbike.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Dude, Where's My Bike?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/E0FC203ADA9B02E24F10A851E13D5B29765B9EC0.PNG</Image>
+      <Description>Come to a standstill over 100 yards away from your bike after a crash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Bon Voyage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/EC7F1C2BA5A1A5F06F7689958F83FF6999F64A22.PNG</Image>
+      <Description>Ride over 100 miles.</Description>
+      <Type>SILVER</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Wind Tunnel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/83E7BFE7D0EFCBCD9AA0B1C761615E0D272BA355.PNG</Image>
+      <Description>Go over 207mph.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Cheers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/7D8600D9605EF3802473E298F3BD3728910F0407.PNG</Image>
+      <Description>Excited isn't the word...</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Photo Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/2E553506025050D26BCE377941BF40B729B414D4.PNG</Image>
+      <Description>Finish a race within 0.1 second of another rider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00666_00</GameId>
+      <Title>Mr. Consistent!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00666_00_72204252D5B3F351148BFDDD389807DDF652BFE3/37A2CAAAD040518F9D561C9BCBC6AE402D0A37F6.PNG</Image>
+      <Description>Finish 10th or better on every race in a season.</Description>
+      <Type>BRONZE</Type>
+      <Hidden/>
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
