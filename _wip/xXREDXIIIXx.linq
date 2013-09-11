@@ -33,17 +33,21 @@ foreach (var newXmlFile in newXmlFiles)
 		}
 		else
 		{
+			// This is a new game. We'll make sure it's all good.
+
+			// PHP export is different enough that .NET can't just deserialize it as-is.
 			/*var deserializer = new XmlSerializer(typeof(PlayStationGame));
 			var newPlayStationGame = new PlayStationGame();
 			using (StreamReader reader = new StreamReader(newXmlFile.FullName)) {
 				newPlayStationGame = (PlayStationGame)deserializer.Deserialize(reader);
 			}
 			newPlayStationGame.Dump();*/
-		
-			// This is a new game. We'll make sure it's all good.
+			
 			var playStationGame = new PlayStationGame();
 			playStationGame.Game.Id = newGameXml.Element("Game").Element("Id").Value;
-			playStationGame.Game.IdEurope = newGameXml.Element("Game").Element("IdEurope") != null ? newGameXml.Element("Game").Element("IdEurope").Value : null;
+			playStationGame.Game.IdEurope = newGameXml.Element("Game").Element("IdEurope") != null
+				? newGameXml.Element("Game").Element("IdEurope").Value
+				: null;
 			playStationGame.Game.Title = newGameXml.Element("Game").Element("Title").Value;
 			playStationGame.Game.Image = newGameXml.Element("Game").Element("Image").Value;
 			playStationGame.Game.TrophiesCount.Bronze = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Bronze").Value);
@@ -52,12 +56,41 @@ foreach (var newXmlFile in newXmlFiles)
 			playStationGame.Game.TrophiesCount.Platinum = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Platinum").Value);
 			playStationGame.Game.TrophiesCount.Total = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Total").Value);
 			playStationGame.Game.UpdateTotalPoints();
+			playStationGame.Game.Platform = newGameXml.Element("Game").Element("Platform").Value;
+			
+			foreach (var trophyItem in newGameXml.Descendants("Trophy"))
+			{
+				var trophy = new Trophy();
+				trophy.Id = trophyItem.Element("Id").Value;
+				trophy.GameId = trophyItem.Element("GameId").Value;
+				trophy.Title = trophyItem.Element("Title").Value;
+				trophy.Image = trophyItem.Element("Image").Value;
+				trophy.Description = trophyItem.Element("Description").Value;
+				trophy.Type = trophyItem.Element("Type").Value;
+				trophy.Hidden = trophyItem.Element("Hidden") != null && !string.IsNullOrWhiteSpace(trophyItem.Element("Hidden").Value)
+					? (bool?)bool.Parse(trophyItem.Element("Hidden").Value)
+					: null;
+				
+				if (!playStationGame.Trophies.Any(t => t.Id == trophy.Id))
+				{
+					playStationGame.Trophies.Add(trophy);
+				}
+				else
+				{
+					// TODO, this could probably be better.
+					("Duplicate trophy " + trophy.Id + " for game " + trophy.GameId).Dump();
+				}
+			}
+			newGameXml.Descendants("Trophy").Dump();
+			
+			
 			newGameXml.Dump();
 
-			var serializer = new XmlSerializer(typeof(PlayStationGame));
+			playStationGame.Save();
+			/*var serializer = new XmlSerializer(typeof(PlayStationGame));
 			using (StreamWriter writer = new StreamWriter(testDirectory + newXmlFile.Name)) {
 				serializer.Serialize(writer, playStationGame);
-			}
+			}*/
 			break;
 		}
 	}
@@ -88,6 +121,106 @@ public class PlayStationGame {
 	public PlayStationGame() {
 		this.Game = new Game();
 		this.Trophies = new List<Trophy>();
+	}
+	
+	public void Save() {
+		// Create XDocument and save.
+		XNamespace xsi = "http://www.w3.org/2001/XMLSchema-instance";
+		var outputDirectory = @"C:\Users\James\Projects\GitHub\PsnTrophies\_wip\";
+
+		var xml = new XDocument(
+			new XElement("PlayStationGame",
+				new XAttribute(XNamespace.Xmlns + "xsi", xsi.ToString()),
+				new XAttribute(xsi + "noNamespaceSchemaLocation", "../PlayStationGame.xsd"),
+				new XElement("Game",
+					new XElement("Id", this.Game.Id),
+					new XElement("IdEurope", this.Game.IdEurope),
+					new XElement("Title", this.Game.Title),
+					new XElement("Image", this.Game.Image),
+					new XElement("TrophiesCount",
+						new XAttribute("Total", this.Game.TrophiesCount.Total),
+						new XAttribute("Bronze", this.Game.TrophiesCount.Bronze),
+						new XAttribute("Silver", this.Game.TrophiesCount.Silver),
+						new XAttribute("Gold", this.Game.TrophiesCount.Gold),
+						new XAttribute("Platinum", this.Game.TrophiesCount.Platinum)
+					),
+					new XElement("TotalPoints", this.Game.TotalPoints),
+					new XElement("Platform", this.Game.Platform)
+				),
+				new XElement("Trophies")
+			)
+		);
+		
+		foreach (var trophy in this.Trophies)
+		{
+			var trophyElement = new XElement("Trophy",
+				new XElement("Id", trophy.Id),
+				new XElement("GameId", trophy.GameId),
+				new XElement("Title", trophy.Title),
+				new XElement("Image", trophy.Image),
+				new XElement("Description", trophy.Description),
+				new XElement("Type", trophy.Type),
+				new XElement("Hidden", trophy.Hidden)
+			);
+			if (!trophy.Hidden.HasValue) {
+				trophyElement.Element("Hidden").Add(new XAttribute(xsi + "nil", true));
+			}
+			xml.Root.Element("Trophies").Add(trophyElement);
+		}
+		
+		xml.Dump();
+	
+		/*
+		var newGameXml = new XDocument(
+			new XElement("PlayStationGame",
+				// ...
+			)
+		);
+		
+		var trophyXml = XDocument.Load(string.Format("{0}trophies-{1}.xml", path, game.Element(ns + "Id").Value)).Root;
+		var trophiesBronze = 0;
+		var trophiesSilver = 0;
+		var trophiesGold = 0;
+		var trophiesPlatinum = 0;
+		foreach (var trophy in trophyXml.Elements(ns + "Trophy"))
+		{
+			switch (trophy.Element(ns + "TrophyType").Value)
+			{
+				case "BRONZE":
+					trophiesBronze += 1;
+					break;
+				case "SILVER":
+					trophiesSilver += 1;
+					break;
+				case "GOLD":
+					trophiesGold += 1;
+					break;
+				case "PLATINUM":
+					trophiesPlatinum += 1;
+					break;
+				default:
+					break;
+			}
+		
+			var trophyElement = new XElement("Trophy",
+				new XElement("Id", trophy.Element(ns + "IdTrophy").Value),
+				new XElement("GameId", trophy.Element(ns + "GameId").Value),
+				new XElement("Title", trophy.Element(ns + "Title").Value),
+				new XElement("Image", trophy.Element(ns + "Image").Value),
+				new XElement("Description", trophy.Element(ns + "Description").Value),
+				new XElement("Type", trophy.Element(ns + "TrophyType").Value),
+				new XElement("Hidden", trophy.Element(ns + "Hidden").Value)
+			);
+			newGameXml.Root.Element("Trophies").Add(trophyElement);
+		}
+	
+		*/
+		//newGameXml.Root.Element("Game").Element("TrophiesCount").Attribute("Bronze").Value = trophiesBronze.ToString();
+		//newGameXml.Root.Element("Game").Element("TrophiesCount").Attribute("Silver").Value = trophiesSilver.ToString();
+		//newGameXml.Root.Element("Game").Element("TrophiesCount").Attribute("Gold").Value = trophiesGold.ToString();
+		//newGameXml.Root.Element("Game").Element("TrophiesCount").Attribute("Platinum").Value = trophiesPlatinum.ToString();
+	
+		xml.Save(outputDirectory + this.Game.Id + ".xml");
 	}
 }
 
