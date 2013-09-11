@@ -37,7 +37,11 @@
 										<xs:element name="Image"/>
 										<xs:element name="Description"/>
 										<xs:element name="Type"/>
-										<xs:element name="Hidden"/>
+										<xs:element name="Hidden" nillable="true" type="xs:boolean">
+											<xs:annotation>
+												<xs:documentation>Whether the trophy is hidden/secret.</xs:documentation>
+											</xs:annotation>
+										</xs:element>
 									</xs:sequence>
 								</xs:complexType>
 							</xs:element>
