@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03663_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dollar Dash</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/F27AB683EA81BA9A54D06B88071388948BF7BF68.PNG</Image>
+    <TrophiesCount Total="20" Bronze="19" Silver="1" Gold="0" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Thief</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/4785EF8107DDD97AFA1466CCB9A4C504076B1C9E.PNG</Image>
+      <Description>Steal $1000 in a single match from other players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Capo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/788E47F5CB28DAAD8CADD5CC69DABEBC15EF9E6B.PNG</Image>
+      <Description>Acquire rank Capo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/36877EE52CF614D0E66E924760FE58EE14EF0BE1.PNG</Image>
+      <Description>Acquire rank Boss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Fully loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/16F5A2E379BB22ACCA94BE1927A73EE83680E220.PNG</Image>
+      <Description>Buy every shop item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Boulder Dash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/C9B0750FFF09E40A1F1B5498A24484B0A8BACA8A.PNG</Image>
+      <Description>In an online game, hit 3 human players with a single boulder.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Tight Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/C818547CB8DDFCC929FF4068044F8DECF7A88D50.PNG</Image>
+      <Description>Win an online match with a lead of $100.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Highest Rank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/CB476CF7D06463C44542154F448927C18C27F03C.PNG</Image>
+      <Description>Acquire highest rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Homerun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/17D0407AFE3E02E32C4489ADFC1DF78EFF57DD79.PNG</Image>
+      <Description>In an online game, deposit a full bag of $1000 at the getaway car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Master of Dollar Dash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/18C49E4C9F215CF0589592C30A3DC2C9C5C22DAC.PNG</Image>
+      <Description>Win 5 games or finish 20 games in mode Dollar Dash (online).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Master of Hit'n'Run</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/573BEA1949A7011B74EC9D5AB561A66EBD8504FE.PNG</Image>
+      <Description>Win 5 games or finish 20 games in mode Hit'n'Run (online).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Master of the Safe!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/84FE0AF2D106C9E457B8800B77E394527A2A7843.PNG</Image>
+      <Description>Win 5 games or finish 20 games in mode Save the Safe (online).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/FF8CF8C97C7F228B22D692F9818D946749CBD5AB.PNG</Image>
+      <Description>Win one game in Mode Hit'n'Run without beeing knocked out by other players (online).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Missile Defense System</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/751310D174F20DE3A7824DBA5592F7807A3840F8.PNG</Image>
+      <Description>Bounce a nuke with Jelly.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Boxer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/477821704F58E656BB6E9A2DEF11EABFCE9EFDC4.PNG</Image>
+      <Description>Knock out an opponent with melee attacks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Drunkard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/38186F3EA2F699F624AA72E96031A18A15EE89AF.PNG</Image>
+      <Description>Suffer beer damage 10 times in a single match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Inseparable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/A4CB425E990DD6655EE2FA6F2FB6C7B2E03E22CA.PNG</Image>
+      <Description>Win a Save the Safe match without losing the safe (online).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Taunted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/9C1B0C59C6C66F765B0154C9273BA5F1CCD3A0B1.PNG</Image>
+      <Description>Use both taunts and win an online match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Magpie escape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/D3C54FA7B49EB12698E1328A3F7A83F2CA077C88.PNG</Image>
+      <Description>Outrun a magpie.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>Customized</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/3DCB380A5CB083D39DE6EF34DF848AF67714645D.PNG</Image>
+      <Description>Win an online game with a custom hat, face </Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03663_00</GameId>
+      <Title>My first robbery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03663_00_005EB4F85BFD96D2A40159A8DE096B7E14F7C2E9BA/71DC312CF318ACF6E346AB2B9EBEABB6753C5CA2.PNG</Image>
+      <Description>Complete the Boot Camp.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

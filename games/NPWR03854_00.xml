@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03854_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Mugen Souls [KOR]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/7F2836FD9E894C5950CC502F68A31F1A58A9CF1A.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>플래티너 트로피 절대신</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/477247457B8E4CBD35E548BB44C6FD3990DBAD18.PNG</Image>
+      <Description>모든 트로피를 컴플리트! 이제 당신도 절대신(?)</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>세계정복개시!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/B7FCB92300E7F33762765AC744F6F44641BD496B.PNG</Image>
+      <Description>게임을 처음 기동했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>일요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/3F4C06DA1BCF59FD8FA126B0FF2C3D189061047C.PNG</Image>
+      <Description>일요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>월요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/F6B8CA77F538881A2502FB45FD0EAC710316E2B3.PNG</Image>
+      <Description>월요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>화요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/013859A228AFF39CB61A302D8728DD49C09E3569.PNG</Image>
+      <Description>화요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>수요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/28E866E434828C52440F74F1B7D2249827856373.PNG</Image>
+      <Description>수요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>목요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/D9A75CDA687E02F832DA99DFBB5D15C47A12684D.PNG</Image>
+      <Description>목요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>금요계 제패!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/FACAE80B7F822DC6EF2A9B9905AAF3FE94F88C61.PNG</Image>
+      <Description>금요계의 용사와 마왕을 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>칠요계 Get!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/61C4B2CCBE6FA628AA0EA114B6417BDF61F84996.PNG</Image>
+      <Description>칠요계를 완전 부하화했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>게임 클리어!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/93105C675EF919D0FE2EF7FAFED2061D4CAF8FB4.PNG</Image>
+      <Description>게임의 엔딩을 봤다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대단원</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/C11E03529B88B627C961F6AD1A8B5D0F6DC42209.PNG</Image>
+      <Description>진짜 엔딩을 봤다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>무겐 필드 개시!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/8B4F1757533888A7B900E21FADEC83D724287662.PNG</Image>
+      <Description>무겐 필드에 처음 들어갔다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>무겐 필드 50층 도달!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/7BAE036FEE9A8450E3DD3F84BC617410AD84B0A5.PNG</Image>
+      <Description>무겐 필드에서 50층까지 달성했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>무겐 필드 100층 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/436F450A75888B3F7E0825068CF0E573085FB5CE.PNG</Image>
+      <Description>무겐 필드에서 100층까지 달성했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>샹푸르 마니아</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/B53285B9F552BC15A5B9C8DA92A785A64478BD58.PNG</Image>
+      <Description>샹푸르를 20종류 입수.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>샹푸르 컬렉터</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/1E5CEF1485EF74B563E0448B462385848665FCDA.PNG</Image>
+      <Description>샹푸르를 50종류 입수.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>폭주! 부하옥!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/C319A9B14E46999EFCCFCF2C07A2E5695D8D750A.PNG</Image>
+      <Description>부하옥이 폭발했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>처음 만나는 G캐슬</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/E11672A7947AB33AC6D7B311235157A2D229530C.PNG</Image>
+      <Description>G캐슬에서 이겼다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>G캐슬 마스터</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/3C43588EAA2A264464FBBACABC533F4283BD3B0C.PNG</Image>
+      <Description>G캐슬 스킬을 모두 배웠다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 1만 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/0BB3935A19808F5381EA2745157BF623908E92D0.PNG</Image>
+      <Description>최대 대미지 1만 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 10만 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/EE8432E795D307B10DE6E94142556DB0E105CDEB.PNG</Image>
+      <Description>최대 대미지 10만 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 100만 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/5D7AE27275B5511CF37D1675FB4D9ADBF8944EAA.PNG</Image>
+      <Description>최대 대미지 100만 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 1000만 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/D33C79971DF6872B7E9336A0459BCEE84F31F637.PNG</Image>
+      <Description>최대 대미지 1000만 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 1억 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/FA63A063FAE5892F0D9EBA0A459C2F5D9606421A.PNG</Image>
+      <Description>최대 대미지 1억 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>마음껏 묶였다</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/FA8CDFD5CDFA67C3D71E57030E1D634326F3EBDE.PNG</Image>
+      <Description>무겐 필드에서 모든 커맨드를 봉인하고 전투에 승리했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>강습! 인카운트 어택!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/324EFB0AA31774C568D08B30665996A82EFACC8D.PNG</Image>
+      <Description>인카운트 어택 성공.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대륙 부하화!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/80DFF99A5BD237AB61786B72D549C819CC2AB090.PNG</Image>
+      <Description>대륙을 부하로 만들었다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>처음 만나는 모에킬</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/2E6AC6A7D41C33673EC65C03C41EC6588C105664.PNG</Image>
+      <Description>배틀에서 부하전생에 성공했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>나이스 콤보!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/EF3D26A0E227DE143BCAAAE490576D3AC1A79E82.PNG</Image>
+      <Description>최대 콤보 100돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>판타스틱 콤보!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/B506D9B2EA9278AC7AF877479C19F7A264051B25.PNG</Image>
+      <Description>최대 콤보 999돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>나이스 TCS!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/9F743B38A68BB281BD04967F5920E8E2B08281B0.PNG</Image>
+      <Description>TCS를 발생시켰다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>판타스틱 TCS!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/C820872736D64CC306A4403973BB49F75101EDBC.PNG</Image>
+      <Description>전체 해방 상태로 TCS를 성공시켰다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>렛츠고 피버 타임!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/4A4DC4A15D6134F0F02A9B58DA3E11A7B54D8D97.PNG</Image>
+      <Description>피버 모드를 발생시켰다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>엔조이 온천 타임!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/3A3B71CE39810629CDC143D0A08E379EC07B3E1E.PNG</Image>
+      <Description>처음 온천에서 도와주기를 했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>레벨 999 달성</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/D85B681E48F4548D9E441A8865CECA5C6D2EB79C.PNG</Image>
+      <Description>레벨 999도달.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>레벨 9999 달성</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/9AA83EC32FBD2F5FCEF1B150395A492C78562036.PNG</Image>
+      <Description>레벨 9999도달.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>개발 완료?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/9272B77461C7FA097C3F38FE0DC42EE453E742C4.PNG</Image>
+      <Description>능력개발을 10회 했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>날라갔다!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/901948F4605F6FE80E0C406079B6F1E5391CF7AB.PNG</Image>
+      <Description>날리기를 했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>세계의 끝까지 GOGOGO!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/DFF616FC80AE60F594E44B7AF3E90F17947F5FDB.PNG</Image>
+      <Description>최대출력으로 날리기를 했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>제공권 탈취!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/78F40A30B084AB71CBFCF463E3542609DC78DE47.PNG</Image>
+      <Description>공중 오브젝트를 파괴했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>일하는 자</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/5A75E626CC3B21F5C64C5CD63330EE88CC2A6C9A.PNG</Image>
+      <Description>숨겨진 직업을 해방했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>잡 마스터</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/1A0FFF6F8D1AA785FB4A917EF3585E83E9339597.PNG</Image>
+      <Description>모든 직업를 해방했다.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>압도적 부자!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/F2DDA273E5A798FB8432137EEA7522B45B775375.PNG</Image>
+      <Description>소지G 100000000 돌파.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>압도적 구도자!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/69D9ACABB44CB2EB441D90A66A3B318F4DDB2A2F.PNG</Image>
+      <Description>총 획득 무겐 포인트 999999999 돌파.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>모에의 신</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/6BE8CA7C3CC437B26151DD04343D0A6757900F6B.PNG</Image>
+      <Description>슈슈의 매력도가 50%를 넘었다.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>가짜 소동 해결!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/7421DE019095B7A21CB881D0DCEE5CD61EB8028B.PNG</Image>
+      <Description>모든 가짜들을 해치웠다.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>태양신 격파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/8D5950E12ABA7EA2DF051D93E70662AFD4E28C38.PNG</Image>
+      <Description>태양신을 해치웠다.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>마스터·슈슈</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/F759984705759BD879C190DEC1CFBA574F522A65.PNG</Image>
+      <Description>모든 종류의 샹푸르를 입수했다.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>대미지 100억 돌파!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/8AA82ED670BBF5C503FA5AEB2FEA5F938035154B.PNG</Image>
+      <Description>최대 대미지 100억 돌파.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>여신강림?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/C341AE74D46F6027DE027288F9688F84A909CABD.PNG</Image>
+      <Description>슈슈의 매력도가 100%가 되었다.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03854_00</GameId>
+      <Title>한계돌파!? 압도적 부하옥!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03854_00_2C2271B2424EC9070A9C60CD3CA7E4A97906737E/8028E16EF8633D1FBB4176DC3D7AA031BDA4C958.PNG</Image>
+      <Description>부하옥 사이즈가『100억km』에 도달했다.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01258_00</Id>
+    <IdEurope></IdEurope>
+    <Title>NCAA Football 11</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/47B4479546F6B81CD4070B389D801A045071CF57.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="15" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D24710B3595567755B93A99888E4CD598041411C.PNG</Image>
+      <Description>Unlock every trophy</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Air Raid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/02519E8F21B7A9FA19811C5C819292AD464E49BF.PNG</Image>
+      <Description>Score 35+ points in a game running an Air Raid offense (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Mix It Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D2EF9669B03B690813D7D9E97BB110643F00ED0A.PNG</Image>
+      <Description>Rush for 100 yards in a game with a team that runs an Air Raid offense (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Multiple Offense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/FF2BCC16318DFC5727AE59D2B0A021F0D817ABD1.PNG</Image>
+      <Description>Call at least one play from 10 different formation sets using a Multiple offense (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>One Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/1308CBFB1330F9ABF037255D5FDC3202DB2B491F.PNG</Image>
+      <Description>Run a One Back offense and gain 200 yards rushing in a game (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Options</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/99B83699043DA37DF54D5A950E700C5470668D5A.PNG</Image>
+      <Description>Score 35+ points in a game running an Option offense (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Throw 'Em a Curveball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/E234C525476FBB2255AB22051693269BC07C0708.PNG</Image>
+      <Description>Throw for 300 yards in one game using an Option offense (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Pistol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/0DE4BBE325FD224206C0E660B9A555D37652481B.PNG</Image>
+      <Description>Gain 100 yards rushing with a QB and a HB while running Pistol offense in a game (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>West Coast/Pro Style</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/46FC2CAD5AEBE16A7A2972102EC5B842AED2C013.PNG</Image>
+      <Description>Using a West Coast/Pro Style offense, complete passes to 8 different receivers (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Run and Shoot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/8940972F78D7EFD4A7C271EADAADFFF4F75FE1A3.PNG</Image>
+      <Description>Gain 300 yards passing in a game throwing to at least 5 receivers using the Run and Shoot(no co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Aggressive Spread No Huddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/B7EA4CE9E50E12F4E82F4F7910E515153A4E252A.PNG</Image>
+      <Description>Score a touchdown running only no huddle for an entire drive with a Spread offense (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Spread No Huddle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/0F0C20D0DF5F753C1F0DA1DF212F5B43251888AF.PNG</Image>
+      <Description>Score 2 touchdowns in a game after calling audibles using a Spread offense (excludes co-op).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>There He Goes…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/64A806235EBE8F4805B4A667262CD1AB8C828729.PNG</Image>
+      <Description>Break a run for 50 or more yards in a Play Now or Dynasty Mode game (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Take a Stab Downfield</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D5F33ABBD746933F567CF597474FCA5EB99EFA1D.PNG</Image>
+      <Description>Complete a pass for 50 or more yards in a Play Now or Dynasty Mode game (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Formation Sub Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/57E941C111A71ACB0EE25146B4AD7F1B86A86263.PNG</Image>
+      <Description>Score a touchdown with a player subbed in using Formation Subs (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>1st Option For 6</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/856F809D23D02B22787BB23ACBDD4C9A4F08E8DE.PNG</Image>
+      <Description>Score a touchdown handing off to the fullback on a triple option play (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Speed Reader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D4D7343623CAFA51953B9EBF73579848B8320F3E.PNG</Image>
+      <Description>Score a touchdown on a QB Choice run play (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Draw Me a Touchdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/69A4471510FA8D007E12401A1F32058CF5B06ED2.PNG</Image>
+      <Description>Score a touchdown running a draw play on 3rd and 6+ yards (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/0EA5974CA1C3E85A2740FA112D204B04C5634010.PNG</Image>
+      <Description>Score a touchdown as time expires to win the game (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Balanced Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/BF0BCE1815CEB8932E6B345A856EBC93B95116C4.PNG</Image>
+      <Description>Gain 200 rushing yards and 200 passing yards in the same game (excludes co-op and Road to Glory).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>The D Is For…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/191C24620A0E7A3F0E9ED9F6345EE46059C0597B.PNG</Image>
+      <Description>Hold the opposition to under 100 total yards in a Play Now or Dynasty Mode game (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Red Zone Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/B923F18AABEE114CCA5637484920779ABA09DE4D.PNG</Image>
+      <Description>Complete a Play Now or Dynasty Mode game with a Red Zone Efficiency rating of 100% (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Red Zone Shutout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/94F157863B5A6C81E1703CEB86A7D14F7C92B6E5.PNG</Image>
+      <Description>Complete a Play Now or Dynasty Mode game without allowing a TD from the Red Zone (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Lock It Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/9D045CD2EEB8B232A4462F68E564E611D5E6A3DF.PNG</Image>
+      <Description>With Player Lock on, return an interception for a TD (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>In Your Crosshairs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/23385DB580BB5A53E465DB9035BBC07445C05954.PNG</Image>
+      <Description>Spotlight a receiver and get an interception on him in a Play Now or Dynasty game (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/1B7795008F1491BBEFDF935782FC5A13927B1F53.PNG</Image>
+      <Description>Win a game by 35+ points on Heisman difficulty (excludes co-op).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Best Class Ever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/CC9EA6CFFCE7C9065C2EDAABC5FD1D8D7D4EBB95.PNG</Image>
+      <Description>Have the #1 ranked recruiting class in a season in single team Dynasty Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Point Some Fingers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/2F1855311912F66E530592F8964156853B682813.PNG</Image>
+      <Description>In a single phone call, take 250 points away from one school by downplaying pitches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>One Hit Wonder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/C6FEF50206A895005FEB12670130118848635AD2.PNG</Image>
+      <Description>Get an instant commit from a prospect by offering a scholarship on a one topic call.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Switcheroo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/B97ACF313EDC694C07012E74F405330B6AF2D05B.PNG</Image>
+      <Description>Secure a commitment from a prospect that was a soft commit elsewhere.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Don't Call It a Comeback</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/39040EC93E0A9A7ABFB44C5F0BF055668D771C9E.PNG</Image>
+      <Description>Convince a player with an overall rating of 95 or higher to stay.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Program Changer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/2F26AD5915239D57F88A0AD6A1D6CDE6785BFA5B.PNG</Image>
+      <Description>Sign a 5-star QB or HB with a 2-star prestige school in a single team Dynasty (no ATH).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Setup Shop In the Big 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D27F9550240AA4AB5AFD1E303877C90C1C4D11F8.PNG</Image>
+      <Description>In a single team Dynasty, develop new pipelines in Texas, California, and Florida.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Burn That Shirt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/1D2368479A7A5254F176E022DCD3387FE19352B6.PNG</Image>
+      <Description>Remove the redshirt from a player in a game, and earn player of the game status with that player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Crash the Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/3DFEC351EDAA3E5E450E508207DFDD4A8B885679.PNG</Image>
+      <Description>In a single team Dynasty, earn an invite to a BCS game with a team from a non-BCS conference.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Picking Up Yards</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/49812E7611DE6B122C576457141E459DE20F139B.PNG</Image>
+      <Description>In a solo Dynasty or Road to Glory, have a player with an avg. 6+ yards per carry (min 100 attempts).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Mr. Efficiency</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/39772FA6F2F80CFA33F9F15E69CBB973D2A4B5EE.PNG</Image>
+      <Description>In a solo Dynasty or Road to Glory season, have a QB with a completion % of 65+ (min. 100 attempts).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>20/20 Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/943B41D41E11667051317A95D75765FAF85ABD3D.PNG</Image>
+      <Description>In a solo Dynasty or Road to Glory season, get 20+ passing and 20+ rushing TD's with one player.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>What a Weekend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/71A596C63F8CB1FB2E235768B80E057C559364DE.PNG</Image>
+      <Description>Invite 5 or more recruits to a game and get all A- or better visit grades in a single user Dynasty.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/F682B5E16AC513E199F1B014E791CD80B0D99144.PNG</Image>
+      <Description>Be the last remaining undefeated team in a single team Dynasty season.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Simply Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/B4B0FFE3C94CE83B0CCCA1C13F294A1DF5C481D7.PNG</Image>
+      <Description>Play an entire season in a single team Dynasty and remain undefeated.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Perfect From the Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/B70B5C882D03061B0CDB59CE5A02448EE677B314.PNG</Image>
+      <Description>In a single team Dynasty, maintain a #1 ranking for the entire season.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/C633E2E9470623AC4AEFD293F825C1ACD15C5C07.PNG</Image>
+      <Description>In a single team Dynasty, win all games in a season by 21+.(Must play the BCS title game)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/95E344164CD27EB2F53D5E6C3B1A90A98D819AA6.PNG</Image>
+      <Description>Win all bowl trophies (including National Championship) in Dynasty or Road to Glory modes.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>High School Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/CA88C8E947CF3BFB3982ABAAF783CFF9DC8C27AB.PNG</Image>
+      <Description>Play and win the High School Championship Game in any state.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Blue Chip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/D749E86E8EB445C7638ADF1612AC52359CAD9F24.PNG</Image>
+      <Description>Become a 5-star prospect in Road to Glory Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Earned Your PT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/8C785849B3749E8957DDD6FDE6F84B74D1A12D9D.PNG</Image>
+      <Description>Become a starter in Road to Glory Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Strike the Pose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/1EBFF5A61584FB247C5C53806AF1E64D5F94AD11.PNG</Image>
+      <Description>Win the Heisman Memorial Trophy® in single team Dynasty Mode or Road to Glory Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Campus Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/626D79A9316BD50647A3094499E5EE7982CF171A.PNG</Image>
+      <Description>In Road to Glory Mode, earn a spot on your team's All-Time leaderboard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Head and Shoulders Above</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/F47B31F9F54CA48E8FE20292114C8161AFC017DA.PNG</Image>
+      <Description>In Road to Glory Mode, earn a spot on your conference's All-Time leaderboard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01258_00</GameId>
+      <Title>Greatness</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01258_00_6ECC57C7196F594FEF5E1B71D376DEC124D86F72/ED6EC6BC2C8C2A4E8C1B057C05A3AD5BA96DAFDA.PNG</Image>
+      <Description>In Road to Glory Mode, earn a spot on the NCAA All-Time leaderboard.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

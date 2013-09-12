@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03880_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Steins;gate</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/8F37141AEFD932F81875E23D2374223B220449AA.PNG</Image>
+    <TrophiesCount Total="42" Bronze="23" Silver="16" Gold="2" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>與天同行的觀測者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/C372C564AC29644815C0ADF6C86B4EECC3A8CFBF.PNG</Image>
+      <Description>玩透了『STEINS;GATE』</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>命運石之門的選擇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/0A2D1AEB00A8BFB7B21FF3D835F3C3175176122F.PNG</Image>
+      <Description>開始遊玩STEINS;GATE</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>起始與結束的序章</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/353F99B1FD118F46CC7BEA8740B57774050D0AF1.PNG</Image>
+      <Description>完成了序章</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>時間跳躍的妄想</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/DADF206E5E3F57098201BD357D4AE6FE63AE861B.PNG</Image>
+      <Description>完成了Chapter1</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>空理徬徨的遭遇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/0390A059689D346C3636A49E1D9E446DA092A4A8.PNG</Image>
+      <Description>完成了Chapter2</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>蝶翼的世界變動線</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/24F2E96070A088301ED5801FD122359E9A6F6FC0.PNG</Image>
+      <Description>完成了Chapter3</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>如夢似幻的恆常性</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/10FDB675BDA5B6AFBF2839357C2B21EA938F07A4.PNG</Image>
+      <Description>完成了Chapter4</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>時空境界的教義</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/473A4E1AF738470F38E1B9FDE2FD33C652A8F332.PNG</Image>
+      <Description>完成了Chapter5</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>形而上的壞死</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/CE4BD82434C068190B2B4C802C16ED80BE8CB06C.PNG</Image>
+      <Description>完成了Chapter6</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>扭曲虛像的情節</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/2653EA0B23614F28A61E0FA7139F7400B4937E47.PNG</Image>
+      <Description>完成了Chapter7</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>自我相似的陰陽</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/D0518CE922F3D11E10B022EC0E81BAF3FC5C2351.PNG</Image>
+      <Description>完成了Chapter8</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>無限連鎖的凋亡</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/7D337FD7C77168E12E3AF3166227BCB13B8C4972.PNG</Image>
+      <Description>完成了Chapter9</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>境界面上的命運石之門</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/13691B5D708E709AD005EA9CB33A970631717A91.PNG</Image>
+      <Description>到達了命運石之門</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>天才少女的憂鬱</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/7053B3821874772EF3A677983C518C7A786CF419.PNG</Image>
+      <Description>用郵件和助手打好關係</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>因果定律的消融</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/6478056045203026C4A79656C038A74E2CB33098.PNG</Image>
+      <Description>看過了助手的結局</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>無色透明的星塵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/A7A3D66632E3490F09E5CC97188B575816E9D722.PNG</Image>
+      <Description>看過了麻由里的結局</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>絕不可逆的重啟</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/338793AE4F7DE4F484325F9423E25FD56F654910.PNG</Image>
+      <Description>看過了鈴羽的結局</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>背德與重生的連結</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/3BC233C7A085386325FBDC51AA45D9DA9F4DA9CC.PNG</Image>
+      <Description>看過了徒弟的結局</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>分離損失的既視感</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/1759EFE4D7095075C7D94110BD17E308FCF390E4.PNG</Image>
+      <Description>看過了菲伊麗絲的結局</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>完成所有的世界線</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/98986F8BDA93C9FC3E7EBB06AC5990BFFD89FE6D.PNG</Image>
+      <Description>看了全部的結局</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>CG的達成率25%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/D75EA8206D176F3D5FCE57459C54DBCD23B4C527.PNG</Image>
+      <Description>看過了25%的CG</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>CG的達成率50%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/FA502543EF3F9C1D791305C8C9633A39CC3C941F.PNG</Image>
+      <Description>看過了50%的CG</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>CG的達成率75%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/88543F57C66364AAE1DB9C13C7B68D4A8C0C5C89.PNG</Image>
+      <Description>看過了75%的CG</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>CG的達成率100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/E9FC23AB7A89EDBF48B78AE0501EA1DF9952ECB9.PNG</Image>
+      <Description>看過了所有的CG</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>自我的記憶群</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/4A9C595A99D520AEA1CBCA41F1F043F026A1C2BD.PNG</Image>
+      <Description>【手機呼叫】看過一次以上的發信履歷</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>他人的記憶群</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/34CF9ECA988C7C1A9051D86B118038D566FF8BC2.PNG</Image>
+      <Description>【手機呼叫】從收信履歷看了郵件</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>共鳴的反應</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/1BA05DCA0D7D59CE0FCECB037DEF20DAC5B918A4.PNG</Image>
+      <Description>【手機呼叫】對任一個人完成回信</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>遺忘的訊息</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/279D485726FD759469096E38389A5E6D06E619E0.PNG</Image>
+      <Description>【手機呼叫】留下一封以上的未讀信到達結局</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>投射的視界</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/2C9C5171835961DE54701C5813642E0E17747CD1.PNG</Image>
+      <Description>【手機呼叫】變更了手機的壁紙</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>首次的聲音</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/5EB673D632A7B3AB81666875A0689FE4DC47D2EA.PNG</Image>
+      <Description>【手機呼叫】變更了手機鈴聲</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>完全孤立的個人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/874A34B95529F48A5909CF7C012EEA3CE3B07D68.PNG</Image>
+      <Description>【手機呼叫】故意忽略了電話鈴聲</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>雷網路的英雄</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/7A31D320A77929F2DDEBFC338679CC8231FDB36D.PNG</Image>
+      <Description>【手機呼叫】看過雷網路翔全13話的劇情概要</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>流行尾聲的蛙蛙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/55E348357DC6CE0D3361444C2285AC63164E4DD4.PNG</Image>
+      <Description>【手機呼叫】集滿了呱呱蛙的手機桌布</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>混沌之詩</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/AE28802165A60D6272A64660AF510EDC66C2C0DB.PNG</Image>
+      <Description>【手機呼叫】集滿4首由混沌頭腦流出的手機鈴聲</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>雷網路的吉祥物</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/8985BB2BEBD0B80D2DC0359E2B85D6F6D31F34C2.PNG</Image>
+      <Description>【手機呼叫】獲得了嗚啪的2種手機桌面</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>混沌中的公主們</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/09F9DA83C7B55924099FBF042445279ABF4A2EEC.PNG</Image>
+      <Description>【手機呼叫】獲得了混沌頭腦的3種手機桌面</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>非連續性的感覺</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/E2FD171E7B9EB0041209D6D99D1D160578B0BF3D.PNG</Image>
+      <Description>【手機呼叫】連續被助手拜託去買泡麵2次</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>黑歷史的熱情</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/3F03D338011BEA8A0A5CD25316F10383E28D0369.PNG</Image>
+      <Description>【手機呼叫】看過了麻由里寄來的有關『開始製作Cos服的理由』的郵件</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>女戰士的傲氣</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/045740266E1A9AFE47710121133A677D06563CF7.PNG</Image>
+      <Description>【手機呼叫】看過了鈴羽寄來的有關『格鬥技』的郵件</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>暴虐的姐姐</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/D46ADFE53573023E3F7034EEFEE76FD8A5A69FAC.PNG</Image>
+      <Description>【手機呼叫】看過了徒弟寄來的有關『姐姐』的郵件</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>貓咪的下午茶時間</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/76D0766995DB748EE1E9406515FB860169E0D491.PNG</Image>
+      <Description>【手機呼叫】看過了菲伊麗絲寄來的有關『紅茶』的郵件</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03880_00</GameId>
+      <Title>全壘打級的笨拙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03880_00_C0191BB2833C0A5FDD9572C4663AABC8D80FDFEB/D56419BF63251CDF0D0C251CEDCE3358ED6449A0.PNG</Image>
+      <Description>設錯電話微波爐(暫名)的時間設定累計10次</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

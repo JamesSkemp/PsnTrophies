@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02839_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Rayman Origins</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/0E1C5DD975ED320D4FBBF4DC513717370B9743DF.PNG</Image>
+    <TrophiesCount Total="37" Bronze="22" Silver="9" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Сладкие грезы!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/3F0FE9C92286D6BB3189082C530DAB62818AAE65.PNG</Image>
+      <Description>Выиграны ВСЕ трофеи в игре! ОБАЛДЕТЬ!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Бетилла вернулась!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/CE0BC146837B1AE8D9EED09473957B3C3E25DDCF.PNG</Image>
+      <Description>Главная фея Бетилла свободна!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Прекрасные ритмы!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/9B0472D9A0FA20304397ABD6D3312F1CD2530CD8.PNG</Image>
+      <Description>Холли Луйя, нимфа музыки, свободна!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Накормить фею!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/2DDBE3F500848DE3592DFF9E25E918A9392B954B.PNG</Image>
+      <Description>Эдит Ап, фея-лакомка, свободна!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Помощь в море!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/0A64AAE8F6A1839D924F047C95C80AA63CC1FB9B.PNG</Image>
+      <Description>Аннетта Фиш, морская нимфа, свободна!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Горячие нимфы!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/8F89347171E4E2BF76E394BD24F95AE5EFB022D8.PNG</Image>
+      <Description>Елена Корзини, горная нимфа, свободна!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Ничто не вечно…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/DFB41669877EF4C9A90572C47C27A426DE7BDA2D.PNG</Image>
+      <Description>Динь-дон, главарь покойников мертв!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Разведчик</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/63215FC85C769C1540C0F4866A89C9740CA048A5.PNG</Image>
+      <Description>Тебе удалось найти 10 спрятанных клеток.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Исследователь</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/5496DC786889FA9148EB8C12842856DFCBB80467.PNG</Image>
+      <Description>Тебе удалось найти 25 спрятанных клеток.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Доктор Ливидстон, полагаю?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/EF63867F9210DC5BD1A4B10376B33DFFCF0ED315.PNG</Image>
+      <Description>Тебе удалось найти ВСЕ спрятанные клетки.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Во всю прыть!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/94851CFA06058ECDDE3DFC2F69286F555E46A0FA.PNG</Image>
+      <Description>Добыто 5 скоростных трофеев!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Во весь опор!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/70D8DFEACC7A980B46665A9359389740AB9BE66C.PNG</Image>
+      <Description>Добыто 15 скоростных трофеев!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Во весь дух!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/08A3FD245A39AE193CEF6C388F0AA6E2C2486196.PNG</Image>
+      <Description>Добыты ВСЕ скоростные трофеи!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Друг электунов</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/5F9E59D26769F85AC75B4478ED2A1BCE0DF5E953.PNG</Image>
+      <Description>Готово 10 медальонов.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Герой электунов</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/CA17ABE36F4E496BEE4B8CD32F2D6DC2AD2F9F0C.PNG</Image>
+      <Description>Готово 25 медальонов.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Легенда электунов</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/4C39B29D8C67018CABE9C326F72DDF59A4E28E5F.PNG</Image>
+      <Description>Готовы ВСЕ медальоны.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Молочный зуб</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/0402B7945A989152CF21B6DA35919962F3E5E58B.PNG</Image>
+      <Description>Добыт 1 мертвецкий зуб.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Полный рот</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/1B1C34E7FDB562DAD185BDA6C3C6B14C571556FE.PNG</Image>
+      <Description>Добыто 5 мертвецких зубов.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Челюсти!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/C5270FC8D0290A586887C59B9E592B2DDAF8DC52.PNG</Image>
+      <Description>Добыты ВСЕ мертвецкие зубы.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Чпок! Чпок! БУМ!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/03655867C782E099106CC8E9629A6DD034967171.PNG</Image>
+      <Description>Уничтожено 50 вражеских пузырей.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Гроза пузырей!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/D1A777DC1DC33FE12A2AF2926C194730FD26D6B8.PNG</Image>
+      <Description>Опузырено 4 врага подряд.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Я снова здесь!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/846701B596F614D1B5D1ECA9B885D0620AFB66C9.PNG</Image>
+      <Description>Повторное воспроизведение любой готовой карты.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Никакой боли!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/2CABC8D68FC58DBF394F2C56DBA578C0F6A462C6.PNG</Image>
+      <Description>Уровень завершен без единого повреждения!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Настоящий пылесос!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/672CB29FE6FEA42A4EACC9CF164FE8EC644D02E5.PNG</Image>
+      <Description>Засосано 50 предметов верхом на Моските.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Без паники!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/4C37AD22C9C007AAB3603BB6C544B819D97A4EB3.PNG</Image>
+      <Description>Спасены все колдуны-мрактуны в "Порт-Панике".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Сторона "Б"!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/603B72892388A8DF43D1D0307E8713DE2E39EF1F.PNG</Image>
+      <Description>Игра освобожденным персонажем на любой карте.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Небо зовет!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/0C501E41D65A8011982A6B15BB22C7D7318DEC7A.PNG</Image>
+      <Description>Один час полета!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Сокрушитель!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/B998D51E82A624A08731E3B84E64B4F487687198.PNG</Image>
+      <Description>Сокрушено 50 врагов.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Комбо-сокрушитель!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/CE486101A0776C8E64EF5D59FCE8138538F88A1F.PNG</Image>
+      <Description>Одновременно сокрушено 4 врага.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Бегун!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/EDBA537FA735293CE80E66323DC0ED34AD21B7FD.PNG</Image>
+      <Description>Преодолена большая дистанция!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Как рыба в воде!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/DE805D6F8F3E2F052D04C2C43E322E78D0AFC447.PNG</Image>
+      <Description>Преодолена дистанция вплавь!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Комбо в стиле кун-фу!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/47E861E4818804F865954C854681A5BB2B164523.PNG</Image>
+      <Description>Выполнение сложного комбо-удара ногой!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Гиперскорость!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/2C248B4F376BD3117C6E853A4A31F158B058B86B.PNG</Image>
+      <Description>Бег на протяжении всего уровня!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Прыг! Прыг! Прыг!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/B4B944F781D5C78C54ECBE336DEA7CFB39AC66D6.PNG</Image>
+      <Description>Опузырено 11 врагов в прыжке без приземления во время "Погони во льдах"!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Синий Барон!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/4B37E21A4759B343C2F776700CA1C43561EB2ACB.PNG</Image>
+      <Description>Сокрушить гигантскую морскую змею за 60 секунд в задании "Цель - морская змея".</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Главное - выжить!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/B84F4ECDD7B40884183D3ED0AD988C10AF7AADB2.PNG</Image>
+      <Description>Пруд Пираний пройден без единой царапины!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02839_00</GameId>
+      <Title>Поделом!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02839_00_BFAD8F068524A981D932F6085DF38EB4CE886390/EF191C10E46D8EB4B11D65C0F1E34AF4C0FCB607.PNG</Image>
+      <Description>Удалось опузырить охотника его же собственной ракетой!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

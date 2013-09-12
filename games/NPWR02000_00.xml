@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02000_00</Id>
+    <IdEurope></IdEurope>
+    <Title>A-men</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/B82A801A94CB3E8EB61C06773EFEA208CF207AF7.PNG</Image>
+    <TrophiesCount Total="12" Bronze="8" Silver="3" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Game Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/A2EE7CA2B037C224C835E40492F047AB3C9B6D60.PNG</Image>
+      <Description>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with S rank.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>The End?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/81D008F2E47612185A5C1BB42201E07578016591.PNG</Image>
+      <Description>Beat the final level in the Factory.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>The A team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/1589233D867D1BCF5B3F2243DA2760CFEE54B48A.PNG</Image>
+      <Description>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with at least A rank.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Bee!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/5D8C75BCC11D254C2FA5C570635EC4F61C5CC488.PNG</Image>
+      <Description>Complete all missions in the Forest, at the Seacoast, in the Winterland and in the Factory with at least B rank.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/4EE08A54CA694090D3BCEFD18347D9501B0056CC.PNG</Image>
+      <Description>Exterminate 1000 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Tip Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/AD65217934C8F59A0316F090B744B1CC976F2983.PNG</Image>
+      <Description>Read all tips in the Forest, at the Seacoast, in the Winterland and in the Factory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Treasure hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/32B15193EAF71FB87FB32C017B5A871017F59B40.PNG</Image>
+      <Description>Receive 3 shop items using "near".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Broker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/402CF34154FB155C3C857096C30A1D2517ED6C97.PNG</Image>
+      <Description>Drop 1 shop item using "near".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Siberia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/C27AE4FC2C4D62F560056B4648E7B7BB03344EA5.PNG</Image>
+      <Description>Unlock first Winterland level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Maghreb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/2FE8DFBABBA13AFBDBF45E5593A76EC1D0D9B663.PNG</Image>
+      <Description>Unlock first Seacoast level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>Zone Industrielle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/8B499E0604FE0F0765A0F577032C21E85BE2348C.PNG</Image>
+      <Description>Unlock first Factory level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02000_00</GameId>
+      <Title>C-C-C-C-Combo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02000_00_9815450A424743876C402F62199242AF343DF06A/13A53AF167FA5A4B9E6C8702B8D8D1F690F56817.PNG</Image>
+      <Description>Kill 10 enemies in the combo 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

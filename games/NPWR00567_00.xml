@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00567_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Blur</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/2AEB64B3B15896C5ED7BC80347BC19AE4DF72CDA.PNG</Image>
+    <TrophiesCount Total="49" Bronze="36" Silver="10" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/38CB2DADC731DE830F9620584A58D656EC487850.PNG</Image>
+      <Description>Congratulations!!!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Getting into the swing of things</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/BA36783AB2389CAFEA1C0425883F56555C617D7F.PNG</Image>
+      <Description>Earn your first Fan Target</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Been there, got the T-shirt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/84717A25530CE7F9FD1705A4457359887B61BAEB.PNG</Image>
+      <Description>Wreck your first car</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Friendly competition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/F3FCDAEDF03FCB0A43FF5193B5B2A98507C3C176.PNG</Image>
+      <Description>Choose any Friend as a Rival from the Single Player Leaderboards</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Making a name for yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/790C3438E178D465F673318DC301FEF75CA8C5CB.PNG</Image>
+      <Description>Complete your first Fan Run</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Denied!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/8509B2E416BE1D092A98A313C83A0DB98B59C6D7.PNG</Image>
+      <Description>Evade or destroy your first incoming Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Hot Date</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/20C0E3F2B249CE7C6F575932B128F77FCBA4A30E.PNG</Image>
+      <Description>Unlock Shannon's One-on-One</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Learning the ropes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/58CB39032CE3E1346003D3F1A73E672308146ACC.PNG</Image>
+      <Description>Beat Shannon in her One-on-One</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>I must break you</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/46EE54DE813B8D1FADBA5B89C7544FD4BDB9F9B6.PNG</Image>
+      <Description>Wreck your first Rival in a One-on-One</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Friends make better enemies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/97204EE52698EF07B11EB0473C1A050FF0ACE3ED.PNG</Image>
+      <Description>Have a complete experience of Friend Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Not so pretty boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/0522793F26B9D1751986C6611740733DC87556F1.PNG</Image>
+      <Description>Beat Khan in his One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Sharp Shooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/3740B0212A35064FA3EB55BA8CB8659C17623D04.PNG</Image>
+      <Description>Master the Bolt Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Fan boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/E17249CA2719CABAE0AC62859EB68E8E504F3072.PNG</Image>
+      <Description>Beat Rhymer in his One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Outta my way!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/44ED43A51EDEA8032E0EC2BFE5D23F47B25FC6AC.PNG</Image>
+      <Description>Master the Barge Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Furiously fast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/A75EFC7FCA311CFD6F5A96ABE42EE9ADBA747FC3.PNG</Image>
+      <Description>Master the Nitro Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/8B7827BD4AAF9598BE5E10EAF313594A263AC236.PNG</Image>
+      <Description>Explore Blur's locations</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Syberian Express</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/5373DECC45D95C9EFDD32F34E1C25C8667D8FAA6.PNG</Image>
+      <Description>Beat Drayke in his One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>He's a Wrecking Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/144CBDDE15F7BE0F66A07D1E9D843DEC5C7937EF.PNG</Image>
+      <Description>Master Destruction events</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Check yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/1467A6CFE5A291B152A9C0EFF7C733CDA3609A4F.PNG</Image>
+      <Description>Master Checkpoint events</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Thorny issue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/891DCB44F1175D50164608EE45DA71DB3CA19FB9.PNG</Image>
+      <Description>Beat Natalya in her One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Shocking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/1680432DC02F75D6A707E904A5C496805E07D86E.PNG</Image>
+      <Description>Master the Shock Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Talon-t-ed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/E11FBC0D09CAD9FA19B9F9D2DE49B49166FE04B1.PNG</Image>
+      <Description>Beat Talon in his One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>It's a trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/46FF7EA5F612ADDBC9D59575A21EAA36AEADDCE8.PNG</Image>
+      <Description>Master the Mine Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Medic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/855380178D4B92CA3C7F67113D468B21FA961F27.PNG</Image>
+      <Description>Master the Repair Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Win some, lose some, wreck some</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/86FCD50A598B3FA2B0FE5774B2C513C20E5FC710.PNG</Image>
+      <Description>Master Race events</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Globetrotter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/604567A96E16894840DA94861CB2D37C1077C92F.PNG</Image>
+      <Description>Race at each location in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>For the fans</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/C02CD6C30CA22BF46F501EDDAB71566DE99DF248.PNG</Image>
+      <Description>Master Fan Demands</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Double Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/2B8E8D6D023E576D1BFE075F15160F26CE994264.PNG</Image>
+      <Description>Beat the twins in their One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>You can't touch this</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/114C83570A684A2B4FDB5081EF05003C8D8932D4.PNG</Image>
+      <Description>Master the Shield Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Who needs cone gates?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/8192CE126DD6B7E0FB9EDD88CAD64F4860962600.PNG</Image>
+      <Description>Master Fan Runs</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Going Grey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/AD056A12B4BF48321D74E1DBDBA717AA47F48473.PNG</Image>
+      <Description>Beat Carver in his One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Lights out, Meatball!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/086F663609DC2DB1D40CF54E9D9A35DD34BC2DD3.PNG</Image>
+      <Description>Show that you can bring the fight to One-on-Ones</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Haruna matata</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/E3867947425D790217FAFCC740E280E2245FF0B4.PNG</Image>
+      <Description>Earn all Primary Lights in M.Haruna Checkpoint without damaging your car</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Incoming!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/5CA04F3D531ED887D470F0ACB04FA861F20D3F75.PNG</Image>
+      <Description>Master the Shunt Power-up</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Show 'em who's boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/0927A7A6FA335A12642F299A70DEE288A286CB41.PNG</Image>
+      <Description>Prove yourself by completing Rival Demands in career</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>A Fast One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/7CBBA1E451B1BC8580CE133F1D14F6C6FF6E2F07.PNG</Image>
+      <Description>Beat Shannon again in her One-on-One</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Speed Demon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/4E0B147FF03382F4CCCB8B4B62BEBE5C8229E3C3.PNG</Image>
+      <Description>Hit set speeds in class A, B, C and D cars</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Drop the hammer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/5ACCC3C047A37D860F2CC4EE4B9E322C22297982.PNG</Image>
+      <Description>Complete everything in the singleplayer game</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Somebody stop me!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/E1D9A89CD85461505735B0DBC5E3DD6601C0383F.PNG</Image>
+      <Description>Earn every Primary Light on Hard difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Giant Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/DC55A2E531440379F61E22C1042A3418355A09A6.PNG</Image>
+      <Description>Beat a Rank 50 player</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/9566BDCA61F2BC1920FBDBBA66869C1AF76BC2E0.PNG</Image>
+      <Description>Master the Blur Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>All Rounder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/34409DFDAAA858D31ABAF9F2DEDAB0B5A50B67BD.PNG</Image>
+      <Description>Win a race in multiple playlists</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Paint Job</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/C29959633232FE5AD230BD8F634004B51829E853.PNG</Image>
+      <Description>Stand out from the crowd with car resprays</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Living legend?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/291769147A0444BFDF3713AC927FAAF9F52B9F6B.PNG</Image>
+      <Description>Unlock Legend Mode</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>For your consideration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/5A2935B6AE32EAE28A8AFE914EF7B59F7039D251.PNG</Image>
+      <Description>Become an Award-winning racer</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Modder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/9AB7DEB07E2C49384E778F84AEAEF2CE7F94EDA7.PNG</Image>
+      <Description>Win a race using a custom mod setup</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Photo Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/CE67A4F2042E7F9B5047E2F0BB820F0F16E7B0FE.PNG</Image>
+      <Description>Finish a race 0.1 seconds or less ahead of another player online</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Motor Mash King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/08F1461F84491F994AB7544C8E5F9138ECA528B1.PNG</Image>
+      <Description>Earn the Motor Mash sticker</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00567_00</GameId>
+      <Title>Party Trick</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00567_00_32F431EE53AEBC081A04D2D8B8D13074CDCF8997/3A2FE11EDB83FD7557937A33946A6867CCFD2083.PNG</Image>
+      <Description>Win a race in 4 player Split Screen</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

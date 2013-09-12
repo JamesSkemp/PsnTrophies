@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04088_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sengoku Hime 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C66B0DF74B421CB8A3DEC1320113D58DA3B7929A.PNG</Image>
+    <TrophiesCount Total="36" Bronze="22" Silver="9" Gold="4" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>戦極制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/D556ACB6941557C4BDA8F2314ABE4052F034496F.PNG</Image>
+      <Description>全てのトロフィーを獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>天下をつなぐ絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/D8B1206A5450A6913CC035C51553647E370F29E0.PNG</Image>
+      <Description>全ての武将と絆化（セリフ鑑賞を100%）になる</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>武将史完成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/8A736EE80C3EA08B844A5509A6FEBEC610788C84.PNG</Image>
+      <Description>CG鑑賞を１００％にする</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>わらわの美にひれ伏すがよい</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/A13E012FFED87DE8613645D97AA071FCA29B8AFF.PNG</Image>
+      <Description>群雄モードの姉小路家を難易度「普通」でクリアする</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>巨乳は美しくない……</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C5C0AD3BB2CFA4A6257B6075E19FFE2C8C1DFE53.PNG</Image>
+      <Description>内藤昌秀の合戦会話を全てみる</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>完全統一</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/FD3204384D807324C077CF2782E75032F65F6322.PNG</Image>
+      <Description>全国制覇で天下統一する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>孤高の王者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/28927B11AD3FE11F861AA62FB06C9A01C370F41E.PNG</Image>
+      <Description>同盟を一度もおこなわないで天下統一する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>最強の時代遅れ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/2ECE9950D1B856F6D68DF0C4137C1A7C37628F5C.PNG</Image>
+      <Description>鉄砲を一度も購入せずに天下統一する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>戦友との絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C011D9E71F57ED70E2453958464FE173FD5A2314.PNG</Image>
+      <Description>半分の武将と絆化（セリフ鑑賞を50%）になる</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>武将たちの記憶</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/35F7255FACC5B37349AFA84EE66E9FE2AAB12159.PNG</Image>
+      <Description>CG鑑賞を50％以上にする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>酒は～呑め呑め</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C5541305F253C38D1FAD644541B668A94C4EC530.PNG</Image>
+      <Description>装備アイテム「日ノ本号（槍）」を入手する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>至高の一品</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/B5E9D05E8341B22F43474FB370930BC41B7233ED.PNG</Image>
+      <Description>装備アイテム「天下の京弓（弓）」を入手する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>傾き馬谷風</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/566BAD6F32CEA8B123D7C1B9346FE03AB5C29977.PNG</Image>
+      <Description>装備アイテム「名馬谷風（馬）」を入手する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>血を見ずにいられぬ……</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/8C9B713F860BEB94D161796C87FC85B738F39CEB.PNG</Image>
+      <Description>装備アイテム「妖刀村正（刀）」を入手する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>信廉ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/03A5B49C1526251C0D0FC97E41876AD7A97FBC72.PNG</Image>
+      <Description>信廉ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>政宗ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/43412B812B2BA4C79451EB9CBBC58E28E3641AB8.PNG</Image>
+      <Description>伊達家（政宗）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>常長ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/0B2378C184D2EEEFAD6D9BA3B2E8CF05DA6531E3.PNG</Image>
+      <Description>伊達家（常長）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>足利家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/CA61A1D5F805DAED276E3526060EA9E252E5355D.PNG</Image>
+      <Description>足利家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>上杉家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/B5AEAC2AC6B6AC61C24ECC1960E5A8B88BC95ADE.PNG</Image>
+      <Description>上杉家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>信玄ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/E223E1319DA077F6FE1682C6D711CD79F4861582.PNG</Image>
+      <Description>武田家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>信長ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/20CEFBBEF85E6F6B9838EBC31AAB37E03F1E38DE.PNG</Image>
+      <Description>織田家（信長）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>秀吉ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/3FEBEE452417AD31D18BEB60A33E24F4118BD7FB.PNG</Image>
+      <Description>織田家（秀吉）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>家康ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/F3857147EB265B2365E64EA3E500BE78BEBB5174.PNG</Image>
+      <Description>織田家（家康）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>長慶ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/C47EAA5D021058FB560464754D6D08AC7C68EC58.PNG</Image>
+      <Description>三好家（長慶）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>久秀ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/9355547CE93B95FA3258D2DDA7331CFC21A68109.PNG</Image>
+      <Description>三好家（久秀）ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>毛利家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/E7E5687778248C6C2A75A8FC38089A9340988236.PNG</Image>
+      <Description>毛利家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>大友家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/919B3E4FA8F9CE16EA5B2E77F7EF3DEFAAD5BA05.PNG</Image>
+      <Description>大友家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>龍造寺家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/10CF4EABCFAFD23277DC6AE3341AC6D0234C64EB.PNG</Image>
+      <Description>龍造寺家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>島津家ルートクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/8AF8610228D9E59EA3811A2637BE5D1EC64694D9.PNG</Image>
+      <Description>島津家ルートをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>群雄モードクリア！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/146D0B66F6B0F63AF4ED7E4AE48D1590B73F59AD.PNG</Image>
+      <Description>群雄モードをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>マメな男</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/04986E8C38BE458A1B4C8155A4CCFB8AABD80098.PNG</Image>
+      <Description>『武将に会う』コマンドを100回使用する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>萌えろ！俺の姫たち</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/9BE43ECD0E6557F925509A779E875E88A922435D.PNG</Image>
+      <Description>颯馬と女キャラ5人で出陣させる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>燃えろ！益荒男たち</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/5618F4D20BC6FAE7B9C85A6F7F084874DD03BCE9.PNG</Image>
+      <Description>颯馬と男キャラ5人で出陣させる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>百万石の大大名</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/F16FC058ACC26FE2F31032FCFA3DDE0241F43797.PNG</Image>
+      <Description>石高が100万石を超える</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>祝！初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/8F3C13BAA5478DDFDCD6BA83C22FBBD4C4E2E99C.PNG</Image>
+      <Description>合戦手動で初めて勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04088_00</GameId>
+      <Title>ようこそ戦極の世に</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04088_00_00A6769F9905C36E07EB55E64316EB7BBD3B226344/F1DCE7C197E27133B91D68CDC86F8E34D7CE819F.PNG</Image>
+      <Description>『はじめる』を選び遊んだ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

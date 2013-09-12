@@ -1,0 +1,467 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01286_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dragon Ball Raging Blast 2 [jap]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/F894BE32878253EBAD6BDD7DC2E200A74113DFF2.PNG</Image>
+    <TrophiesCount Total="50" Bronze="36" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>レイジングブラスト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/4C9B779EF2EB28BA0CDECF14698BEFAADD32D8B4.PNG</Image>
+      <Description>全ての実績を獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ボールマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/7AB6A4E3398081BD4B58D8ABD82F352210624F3B.PNG</Image>
+      <Description>ミニゲームでボールをいっぱい飛ばす</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>出でよ神龍！！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/91BC2AA66BF752AE5FE3C4942E0611292AF82327.PNG</Image>
+      <Description>神龍を初めて呼び出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>タッカラプト　ポッポルンガ　プピリットパロ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/6972CCE97D029DB77531EB43E71FCDE37EB3A96F.PNG</Image>
+      <Description>ポルンガを初めて呼び出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>キャラクターコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/50E2733921E0120EC23682F68DB60ABD786E0DD4.PNG</Image>
+      <Description>全キャラクター、全フォームを使用可能にする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ファッションコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/D45C95AF21DE30ABD13467E8A951EEBC0F157C30.PNG</Image>
+      <Description>全コスチュームを使用可能にする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>博愛</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/1483828FAD1B80E92B20F352F2D8E5EF972A9A51.PNG</Image>
+      <Description>全キャラクター、全フォームを１回以上使用する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>修行の旅</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/060F3E17834EC3D741881F451DF683080E0244B8.PNG</Image>
+      <Description>全マップでバトルする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>天下一武道会の覇者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/68B12144D0D4DEC6DBFC83E67AAD57E560ED9880.PNG</Image>
+      <Description>天下一武道会で優勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>セルゲームの覇者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/F5DDD8A9C20D57416D9A510D0844ABE0EBA7BD40.PNG</Image>
+      <Description>セルゲームで優勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>カプセルコーポレーション設立！？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/669DB1F5E4E267A89EEAB7C2690397EB33B06453.PNG</Image>
+      <Description>アイテムを全て集める</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ミュージックコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/34D1B9FC77FCEC27A31F50D37269A292D418C797.PNG</Image>
+      <Description>全てのＢＧＭを収集する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>大団円</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/23BD1B67B01270E33902E1B360567E48CA347EC5.PNG</Image>
+      <Description>スタッフロールを見た</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>修行の成果</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/9D7809D14CFF0C07CD172C9C1BCA37176F17C09C.PNG</Image>
+      <Description>ランクＳ＋＋を初めて取得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>強敵撃破！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/F111B3CDE70553B2D5D29D363CCCF10CD4CE0DC7.PNG</Image>
+      <Description>ギャラクシーモードのバトルを初めてクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>初の銀河！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/2708D5DB089956FD1635F79C687638B91E075928.PNG</Image>
+      <Description>ギャラクシーモードの「ＢＯＳＳ　ＭＩＳＳＩＯＮ」を初めてクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>東の銀河</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/B45C99521EF100485678B6E4CFD6D14ABDE02948.PNG</Image>
+      <Description>ギャラクシーモードを１０人以上のキャラクターでクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>西の銀河</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/64804020414DCCAFBC1BC4394B25790B6392D08C.PNG</Image>
+      <Description>ギャラクシーモードを２０人以上のキャラクターでクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>南の銀河</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/DC0FC10E01FF0C99C03E9A559AC1E77F24FFE8F1.PNG</Image>
+      <Description>ギャラクシーモードを３０人以上のキャラクターでクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>北の銀河</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/F56060AF695155ADEF4585E11E07287A83387543.PNG</Image>
+      <Description>ギャラクシーモードを４０人以上のキャラクターでクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ぶっちぎりの戦士！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/1DD93ED9F09093199CBEC224814D3B86DA1ADD90.PNG</Image>
+      <Description>ギャラクシーモードを５０人以上のキャラクターでクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>全銀河制覇！！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/4EC4175B305BA0F0FFEB347648BB774C05F620D6.PNG</Image>
+      <Description>全キャラクターでギャラクシーモードをクリアする</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>基礎が大事</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/D6FD7C13D741AE354CE982051C1CF413DE7ECB86.PNG</Image>
+      <Description>チュートリアルを最後までクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>バトルスタート！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/DAD90D3E4C887E0CDCD81FA43008CBBBB4810482.PNG</Image>
+      <Description>初めてバトルゾーンをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>バトルキング</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/E54713EF22F03DC8968F022FF5EA5797BCD818BC.PNG</Image>
+      <Description>全てのバトルゾーンをクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>発見者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/F941A9164FBC3BB7843066EA20BA5EB2352B905C.PNG</Image>
+      <Description>バトルゾーンで隠しルートを発見する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>スタンプラリー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/10F5D4E1DD8B5E82CC71595404C261C2CDF1A99F.PNG</Image>
+      <Description>バトルゾーンのチャレンジスタンプを３００個以上獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>究極への第一歩</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/288F5FF8A7DAB224175209CB2EAE63F0E0A28EA9.PNG</Image>
+      <Description>初めてアルティメットゾーンをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>究極の中の究極</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/D5F06B1435FA34F725355A58D3CC5DD5E0F624DD.PNG</Image>
+      <Description>全てのアルティメットゾーンをクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>雑学王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/8646FABA09126999A453ECF2E967EDBE1A3C1795.PNG</Image>
+      <Description>ミュージアムのキャラクター図鑑で全キャラクターのプロフィールを見る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>名場面</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/43BF53A09E4CC8C572E73DF612870A796C62EEBE.PNG</Image>
+      <Description>ピクチャーを３０枚以上集める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ご褒美マニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/787D84234EA3DF29B2931D2F7D1E5BE535F12688.PNG</Image>
+      <Description>ピクチャーを１００枚以上集める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>素晴らしき思い出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/376B3FB629978C4CBBE9F4984ABB36A350926AB5.PNG</Image>
+      <Description>ピクチャーを２５０枚以上集める</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>オラもっとつえぇヤツと戦いてぇ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/EA4CDC49EB5D3877C6BB1488F248E7B6988E2E7E.PNG</Image>
+      <Description>オンラインバトルで３０勝達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>称号収集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/6F30DF622E6E30107F774F089F5D1EC9427E3896.PNG</Image>
+      <Description>称号を１０個以上獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>称号を求めし者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/D3AB123B0A0B2264198873271A9D56629635FB7D.PNG</Image>
+      <Description>称号を５０個以上獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>称号の探求者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/D68CCBB2FE521C5ACCE0997DFA0EFDBB420514B7.PNG</Image>
+      <Description>称号を１００個以上獲得する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>戦闘力…たったの５か…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/B97486DBB937B42DDEF59F3F46AC3A491EED72EF.PNG</Image>
+      <Description>オンラインバトルで５敗する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>お手柔らかにお願いします</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/63D8067DA53A2CD351C25E4F62C14E36749BD181.PNG</Image>
+      <Description>オンラインバトルで初めて戦う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>バトルマニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/27347FBD4CC7AD971D5A3309CC1E198435E6A51E.PNG</Image>
+      <Description>オンラインバトルで５０試合達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>戦いは始まったばかり</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/527737BDA9E7B83BCCDAE995DF7B7B63D3C75DB2.PNG</Image>
+      <Description>対戦の１Ｐ　ＶＳ　ＣＯＭで２０勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>戦いの日々は続く…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/5BE7FE48E98EE83C502DC96ECBC2B71579FA6719.PNG</Image>
+      <Description>対戦の１Ｐ　ＶＳ　ＣＯＭで５０勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>親友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/14A344FEB55B7448AF3F184BE6717988284BBA00.PNG</Image>
+      <Description>対戦の１Ｐ　ＶＳ　２Ｐで１０戦以上戦う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>天下一武道会真の覇者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/835F16AEA74588E83FDDD8AF28950E2E65F3CCF5.PNG</Image>
+      <Description>天下一武道会を難易度「むずかしい」で優勝する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>セルゲーム真の覇者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/5A4F6F6CFD54927F9D8A5248E0EA30AC0EC7B905.PNG</Image>
+      <Description>セルゲームを難易度「むずかしい」で優勝する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>ヤムチャの予感</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/EBACF2E4BB4BD81CDC6AA0B0DE338EE7C2D2F070.PNG</Image>
+      <Description>栽培マンを使用して、ヤムチャに究極技「栽培マンボム」で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>すべての終わり</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/97CF9E0ECAB96B2041D465BD199B217BCB15C844.PNG</Image>
+      <Description>スーパーサイヤ人孫悟空を使用して、
+フルパワーフリーザに究極技「怒りのかめはめ波」で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>孫悟空からのメッセージ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/ECB017A01289482549E0AE6101DA10642BD28BA8.PNG</Image>
+      <Description>スーパーサイヤ人２孫悟飯（少年期）を使用して、
+パーフェクトセルに究極技「親子かめはめ波」で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>さらば誇り高き戦士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/07BD53676FF9ABC594A69D3C3C8CE4D3F37B7E5A.PNG</Image>
+      <Description>魔人ベジータを使用して、魔人ブウ（善）に究極技「ファイナルエクスプロージョン」で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01286_00</GameId>
+      <Title>たったひとりの戦士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01286_00_1CC9BF51EC0A67B934C4A22E543591F80D3678E8/ACECABFF95FF6E3DEDC29592E047E07A9191B332.PNG</Image>
+      <Description>人造人間１７号と人造人間１８号を使用して、
+スーパーサイヤ人孫悟飯（未来）に合体技で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

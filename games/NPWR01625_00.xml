@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01625_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Puzzle Dimension</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/C1525E4F214500023464B714874969D8D9439445.PNG</Image>
+    <TrophiesCount Total="9" Bronze="5" Silver="2" Gold="2" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Unpixelat0r</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/37CB09C386430C40011C24D1ADC5873D7AB194BC.PNG</Image>
+      <Description>Unpixelate all blocks in the game</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Supermultiplier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/FBE5B29E6596432FE1BD0F0F20312C4C6CCF2E0F.PNG</Image>
+      <Description>Get a multiplier of 16</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Übermultiplier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/B628B0F86B5355DF6C747B15C0CCACCB86C68724.PNG</Image>
+      <Description>Get a multiplier of 32</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Replay</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/383562F63DC072B425FC273E83BAA03099FA269B.PNG</Image>
+      <Description>Score over 190 on the first puzzle in Broken Ice</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Score more 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/12808AED59FC02DF9081E14F24F2A2CCF716F907.PNG</Image>
+      <Description>Score over 500 in a puzzle</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Score more 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/C0547B3C727C4B677B4D2DE8FBCA58975661494F.PNG</Image>
+      <Description>Score over 1,000 in a puzzle</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Total score: Bronze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/29E46DCF6A83AB3B38D5CE0A35D19E6E2B8B04F4.PNG</Image>
+      <Description>Get a total score of 10,000</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Total score: Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/C362ADE1FB755BDC558EB64E020A5AD4B86C39A1.PNG</Image>
+      <Description>Get a total score of 25,000</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01625_00</GameId>
+      <Title>Total score: Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01625_00_F3F0A9D2AC0B86A0C51045663E786728EB6598DC/81576AE1322668978F8DA25C61F8821A0CC82421.PNG</Image>
+      <Description>Get a total score of 50,000</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

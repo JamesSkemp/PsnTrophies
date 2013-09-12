@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00827_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Disgaea 3 [EU]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/3CDE4737889F17866A60B49E936D4616F454166E.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>4.0 GPA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/E4B072112880FB11345335DCF785C310709AE576.PNG</Image>
+      <Description>Get all other trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Item Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/2AB3E6E94DEDC0F8A2C7FFDA0102D1612D2A8E1A.PNG</Image>
+      <Description>Beat floors 1 to 100 in an Item World without exiting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Trophy Shop Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/4B158D9FBD053F58320115EB4F1DB9CFAD73B31B.PNG</Image>
+      <Description>Get a Trophy from a Trophy Shop on the 90th floor.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Carnagenist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/B22E4AC0171997A15348DC86494FD9AE3F36D660.PNG</Image>
+      <Description>Beat floors 1 to 100 in a Land of Carnage Item World without exiting.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Wise Innocents</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/ED660AB6F6E733F06572EF388344462774A578DC.PNG</Image>
+      <Description>Defeat Wise Innocents in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat UFO?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/EDC0B2CE41C3B257502F92D98D17CCCD6BB77DA5.PNG</Image>
+      <Description>Defeat UFO? in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Eryngi Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/18BD23576D63F4711A577F685F2E863B789FC072.PNG</Image>
+      <Description>Defeat Eryngi Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Donnax2 Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/C7011CA5DC09F2AC67FFB5E6B28C2F50747F6F54.PNG</Image>
+      <Description>Defeat Donnax2 Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Lucky Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/8791241D646FF4276AA8B6E95104A55C258F5E8F.PNG</Image>
+      <Description>Defeat Lucky Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Cheerates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/BEB6F846FFEF7406E149F5FB7F1142050A7FD9EB.PNG</Image>
+      <Description>Defeat the Cheerates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Cowboy Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/F49580E5A7BE9F1A51ECF73E16E69E579524B158.PNG</Image>
+      <Description>Defeat the Cowboy Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Asian Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/FEC10D3EC920AB54567F8F934B0053D7E592EBAA.PNG</Image>
+      <Description>Defeat the Asian Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Sports Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/FE5B33A598EFEE7364C87C2D691050B22E0E271A.PNG</Image>
+      <Description>Defeat the Sports Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Pirate Cleaners</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/EA1BF1A1A4EB9E8492339C7B586F6076EBF0C11A.PNG</Image>
+      <Description>Defeat the Pirate Cleaners in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Ghost Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/83E11C84ABEF5E4A56EAA98FB9C4B00651D5CDCD.PNG</Image>
+      <Description>Defeat the Ghost Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Z Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/C6D16CAA1492524967D7A3BDC830C716FBD3B26F.PNG</Image>
+      <Description>Defeat Z Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Horizon Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/E3513508AD005C8175508BA4D1EA32C0327653EA.PNG</Image>
+      <Description>Defeat the Horizon Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat UFO Pirates(?)</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/5B77D6132FDA2C95A0835A49752E748CAA89AD18.PNG</Image>
+      <Description>Defeat the UFO Pirates(?) in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Pirate Club</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/CC0BEE791733DE3A896AF98A635B97899E145439.PNG</Image>
+      <Description>Defeat the Pirate Club in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Garden Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/998196A085D5837E03E57BC115E5341DA0F35416.PNG</Image>
+      <Description>Defeat the Garden Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Boney Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/171B9BDFEDF38743A996958EC3ACB012DCB81A3F.PNG</Image>
+      <Description>Defeat the Boney Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Kit Cat Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/1320461B46D4E93685437FE79CDA7B58C4C207BB.PNG</Image>
+      <Description>Defeat the Kit Cat Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Element Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/73AFD488797293314E4483C39B87C75663387CC7.PNG</Image>
+      <Description>Defeat the Element Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Shinsengumi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/6F79F0A3327CB355BE336D843BA20616E966F988.PNG</Image>
+      <Description>Defeat the Shinsengumi in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Red Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/64ED095671F01D311C5072518C009B767FB80B8B.PNG</Image>
+      <Description>Defeat the Red Pirates in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Prinny Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/41A3C6DC1662B79720EFE1D203B20A810F4A4DF6.PNG</Image>
+      <Description>Defeat the Prinny Pirates in the Item World.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat 10 Gents Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/B0E5057FEB329E07BA304F22BAEAEC102A882EF3.PNG</Image>
+      <Description>Defeat the 10 Gents Pirates in the Item World.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Defeat Baal Pirates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/D464BF1552449A105E389414C4511D032559654E.PNG</Image>
+      <Description>Defeat the Baal Pirates in the Item World.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Treasure Raider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/3CB564D3B7CE93040B854EEE7369792CF8AA7752.PNG</Image>
+      <Description>Get all the treasure boxes in the Treasure Room in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Obey the Cat God</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/93814DB6C7F10B43CE4A2C4F6A5A56E7C39A88D3.PNG</Image>
+      <Description>Talk to the Cat God at the top of the Treasure Tower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Reverse Bandit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/097EF02F4D4AF6332D8C8BD519DCDE53956C6494.PNG</Image>
+      <Description>Get all the Reverse Pirating treasure boxes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Reverse Robber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/A1DB84CAD1BCC536CA83DBD76084DB917C80EBE0.PNG</Image>
+      <Description>Steal from all the Innocents while Reverse Pirating.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Reverse Viking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/C449D3C93A24E411092A72F54CB20C15AD340345.PNG</Image>
+      <Description>Steal from all the Innocents and treasure boxes while Reverse Pirating.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Who Wants to be a Milliondamagaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/80A21EC336758B504E7A712AC0AB2EDFA1D2E1B5.PNG</Image>
+      <Description>Do over 1,000,000 damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>100,000,000 Damage Pyramid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/00C9FB5C12F16E7A284AED75266F719B2AC86DEF.PNG</Image>
+      <Description>Do over 100,000,000 damage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>The Ten Billion Damage Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/AACC93895D9D9DE42EE9BAF5841619ED0AEC0485.PNG</Image>
+      <Description>Do over 10,000,000,000 damage.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Attack of the Counter 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/1F7F20B8AA0A53344CB1AEACC1D47F60B1BA6F40.PNG</Image>
+      <Description>Counter Attack over 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Cinco de Panelo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/C22AE89E9923DBD27B3CBACEB1CB1658C97CC9AD.PNG</Image>
+      <Description>Clear Geo Panels with 5 color changes in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>10 Block Combo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/2B3369CF40CE35B497D4E9775B85187FD8790871.PNG</Image>
+      <Description>Clear Geo Blocks with 10 color changes in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Consult Your Physician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/1E4A9F6F7A27F4EDD559019C08FA4A9A7A8BFE4E.PNG</Image>
+      <Description>Play for over 10 hours without stopping.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>ABC's of Hitting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/00AC9655E4A9CD64B059657ABCE07C19C8033A33.PNG</Image>
+      <Description>Get hit by ABC Gum.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>10 Piece Combo Meal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/7D0F26C41C06AE108CD59620E78D5234CD0AAF56.PNG</Image>
+      <Description>Defeat an enemy with 10 combos or more.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Jumptastic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/7A1BAAD880DD3BA62F43594770FDFE5A9ED069E9.PNG</Image>
+      <Description>Jump inside Evil Academy 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>The Ten Towers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/6D2545DC96EFE0591622BE3209563AA59B5FA40A.PNG</Image>
+      <Description>Defeat an enemy with a 10 story tower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Axel's Rose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/66EFB590515F24746DB20BEE8CE771FE091A406A.PNG</Image>
+      <Description>Find Axel in the Item World.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Persuade by Force</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/ECA17D0F9E761D77F9660FB113F3CFF2A8413E1D.PNG</Image>
+      <Description>Force the Student Council to approve your Home Room request.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Combo No. 255</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/DCDE8A951B2C9A858368836A66220D52B99A8639.PNG</Image>
+      <Description>Accomplish over 255 combos in battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Capture Enemy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/BFDFCB0A1F2B2210204E802BA3CA1788317C1F0B.PNG</Image>
+      <Description>Capture an enemy during battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Magichangician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/57E27A0A508EFA4AB2B7D7350541BBADC9304B7B.PNG</Image>
+      <Description>Magichange 5 times in a battle.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Receive 4, Move 20</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/38EE144BCB6E6A8E57651D3EEF07763382138512.PNG</Image>
+      <Description>Receive 4 times and move over 20 panels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00827_00</GameId>
+      <Title>Receive 9, Move 60</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00827_00_C00255B09285A9A5173D8F169AC04A0CCEE98A31/7AC5718FE8552E54CBF82FBB380DA42CE40D3B18.PNG</Image>
+      <Description>Receive 9 times and move over 60 panels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

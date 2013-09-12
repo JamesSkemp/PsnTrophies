@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01773_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Winter Stars</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/220765B697BEAE0C33851E5CF504996178FB3251.PNG</Image>
+    <TrophiesCount Total="50" Bronze="36" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Platinum athlete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/EEF2FE3E85609EC2EE5699EC34C857FCE5D710D0.PNG</Image>
+      <Description>Win all the Trophies in Winter Stars.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Trick in</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/16351285A5040466EE747E074C917B5925F1BB64.PNG</Image>
+      <Description>Perform and land a trick before sliding on a rail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Grabbing hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/517273CF77AE8992EFB1AD3AD0963A86CD83683E.PNG</Image>
+      <Description>Perform 3 grabs while sliding on a rail.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Magnetic rails</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/EE94A9F1A4B498CA9F0DF41F858997336D159317.PNG</Image>
+      <Description>Slide on 4 rails within one race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Versatile victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/D7F763E9188F75332514EAD7A5ADFFDD282A9150.PNG</Image>
+      <Description>Land each possible trick within one race and win.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Every trick in the book</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/08ABFBDB73596E5D93691CC6843BE6A7ACF30A38.PNG</Image>
+      <Description>Successfully perform each possible trick in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>No time to rest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/616DB1E62901056ECA2FB91753EF08CEF1F1A1D7.PNG</Image>
+      <Description>After a crash, get back on track in less than 2 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Accident-free</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/9A0165EF93AA97D659B534753C9751CD3B2B28FA.PNG</Image>
+      <Description>Win a bobsled race without collisions.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Focused</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/FCA95DA892DB67FE9881149D95C8D74614BEF100.PNG</Image>
+      <Description>Perfectly stay on the racing line in 4 bends in a bobsled race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Catch up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/07B75FF66BAF3BABDEADB4D2D82B23EA6F987CFE.PNG</Image>
+      <Description>Win a short track race without being in the lead in any but the last lap.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Shadow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/7818ABAE0230C46DF6F57BD0C2F40C3DA4D3A8A7.PNG</Image>
+      <Description>Completely fill the slipstream bar 4 times within one short track race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Shooting star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/838C93DFF97B384709CCA45638472DCB72F2A63B.PNG</Image>
+      <Description>Biathlon: enter the shooting range in 4th place, hit all targets, leave the shooting range as 1st.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Picky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/9A961C35BCF4418E0424E1EC6810C3303EBBF2DF.PNG</Image>
+      <Description>Biathlon: hit only targets 1, 3 and 5 in lap 1, only targets 2 and 4 in lap 2 and win the race.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Gateway</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/C7480D485960A4623C1C7B45BEFD21B8BE709EC6.PNG</Image>
+      <Description>Cut 5 gates in a row in a downhill skiing race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Adrenaline rush</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/ADCA707649FFE905476DD2C83287742AAD65CAE3.PNG</Image>
+      <Description>Use adrenaline for 4 consecutive seconds in a downhill skiing race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Crash-landing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/10110A2C2277B58CBB68F040A784E8FD75195FAC.PNG</Image>
+      <Description>Ski Flying: jump a distance of 220 m and crash.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Immaculate inruns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/70D81BBA074AF3E0D46002BF6F0A824900672BBC.PNG</Image>
+      <Description>Ski Flying: don't touch the sides of the track during the inrun on both attempts.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Finished symphony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/94907662E05C32158968DF0877EB07745A521871.PNG</Image>
+      <Description>Figure skating: sustain all notes within one event with perfect or super rating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>No trouble without double</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/23C43F5F965569C66D39394FFF97004E73E51D0B.PNG</Image>
+      <Description>Figure skating: win an event without activating double mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Show-off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/9A623648E85117B426098B57523630A6149BA63A.PNG</Image>
+      <Description>Snowmobile: win a race crossing the finish line in reverse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Traction control deactivated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/89A045A14A94737FD5CB3BF3757C4717C1A5B156.PNG</Image>
+      <Description>Snowmobile: accumulate a drifting time of 10 seconds within one race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Last man standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/59CE2FA3D241618653A943AE303B5E7A3487889A.PNG</Image>
+      <Description>Curling: win an end without any of the opponent's stones in the house.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Clean sweep</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/7BDB3A74A2EFBBACD91778B1EBBC71C405FFE1E1.PNG</Image>
+      <Description>Curling: deliver a stone with low power and place it on the button by sweeping.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Come around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/88B1479118C0012EAECB851F3DC1BC2F691FD46E.PNG</Image>
+      <Description>Curling: curl a shot directly behind another stone in the house.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Double takeout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/4DC2E8F3589BEC9237E71A6D35E72CDC383C1DB7.PNG</Image>
+      <Description>Curling: takeout 2 of the opponent's stones with one shot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Air ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/3EEB1823D1417753A327B7642CA4CBA8F48717A2.PNG</Image>
+      <Description>Paraskiing: accumulate an airtime of 90 seconds total within one race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Long distance flight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/37FB5428136985BCD8A15E2B36333C3EC78F9B77.PNG</Image>
+      <Description>Paraskiing: cover a distance of 500 consecutive meters while airborne.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Botanophile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/FAD7026BE2D063DBDA82DBDF2C726DA24A2110EC.PNG</Image>
+      <Description>Paraskiing: finish a race without touching any bushes or trees.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Gone with the wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/384F32F0988AAB7C9407B0875720DD53DA330503.PNG</Image>
+      <Description>Paraskiing: fly through 6 gusts of wind in a row.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Experienced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/7CF9A925C3C6196E9D295073F6ADB44DF3635F3C.PNG</Image>
+      <Description>Accumulate 25 experience points within one event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Rivalry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/339339948D2574F80A2E0B9531062A02E37296D8.PNG</Image>
+      <Description>Tackle your rival 5 times within one race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Beat yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/16EB7B05959A55C2B55C92FA4379EDA75CE2AB14.PNG</Image>
+      <Description>Beat a ghost you have recorded in time trial.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Yin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/55FDD1395C887DD067B205AC67CF8013264E8C69.PNG</Image>
+      <Description>Earn three golden fairplay stripes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Yang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/3398B7E104C60E1C7BC6A7369E341BA2367E8220.PNG</Image>
+      <Description>Earn three black fairplay stripes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Snowflake Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/4D5EED5EFB6EB9F3E7A3E51AB0869D8DAD8E8035.PNG</Image>
+      <Description>Place among the top 3 in the Snowflake Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Lady Crystal Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/C9088CCA32309C51222983D065A87A92CA5F3C65.PNG</Image>
+      <Description>Win the Lady Crystal Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Skillers United Championship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/21E520E7AADF655B23D9FE4C378EECCC1A5B8623.PNG</Image>
+      <Description>Win the Skillers United Championship.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Winter Stars World Tour Finals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/46A2079727ED463D44B4D3A81E44FA9FB59320E3.PNG</Image>
+      <Description>Win the Winter Stars World Tour Finals.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Teambuilding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/0AA4411B26BEB96E4C85D91C23A8895B86A0D858.PNG</Image>
+      <Description>Win 3 Cups in the first chapter of the career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>All the way to the top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/D050408E201EC7C1D454A10DEE2AAFF63BA8FD3A.PNG</Image>
+      <Description>Win 3 Cups in the second chapter of the career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Defending the crown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/5E0ECD75544CC66A0033D50A76946EE304C8571A.PNG</Image>
+      <Description>Win 3 Cups in the third chapter of the career.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Prime discipline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/FB9ECB15AE66163F61EEAE8A81860DC96E221B95.PNG</Image>
+      <Description>Max out your talent and buy all upgrades for any discipline.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Level 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/ECDC7D64558B72355D7120566526DB3AE8F35377.PNG</Image>
+      <Description>Reach level 5 in the career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Level 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/6199CA763EBB66328060FEA980EC7B98281FE653.PNG</Image>
+      <Description>Reach level 10 in the career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Level 15</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/E306C551D7C63D6B893262EF541EC4885A8E19D9.PNG</Image>
+      <Description>Reach level 15 in the career.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Warm up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/86866CE006E3670D539FDBD38974A9E5FD094B48.PNG</Image>
+      <Description>Complete 5 challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Amateur challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/DBD7F1B37EBE6FBA6804FC063492AB228A134DDC.PNG</Image>
+      <Description>Complete 10 challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Competent challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/70245AD935B318A340C3B4F4FEFF4B011EB1C131.PNG</Image>
+      <Description>Complete 20 challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Professional challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/748C84E1AB3264A458A97FEAF584CDAFE7341AD0.PNG</Image>
+      <Description>Complete 30 challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01773_00</GameId>
+      <Title>Challenge champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01773_00_C6F8327B9292166BD6669EDA0BDE07DDA0F3DEC9/4A19D1C6FF8B5ED4A39ED1DACEE894F6FEA8C1F4.PNG</Image>
+      <Description>Complete all challenges.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

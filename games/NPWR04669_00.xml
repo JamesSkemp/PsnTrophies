@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04669_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Open Me!</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/96242642FF4E6193977B1F56469B4687BCB5D0E1.PNG</Image>
+    <TrophiesCount Total="12" Bronze="4" Silver="8" Gold="0" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Master’s Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/AD9C5F257655700EB64BD2F47880E2162666847B.PNG</Image>
+      <Description>Retrieve the reward from the Master’s Box.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Sliding Puzzle Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/3D2192DED490DDD2F3144C49BF1D006B370A27CE.PNG</Image>
+      <Description>Retrieve the reward from the Sliding Puzzle Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Cuckoo Clox!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/CEED2DA5ACC465DB5F99F3188D1A14A8BC9C7872.PNG</Image>
+      <Description>Retrieve the reward from the Cuckoo Clox.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Multi-Surveillance Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/BD63491F81097A1ACCB4AB14778FE91E3F022236.PNG</Image>
+      <Description>Retrieve the reward from the Multi-Surveillance Box.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Super Stealth Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/DC0BFF6D8B583F8FECBDB0B033B82ADA76A08093.PNG</Image>
+      <Description>Retrieve the reward from the Super Stealth Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Super Clasp Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/8DFE5482A252C88C0E92BA9E719FAD23EE090995.PNG</Image>
+      <Description>Retrieve the reward from the Super Clasp Box.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Feisty Wooden Crate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/9785624A82CA3D8F7568B4D120E0273B118D76CD.PNG</Image>
+      <Description>Retrieve the reward from the Feisty Wooden Crate.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Super Hinged Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/428D4516A90B947DB97365ED72CA7BD38E6586FD.PNG</Image>
+      <Description>Retrieve the reward from the Super Hinged Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Super-Sneaky Steel Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/DD41751C5C85F891B930516EB9A1BBA771E3D6FC.PNG</Image>
+      <Description>Retrieve the reward from the Super-Sneaky Steel Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Two Step Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/B39B3025E71C0B69EB66ADD7D6D71BBDA642A21A.PNG</Image>
+      <Description>Retrieve the reward from the Two Step Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Wind-Powered Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/0B0D6149196F175B1A41A4FE854EDDF525106105.PNG</Image>
+      <Description>Retrieve the reward from the Wind-Powered Box.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04669_00</GameId>
+      <Title>Open the Sliding Puzzle Box...?!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04669_00_0032820F45BD47B8F945A2A5F41735AF40E75EAC04/0FDBF4FAC22705BD48E6F29378AA44B5ADB349A7.PNG</Image>
+      <Description>Retrieve the reward from the Sliding Puzzle Box...?</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02586_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The Adventures of Tintin: The Secret of the Unicorn (EU)</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/BF0C62CF54D3ED29C2395E6EE13FFE775AF0D3DD.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Marlinspike's heir</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/015D04ECDC5ACE513117C2DDA0A4E9722064D740.PNG</Image>
+      <Description>Unlock all the game's trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>The flea market</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/A55F2E94C8105C918D36D4DFC4C3C55FCFA1F83C.PNG</Image>
+      <Description>Finish chapter 4!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Marlinspike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/A9E224C142E0942A58D4259B506C65B6A1C5DD6D.PNG</Image>
+      <Description>Finish chapter 10!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Karaboudjan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/220244134B27A1C5757783577D6469F5343A2FE8.PNG</Image>
+      <Description>Finish chapter 16!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Bagghar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/224B08D6DEAAC5F4DD28C3CB67AF0C8114591193.PNG</Image>
+      <Description>Finish chapter 22!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Brittany</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/45CCC2F64F060D8B3892926B309E7F33BD45838F.PNG</Image>
+      <Description>Finish chapter 28!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Treasure hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/5700C9D9D8F8CB960AD97A95D24B65A18AD7FE00.PNG</Image>
+      <Description>Find Red Rackham's treasure!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Acrobat reporter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/D651C57397DF34E377D7494807FA8B7EBD351BD2.PNG</Image>
+      <Description>Move along the length of the Karaboudjan using the grappling hook!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Stronger than Diego</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/E72FD3855C16A228809E0BEB05064A1144C3DA0D.PNG</Image>
+      <Description>Beat Diego the Dreadful!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Stronger than William</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/8AFA5DC2FF4333288F4ADAFA8D3D5812D473479F.PNG</Image>
+      <Description>Beat William the Pirate!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Stronger than Red Rackham</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/40F53CC76D8982CF54F1DFA3B0FC71C3A261DD89.PNG</Image>
+      <Description>Beat Red Rackham in a sword fight!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Experienced pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/1F9FB4050D1EA9B2C5932436E7E1B6BA8F4532EC.PNG</Image>
+      <Description>Get through the storm safely and reach the desert!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>International reporter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/DA78648D8429C5C6864CE93580EDCC251464EE2F.PNG</Image>
+      <Description>Get to Bagghar!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Giant Rackham: Take 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/36D688A1191878090C589D0D5721A5DC2615C158.PNG</Image>
+      <Description>Beat Giant Rackham a first time!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Giant Rackham: Take 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/CD815E7FC30DA004BC0436F21C0F88A76150A652.PNG</Image>
+      <Description>Destroy the galleon!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Giant Rackham: Take 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/68EE7AEF52AA186812DC1322DE93DE07AB2C1729.PNG</Image>
+      <Description>Beat Giant Rackham again!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Giant Rackham: Take 4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/4B4CCF5558B62D9188E95A6CED23058E4D964938.PNG</Image>
+      <Description>Destroy Giant Rackham and the galleon!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Castafiore unlocked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/29FDB815F88E6396250C9C6FD73FF2CC5A30CF6C.PNG</Image>
+      <Description>Unlock the Castafiore!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Thom(p)sons unlocked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/D7EB3315DD2B114D676513083BC5D1982319C8B6.PNG</Image>
+      <Description>Unlock the Thom(p)sons!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Sir Francis unlocked</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/A4F82184E97BBFF128F30B0EAA566C791F3E739B.PNG</Image>
+      <Description>Unlock Sir Francis!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Aviation ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/05A53EB4AA952A7DFDB8B4240203DA39CE193DB9.PNG</Image>
+      <Description>Finish every level of the three types of PLANE challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Swashbuckler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/DD81F624168BFBCA3BF415359F630A62EFB96AC9.PNG</Image>
+      <Description>Finish all the SWORD challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Easy Rider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/087CF6A3F637A0B49E6ED327AC26B872938EFAA9.PNG</Image>
+      <Description>Finish all the SIDECAR challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Showered with platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/A712864707DDDF4EB02BAAA504D573FA35B7D24D.PNG</Image>
+      <Description>Finish all the platinum challenges!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Crab collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/28A4B5028AB01DAB77CE73E8673D6267B4B56831.PNG</Image>
+      <Description>Collect all the crabs with golden claws!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Master treasure hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/034602081BFD92AED657792C25898F39D5A3EA30.PNG</Image>
+      <Description>Find all the TREASURES in "Tintin and Haddock" mode!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Super-sleuth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/85C4D73AAA467665CACB4CDBD4C1C94C1B6A4E1D.PNG</Image>
+      <Description>With Snowy, find all the buried objects in "Tintin and Haddock" mode!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Wardrobe full</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/0C8503220E15E1262BC7C56241CB470F6F9CDFA1.PNG</Image>
+      <Description>Buy 30 costumes!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Pilot gold medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/4B0F9CD5EA48C6A13E80B3413059BC3321FD8828.PNG</Image>
+      <Description>Get gold in all three types of PLANE challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Sword gold medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/6E00AE4412F922A7F8E100AD6622F0EB44904FD2.PNG</Image>
+      <Description>Get gold in all the SWORD challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Sidecar gold medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/2987C4AB7ED92AA444D74049ADA9F6EE175A4FD6.PNG</Image>
+      <Description>Get gold in all the SIDECAR challenges!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Master rat exterminator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/CF101540786D8E354AED26E80155E0B4F2B1CDDF.PNG</Image>
+      <Description>Exterminate 20 rats!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Look out below!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/615748C498DC0280F9A876CBF907E6F04C676096.PNG</Image>
+      <Description>Pull five enemies off a ledge you’re hanging onto!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Armor expert!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/82EE91DE6F8E9D862C4C934CEE4D85AF5FFFCDB1.PNG</Image>
+      <Description>Sir Francis: use the armor to knock out 20 enemies!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Acrobatic duo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/4942771D3418D9840E20D0973BE846B40B941974.PNG</Image>
+      <Description>Give your partner 5 leg-ups in "Tintin and Haddock" mode!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>The Castafiore does her turn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/E7D03C8146F51BC5A220F06BA7D37F061C0CB199.PNG</Image>
+      <Description>Castafiore: do 45 spinning attacks!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Cane and able</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/7A89977AFE043DDC1EF631E4EAFC665CE93425DC.PNG</Image>
+      <Description>Thom(p)sons: get rid of 22 enemies with your stick!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Art collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/D2632349EA5DFFF5202152E082B28B3A34ADB9A6.PNG</Image>
+      <Description>Knock out 10 enemies with a painting of Sir Francis!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Banana king</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/03B61620295040F937285AF8E22FF0313833FDC1.PNG</Image>
+      <Description>Make 15 enemies slip on a banana skin!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Lights out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/0A3907E98D22ABFA6121C63B1B9A4E9BEE8175E7.PNG</Image>
+      <Description>Knock out 5 enemies with a chandelier!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Metalhead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/50EC365F2760F142AFCCCC6A3DD27F015E3F6890.PNG</Image>
+      <Description>Throw a pot at an enemy's head!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Five go bang</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/ACF69A85047CAF8E2F3EEDA73FAB885C975AB155.PNG</Image>
+      <Description>Get rid of 2 enemies at the same time with an exploding object!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Football champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/B6949D6C52F948EBB18916ED3B4FF869ED60B373.PNG</Image>
+      <Description>Knock out 2 enemies in a single throw of a ball using a rebound!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Complete artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/CDAAF312071231FDE19B4E411485E479225DB388.PNG</Image>
+      <Description>Finish a Tintin </Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Cane juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/F2E64E1D03A7208203FA4DD39C988353B37D531A.PNG</Image>
+      <Description>Bounce 10 objects off Thom(p)son's cane!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Champion catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/EF6DB837C3D638F9BC08C69A9901D38E1F77C21C.PNG</Image>
+      <Description>Catch an object in full flight with the grappling hook!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Passenger in transit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/34AD29FEDA325BD4C177C711694D15CB4AC7B043.PNG</Image>
+      <Description>Change characters in flight with the parrot!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Supersonic parrot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/5A3E4F35C0305EAEED07586EA2CC01847E4A7DC9.PNG</Image>
+      <Description>Finish "The mystery of the talking bird" in less than 3 minutes 30 seconds!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Ever-dry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/20E6F1D67EFCE758FEA6A63D1AFDDB7BD92F9C2A.PNG</Image>
+      <Description>In the PLANE challenges, stay near the water for 7 seconds!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/767510443786C2D36684B4DDDE632F7D0A05A11A.PNG</Image>
+      <Description>Finish a SWORD challenge without getting a scratch!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02586_00</GameId>
+      <Title>Motorcycle ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02586_00_384817F9597DE04BA510DB5D645174BB7253EB42/121CCA8F1689F596754B6999C027E9A6CC56DD01.PNG</Image>
+      <Description>Finish a SIDECAR challenge without crashing into a wall or obstacle!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,428 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01406_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Rugby World Cup 2011</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/163D53737C1A8D60397C309915C6AFAE256DDCE7.PNG</Image>
+    <TrophiesCount Total="46" Bronze="32" Silver="10" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Rugby Purist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/B9B70FA926B6242E886E9149015FB47BE87E91F5.PNG</Image>
+      <Description>Acquire all Bronze, Silver and Gold trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Online Rugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/964493CDAEBEB1F58F583D3802D53DAE75A6E8C1.PNG</Image>
+      <Description>Play a match Online</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Between The Sticks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/3D07A9DF9CFE64130A9FA2DCB33CCA7B69ED31D7.PNG</Image>
+      <Description>Score a drop goal, penalty goal or a conversion</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Kick With The Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/25BFCCA4A6E259CA4DB15DD297277401A2C84638.PNG</Image>
+      <Description>Score a penalty goal or conversion from 55+ metres</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Hit The Sticks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/5E4A9EAD9B9172BCC1863918DE686040905B15C9.PNG</Image>
+      <Description>Score a penalty goal or conversion off the post or crossbar</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Just Like Pudding</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/C3676E05E73C2FAC15F338A7AB63DC1A7051493E.PNG</Image>
+      <Description>Score a drop goal with a player currently playing in a Prop position</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>First Try</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/03B2E3589988F3B42BE419009FAFB710EDA6E5B2.PNG</Image>
+      <Description>Score a try</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>End To End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/CB33FE8809FDDE725BC5436075C835E7466FF8BE.PNG</Image>
+      <Description>Score a try by running with the ball directly from one goal line to the other</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Hat Trick Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/48D68476688D0EB520A6A4014C3B8070CB98418D.PNG</Image>
+      <Description>Score 3 tries with the same player in a match against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Showboat I</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/12E649901E5DE8A825F2D06BE5F7EF71B64B9DAF.PNG</Image>
+      <Description>Touch the ball down to score a try without diving and without being tackled</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Showboat II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/8A946DD82EAFB9032BA69FD82FD89E1FBE1D0278.PNG</Image>
+      <Description>Stay in the offensive in-goal area for at least 5 seconds directly before scoring a try</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Quick Turnaround</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/D4DA28F6D34ED7F5BA5D946D8894C6C585A7A345.PNG</Image>
+      <Description>Score a try in one phase or less of possession against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Epic Try-pocalypse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/918A821F405138510A24ED5CDFCDB4092A5083AA.PNG</Image>
+      <Description>Score 15 tries in a match (5 or 10 min halves)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Nice Pickup!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/C973FED798266ECE24647EC0E0136DA88DF8CF05.PNG</Image>
+      <Description>Perform a Quick Pickup from a tackled player then directly run and score a try</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Chip And Score</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/F1BA975DA09AEC4E2181979FBC70058C2204420B.PNG</Image>
+      <Description>Score a try directly after recovering a Scrum Half Kick against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Catch The Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/DE0F110EF6FEFCEFBD6EE324491DDB8B82B21D0E.PNG</Image>
+      <Description>Score a try directly after recovering an Up and Under Kick against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Worm Burner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/36EB198EB8CB553BF907125B77577A231F162634.PNG</Image>
+      <Description>Score a try directly after recovering a Grubber Kick against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Trytime In Quicktime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/CDB2B5C741EFF6947A813E70AF288095158AF44F.PNG</Image>
+      <Description>Score a try directly from a kick-off, or restart kick, which occurred on the 50 metre line</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Big Guy's Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/D0015B4C8764ED18A722BDF82EF69C675A7117EE.PNG</Image>
+      <Description>Score a try with a player currently playing in a Prop position</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Setpiece Setup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/BEF22CCF9D842D3AC12A5DC388588C11F15A6E65.PNG</Image>
+      <Description>Execute a set play from a ruck, scrum or maul and score a try on the same phase of possession</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Don't Even Try</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/44ACDD57D95CCED007B1D662DF3C4527554CC06F.PNG</Image>
+      <Description>Win a match where your team doesn't score a try against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Shades Of Jonny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/6DDD3019300CDEDFFDEEE5AA063810560DAA1F65.PNG</Image>
+      <Description>Score a decisive winning drop goal during an Extra Time or Sudden Death period</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Tough It Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/9F82471A2623461387529DBCA39596BB3AB988A2.PNG</Image>
+      <Description>Beat an 85+ rated team with a team rated less than 70 against CPU (Hard)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Minnow No More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/FD6A8C9881CC23793D3DEAFB600FA7E1E8BECB0F.PNG</Image>
+      <Description>Win the Rugby World Cup 2011 Final with a team rated less than 60 against CPU (Hard)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Cheers Mate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/122C689213BFB2E573BD8A7919101A7C107390E2.PNG</Image>
+      <Description>Win a match with 2 or more human-controlled players on your team</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Multi-Union</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/54FF8DA826D319B4CFB3C6B36CEAAE6A62FE9B69.PNG</Image>
+      <Description>Win a match with every International team</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>At The Death</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/EA677B91C83D69B7B4A8AEF23D0316F4FCBA6875.PNG</Image>
+      <Description>Score to win a match with no time left in the 2nd half against CPU (Medium or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Hardcore Rugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/12C7D46C03810AC2CC7926D08A94AE8C568F7776.PNG</Image>
+      <Description>Beat New Zealand with a team rated less than 80 against CPU (Hard, 20 min halves)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>King Of Crunch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/8D96D190B7B87F1FC749292043B5AAA2DAEFE474.PNG</Image>
+      <Description>Successfully complete 20 dive tackles in a match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Hammer And Tongs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/CA168AD2B4899E1AA667A115C85399B0B32C7B75.PNG</Image>
+      <Description>Score 50+ unanswered points against CPU (Medium or higher, 5 or 10 min halves)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Booming Punt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/2C85E9D66B8EC5DB7353FC739F2838AD2229B864.PNG</Image>
+      <Description>Punt into touch from behind your team's 22 metre line for a territorial gain of 50+ metres</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Experimentor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/4F1B2D4BAF6CD4C965EF58043F1B2A1E022A65A4.PNG</Image>
+      <Description>Attempt all four of your team's assigned set plays in a match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Hey This Ain't Soccer!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/D0078754310C00251FF2F0B342984B8A06144CD5.PNG</Image>
+      <Description>Perform a soccer kick</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Brick Wall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/CA2FB93FAA1F7B0823ECBF262E7B8A407C36064F.PNG</Image>
+      <Description>Do not concede any points in a match against CPU (Hard)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Sell The Dummy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/CC7AEA57405184DB198A0E56A5A70AF80DEAD129.PNG</Image>
+      <Description>Perform a dummy pass and fool a defending player</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Picked Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/2B4A1A23D8C4B9DCC8A69B6661CE50A8A727D328.PNG</Image>
+      <Description>Intercept an opposition team's line-out throw</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Rage Against The Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/3D32E7858A8418B859D82645A6D80D62B9926D9C.PNG</Image>
+      <Description>Gain possession of the ball at a scrum when playing as the defensive team</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>One Of Each</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/AD4DCAF86DF434CD5F0D642C1D8DC60EE954713E.PNG</Image>
+      <Description>Score a try, conversion, penalty goal and drop goal all in the same match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Talent From The Tee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/1349F0487239EA81E1890276DB6F73B28CB7AE09.PNG</Image>
+      <Description>Win a match in the Place-Kick Shootout mode against CPU (Hard)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>World Champions</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/6694FE5B9941EEEBC6FF9CDDC301A7BD09BD1B6B.PNG</Image>
+      <Description>Win the Rugby World Cup 2011 Final</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Rule The Pool</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/0EC2567A6E10E88437F24BCA6ABEA44DB6AE6CB5.PNG</Image>
+      <Description>Earn 20 pool stage points in Rugby World Cup 2011 playing against CPU (Hard)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Up North</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/D3421C1883E9F82CA82A5E4F04A944FC4144F613.PNG</Image>
+      <Description>Win every match of every Northern Hemisphere tour playing against CPU (Hard)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Down South</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/BDDD20F66E7E816889D1122944464C1C52B7DB80.PNG</Image>
+      <Description>Win every match of every Southern Hemisphere tour playing against CPU (Hard)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>That's Commitment!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/F68BD35BB211C350902DD7FF5E0AFA3709A5662B.PNG</Image>
+      <Description>Play 100 matches in total (including matches played in any mode)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Sin Bin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/541287DC364E212AF4355BC7762A0ACB4F68D446.PNG</Image>
+      <Description>Be awarded a yellow card</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01406_00</GameId>
+      <Title>Early Shower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01406_00_73A5E496ED5EA46A0BB50EDFCA029E5CBEDFFAE3/0B444A011A227D4C302CF74A6BA2EB536AA38DF3.PNG</Image>
+      <Description>Be awarded a red card</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

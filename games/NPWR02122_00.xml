@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02122_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Okabu</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/D45EEA6C8612787A6B50D0D8D5A959CD5E52F763.PNG</Image>
+    <TrophiesCount Total="42" Bronze="30" Silver="7" Gold="4" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/9A9399205D6B9DA45CD91F8A65A6144A5968F7D7.PNG</Image>
+      <Description>This is the platinum trophy and is unlocked automatically when all the trophies have been unlocked</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Dozabot Scrapper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/91C5F628385E593710B5EB5FE6C24C9770F432D0.PNG</Image>
+      <Description>Get this trophy when you destroy 5 Dozabots</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Dozabot Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/51CA9E6520DEE2910426382822EB0F5548AE3752.PNG</Image>
+      <Description>Get this trophy when you destroy 100 dozabots!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Dozabot Reaper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/1B22D413315438A7AFE5AEBADD256C5813A47F50.PNG</Image>
+      <Description>Get this trophy when you destroy 500 dozabots!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Dozabot Nemesis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/5EB39F4CF500B34EF5CF25721E12475D27045994.PNG</Image>
+      <Description>Get this trophy when you destroy 1000 dozabots!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Dozabot Devastator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/E2920E214B54A2176EB98A7E71A8D6496BB6DB56.PNG</Image>
+      <Description>Get this trophy when you destroy 5000 dozabots!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cannon Bullseye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/5D50F71D51CADC43C3F35EADCA6AACDA197B95E0.PNG</Image>
+      <Description>Take out a Dozabot with the Cannon</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cannon Crackshot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/7965D7EBD1C4284B3A89CE6E91E1A0B5068617C1.PNG</Image>
+      <Description>Take out 100 Dozabots with the Cannon</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Completed Lake Waka</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/57902A2A1E95ECF758DC32FDF3FAB986EBF83CC8.PNG</Image>
+      <Description>Cleared all of the levels in Lake Waka</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lake Waka - Cloudberry Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/FE7D573D01357748938B0BBE058A08ADCD248A1D.PNG</Image>
+      <Description>Collected all Cloudberry medals in Lake Waka</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lake Waka - Speed of the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/C926A674BF065012D919278E257B41666B75C445.PNG</Image>
+      <Description>Collect all Time medals in Lake Waka</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lake Waka - Egg Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/368B3A458442105FC55D46F52A8ECB08F7EBEFCB.PNG</Image>
+      <Description>Lake Waka - Egg Ranger</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lake Waka - Dozabot Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/8C1CBB0C943DBF662449F6DCC809414763430176.PNG</Image>
+      <Description>Collect all the Dozabot medals in Lake Waka</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lake Waka - 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/3DF5E82C1A789168C985D16C1D4550DDA7D64F9F.PNG</Image>
+      <Description>Completed all Lake Waka challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Completed Karibu Valley</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/9193B4A3A9B6E177C6B460A60B546AD62563C0A8.PNG</Image>
+      <Description>Cleared all of the levels in Karibu Valley</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Karibu Valley - Cloudberry Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/F59D07DD77184152608F591E2B79EC6819377ED5.PNG</Image>
+      <Description>Collected all Cloudberry medals in Karibu Valley</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Karibu Valley - Speed of the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/99E1DBA5E49C5078D5E4C8028C0EF2DF6C2421F0.PNG</Image>
+      <Description>Collect all Time medals in Karibu Valley</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Karibu Valley- Egg Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/5698E871AE848C6A5D0F0A269C3F0419BC97AF99.PNG</Image>
+      <Description>Karibu Valley- Egg Ranger</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Karibu Valley - Dozabot Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/91A4E384310FC60E50FFECC37558E5715D48D91E.PNG</Image>
+      <Description>Collect all the Dozabot medals in Karibu Valley</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Karibu Valley - 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/2EBEE1CFBC6FAD230A418B912C9A1F408F97DF62.PNG</Image>
+      <Description>Completed all Karibu Valley challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Completed Noko Woods</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/D1697099E05BC3C3C7B304C84A5CE044F70F4BDB.PNG</Image>
+      <Description>Cleared all of the levels in Noko Woods</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Noko Woods - Cloudberry Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/9E9B18591549414DC4D25DBC7003554552B74B75.PNG</Image>
+      <Description>Collected all Cloudberry medals in Noko Woods</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Noko Woods - Speed of the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/5E75C1D9E5C74167FC62535BCE6D9573A572AFC8.PNG</Image>
+      <Description>Collect all Time medals in Noko Woods</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Noko Woods - Egg Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/C1F28432FA8065043DB99B87CF5A63C393A375FA.PNG</Image>
+      <Description>Noko Woods - Egg Ranger</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Noko Woods - Dozabot Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/DD2C6B51E2F246D874473EBF386C0EB731E2C173.PNG</Image>
+      <Description>Collect all the Dozabot medals in Noko Woods</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Noko Woods - 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/F352DCA8F68A560FCE10FDEA01A3B0D38C951E88.PNG</Image>
+      <Description>Completed all Noko Woods challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Completed Doza Fortress</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/A23C6C7D08ECAD264EE9D99BADC3DC3857BEF9FB.PNG</Image>
+      <Description>Cleared all of the levels inDoza Fortress</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Doza Fortress - Cloudberry Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/F3BE29585B27C075335BD3F41C399F2788484FB8.PNG</Image>
+      <Description>Collected all Cloudberry medals inDoza Fortress</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Doza Fortress - Speed of the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/427438F3A2F2FA8C3C730CADC7DA3FB1539D0ED3.PNG</Image>
+      <Description>Collect all Time medals inDoza Fortress</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Doza Fortress - Egg Ranger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/BD85F66FAF6EAC36AAC2FFFC45B6C6258DA5392B.PNG</Image>
+      <Description>Doza Fortress - Egg Ranger</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Doza Fortress - Dozabot Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/836D41E4D3AC7ADB9CEF4D36221962A7DF35ADC3.PNG</Image>
+      <Description>Collect all the Dozabot medals in Doza Fortress</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Doza Fortress - 100%</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/F33056C4782889241DCCD6FBC272249E7093058D.PNG</Image>
+      <Description>Completed all Doza Fortress challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Art-lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/DABC3FE1E9FD83A8939CBD3927969E21D60BF9AB.PNG</Image>
+      <Description>Destroyed 100 Statues</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Tree Hugger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/877B8289F8B87DD0BC834A13E1B7E7BA1AFC2136.PNG</Image>
+      <Description>Cleaned up 100 Pollution Patches</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cloudberry Catcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/1122A2DDF53A261BEBA2C5F6C2D60B340C0AB438.PNG</Image>
+      <Description>Collected 100 Cloudberries</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cloudberry Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/EEBE15C40DEF4B5039DCAAD2BE7EB417BC5DAAFE.PNG</Image>
+      <Description>Collected 1000 Cloudberries</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cloudberry  Enthusiast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/3FA3661EE51EC36432C418784476CAEF73C5BFEC.PNG</Image>
+      <Description>Collected 10000 Cloudberries</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Cloudberry Obsessive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/82D93A0C9783AE2CDC2B0AAFB5E5D1460151539C.PNG</Image>
+      <Description>Collected 20000 Cloudberries</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Lord of the Bushybeasts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/B0CD8C9175FA572ED0B5F1A9535AEFD4EA9CD17B.PNG</Image>
+      <Description>Beat 10 Rounds of Bushybeast Rampage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Goat Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/DF1CD533CF1BF15D192A70D450725260A65F0E1D.PNG</Image>
+      <Description>Beat 10 Rounds of Goat Guardians</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Forest Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/2BDFCC449EDED7D05779848BF53EB000253E3DB0.PNG</Image>
+      <Description>Beat 10 Rounds of Tower of Kat</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02122_00</GameId>
+      <Title>Master Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02122_00_8FD256B6548BCC57B0E1338DA416A96D547B8CB2/46B49BB9F7069711E58AF6C570C2DE6ADBC5AEAD.PNG</Image>
+      <Description>Beat 10 Rounds of Mechanic Mayhem</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

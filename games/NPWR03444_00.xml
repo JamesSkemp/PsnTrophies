@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03444_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Puzzle By Nikoli V Kakuro</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/61A3CD3AC9AB7F7706C57E4EB10A269B990C05FC.PNG</Image>
+    <TrophiesCount Total="13" Bronze="11" Silver="1" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Paused a puzzle 50 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/30EAD21F3DFEF24A71A547920C70B901B7ACCD18.PNG</Image>
+      <Description>Paused a puzzle more than 50 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Quit a puzzle 50 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/6F43C4928FDA892B272C168EF914F6D7665B3701.PNG</Image>
+      <Description>Quit a puzzle more than 50 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Used "delete" 100 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/7F868C4E3992FF79D0864CF976EACC4C94613B20.PNG</Image>
+      <Description>Used the delete function more than 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Read all the guides!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/DF3BEE286774B474D343F6429A24302BD4C1E458.PNG</Image>
+      <Description>Read all game guides</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Played for more than 24 hours!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/74D93A94428A35BFBA9F54D0F441B0F1A182D849.PNG</Image>
+      <Description>Total play time exceeded 24 hours</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Used "REDO" 100 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/EDF6D6C791FD1ACAFBB599731C06730C2ED472D8.PNG</Image>
+      <Description>Used the redo function more than 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Used "UNDO" 100 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/744F547C481C81FCEFA3FD495552C52158CF4077.PNG</Image>
+      <Description>Used the undo function more than 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared 10 puzzles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/60E0090B3702709E56E9DF8E1DF3D91BB5D31BE0.PNG</Image>
+      <Description>Cleared 10 "kakuro" puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared 20 puzzles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/91D74F6A9B5BF44AA500F47F6B433D84F845F534.PNG</Image>
+      <Description>Cleared 20 "kakuro" puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared 30 puzzles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/8B1F0E5DA112CD6A3E807037F7760CBA590FC95B.PNG</Image>
+      <Description>Cleared 30 "kakuro" puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared 40 puzzles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/DF8C548D28F063CF8A4AB71C8DDE9B8515550626.PNG</Image>
+      <Description>Cleared 40 "kakuro" puzzles</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared all puzzles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/5BBF5C76EB55C7BF8BF506D41C49D32BB4FB8A46.PNG</Image>
+      <Description>Cleared all "kakuro" puzzles</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03444_00</GameId>
+      <Title>Cleared 15 puzzles in a row on shuffle!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03444_00_8C69476B3F3D53D64C0BD85CDE97A3ABDE986812/80683E69983FCA70F6D5FC3DAC0778CA487D47DB.PNG</Image>
+      <Description>Cleared 15 puzzles in a row on shuffle</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

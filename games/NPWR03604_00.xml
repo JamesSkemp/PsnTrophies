@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03604_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Mad Dog Mccree</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/0FD31E2E176C7ABFC8CE5DE5C92D70E698CC1BEC.PNG</Image>
+    <TrophiesCount Total="8" Bronze="3" Silver="3" Gold="2" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Didn't shoot the deputy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/10E0115E2C4BE66AAEC48C497203C36558DB44CE.PNG</Image>
+      <Description>Try to save the sheriff without the keys. ( single player )</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Get six coffin's ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/9DFE48DC6F0333EF9A621A3678DF49DD723ECBBB.PNG</Image>
+      <Description>Shoot six enemies in a row without missing or reloading. ( single player )</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>My mistake, twelve coffins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/01B00521BBE8D76AA1EFE0D54711C48B3ABC9437.PNG</Image>
+      <Description>Shoot twelve enemies in a row without missing or reloading. ( single player )</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Cheap Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/40C203F6AE7EA72C89C630327135954BEEC1BBC3.PNG</Image>
+      <Description>Get shot by the hidden shooter in the window. ( single player )</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Come here often?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/3A7871D4C09AEED76184A0BD6E5C6BF015DE0DD9.PNG</Image>
+      <Description>Get the keys from the barmaid. ( single player )</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Hey, Stranger!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/155AD5EAC747FF1486BE37DCC841C42F24EA89E8.PNG</Image>
+      <Description>Save the prospector from the bandits. ( single player )</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Crack shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/79E537261FE803358177216E85C3F92CD40DC6DF.PNG</Image>
+      <Description>Shoot 3 bottles out of the air without missing. ( single player )</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03604_00</GameId>
+      <Title>Mad Dog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03604_00_01402741DA73B361738021C300A020AABAF54B01CC/D396A1065C102406D4E1170D494C5307020E4F36.PNG</Image>
+      <Description>Defeat Mad Dog. ( single player )</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

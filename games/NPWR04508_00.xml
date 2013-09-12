@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04508_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dynasty Warriors 7 [CHZ]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/D9C39880B9AD2F2693DEBDBBEC0922F69D3F97E6.PNG</Image>
+    <TrophiesCount Total="41" Bronze="18" Silver="20" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>真・三國無雙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/ADF5E6D31EDEA6495E6C5321108A1652D104509C.PNG</Image>
+      <Description>獲得了所有的Trophy（獎盃）。</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>修羅之猛將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/7D651A1E63576824CC8553D9724EAF5D72D61A82.PNG</Image>
+      <Description>以難易度「修羅」完成了所有劇本。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>修羅之將星</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/CB3E62AEAFF31E1233E53FE7AE5B885F0EFF56E8.PNG</Image>
+      <Description>在將星模式中達成了50連戰以上。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有武器</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/51C6C0AA2B84E7C0F33094832570309245E9215E.PNG</Image>
+      <Description>武器收集率達到了100％。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>開天闢地</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/A8FFFC04A40398DC264FEE6AC454BF7E188CA7F0.PNG</Image>
+      <Description>建造銅雀台，並擁戴了皇帝。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>震天之凱歌</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/9518D3BB85047810BDC8F533C21A74627C2AE0B3.PNG</Image>
+      <Description>在故事模式、自由模式中完成了作戰教學以外的劇本。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>黃金時代</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/21A496A6FE61CF415CE2E4D113A8BF43AF7494FB.PNG</Image>
+      <Description>在將星模式中，獲得的武器素材與設施素材合計達到了1000以上。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>堅強的情誼</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/FADEAEA7DF47050F0481F343AEA7F9FA9F660439.PNG</Image>
+      <Description>在將星模式中，使所有的武將都成為了同伴。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>繁盛之地</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/244B2D4734A97135B5AA58AA780913CE3AE49BB7.PNG</Image>
+      <Description>在將星模式中，使所有的設施出現。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>威風凜凜</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/51455BD5743EA1995FFBB2BAF68BE77FB4A409AF.PNG</Image>
+      <Description>在將星模式中，使名聲達到了最高。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>蒐集珍品</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/6C0947B9F352AE6E34116EA3A0035E68A9D8ED83.PNG</Image>
+      <Description>獲得了所有的基地象徵物。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>千錘百鍊</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/5229F28CFDAA3A5563D9D5A2E334903333E4AC46.PNG</Image>
+      <Description>以任何一名武將在戰鬥中獲得了100次勝利。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>百騎當萬</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/27962F6BF847FAA6105D28548EF3386E980B03CE.PNG</Image>
+      <Description>累計擊破數達到了100000人以上。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>立志之將星</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/A9DACEB7B38271DB425DC033F5622DA3B7DDD65C.PNG</Image>
+      <Description>在將星模式中達成了20連戰以上。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>點與線</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/1542643B64E0BE2916B15D18044A0D2085D0CB3E.PNG</Image>
+      <Description>在故事模式中完成了所有的劇本。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>天啟</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/D5DF534F1DE000424EAE551DCAB348FB2A2035C5.PNG</Image>
+      <Description>使所有的技能達到10級以上。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>魏傳</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/C14CBB65488D5DC1E81C4A3F7E7340A878EC8FB2.PNG</Image>
+      <Description>觀賞過故事「魏」的結局（史實、IF）。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>吳傳</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/F768073D7A90C27CE9D422E214631FB9FCA031EB.PNG</Image>
+      <Description>觀賞過故事「吳」的結局（史實、IF）。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>蜀傳</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/F40519AE0FFECF4C4282DCC808D63AC0A2A43D9F.PNG</Image>
+      <Description>觀賞過故事「蜀」的結局（史實、IF）。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>晉傳</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/001103BB2787C65427F13E850CC57DCA7AC385A7.PNG</Image>
+      <Description>觀賞過故事「晉」的結局（史實、IF）。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>締結的情誼</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/9B2F160759F744E6CE3BFBDD5AACAEDCD274A24D.PNG</Image>
+      <Description>與任何一名無雙武將的情誼達到了最高。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>破壞王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/86801895727FA50A85C540E91774DF808315720A.PNG</Image>
+      <Description>合計破壞了1000個以上的兵器。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>他傳</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/8827B62985A9DD3D733904A7EA2921C8E1B31A89.PNG</Image>
+      <Description>完成了故事「他勢力」的所有劇本。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>建造設施</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/5E7862CC15470FDB280A7C00E58E05CAE652D260.PNG</Image>
+      <Description>在將星模式中建設了新設施。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>擴建設施</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/CBB6E55C44C737F754006BB4780266B2B78ED19F.PNG</Image>
+      <Description>在將星模式中擴建了任何一個設施。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>搖籃之將星</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/D24956319681424C6DD9946AF7673569A5B39176.PNG</Image>
+      <Description>在將星模式中達成了5連戰以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>空中散花</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/8BACC1DB5CE96743F9B1B2CB597C067D04FE3147.PNG</Image>
+      <Description>使敵人浮在空中10秒以上，並將之擊破。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>真正覺醒</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/7A66864FA6922A43DA22300E2381A6777B50516D.PNG</Image>
+      <Description>發動了真．覺醒亂舞。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>一氣呵成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/C6845207B757B60A2A394461CC537F299B5D47F1.PNG</Image>
+      <Description>在1場戰鬥中，以暴風連擊連續擊破3名敵方武將。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>攻勢逆轉</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/B7398AB8546AF53A169BB9FA33B580C6CE0E5D21.PNG</Image>
+      <Description>在1場戰鬥中，以易武反擊連續擊破3名敵方武將。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>連擊王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/24BC035508F7875FB15EA7B170FA81F6644D55C3.PNG</Image>
+      <Description>連鎖數達到1000以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>一騎當千</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/377BCBAB4AEFC1425128C81925FD1E792F1E59D9.PNG</Image>
+      <Description>在1場戰鬥中擊破了1000人。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>訓練結束</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/B2B92114B5E5CA076DBFD2CB6CC45A37B1D0CF39.PNG</Image>
+      <Description>完成了所有勢力的作戰教學。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>猛獸突擊</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/5CA1C4DCAD062E1A6B262D68A499FF6114114414.PNG</Image>
+      <Description>騎著騎乘系的支援獸，擊破了合計1000人以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>獸王邁進</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/FC707585AACCA96E56980A7A43041D0F4A65B4C6.PNG</Image>
+      <Description>以護衛系的支援獸攻擊敵人，並擊破了合計100人以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有台詞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/20EF9C3F8DC35747F9966DAF499C977991541492.PNG</Image>
+      <Description>可在鑑賞室中瀏覽所有的台詞。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有支援獸</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/21831BC6CEE682B62658C8156147B06EF2C753E3.PNG</Image>
+      <Description>支援獸收集率達到了100％。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有動畫</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/23B6477EF44327B24604922EBE0F4EEF838F5FA0.PNG</Image>
+      <Description>動畫開啟率達到了100％。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有事件</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/EC8563BB6B2E15233D5E1EC907FCDD4C8F5E9843.PNG</Image>
+      <Description>事件開啟率達到了100％。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>收集所有桌布</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/1DCBAF8D56E5294CD73FE568C6CC9516272E8CBD.PNG</Image>
+      <Description>桌布開啟率達到了100％。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR04508_00</GameId>
+      <Title>無影</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04508_00_01844048AB2E136A1B58628F9A575FB599A05E4D1E/862DBFD7BB6FA4175CBF5184EBFFA8DD3624D485.PNG</Image>
+      <Description>在作戰教學以外的劇本中，不受任何傷害而取得勝利。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

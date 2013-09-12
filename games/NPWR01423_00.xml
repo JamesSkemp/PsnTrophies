@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01423_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Afl Live</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/BDFA2D7E160B3EC7F4BD9385A63E6EB5B8CAB029.PNG</Image>
+    <TrophiesCount Total="39" Bronze="23" Silver="11" Gold="4" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Legend of the Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/93389F4CF3651E9239FB1E94C7133C054321CB83.PNG</Image>
+      <Description>Earn all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>50 Metre Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/18A0F59998B701F69EECB3411D5E474EF726D256.PNG</Image>
+      <Description>Kick a goal from beyond the 50 metre arc.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Poster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/43B32593BF8B05132C927EE2C1DF4AE5F4C75EAB.PNG</Image>
+      <Description>Hit a goal post and score a behind.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Attacking Pressure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/12C979B6B53FDC371950CACBA830E525B57216C6.PNG</Image>
+      <Description>Kick 3 goals as a direct result of free kicks from tackles in a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Slippery When Met</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/E684EDF06111CBAAA68103CC0A3496093DE8C6D0.PNG</Image>
+      <Description>Win a match in the wet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Storming Home</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/482E65368B4D185969C11265B69A8E8EF819CFCE.PNG</Image>
+      <Description>Storm home to win without the opposition scoring a goal in the final quarter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>First Use</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/ED491692BB5E4A646E5A23C3ECC8C2D24AA949E0.PNG</Image>
+      <Description>Perform 5 taps directly to a receiver in a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Amateurs' Hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/7F2A73FFEA0C85D6F8A69C0C97B1CAE0E2BAB839.PNG</Image>
+      <Description>Win a Toyota AFL 2011 Premiership Season on Amateur, no simulating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Road Trip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/892A707766A128CDA83B45443C8A49EF8A30EA7F.PNG</Image>
+      <Description>Win a game with an AFL team against an interstate AFL team at their home ground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Even Spread</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/4B6278B7B6E12C69D42DB131948A60F75FA73832.PNG</Image>
+      <Description>Win a game with 9 or more individual goal kickers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Chairman of the Board</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/3D42E3EE6CAAA9FCB467A2B147711573F5241066.PNG</Image>
+      <Description>Create a full team of 40 or more players in the Footy Factory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Dancing with Your Sister</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/FB3E910EC365772B2AADB667282C28C0AADAAE82.PNG</Image>
+      <Description>Play out a drawn game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Downtown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/28F13F7F45C639CA41C65AB434CED68572891413.PNG</Image>
+      <Description>Kick a goal from within the centre square.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Australian Made</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/AA69872C3527CD55AE7A9D0DD294D89C863C3C62.PNG</Image>
+      <Description>Create a player in the player creator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Leather Poisoning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/5C242DFCE029D1B1F27FFEE006E8ACFE23395F12.PNG</Image>
+      <Description>Gather 40 or more disposals with a single player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>No 'I' in Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/2EB78C087834E54F3DB9C939A21C8E8CCD15039B.PNG</Image>
+      <Description>Play a co-operative match with at least 2 players on the same team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Kicked a Bag</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/CB12FC05256B31D8407A61D5FA50D5D66D09FAAD.PNG</Image>
+      <Description>Kick 5 or more goals in a match with a single player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Spoil Sport</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/4D689169FF3A19E8DF34D7D6E6481862B0ED4A56.PNG</Image>
+      <Description>Perform 50 spoils.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Shut 'em Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/2D97F42BF1CE9F54A488169101C83DD7E5171B3B.PNG</Image>
+      <Description>Perform 10 effective tackles in a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Online Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/A284507ACBEDC101139E61610938CBE415402D8C.PNG</Image>
+      <Description>Complete 5 online games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Torpedoes Away!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/370A859D85979750817755C183BFE8E6EEA760FC.PNG</Image>
+      <Description>Kick a goal with a torpedo from 50 metres.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Fruity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/C16084B9597E2B56BB472591C4CB89EE2017A37F.PNG</Image>
+      <Description>Kick a goal from the boundary with a banana.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Talk to the Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/0C6FD2BA3D29FE1176212B68E0EB10A360E4CE73.PNG</Image>
+      <Description>Break 2 tackles in a row with fends.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Winners (are Grinners)</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/3393136BD9AAD466728BD832A5A2560718714575.PNG</Image>
+      <Description>Win a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Playing Tall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/3816C22BAD605FEBDBEDF92119D7037376B4D561.PNG</Image>
+      <Description>Win a ruck contest with the shortest player on your team.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Hot Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/7E6C42BA3A3E18F4D5902DADF87712DD261C6C15.PNG</Image>
+      <Description>Win 5 matches in a row during a season on Professional difficulty or above.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Hard Nut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/136FD64DE652AECBF79A737EC5D13639D43ADC6F.PNG</Image>
+      <Description>Perform 20 heavy bumps.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>End-to-End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/8C512C267E63D2AE6B9B2140867481A618C846E7.PNG</Image>
+      <Description>From a kick-in, score a goal without the opposition touching the ball.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Chas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/DAF1077C752D7872DD8D005644329E278D132F57.PNG</Image>
+      <Description>In Season mode, a member of the player controlled team wins the Brownlow medal.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>By Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/6A5C0EA72ED96BF9EA1618A96D5D505A55481247.PNG</Image>
+      <Description>Win a match wtih more handballs than kicks.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Got the Wood on 'em</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/9D33F99F2B56FEADB604C9B28BD5EB2F0A3F68F0.PNG</Image>
+      <Description>Defeat every team at least once in a home and away season.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>The Beautiful Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/13899CDFA7ADA384586EA2ABDD594CACAC542E58.PNG</Image>
+      <Description>Kick the ball off the ground to score a goal.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>The Professionals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/0375E8490006AB5B4486AABC4A944A1B337FD023.PNG</Image>
+      <Description>Win a Toyota AFL 2011 Premiership Season on Professional, no simulating.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>It's a Drubbing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/BF727D15B8DD559B15621D2350A68CECEDB2F063.PNG</Image>
+      <Description>Win a match by over 50 points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Set for September</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/B304F6966904A39F77AAE21FD60829C24F30C634.PNG</Image>
+      <Description>Finish on top of the ladder in a Toyota AFL 2011 Premiership Season, no simulating.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Legendary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/85EE6D999D3E1DF218DE9F687AE2AC821A2F38B0.PNG</Image>
+      <Description>Win a Toyota AFL 2011 Premiership Season on Legend, 20 min quarters, extreme injuries, no simulating</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Nabbed It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/A0ADE20799154574E95F4EBDCD5EA359DB3BEB31.PNG</Image>
+      <Description>Win the Pre-Season Competition on Legend in real time with extreme injuries.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>First Class Century</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/17BCF0E6DCA4A26170CBE7969ACF1BE359E007F1.PNG</Image>
+      <Description>Have a player in your team kick more than 100 goals in a season.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01423_00</GameId>
+      <Title>Lifetime Lagger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01423_00_BCC2BDE29316AA89B449BFA1FE0E3D7277DBAE0C/59E29A85FBC13A3D502649F67449278B715C5513.PNG</Image>
+      <Description>Kick 5000 goals.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

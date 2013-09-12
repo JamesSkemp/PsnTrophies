@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00735_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Misato Katsuragi News Project</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/FA695ED0DCA9AE9A2E1BB3802F66E09EC4DB3232.PNG</Image>
+    <TrophiesCount Total="9" Bronze="3" Silver="5" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞５</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/E9DABEA20007403B1364927F8E2E95CD5209AE95.PNG</Image>
+      <Description>５日分ニュースを観たら入賞です。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞１０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/5A3F95C7A7D50F3A3C582FAA5AF3A721B88EA614.PNG</Image>
+      <Description>１０日分ニュースを観たら入賞です。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/F27916F17936A875350970003A900CF7D522AE82.PNG</Image>
+      <Description>２０日分ニュースを観たら入賞です。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞４０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/F02FDFB12FCA86CBE9F1051C6115EF1C1746E07D.PNG</Image>
+      <Description>４０日分ニュースを観たら入賞です。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞７０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/3FF0BE8FB7E97823859D4C26793E39E9CE85D23A.PNG</Image>
+      <Description>７０日分ニュースを観たら入賞です。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ニュース視聴者賞９９</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/428711FA34CEB86562C4E3F9E2597428E85E9CD0.PNG</Image>
+      <Description>９９日分ニュースを観たら入賞です。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ハッピーバースデー賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/5CC19447EF5D3AB20ADB82BF8F31E7D0977E0658.PNG</Image>
+      <Description>誕生日に？？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>メリークリスマス賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/54D2E87FFFE3018840836281B11491844E1B36DC.PNG</Image>
+      <Description>クリスマスに？？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00735_00</GameId>
+      <Title>ハッピーニューイヤー賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00735_00_5765C7ACB183401FF4F7E4377B929058E5B2E4FB/609393D90FC268A3EB8550E0786CDE3EC2C76BB6.PNG</Image>
+      <Description>お正月に？？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

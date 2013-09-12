@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01057_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Buzz!: The Ultimate Music Quiz</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/8D78CE4FCD1DFAD17AB860C55D9DC883EE3559BA.PNG</Image>
+    <TrophiesCount Total="35" Bronze="18" Silver="11" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Gone Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/A61FD4BC4B4334CA56D363DFEAF3671FEC9C9FE1.PNG</Image>
+      <Description>Unlock all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Debut</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/DD7AD8E670E493B3ABC3DEF5B2D8D7BEB5051D27.PNG</Image>
+      <Description>Complete any game mode for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Remix</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/68EFAA0CC753ACE0C963441444331375BBEF8E7F.PNG</Image>
+      <Description>Complete a custom game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Best Newcomer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/BF8CA982EF66A1AC5676BC8C01C049A58529140C.PNG</Image>
+      <Description>A new player wins a multiplayer game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Breakthrough Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/96D60A33C09B81749A711D779BF0A668D011CB5C.PNG</Image>
+      <Description>The same player wins five games in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Chart Topper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/DD90E3AAA5050C3675A122101D70629ECCEDA026.PNG</Image>
+      <Description>Have a clear lead at the end of every round and win a classic or online game</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/E0F26B2D33051F2264533E286112651D0570A4DF.PNG</Image>
+      <Description>A player answers every question faced correctly and wins a classic or online game</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Harder, Better, Faster, Stronger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/6EF5B90C84CA9D53D7B351648D562052E1C1179D.PNG</Image>
+      <Description>A player answers every question the fastest and correctly during ‘Fastest Finger’ or ‘Stop the Clock’</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Smooth Criminal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/1874C2CEFB86B3CAF9A7B671F481597D57BE8C1E.PNG</Image>
+      <Description>The same player wins every question in ‘Point Stealer’</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Heaven Knows I'm Miserable Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/FBEC4DE9D263D2D83689ACE62134E1D4EC950B39.PNG</Image>
+      <Description>The same player is stolen from for every question in ‘Point Stealer’</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>I Only Have Pies For You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/5D6150D1C7D27DD7475028F1295B80A0E75E6B22.PNG</Image>
+      <Description>The same player wins every question in ‘Pie Fight’</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>High Roller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/531D00A2591BAA2D69AC7414D1447F1C973A34B3.PNG</Image>
+      <Description>A player answers every question correctly during ‘High Stakes’ betting 500 each time</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Stage Fright</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/9299E739793943865260824BEC9F583C91D57B64.PNG</Image>
+      <Description>A player answers every question correctly during ‘High Stakes’ but never bets 500</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Tuned In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/68815BBC2E25579AAF1D2D6101A3E0BE3FC10901.PNG</Image>
+      <Description>No players answer incorrectly during ‘Tune Warp’</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Take the Plunge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/C89990C1DAF695B01A357DF0AD40A27BD739BF12.PNG</Image>
+      <Description>A player answers five questions incorrectly in a row during ‘Over the Edge’</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>It Ain't Over 'til It's Over</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/4EAC31740A050D66D21BF864BD56E3B2C79F290A.PNG</Image>
+      <Description>A player starts or falls into last place during ‘Final Countdown’ but goes on to win the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>We Like to Move It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/6C8C78B24707FB7C8446D4F5C1D088B4EA0A349B.PNG</Image>
+      <Description>Complete a multiplayer game of Buzz!™ Move</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>I Like to Move It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/AC5E20171ADFF01077D60FDC41DA10CB47E75F25.PNG</Image>
+      <Description>Complete a singleplayer game of Buzz!™ Move</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>I Got 5 On It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/02E2996C2F7989AF7A0B165FAC40993A4A7E86D8.PNG</Image>
+      <Description>A player answers five questions correctly in a row during a game of Buzz!™ Move</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>B Movie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/9FADDE1AE7E1CB081D0A09938F6F296124390642.PNG</Image>
+      <Description>Shoot five bonus UFOs during a round of ‘Master Blaster’ in Buzz!™ Move</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Streaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/943DDD606B4BEBC6A23FA213A6DA6D94BEB86A26.PNG</Image>
+      <Description>A player answers ten questions correctly in a row during a game of Buzz!™ Move</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Get Yourself Connected</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/9DF3F3C293FF23C76DBF1BB5EAD0A92D9B3D3023.PNG</Image>
+      <Description>Complete an online game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Mix Tape</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/5741BF41F726E0B29EE3E95A8327674A108FB6FC.PNG</Image>
+      <Description>Create and play a MyBuzz!™ playlist</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Hit Single</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/9C61DA3636B622526C031806B6134E289AC5756F.PNG</Image>
+      <Description>Achieve 9,000 points in the ‘Stop the Clock Challenge’ or answer 25 questions in the ‘Over the Edge Challenge’</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Almost Famous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/57E411207A5484B4AB4F03ABE56BF6CEF0D60AEF.PNG</Image>
+      <Description>Achieve 11,000 points in the ‘Stop the Clock Challenge’ or answer 50 questions in the ‘Over the Edge Challenge’</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Hall of Fame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/B88F59470FB08E4A583565D812D246552193ABB8.PNG</Image>
+      <Description>Achieve 13,000 points in the ‘Stop the Clock Challenge’ or answer 75 questions in the ‘Over the Edge Challenge’</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Bootlegged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/88A09698DA47B6723654373B43ECAEF63ED01E5E.PNG</Image>
+      <Description>Start a classic game using a custom buzzer sound</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Paper Faced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/AFBD7ABEC4679ABDF5CFF03DE9156B1CFBB337E0.PNG</Image>
+      <Description>Complete a classic 4-player game using Paper Face on all contestants and the host</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Show Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/29885331E2FD5552B7192A24ED6F37A0F182FC5C.PNG</Image>
+      <Description>Post match stats to Facebook after a game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Deadlock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/1FBB7B194E1223C9E9374E5CE4D96F1A19145BE2.PNG</Image>
+      <Description>‘Final Countdown’ goes to a tie-break</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>One Hit Wonder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/96C59F610D771FECC419E4349041BDFF56FD2423.PNG</Image>
+      <Description>A player takes the lead at the end of one round in a classic or online game but finishes the game in last place</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/2C9DD67E265C8D78228AFC24075385839C828F9E.PNG</Image>
+      <Description>A player wins 25 games</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Signature Song</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/4ED7A55A5CA341EDDEEC5FBBF47E071DFC841619.PNG</Image>
+      <Description>Play the same game mode three times in a row</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>...Baby One More Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/1F4BC2ED81CDB108D3743893ED968B17EAE99C28.PNG</Image>
+      <Description>Have a rematch online</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01057_00</GameId>
+      <Title>Duet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01057_00_D0DCC11DA4A05F14C6903DE2B0B7A4A1DAC0D118/A68B2A828EBC83E56F00C6A1091DF856BF042DE7.PNG</Image>
+      <Description>Finish in first and second place with two local players during an online game</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

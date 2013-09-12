@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04336_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Earth Defense Forces 4 [JAP]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/2F83C450346A397652F7987B3D1500C011BCB1D1.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="15" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>全コンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/045D2F5C2161FD68626EC3D4B9D24A8CD957C370.PNG</Image>
+      <Description>全てのトロフィーを獲得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Normal全ステージクリア（レンジャー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/149BE38B70BA07D79FABC88B66D2D16C45362D27.PNG</Image>
+      <Description>レンジャーで難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hard全ステージクリア（レンジャー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/72B85BB909B241A1EE5B6A8DF950B950D081DC22.PNG</Image>
+      <Description>レンジャーで難易度Hardの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hardest全ステージクリア（レンジャー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/416A4367592596B4D81533F17F4F8A4DCA847E02.PNG</Image>
+      <Description>レンジャーで難易度Hardestの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Inferno全ステージクリア（レンジャー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/7F972F3E3EC021A7F8883C084E4426E5FBAF6158.PNG</Image>
+      <Description>レンジャーで難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Normal全ステージクリア（ウイングダイバー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/FF675689AAAA1513E5E6E48A2A93E51ED815E38E.PNG</Image>
+      <Description>ウイングダイバーで難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hard全ステージクリア（ウイングダイバー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/15CC1A50FC3EE31F00A64EC7C987CFBB2238FAA0.PNG</Image>
+      <Description>ウイングダイバーで難易度Hardの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hardest全ステージクリア（ウイングダイバー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/CBCDC03925D5D2CB53FBCCBD8D75F012283819B2.PNG</Image>
+      <Description>ウイングダイバーで難易度Hardestの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Inferno全ステージクリア（ウイングダイバー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/FBA01F8519A2746786C5268FC1032A0852CE509A.PNG</Image>
+      <Description>ウイングダイバーで難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Normal全ステージクリア（エアレイダー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/F9BE302F914B144E4263219DC22F9DC1E5A28E5A.PNG</Image>
+      <Description>エアレイダーで難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hard全ステージクリア（エアレイダー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/7D592C3934222CA9843D761B3696E263639E56EA.PNG</Image>
+      <Description>エアレイダーで難易度Hardの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hardest全ステージクリア（エアレイダー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/61A53BBAAD40266CDAC63F36360BAFDB2F13C0C1.PNG</Image>
+      <Description>エアレイダーで難易度Hardestの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Inferno全ステージクリア（エアレイダー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/FE4B33B30FFB7F9C85EF869ED4C5C3593B4E5E8C.PNG</Image>
+      <Description>エアレイダーで難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Normal全ステージクリア（フェンサー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/CC556DAB29A4B3F4F01509AD8C483DA323CE592E.PNG</Image>
+      <Description>フェンサーで難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hard全ステージクリア（フェンサー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/7F2FA7C2F0775FCEA487A731B201A2558B5CC4F0.PNG</Image>
+      <Description>フェンサーで難易度Hardの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Hardest全ステージクリア（フェンサー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/F46F2844DF593B5D70CEE3F9BEC34D01F7E855F7.PNG</Image>
+      <Description>フェンサーで難易度Hardestの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>Inferno全ステージクリア（フェンサー）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/43B4E3551164CB964F07D7F19546610A87D96543.PNG</Image>
+      <Description>フェンサーで難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>武器入手10％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/6FA89068F80310F71849D61DA81B3BC594F91FC3.PNG</Image>
+      <Description>武器の入手率が10％</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>武器入手50％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/3183A01D24DA144249A8880FA7369F4250CCE28F.PNG</Image>
+      <Description>武器の入手率が50％</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>武器入手100％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A6ADC6207EB04FDDE65F27CE1F3D1803531C1D7E.PNG</Image>
+      <Description>武器の入手率が100％</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>アント・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/372F8D41C9DF839C5E51B2006DF60EC886CA42CD.PNG</Image>
+      <Description>蟻系巨大生物を合計２００００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>スパイダー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/773C133F4CC58243FBFB9C9B8B67BF0CCB1E6339.PNG</Image>
+      <Description>蜘蛛系巨大生物を１２０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>飛行ドローン・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/ED0E737C063049DDDE9D626EEEEDD6F67D26D4BF.PNG</Image>
+      <Description>飛行ドローンを５０００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>キャリアー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/E88A2ED66A16F2043AF75DBFAB045563B55D9201.PNG</Image>
+      <Description>キャリアーを５００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ヘクトル・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/6AB9B0693E1329057A91C9C0DB98D88FFC8EB4DF.PNG</Image>
+      <Description>ヘクトルを９００機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>フォートレス・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/7A793450EEB144C873DFB04CCBCB637A7BD51513.PNG</Image>
+      <Description>四足歩行要塞を１２機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>クイーン・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/95AA12B3084A5DF2D31BF967A7FBDE247D5D5982.PNG</Image>
+      <Description>クイーンを２４体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>キング・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/348E77C1D98973DB890A7C1A051683715E9BA173.PNG</Image>
+      <Description>大蜘蛛を４０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>レッドカラー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A365AC31744C4DBF732D931B35540500152EE8DF.PNG</Image>
+      <Description>レッドカラーを１５０機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>マザーシップ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A225F90CCFDFC05F56D2E5D4E9A19C558FF8EC2D.PNG</Image>
+      <Description>マザーシップを６機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>レタリウス・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/85469BB29C8DCC6D0F68907F644E6D12CE16A20D.PNG</Image>
+      <Description>レタリウスを３６０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>トンネル・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/34B2C9CB2053967856CA9E0E76CDB122A29DCB5A.PNG</Image>
+      <Description>地下トンネルの出口を２００破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>シールド・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/6102F4D8BF241043BDD6130EC871BFD7F0BECD9D.PNG</Image>
+      <Description>シールドベアラーを１２０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ビー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/55AD101F74E99D34B47667E8505B709E1C0A6BC1.PNG</Image>
+      <Description>飛行型巨大生物を４０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>デス・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/7E07980CB3FECE7BEF124C49466BACD1186E8EFA.PNG</Image>
+      <Description>デスクイーンを２４体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ネスト・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/F2244158A941AB226F3EA84C1ACCE46CDEBCC1E8.PNG</Image>
+      <Description>飛行型巨大生物の巣を６破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ビークル・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/504162DE5D832ED0EB1A659FBF31219A89039484.PNG</Image>
+      <Description>飛行型ビークルを２０００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ジャンプシップ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/FB8FDFAAD665000C0C2ADB41398FF9A22A9DBF70.PNG</Image>
+      <Description>大型輸送船を２００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ディロイ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/F1AFCC40B5D9A646355BEA6E79DAF7070E62A21A.PNG</Image>
+      <Description>ディロイを２００機倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ドラゴン・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/3839A1852BF5FF2966080235C9AF8621B85C9FE2.PNG</Image>
+      <Description>ドラゴンを２４００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>グレート・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/8AF1BE5A9A6AF60192E09A1E535775286EDF6B30.PNG</Image>
+      <Description>グレーター・ワイルド・ドラゴンを２０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>アルゴ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A701766F914B60340EE871207BEB40E481B902EB.PNG</Image>
+      <Description>アルゴを２０隻撃破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>ブレイン・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A76E187BD5FF7F3D4B49235F46CE6099844FDF6B.PNG</Image>
+      <Description>ブレインを６機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>マスターレンジャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/ACC5A348B3B60168D9987836819B3681B20977CE.PNG</Image>
+      <Description>レンジャーの体力が１０００に到達</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>マスターダイバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/83C481E9CB3E80ECACD8560E7870EA0BC8E6ABF7.PNG</Image>
+      <Description>ウイングダイバーの体力が５５０に到達</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>マスターエアレイダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/A818A466D375AD635938CF80B4502BF2B2E725F6.PNG</Image>
+      <Description>エアレイダーの体力が１０００に到達</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>マスターフェンサー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/836CC4F160B735E2FDB99061870DC79820E01658.PNG</Image>
+      <Description>フェンサーの体力が１２５０に到達</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>レスキュー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/0E4970359DC50986827E6D09060C035FB24AC2C3.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーを５人救助した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>スーパーレスキュー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/30533B09D61F6E734EF86DC8C8B826D800AB529F.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーを５０人救助した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>メディック</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/D25D81E287C603874EB3A48B2133FF6CE2E336EC.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーを回復した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR04336_00</GameId>
+      <Title>高度２００メートル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04336_00_0035BB2F67DFE63FAC54901D7CA96E0DB479705038/952054E61DAFDE9B9520A6EEB6AA4E70F9D6B250.PNG</Image>
+      <Description>高度２００メートルに到達した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

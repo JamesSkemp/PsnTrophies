@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03108_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dirt Showdown</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/031025A2B8A72962300D515F1FF6EDDB23748E2B.PNG</Image>
+    <TrophiesCount Total="50" Bronze="36" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/AD2522DA8300A4F64A645127A64E9BCAECFCE024.PNG</Image>
+      <Description>Achieve all other Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Balletic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/F9243395A11609CA916DAE2BAA06C29FE702D185.PNG</Image>
+      <Description>Complete a clean run in a Head 2 Head event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Bi-Winning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/BBBC5895BA14C4A658C771A757F3D6EEC83767C3.PNG</Image>
+      <Description>Complete a Splitscreen event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Burst the Bubble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3C3A9AB6DDA4E186B464060F40F6B0E922732415.PNG</Image>
+      <Description>Be in 1st place during each elimination period in an Eliminator event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Crash-Bang-Wallop - What a Video</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/48DBA890312633EE23BC6F39861E9ABDD96E6F78.PNG</Image>
+      <Description>View a Crashback replay</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Demolition!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/6F0384DF2E449AE0161A4CBA1983FDAB953BD454.PNG</Image>
+      <Description>Wreck your first opponent in a Rampage event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Don't Push Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/1DF88FDF23C7CA4FEB0A876B57D8396B88E61BF1.PNG</Image>
+      <Description>Get the First Blood bonus in a Knock Out event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Huntsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/956C85646B981301E7243E2ECD8876C9A12AA061.PNG</Image>
+      <Description>Win a Smash Hunter event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Jack of All Trades</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3FD83C80E33B25BC5ACFD148AB9ADB291763D3A4.PNG</Image>
+      <Description>Complete a Race-Off,  Rampage and Head 2 Head Event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>No Turning Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/1C53C2D3F59CCECD6746353F3206B8BCA2FDFF38.PNG</Image>
+      <Description>Send a Challenge to a Friend</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/CF1934F49ACC6CF28BDFE550A8F6229AE36BA163.PNG</Image>
+      <Description>Achieve a podium in the Pro final</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Zero to Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/B1AB0E4E5029477F9E270AA29D1F17A8A23D5BCF.PNG</Image>
+      <Description>Dominate all sectors during the final lap in a round of a Domination event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Comeback King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/94CFE6701C946607A9597C8ABF7714182F50C1BB.PNG</Image>
+      <Description>Be in last place and then earn a podium during double points in a Rampage event in the Showdown Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Showdown Tour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3D18458CD4B53BA5CC26EABA431CCAB00DA102DB.PNG</Image>
+      <Description>Complete a Showdown Tour event in each location</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Mixed Grill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3C38BE30C24D714265F779766D4F601AC7C365E0.PNG</Image>
+      <Description>Pull off an Insane T-Bone in Rampage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Welcome to the Show</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/AF7F037AF97316DFF0AC9629C56DDC26844065DB.PNG</Image>
+      <Description>Complete your first Showdown Tour event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Gonna Need a Bigger Garage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/EEDC65803B00FFAC028E6D05363B35816A3072B5.PNG</Image>
+      <Description>Own 15 vehicles</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Ego Boost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/C4C89F0514B4EEB1CADF66BDD8C62E84A3B6C396.PNG</Image>
+      <Description>Win a Race-Off event without boosting</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Hard Charger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/18B2F4EE33838CE132D8DB0364FC87AB9D3B3895.PNG</Image>
+      <Description>Use a full tank of boost in one go without crashing in a Race-Off event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>AllStar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3854F12152D8A5C2070575407F4B55051EAB2001.PNG</Image>
+      <Description>Achieve a podium in the AllStar final</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/670ED4BAFFFA60989ECA17ED4ABDE69CC1A6AEC1.PNG</Image>
+      <Description>Achieve a podium in the Champion final</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Team Awesome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/3AD5904EEB66036C8C680AEFBC0784F51054C79B.PNG</Image>
+      <Description>Win an Online team event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/FA11C04C86D94471480973EE6AF32F30A82E5962.PNG</Image>
+      <Description>Collect all 100 Hidden Packages in Joyride</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Rust in Pieces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/F86143B63A3CA0B3F1140908649E5AD1FD09DDDA.PNG</Image>
+      <Description>Wreck 20 vehicles in the Lafayette Eulogy</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Beat it!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/5807288872F27E7AB81891098DDD55E4EF9C07F9.PNG</Image>
+      <Description>Accept and beat a Friend's Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Bronze!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/E6AACB26EFD4CD4DB5C855FDD9EFD94D52F9748C.PNG</Image>
+      <Description>Complete the Showdown Tour with at least a Bronze in every event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Showdown Showroom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/E7EDDB16DEC7F376C168AF8CAE363C45E22F2450.PNG</Image>
+      <Description>Own every vehicle in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Dock Worker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/482F8FD65EE561E6520D061F7EA6FA452C12A0DC.PNG</Image>
+      <Description>Complete 50% of the Yokohama Compound Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Hitman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/843F172B381E269B7436769513B4932A5F6FADAD.PNG</Image>
+      <Description>Achieve all hit types in Rampage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>London Calling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/EE4ED987C050A5C9BFFF38C793A2D52F6F24333B.PNG</Image>
+      <Description>Complete 50% of the Battersea Compound Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Loot Carrier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/773AB164CB7F80E865C02F85EEE1DDF827D4F734.PNG</Image>
+      <Description>Hold the loot for 2 minutes in Smash </Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Stylin' and Profilin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/35CD7E4C0BDE4714A5FD509BA46D9FDF5CDF252C.PNG</Image>
+      <Description>Score 300,000 points in a Trick Rush event in the Showdown Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Mmmm Donuts!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/CD166D2ABBDC22A326154A6A30505C3F6684C27A.PNG</Image>
+      <Description>Complete the Donut King Mission in the Yokohama Construction Site area</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Money Maker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/D8736584A3A2C6D80DA5BCAAE7E6D942E17CA752.PNG</Image>
+      <Description>Earn a total of $1,000,000</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Showdown Haulage Co.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/8DB84B511005B242B44904740E1851351E05A2BC.PNG</Image>
+      <Description>Drop the Flag off 5 times in a round of Transporter</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Silver!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/22797D6E98A90FEE4BC2CC3011FA99B51DA766C2.PNG</Image>
+      <Description>Complete the Showdown Tour with at least a Silver in every event</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Showdown Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/BFEDFCA5AAD09D1F648BCF7E05CD677DA2746E88.PNG</Image>
+      <Description>Reach Fanbase Level 30 Online</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/A7D33CB94CA0F719CA02A92AF712EEE7D9276469.PNG</Image>
+      <Description>Survive for at least 2 minutes in a Hard Target event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Household Name</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/32693DF619CB307423D011CAC5283D45DE79332D.PNG</Image>
+      <Description>Reach Fanbase Level 10 Online</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Wrecker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/FB36AA582CCECB696B7D6A0F6C7EDDCE57193934.PNG</Image>
+      <Description>Achieve a 5x Wrecking Streak in Rampage</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>You've Created a Monster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/9933A273E3B9150108031224D5A972AA8F2E8F3E.PNG</Image>
+      <Description>Fully upgrade a vehicle</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Checkpoint King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/7AB09A0B95CDE326941AE410E75F07EFE0DEB577.PNG</Image>
+      <Description>Win a Speed Skirmish event</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Daredevil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/B5A1527DAF332026830438F11B5D7C50DDE0CFE4.PNG</Image>
+      <Description>Complete 100% of the Battersea Compound Missions</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Hoonzilla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/655D66EFDA65A672F42FEF3B9B5F626AEC6C651A.PNG</Image>
+      <Description>Complete 100% of the Yokohama Compound Missions</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/91616330249830EE6F6D13383B7FE0A770BFBC18.PNG</Image>
+      <Description>Achieve a podium in the Legend final</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Running the Show</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/086E0C2B8F2BCC9D6108EB36871E1F01754F41F5.PNG</Image>
+      <Description>Dominate a Friend in Challenge mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Hoonigan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/438451E3060B87150026438A41CE3CF8F9A8DA60.PNG</Image>
+      <Description>Complete all Joyride Missions in both locations</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Max Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/FB6D0FD9E9CD906936E94A97911CA56823F5F9DD.PNG</Image>
+      <Description>Fully upgrade all vehicles</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>Rising Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/CE4A282386EFD527DCD7DC1D2D6E03AF7DAB1C8B.PNG</Image>
+      <Description>Reach Fanbase Level 20 Online</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03108_00</GameId>
+      <Title>GOLD!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03108_00_091AD1DD815539B575EE07C7243F6BB55863089A/55970AC2483AE8B82B90D8E902B78393496EB383.PNG</Image>
+      <Description>Complete the Showdown Tour and win Gold in every event</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

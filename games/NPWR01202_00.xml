@@ -1,0 +1,554 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01202_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Blazblue Continuum Shift</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/CBA98A321CCCF952489594BA62E3529D61D14930.PNG</Image>
+    <TrophiesCount Total="60" Bronze="51" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1185</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>All Others Are #2 or Lower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/ADBB2C6D9E97C83F827240BB71CB69FFEEB62374.PNG</Image>
+      <Description>All Others Are Number Two or Lower</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Hell Yes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/A82501D7387570738AF8B4738BADFBDBF1F6ED33.PNG</Image>
+      <Description>[Arcade] Completed Arcade Mode on "Hell" difficulty setting.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Score!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/757494E723D3914BA81012C937A811CBBE076681.PNG</Image>
+      <Description>[Score Attack] Beat Score Attack mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Well, It's Something to Do...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/5F28ED72DD5F808078F76B2B15772B2A2CFB1ECE.PNG</Image>
+      <Description>[Arcade / Score Attack] Defeated Unlimited Hazama in Arcade / Score Attack mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Tall, Dark, and Handsome</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/08D5E73B670814ADC1133B32549232F943AC67B6.PNG</Image>
+      <Description>[Arcade / Score Attack] Defeated Unlimited Ragna in Arcade / Score Attack mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Blood on Your Hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/182DC826C614A294DED90D15B6F64F3CD106F5FE.PNG</Image>
+      <Description>[Score Attack] Defeated Unlimited Rachel in Score Attack mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Level One...!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/41D22F5980A688C6464594DD974031DBFB48767B.PNG</Image>
+      <Description>[Story] Watched "Previously on..." and "Opening" in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>That's the End of That Chapter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/A69C9A8D5CAB6C8BA26F89A0C84F77BC2F7B83D2.PNG</Image>
+      <Description>[Story] Viewed any character's canon ending in Story Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Is...Is That All?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/901D16ADB7A3DB4E736E22A37372D97D5FE813C2.PNG</Image>
+      <Description>[Story] Unlocked the True Ending in Story mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>All Good Things</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/720DAD7943A26F5F30C691FCDC9AEFABD2696706.PNG</Image>
+      <Description>[Story] Finished the True Ending in Story mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Ragna Cum Laude</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/0A96F70321FFCB79323163C607DD1D386D988909.PNG</Image>
+      <Description>[Tutorial] Finished all your homework.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Superior State of Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/7D055BEDFB429584264C2C13F6047670359672DE.PNG</Image>
+      <Description>[Challenge] Completed more than 100 challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Napoleon Bonaparte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/0606A2E980E1BDD63EC2E7B99460A2A4B509201F.PNG</Image>
+      <Description>[Legion] Conquered the map on "Easy."</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Alexander the Great</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/3509615FC4686DDD450D4AAD211445131463D11F.PNG</Image>
+      <Description>[Legion] Conqueredthe map on "Normal."</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Genghis Khan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/2B86A7818B87A0329F014FCDEC6B4E866A6366F1.PNG</Image>
+      <Description>[Legion] Conqueredthe map on "Hard."</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>I Can Do This All Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/E6899B42B736FA74B1A41930F47F64A2A269C39E.PNG</Image>
+      <Description>[Training] Practiced for over one hour straight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>I'm on Top of the World!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/37E845AF7521FC5BF5D886A2466727AE47D3DF3F.PNG</Image>
+      <Description>[Player Match] Earned your first victory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>I Can Quit Any Time I Want!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/42290585513D93B0296795C5BB2ED120BB78A04B.PNG</Image>
+      <Description>[Player Match] Won more than 100 matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Aniki Is Watching You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/FF334BF93E7C0511272DEE2DDFC09AF99AB4ED91.PNG</Image>
+      <Description>[Player Match] Observed more than 10 matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>There Can Be Only One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/78694DFC27725799E6F475786058CCEB078D3C44.PNG</Image>
+      <Description>[Network] Fought against every character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Two Men Enter. One Man Leaves.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/E77A5FD213B1754F1F940C1AB65EA109BF6730E5.PNG</Image>
+      <Description>[Ranked Match] Earned your first victory.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Only the Hard, Only the Strong</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/2D3CA05E8BA05120750128DD33C1CDE969F1A5AA.PNG</Image>
+      <Description>[Ranked Match] Fought more than 100 battles.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Mint Condition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/F483680FF2F5098BFDA7B05A5BD7467FF03E3F5C.PNG</Image>
+      <Description>[Gallery] Collected all of the...collectibles.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Rear Window</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/077E054235BE585353971E745AAC7E95507D30C0.PNG</Image>
+      <Description>[Replay Theater] Watched replays of more than 20 different matches.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Ding!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/9CF7A66274CA9A2A38A4802059E92C8B3866DA42.PNG</Image>
+      <Description>[Network] Reached D-code level 25.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Ding Ding!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/B69A4A48293B92770B7A21FE8CB737B923E8C5A7.PNG</Image>
+      <Description>[Network] Reached D-code level 50.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>I Get Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/9EA056FD22D9DE5AB3FDA69588E4BE777442946F.PNG</Image>
+      <Description>Used every single character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>They Call Me MISTER Tiddles!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/11BF16855A06380653CE0890741BB2527A8BD17C.PNG</Image>
+      <Description>Used an Astral heat for the very first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Real Ultimate Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/C933AE7B0034691F8CAB20EC7317D57D273840C7.PNG</Image>
+      <Description>Used every character's Astral Heat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>It'll Only Hurt for a Minute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/E0E8F7A6032FE40B117217FBCC8434E7CAF04553.PNG</Image>
+      <Description>Crushed your first Guard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Don't Touch the Merchandise</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/6BA0A4B303A11F752E8191DDB7E270497EDCC7DF.PNG</Image>
+      <Description>Instant Blocked more than 20 times in one round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Hold On Loosely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/743EC4E78D328572B578B3B44EDD33F4C1C0008A.PNG</Image>
+      <Description>Caused more than 30 Throw Reject Misses.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>M.C. Hammer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/2DCFED6A60ED263B998D293FF7FF8DF89F051109.PNG</Image>
+      <Description>Escaped more than 5 throws in one round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>You Broke My Heart!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/6B3A0B548A32AA551BC6CD07E8A6484B966B00AE.PNG</Image>
+      <Description>Finished an opponent immediately after a gold Break Burst.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Fatality</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/46B3E9B37B1D9626E9FDFF00A6A9A5A2C003FF63.PNG</Image>
+      <Description>Landed more than 30 Fatal Counters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>The Better Part of Valor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/786AFA6E9710460D725E0B298F343AE333DB10CE.PNG</Image>
+      <Description>Did not take damage for 20 seconds while in Negative State, and won the round.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Well, It's Not!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/EFB67A5C5CA20D9CCCA44B79961E1A9595DE2754.PNG</Image>
+      <Description>Using Ragna, landed "Not Over Yet" more than three times during a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Ice-Ten</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/E4487A27669B4A6D12121B4C207EAD3EFB0B3D08.PNG</Image>
+      <Description>Using Jin, froze your opponent more than 10 times during a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Are You There God? It's Me, Noel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/1686D787B38D219254B59D8116D75AAE56A08D7F.PNG</Image>
+      <Description>Using Noel, hit the opponent with "Silencer" more than 10 times during a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Twirling toward Freedom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/E3C60A0BB4A7C520F2697A9FF32B7130D07DDAA2.PNG</Image>
+      <Description>Using Rachel, landed a "6C" attack more than 30 times during a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>1.21 Gigawatts!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/6430DD4AD6E10096ACFD04304722DE64AA706071.PNG</Image>
+      <Description>Using Tager, landed "Spark Bolt" more than five times during a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Taut Taunts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/D9DC8771AD0ABE4B2FD8EF4736BF80C73F88A574.PNG</Image>
+      <Description>Using Taokaka, landed 5 taunts over the course of a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Four Sheets to the Wind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/B2F6ED88F804C5AC0B20EE829D32C3971FCFD688.PNG</Image>
+      <Description>Using Litchi, landed "Four Winds" more than 4 times during the course of a match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>BEES!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/304A58ADBCA7D77F839162A91375D95D95A4D35B.PNG</Image>
+      <Description>Using Arakune, unleashed a 70-hit combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Loincloth Festival</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/5B267B95CBA6F9778E179D81CB2C04E9CF33CAF2.PNG</Image>
+      <Description>Using Bang, landed a total of 3 Astral Heats.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>The Clap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/06E07D8AD198EB4DAA5B2F2740188845DB7563DF.PNG</Image>
+      <Description>Using Carl, kept an opponent airborne for more than 7 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>You're Already Dead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/EB8C6F7AF113091C231A9363BB072A2556DC2FB9.PNG</Image>
+      <Description>Using Hakumen, dished out over 10,000 damage in one combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Lamb to the Slaughter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/2C5896E00D7B497716FEDEE578FF1BF97E92C17E.PNG</Image>
+      <Description>Using Lambda, landed a 50-hit combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>For Great Justice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/15C7EC8A21E9899B82369EF75AAC133E554A995A.PNG</Image>
+      <Description>Using Tsubaki, used the "D" version of every single special attack in a combo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Beachball!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/EEBE1006B50A2680C0AD52AAFC17CDD88A580BF0.PNG</Image>
+      <Description>Using Hazama, kept an opponent airborne for more than 7 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Murakumo, AWAKEN!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/660D231BBDAF58A359D12618379EEDB72F0CA131.PNG</Image>
+      <Description>Selected Mu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Fur and Loathing in Kagutsuchi</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/EBB8AE096F5F30622394D9BF214796B178AD3B1D.PNG</Image>
+      <Description>Dealt over 5,000 damage in a single combo using this character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>I Gnu It Was Ewe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/9269BEE0C3C40E6E01BDDF09F253416E63AE01A2.PNG</Image>
+      <Description>Beat over 7 missions in Challenge mode using this character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Oh Nuts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/48BB9CC500B55D9E8C2D29E0122A40B4A5C39B16.PNG</Image>
+      <Description>Used the Unlimited version of this character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Battle Butler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/263A7AA1B41C7EDA0A6FE6C28D7FB7F5C9F21D86.PNG</Image>
+      <Description>Dealt over 5,000 damage in a single combo using Valkenhayn.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>On Her Ladyship's Secret Service</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/3B99BD31BAC6AA5AC2B491B666F88F5E73BB70BB.PNG</Image>
+      <Description>Beat over 7 missions in Challenge mode using Valkenhayn.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>Three-Wolf Moon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/522AB75CEEB6A96A0F52CBF279273F4DB66E557E.PNG</Image>
+      <Description>Used the Unlimited version of Valkenhayn.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>For Whom the Bell Tolls</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/67286DAFA0F1815B1B3FBE8928F72A54AE5778F6.PNG</Image>
+      <Description>Dealt over 5,000 damage in a single combo using Platinum.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>By the Power of Trinity...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/9C3AF43C917C6C24920406C5AB4B30CFF91B4D89.PNG</Image>
+      <Description>Beat over 7 missions in Challenge mode using Platinum.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01202_00</GameId>
+      <Title>With Our Powers Combined!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01202_00_879C75BC949CFADE0904E9D0D4A18DE94D99B341/59E175B2A50B95D42FAFF01F72FB530C214CCB4C.PNG</Image>
+      <Description>Used the Unlimited version of Platinum.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

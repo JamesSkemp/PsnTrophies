@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03190_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dare To Fly!</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/B2EC611129C55C8A4521C6BCCE651AC7DF35C1F6.PNG</Image>
+    <TrophiesCount Total="1" Bronze="0" Silver="0" Gold="0" Platinum="0" />
+    <TotalPoints>0</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Dauntless Devil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/4A46D5E946B4C25411290FE24312BF7470572361.PNG</Image>
+      <Description>Complete your First Flight successfully.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Le Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/E4223D9F0DAE77985E269564D51974CF21AD956F.PNG</Image>
+      <Description>Rescue 100 baby birds.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Bull's Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/6B2DF17120772A8F9C57F9D74F2C3A9B95A03509.PNG</Image>
+      <Description>Land on the Bull's Eye for 10 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Fire and Forget</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/5E58D1CB1F45D44A420AEF3E8367651A81419F13.PNG</Image>
+      <Description>Destroy the Lighthouse in the "Lighthouse" level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Shark's Dinner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/B535A4795900561A969669B27B2DDBBE37B61810.PNG</Image>
+      <Description>Get yourself killed by a Shark.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03190_00</GameId>
+      <Title>Stamina Saver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03190_00_00C7E078FD9D5F5A10C1E05DE2F37B0FEB1F2FC62C/85D6629A87B5EC1E253CB33FD586F88837465E5A.PNG</Image>
+      <Description>End any level with 50% stamina intact 5 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

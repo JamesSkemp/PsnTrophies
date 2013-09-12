@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00933_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Record Of Agarest War Zero</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/ED2FF4678EBFEEAD0D5FAD57BCC22C9C4A38FBE2.PNG</Image>
+    <TrophiesCount Total="36" Bronze="13" Silver="19" Gold="3" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>プラチナトロフィー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/487B13BEE4FAA26C915ACDBC078E921FBEB3D4B4.PNG</Image>
+      <Description>全てのトロフィーを獲得した。</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>称号獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/2C7CC721A71540653600838F9E949CD21AB40157.PNG</Image>
+      <Description>称号のチェックをお忘れなく。称号の獲得は街の施設「冒険者ギルド」にて行えます。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>捕獲成功</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/57E7AC6AB7279210931A685E0B60EB3BCCE3E908.PNG</Image>
+      <Description>捕獲スキルでモンスターを捕獲してみよう。弱らせないと捕獲できません。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>オーバーキル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/62FE25FC06EADFCC526354B6797E3B4CFAF75EAC.PNG</Image>
+      <Description>オーバーキルに成功した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>スペシャルアーツ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/4AAB1AB820AB1339275ECF4A8B6A943CAD4C4762.PNG</Image>
+      <Description>スペシャルアーツに成功した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>足跡</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/3D2C9D6EF94864ADACA22A8FE087B86740588FC7.PNG</Image>
+      <Description>スコアランキングに登録した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>コンバート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/EA645CDF1B4C6D613B4099A098B2519E3FD05C0A.PNG</Image>
+      <Description>コンバートを行った。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>錬成事故</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/10CEDA61A83C2A3582932AF13657D1BAF9169D96.PNG</Image>
+      <Description>おやじがミスった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>モンスター合成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/7231527167BDCBC1CCA6CB93FE38EDAE47A6E674.PNG</Image>
+      <Description>モンスターを合成した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>俊足</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/6AD18BF02A9FC705D28BDF95C61ED6B587F02F2F.PNG</Image>
+      <Description>目指せAGI５０以上！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>壁</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/0AD2FFC43F0FF5786BB9CBFEBE5F3FC32706C5C7.PNG</Image>
+      <Description>目指せVIT５０以上！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>力持ち</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/FD274FE7ECCC2F587853B66E4A77374FB396F154.PNG</Image>
+      <Description>目指せSTR５０以上！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>魔法使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/756C2B9379869BE57B49D114825DA8B795B5856A.PNG</Image>
+      <Description>目指せINT５０以上！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>ギャンブラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/CC73215D7E59588BAE59F69257B98D0D484A2A07.PNG</Image>
+      <Description>目指せLUK５０以上！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>買い物好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/15747AB6821069F238DC60E7525F41A103EA6220.PNG</Image>
+      <Description>買い物を５００回行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>やりくり上手</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/F2AEB159D7CB3F8109B93D3F491A68F8450D5A9C.PNG</Image>
+      <Description>アイテムを１０００回売却した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>クラスチェンジ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/A8ACC7E8DC48D1AF7488D67621B39F1133FE01BB.PNG</Image>
+      <Description>クラスチェンジを行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>ヒロインエンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/28DC4D69D82340A5AC68D639344AFCC575E2CA43.PNG</Image>
+      <Description>ヒロイン一人の好感度が最高の状態で世代エンディングを迎えた。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>マリオネイト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/8CE3CF2F37846C23CEBC3B123782566601D6098B.PNG</Image>
+      <Description>マリオネイトを作製した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>モンスター合成１００回突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/2CFDBCC5DE4C7267788CEAD02FEF19833FDAA047.PNG</Image>
+      <Description>モンスター合成を１００回行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>プロフィールコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/4D88241F9B39B175E0210FF6C985D91B9359C7AB.PNG</Image>
+      <Description>全てのプロフィールをオープンした。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>時を越えて</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/42AD5245F53A2F379010A7D9CDE0627D42FC22F8.PNG</Image>
+      <Description>特殊なスペシャルアーツを発動した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>お好みの方を</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/4E19A6C03888A0BF404FDEA56338FDEE526C098D.PNG</Image>
+      <Description>エリスの容姿を変更した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>ローストチキン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/3A5580A04DC2573C07999B8FF58A0112E0D38A83.PNG</Image>
+      <Description>巨大デシマルを倒した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>隠しモンスター撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/D2DF65934B0A296169AF1D6F5F5AED5E6F6ACA99.PNG</Image>
+      <Description>隠しモンスター４種を撃破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>敵１万体撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/AFF3DC594617C3582EDB1B174C8A9C425659F443.PNG</Image>
+      <Description>１００００（１万）体の敵を撃破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>戦闘回数２５００回突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/DBB603D5EE02320E99B5DE0A32B95874432DE32D.PNG</Image>
+      <Description>戦闘回数が２５００回を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>最大ダメージ１０００万突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/019C032AA0591B60F06E7FE2F7ED8A425C9AC654.PNG</Image>
+      <Description>最大ダメージが１０００００００（１０００万）を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>最大Ｈｉｔ数６５０突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/C4660AD3617DEE3ED3F854BC7F27122ACF038988.PNG</Image>
+      <Description>最大Ｈｉｔ数が６５０を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>所持金２５００万突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/C7BEC9B803E46FD869F255A0CADC92949648773B.PNG</Image>
+      <Description>所持金が２５００００００（２５００万）を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>所持ＥＰ２５００万突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/0A8C95E2A125F53196FEE5789C5E6BF711950FED.PNG</Image>
+      <Description>所持ＥＰが２５００００００（２５００万）を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>所持ＴＰ１万突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/8D71700F4DA0EA703244B2DD83334A2B9AADF4AA.PNG</Image>
+      <Description>所持ＴＰが１００００（１万）を突破した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>強化回数５０００回突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/E5E0C66940C08084FF22E5566602EA1DC0DE26DD.PNG</Image>
+      <Description>強化を５０００回行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>ルートマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/BDCE8E35552B2D9DF2B3AEFEE5487D981EA651E1.PNG</Image>
+      <Description>最強の敵までたどり着いた。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>ダンジョンマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/74BE96D972105F5C2E697A4D8E12191C24ACB04A.PNG</Image>
+      <Description>全ての隠しダンジョンをクリアした。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00933_00</GameId>
+      <Title>HIKIKOMORI</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00933_00_CB4AA1FC05697205747544C2E1A98FC798BBDB37/98846FEF79CD075A57DAF3490E54BA61ECFE76C2.PNG</Image>
+      <Description>称号をコンプリートした。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

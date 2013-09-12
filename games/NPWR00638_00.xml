@@ -1,0 +1,383 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00638_00</Id>
+    <IdEurope></IdEurope>
+    <Title>NHL 10</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/AD4B33A540F16BFFBD3F0B4ED87BCADE1502F8EB.PNG</Image>
+    <TrophiesCount Total="41" Bronze="26" Silver="10" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Raise Your Banner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/009E7E7C30429BDD80460F4B4C352B7BA6F4E856.PNG</Image>
+      <Description>Acquire all the Bronze, Silver and Gold trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Gold Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/46DF8BB63FEE1722A7E7B51565FC580DCA32E424.PNG</Image>
+      <Description>Be a member of an EA SPORTS™ Hockey League team that has won a Gold Medal</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Silver Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/485D26F2EA2B058DB5DB1055EC29B4AB551855E7.PNG</Image>
+      <Description>Be a member of an EA SPORTS™ Hockey League team that has won a Silver Medal</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Bronze Team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/2CC5DE90B75BCF918CD8B9144B5A64E6A593FA82.PNG</Image>
+      <Description>Be a member of an EA SPORTS™ Hockey League team that has won a Bronze Medal</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Party Animal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/0CF4B5D821D04CE8D13DD62093A02226ED0B0813.PNG</Image>
+      <Description>Complete an EA SPORTS™ Hockey League match with 6 human controlled players on your team</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>It's a Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/DF281F90BFF5F38DEA4B357043D300471F35355D.PNG</Image>
+      <Description>Challenge and beat another EA SPORTS™ Hockey League team</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Trophy Case</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/19636FC1382B3A58526E5B0CBFB3AEAD2E0A4B96.PNG</Image>
+      <Description>Be a member of a team that has won all the EA SPORTS™ Hockey League team trophies</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Grade A</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/84E667D50A47DE39BE109F868853E60E12E99284.PNG</Image>
+      <Description>Get an overall A rating in a match with your Be A Pro character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Star Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/659B41B1B367F3ED0D559B752321DE585A319955.PNG</Image>
+      <Description>Get the first star in a match with your Be A Pro character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Goal Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/031AD5BCBF0BD29A6B0C20B2552D59267E2E9C2E.PNG</Image>
+      <Description>Get 25 goals with your Be A Pro character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Assists King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/AE70AF3776C283C5E85618F80CB7D43848D8CC9F.PNG</Image>
+      <Description>Get 35 assists with your Be A Pro character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Point Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/621920190DC5D22B81A7F7DB24B87FAEACB8F1C7.PNG</Image>
+      <Description>Get 60 points with your Be A Pro character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Goalie Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/E83DD777F489295278B5903302EBC16417D006C6.PNG</Image>
+      <Description>Win 5 matches with your Be A Pro character playing as a goalie</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Out Of the Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/93F6E54D0E8E7B6D5B7EC92D155B36079014A493.PNG</Image>
+      <Description>Complete an Online Versus Play ranked match without getting a penalty</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Century Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/2998979AC8EEFA119B775CAFA4ABBB9EE1D5791D.PNG</Image>
+      <Description>Score a total of 100 goals in Online Versus Play ranked matches over your career</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>All Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/11EF26A316E68508A2C58764718BA9CC30452E71.PNG</Image>
+      <Description>Complete and win an Online Versus Play ranked match with three or more guests on the same PS3™ system</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Its Not Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/9B9929A50CBCB13A79F90149D779344C48FF75FD.PNG</Image>
+      <Description>Beat a NHL team using an AHL team in an Online Versus Play ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Faceoff King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/F5A0691912F11658A3A87EAFB3C8FBA912F7EB5E.PNG</Image>
+      <Description>Win 80% of the faceoffs in an Online Versus Play ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>No Offsides</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/97477B4ABC5BDAB94836940A0CF9E4C65DF0CD7A.PNG</Image>
+      <Description>Complete an Online Versus Play ranked match without being called for an offside</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>No Icing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/C4982E5234E3CB00428BE85E081101B676A8FACC.PNG</Image>
+      <Description>Complete an Online Versus Play ranked match without being called for icing</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Shootout Shutout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/B61FA445FAF84D31F41D46010DB97B8867EE0997.PNG</Image>
+      <Description>Win an Online Shootout ranked match without being scored on</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Shootout Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/4208CFF9883B5EBAEC594AE11C727AD2EC92DB37.PNG</Image>
+      <Description>Score three goals in a row in an Online Shootout ranked match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>It's the Playoffs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/8B5D4B3C71F2847AABDC101A711469F7AFDBB83E.PNG</Image>
+      <Description>Complete an Online League playoff match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>League Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/8312720BCBF6184DDBB102905E5DC0791A0AA351.PNG</Image>
+      <Description>Win an Online League that has at least 4 members</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Call Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/8C04CA580BF1FAFD3CB6482A0BFE898506B6D348.PNG</Image>
+      <Description>Unlock 3 phones in Be A GM mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Look No Goalie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/BF14BAE2EFE6C23C81BF3147215F249CBF8569A9.PNG</Image>
+      <Description>Pull your goalie and score a goal against the CPU or an online opponent in a ranked match</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Don't Let Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/B249FADE5ADC15DCC562A50AE98DA0E753BBA001.PNG</Image>
+      <Description>Score four unanswered goals against the CPU or an online opponent in a ranked match</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Pressure Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/0DCA31AABFB3F233B87C7F79F9650C3CA3A2DC54.PNG</Image>
+      <Description>Keep the pass completion % for CPU or online opponent in ranked match under 40%</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Dump It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/CC2ABAB7B326896AA036D638433E57EA4556D2A3.PNG</Image>
+      <Description>Dump the puck from outside the offensive blue line 10 times in one match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Break Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/7270717EAECF11A8FB955F59E5B314E6B8BD2A04.PNG</Image>
+      <Description>Score two break away goals in one match</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Line Juggler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/01CC113A340FCE0F13D53593FD5E2F45F39B87B7.PNG</Image>
+      <Description>Do five manual line changes during a match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Board Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/597A8D5B10705FBA3EB687C27D0E36F2F23A9D9F.PNG</Image>
+      <Description>Pin a player using board play and gain possession of the puck</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Gameplay Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/F8AE519B32DC485C453FD0B3AC2F94868ED8EF7D.PNG</Image>
+      <Description>Perform a loose puck deke and score a goal</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Fighting Major</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/BDA735F21467149E7EC996F6D8B58F6ABE0E50D2.PNG</Image>
+      <Description>Accept and win a fight against a human controlled opponent</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Self Sacrifice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/3D56EDFD225379C20B4C6558A8E26B81EB46FE18.PNG</Image>
+      <Description>Score a goal with an injured player</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Hardcore Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/295B3ED0F758921FCF3D5841D1278957AD00FD73.PNG</Image>
+      <Description>Play and win a match on Hardcore Superstar settings against the CPU</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Unlock Gloves</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/491D5484B0010747722BB49CBD4FD9B3D5644C84.PNG</Image>
+      <Description>Earn a pair of 2 slot gloves</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Unlock Skates</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/4754B1FE7E2D023FAE783EA91D9B088D0CABE9C6.PNG</Image>
+      <Description>Earn a pair of 2 slot skates</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Battle for the Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/191509307CBFC307A74730A0EF740D5BBC714D78.PNG</Image>
+      <Description>Win a Battle for the Cup series with an Elite league team in a 7 game series against the CPU</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>Eager to Learn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/5E791B061CD752C00207DE1AEC05D8300660805D.PNG</Image>
+      <Description>Complete the Boot Flow Interactive Tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00638_00</GameId>
+      <Title>New Beginnings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00638_00_D755E79D933801EDD3A78CD833C17D1CAC8B93B9/F65B81D6B69EEF12F24DB66E648F168E537EFBD5.PNG</Image>
+      <Description>Complete a match using NHL® 94 Control settings</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

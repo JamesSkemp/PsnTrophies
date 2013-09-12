@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01783_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Agarest Generations Of War Zero</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/C2126F7FE11C448C174DAEE14073622C1174C762.PNG</Image>
+    <TrophiesCount Total="44" Bronze="24" Silver="17" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/8DB0FF4A72C719B257DC018C54EC7F00E5FF704C.PNG</Image>
+      <Description>You've acquired all the trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>First in our Hearts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/671F73AB9FE20AFF4984CDCE007C2C7840E2D058.PNG</Image>
+      <Description>Cleared Generation 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Second to None</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/E991793758570A9498ABD5C89FE8ECEB41C460D0.PNG</Image>
+      <Description>Cleared Generation 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Truth and Consequences</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/6A91A50CA1D6FCF110506DC36357CF38B7A7C3B6.PNG</Image>
+      <Description>Saw the true ending.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>The Important Bits, at Least</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/E6DA5844D4621F10A2DC22383C44F993E71DE6E6.PNG</Image>
+      <Description>Cleared the digest route.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Fleet of Foot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/3D31727A3DB44248F8943DDEDE1FA974D60A63F4.PNG</Image>
+      <Description>Raise your AGI over 50!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Stout of Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/296CEC2C22E693C8253B9CFFA4348FDCB93D0C46.PNG</Image>
+      <Description>Raise your VIT over 50!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Strong of Body</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/F1B793BF5E87BBE0B2BCAE93F2C3844150330C29.PNG</Image>
+      <Description>Raise your STR over 50!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Sound of Mind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/A6A522FE73E59877142820EC3A5B4A96704480ED.PNG</Image>
+      <Description>Raise your INT over 50!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Stroke of Luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/E0DF90784F0549C9E09E8C6C0F91AE6BD125CED6.PNG</Image>
+      <Description>Raise your LUK over 50!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>It's a Trap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/6B401A7343FECCEACDDEED0755A4F434BC3A983A.PNG</Image>
+      <Description>Captured a monster.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Ch-Ch-Ch-Ch-Changes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/A34FDB88A7F572A522E2156DD4D40CFB58FE3671.PNG</Image>
+      <Description>Converted an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>It Happens to a Lot of Guys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/DAE1B6151C739BE86BCE689A0970D7C9F4BA94A9.PNG</Image>
+      <Description>Nope, he did it again.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>It's the Only Way to be Sure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/B98E75E66E26FB86045A76B491165A5C577510A1.PNG</Image>
+      <Description>Defeated an opponent with an Overkill.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Better Safe Than Sorry</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/8AA8D2F74453D0AD32E717B2626E279DAF725F50.PNG</Image>
+      <Description>Overkilled 500 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>It's My Specialty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/8EA40371DE4B4CB10D905E9AF373242FD7E584E1.PNG</Image>
+      <Description>Successfully executed a Special Art.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Time and Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/B1F68D7FBE96552B1578F486005CBDD5664D44E0.PNG</Image>
+      <Description>Successfully executed a distinctive Special Art.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Monstrous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/2F5AD58C3938ED83A6EF16B99533F4B9F86AE236.PNG</Image>
+      <Description>Combined monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>The Combine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/2FBDE42CC662AFC224AFAF383933346E9C6B95EF.PNG</Image>
+      <Description>Combine monsters 100 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Nirvana...?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/E30F88C01E3A5DC59370DECC145FC0147289F53C.PNG</Image>
+      <Description>Created a marionette.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Stay Classy, Kraltarla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/3AF01BD8CF9369E6917A9E252D30171447A72E87.PNG</Image>
+      <Description>Change your class. This takes a special item...</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>He Chose...Poorly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/19D9256F07076965C1E61121099BF25AD85B99BB.PNG</Image>
+      <Description>Changed Ellis's appearance.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Son of a Beach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/A843F14D06D67A766F14156BDD133D5B2F9D8F81.PNG</Image>
+      <Description>You have visited the beach.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Hot Springs Eternal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/5B9722C67744655168479179F669A3DE4092A6EF.PNG</Image>
+      <Description>You have visited the hot springs.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>I Know</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/68FD31B113EB7916C5B55051DCA27E99C024B6B1.PNG</Image>
+      <Description>You reached the end of a generation with at least one woman completely in love with you.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Til You Drop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/193770EA794BE7DC40A6CBA3603069D46CB1D21A.PNG</Image>
+      <Description>Went shopping 500 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Certified Pre-Owned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/23B19F3C728E494E89A6C1AADE8838A4FC482ED3.PNG</Image>
+      <Description>Sold 1000 items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Don't Get Cocky!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/7B836AECC8A1C5ABAD4E44F2CC28E3B7FC649CFF.PNG</Image>
+      <Description>You've defeated the monstrous Decimal.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>They Mostly Come Out at Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/12643BC294C2012F8D99A1D0CF29AF0EB8A158B7.PNG</Image>
+      <Description>Defeated the four types of hidden monsters.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Fight in the Shade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/44CB8C2F75E525FC475198CFDB4D81F16594B373.PNG</Image>
+      <Description>Defeated 10,000 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Love is a Battlefield</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/67CA60AED8EC0C6D4C399A836286AF62E096355D.PNG</Image>
+      <Description>Engaged in 2,500 battles.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Real Soviet Damage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/24A9C65D5196BB3D8DB560AF52D9B2C085E4842B.PNG</Image>
+      <Description>Dealt 10,000,000 points of damage.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>You're Already Dead!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/4E4DA46B7A9D3EA7067CEB6423EA53742918FA22.PNG</Image>
+      <Description>Try and get a hit count of 650.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Spoils of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/CFC95B12ECFD201DA64DEB7AECFEF482078813B7.PNG</Image>
+      <Description>Earned 25,000,000 G.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Enhance! Enhance!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/3F9AB73FE063FD53350CA30C79FE1C64EBCC83C5.PNG</Image>
+      <Description>Earned 25,000,000 EP.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Point Technician</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/DF6728E0D544D0295B49895D5FE79B56DC247B94.PNG</Image>
+      <Description>Earned 10,000 TP.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>You're En Good Hance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/7F0ACA88C482ECF14ACE1C8EA7B112BC94CD1EA0.PNG</Image>
+      <Description>Enhanced items over 5,000 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Homeowner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/02BC2D3C0845F3B3016B146A4B56835131EA5BFE.PNG</Image>
+      <Description>Got your first title!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Landlord</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/51459D444D2D01E925B636A05A5A7E542D3EBAE5.PNG</Image>
+      <Description>You have more than 100 titles.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Monarch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/BA5C147A179275C176D2996022643BCBC77908D5.PNG</Image>
+      <Description>You have all the titles. Good work!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>We Meet at Last</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/067FD617D8ED8B4D3D7919972D62B692A0250D92.PNG</Image>
+      <Description>Encountered the worst enemy.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Dungeon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/14F7D2AA5CFC79C72C87A1D0376203CD1A3D597C.PNG</Image>
+      <Description>Cleared all the hidden dungeons.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>Profilific</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/E0F19BA05F8DCC84FA04066A707953443A9D8943.PNG</Image>
+      <Description>Unlocked all profiles.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01783_00</GameId>
+      <Title>David Attenborough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01783_00_652F6220BE34536E7183081D722FF62F2CCB8BE0/67C2C8EC068E1ED27D1B37ED93623B77DE2DBBA6.PNG</Image>
+      <Description>Completed the monster picture book.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

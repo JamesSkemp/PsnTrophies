@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01301_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Beat Sketcher</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/25A8BB92672720F48AD792514AD0C96B4AC1C4B0.PNG</Image>
+    <TrophiesCount Total="14" Bronze="11" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Beat Sketcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/1010A60DB582020BB09B287DCB1F196774C5F9A8.PNG</Image>
+      <Description>Move the cursor a total of 10,000 m.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Photographer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/E411DFFABE90CFD423ED74686C64C1F288732DF4.PNG</Image>
+      <Description>Save 30 or more still images to the Gallery.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/DE944960ED5770DE7DC54F9061B3B349B84CAF4E.PNG</Image>
+      <Description>Save 10 or more moving images to the HDD.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Artist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/055FF05BF03A2AD06C013EB807F520F693C89D00.PNG</Image>
+      <Description>Play Creation Mode 50 or more times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/522FCAB68883CE8E27B6D2F85FFFDCAC197E5D22.PNG</Image>
+      <Description>Use all tools in Creation Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Conductor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/5254053560D01E2045EE1A9299194676B3AF6320.PNG</Image>
+      <Description>Get a 100% rhythm bonus in Challenge Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Painter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/C208CA3EB1AFF2955B0EA32FE480515CD22E86FC.PNG</Image>
+      <Description>Get a 100% line bonus in Challenge Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/BDB75C09B539135476E880F9AD3F3AA9B9237886.PNG</Image>
+      <Description>Open the Mirror Stage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/CB05D12A2AE5927838FCEDC491DA6D9E3D4AC131.PNG</Image>
+      <Description>Complete all stages with platinum medals.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/998762F90FBA7F22FC21379D91515905A3DDB619.PNG</Image>
+      <Description>Complete all stages, including the mirror stages, with platinum medals.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/6128BE002C90667C82DE37051966200CF8DCFDD3.PNG</Image>
+      <Description>Play Match Mode 100 or more times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Paint Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/27E831E38C3EC6A7665761E3EA5135FF4BEF8FCF.PNG</Image>
+      <Description>Get a score of 70% or higher in Paint Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Line Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/AC65357E7542ECE28598A65068919407ED0F1699.PNG</Image>
+      <Description>Get a score of 3.5m or higher in Line Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01301_00</GameId>
+      <Title>Rainbow Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01301_00_16174E93FA472FD1BC51B1DC81CDB119DCF01124/988292C12DB81E696F8B9DABBB4462E210552521.PNG</Image>
+      <Description>Complete stage 10 in Rainbow Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

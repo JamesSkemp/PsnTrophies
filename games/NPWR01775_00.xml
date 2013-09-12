@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01775_00</Id>
+    <IdEurope></IdEurope>
+    <Title>World's Strongest Silver Star Shogi: Fuuma Ryuuko Raiden</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/955BEB033FEA21ECDB1E65FA24F286EB54DBED40.PNG</Image>
+    <TrophiesCount Total="11" Bronze="6" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>三択の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/5151797AFB5D62CEBB3CC65CF5877CDDB52C447B.PNG</Image>
+      <Description>三択モードを使用してCPUに勝利</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>対局数２０回達成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/4F2F5C18F6F4840146286626329B40447A8866CB.PNG</Image>
+      <Description>CPU対局数２０回を達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>対局数５０回達成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/2BBAAFF9228E359B82F71BC0301BC1638532697E.PNG</Image>
+      <Description>CPU対局数５０回を達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>勲章コレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/BA0C28C0C07AA681137C364806E85BF08D7F6EF1.PNG</Image>
+      <Description>レベル１０１モードの勲章獲得数３０個を達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>見習い棋士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/B843AF69F8F300241463ECB9EF11F0A87644176F.PNG</Image>
+      <Description>レベル１０１モード・入門ランクのCPUに勝利</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>初級棋士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/FEA68184E45A79E6279AC19884C0175066E73403.PNG</Image>
+      <Description>レベル１０１モード・初級ランクのCPUに勝利</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>中級棋士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/449788C561F41EA14C5F8CC68A88BACC887EFEBD.PNG</Image>
+      <Description>レベル１０１モード・中級ランクのCPUに勝利</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>上級棋士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/AE61733EBA9A3B7F6FD790F35945E01596808423.PNG</Image>
+      <Description>レベル１０１モード・上級ランクのCPUに勝利</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>最上級棋士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/408096EA0FB89047E4C53C1D731F76FD14671867.PNG</Image>
+      <Description>レベル１０１モード・最上級ランクのCPUに勝利</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>有段者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/F57755EFCED8F186F97A2DE031BA6A2BCB24E567.PNG</Image>
+      <Description>レベル１０１モード・有段者ランク（レベル１０１以外）のCPUに勝利</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01775_00</GameId>
+      <Title>名人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01775_00_9D9AAB911D2647C800BA7E98E148B36147CD74D1/872C645DFF63801AF1F695B811CFED9A89DDEDB9.PNG</Image>
+      <Description>レベル１０１モード・レベル１０１のCPUに勝利</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

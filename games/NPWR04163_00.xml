@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04163_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Disgaea D2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/1162BC9E9FB99666E90A5FC4FE9D2CE634AF5CC5.PNG</Image>
+    <TrophiesCount Total="59" Bronze="0" Silver="0" Gold="0" Platinum="0" />
+    <TotalPoints>0</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>全トロフィー獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/8FF1C9AF2F2D93EB3F82D67CD0AB76F5D735B415.PNG</Image>
+      <Description>条件：全トロフィーのコンプリート。あなたは全トロフィーを獲得したので、これを賞</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>最強の敵撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/0520E04EB17D65AE50D6ECEBAA6BCC221EB570E3.PNG</Image>
+      <Description>条件：修羅モードで『プリニガーⅩ・轟』を撃破した。君こそまさに修羅の王！</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>アイテムコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/543EEFF496FC561DBE4518C844EFE6B08E732A95.PNG</Image>
+      <Description>条件：全種類のアイテムを集めた。（グレードは関係ない）全グレードコンプリートも</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>『プリニガーⅩ』撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/77D95AF0BAEE90D6B294730C190B6195B1E5DF7D.PNG</Image>
+      <Description>条件：『プリニガーⅩ』を倒した。これが最後のプリニガーとは思えない……。必ず</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>練武制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/97C974052447BACAC0CE1E5D78B469D83BE6A013.PNG</Image>
+      <Description>条件：『練武の洞窟』のマップを全てクリアした。俺はまだ登りはじめたばかりだから</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>『アイテム神』撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/5FA065E69E9D3AB26E9F5713C01E49BC75EC6645.PNG</Image>
+      <Description>条件：『アイテム神』を撃破した。アイテム強化の果てに何を望む！？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>特殊技ウォッチャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/C648D335F0CFDE0131B9E86623C422BD8DA1284B.PNG</Image>
+      <Description>条件：特殊技を全部見た。スキップせずに見てくれた君に。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>１億ダメージ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/D8565FAB3D4F6EC652A46C02F3F5422C7419C93F.PNG</Image>
+      <Description>条件：戦闘で１億以上のダメージを出した。これが私の、全力全開！</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>オープニングアニメを見た</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/108644E48E3A785D921B05CB9A616DF2D2F174C0.PNG</Image>
+      <Description>条件：オープニングアニメを見た。『ディスガイア D2』をお楽しみください！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第１話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/6783A3301CF2017A7A0606A0CCF6AFEDE1A78C68.PNG</Image>
+      <Description>条件：本編の第１話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第２話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/D84B4363F862C326219AF2D4E3AA52837F4006F3.PNG</Image>
+      <Description>条件：本編の第２話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第３話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/4DBE1B90330B6AD9AEBA25489BF42F4A448387E8.PNG</Image>
+      <Description>条件：本編の第３話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第４話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/571EE0176555DD4D1FBA18C485E625EAF7BF5899.PNG</Image>
+      <Description>条件：本編の第４話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第５話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/D99A53672F0E66A7D2015AD7E6011B530999F734.PNG</Image>
+      <Description>条件：本編の第５話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第６話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/5C3D026D5F927A8F2E16F0872CE7A1351547EAEA.PNG</Image>
+      <Description>条件：本編の第６話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第７話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/51A7ACA1865EF15FDF7236199E9808C0F15C0A2F.PNG</Image>
+      <Description>条件：本編の第７話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第８話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/F9B39F4F19F6AEC884BBC13F6F1BD3EE7A7F0B3E.PNG</Image>
+      <Description>条件：本編の第８話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>第９話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/631C9B451427A7920C0B02F7F287732321FC49B2.PNG</Image>
+      <Description>条件：本編の第９話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>最終話クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/17750A9DDB49B40EE5B1340A00D00B01D26D06CC.PNG</Image>
+      <Description>条件：本編の最終話までクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『アサギ』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/2B1802AE7058BCC2EAA2BEF806ECE1F52C99310C.PNG</Image>
+      <Description>条件：『アサギ』を仲間にした。明日のアイドルは私よ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『コガネスキー』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/42295143C23994B787708E1CC96B381F581DCD31.PNG</Image>
+      <Description>条件：『コガネスキー』を仲間にした。いつか魔王になるために！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『ペタ』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/7F06623DED34735659D96D58A8E12C1E37438CA4.PNG</Image>
+      <Description>条件：『ペタ』を仲間にした。お父様はどこに行ったのでしょう？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『田中デスダーク』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/6E34E58A3E6A64ABEFD9C876EC98B4AFBBB1E21A.PNG</Image>
+      <Description>条件：『田中デスダーク』を撃破した。『エトナの家来』は魔界でも有数のブラックな</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『ヴァルバトーゼ＆フェンリッ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/0304F99877BA2BB3759FF6482DCB64AF82C26E76.PNG</Image>
+      <Description>条件：『ヴァルバトーゼ』『フェンリッヒ』を仲間にした。いいからイワシを喰え！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『アクターレ』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/92DAD7B50BD852F5132F905A698B781CBE097A15.PNG</Image>
+      <Description>条件：『アクターレ』を仲間にした。スーパーダークヒーローの誕生だ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『アルティナ』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/9EF84949CB197F31A13ABBDB5B5631E5DD548087.PNG</Image>
+      <Description>条件：『アルティナ』を仲間にした。徴収して帰るだけのはずだったのに……。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『エミーゼル』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/105397B6571396B78356DC2ADADBE4F746AA4CD3.PNG</Image>
+      <Description>条件：『エミーゼル』を仲間にした。父上に言いつけてやる！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>サブシナリオ『バルバラ』</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/86C0D7303DB8866F87F04B54300E1D62FB87C6BA.PNG</Image>
+      <Description>条件：後日談で『バルバラ』を仲間にした。猫殿は私を導いてくれたのだ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>１０万ダメージ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/78A29DC844A5878734FFE16F1D0ACD9FC77C6C75.PNG</Image>
+      <Description>条件：戦闘で１０万以上のダメージを出した。これだけの大ダメージ、奴と言えどひと</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめてのキャラ作成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/36C4F713C2DD6D9D94D080C56F0E5B6989FB5770.PNG</Image>
+      <Description>条件：はじめてキャラを作成した。あなたについて行きます！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめてのオンブ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/9B14D85D156792359CE4F2DA0960AA33AAA6539F.PNG</Image>
+      <Description>条件：はじめてオンブをした。お客さん、どちらまで？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめての海賊団撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/EE8397AC6653D686FAD6E01982EFF087EAA6B90B.PNG</Image>
+      <Description>条件：はじめて海賊団を撃破した。返り討ちにしてくれるわ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめての力ずくで可決</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/2217E2A9416B8B24BC4FC88F35083077AFE96C2E.PNG</Image>
+      <Description>条件：はじめて力ずくで可決した。力ずくでもなんでも、認めさせればＯＫが悪魔流で</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめてのボーナスステージ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/C3169D59C566BA55C6CF268D9CAAC3E4C4C47EAE.PNG</Image>
+      <Description>条件：はじめてボーナスステージに入った。ヒャッハー、取り尽くせー！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめてのジオ全消し</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/C00F662599C3F4D20C18FED5D63A5D04614C8FAA.PNG</Image>
+      <Description>条件：はじめてジオパネルを全消しした。スカッとしますよね。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめての共同作業</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/3283A0594392B04522DB015F18142AC9F10A6D19.PNG</Image>
+      <Description>条件：はじめてコラボ技を使用した。二人の共同作業です。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめての全滅</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/EE7B5B190C89F1613CF1BF2172525A7DDB166D02.PNG</Image>
+      <Description>条件：戦闘で全滅しゲームオーバーになった。諦めてたまるかぁ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>魔界の中心で愛を叫ぶ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/4BD0670D529D9CAF0C3A367F0FA3F6F2328A527F.PNG</Image>
+      <Description>条件：好感度が最大の状態でコラボ技を使用した。俺達二人なら、やれるはず！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>好感度ＭＡＸ同時１０人突破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/1ADE49A98B5BF8127BDD5935D12A78291FEE1920.PNG</Image>
+      <Description>条件：好感度ＭＡＸキャラが同時に１０人を突破した。愛ですよ、愛！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>用心棒</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/6BC341C2B2CF5972945FFB175372EF18F2BD3905.PNG</Image>
+      <Description>条件：かばうを１０回行った。どんな敵だろうと守ってみせる！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>援護の鬼</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/F80650A24110E521C17754453692E6ADE3542230.PNG</Image>
+      <Description>条件：支援攻撃を１００回行った。こいつはオマケだ、とっときな！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>戦闘会話ウォッチャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/B02BD0F0EC9EF1C9FF4242AEDE337B9A8EA96764.PNG</Image>
+      <Description>条件：戦闘中会話を１００種類見た。戦闘中でも、みんないろいろ考えてます。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>ジャンプマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/EC5EA06A917D4FC9E04B65B1CD953B0F08B6E303.PNG</Image>
+      <Description>条件：拠点等で１０００回ジャンプした。ついついジャンプしてしまいますよね。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>コンボマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/051126E7FE62E87C17F307E444B6D64FA81BC35F.PNG</Image>
+      <Description>条件：コンボを１００回した。反撃の隙など与えず畳みかけろ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>連携マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/7E19B977B8D8C60BC56E132FF6052E40356D8187.PNG</Image>
+      <Description>条件：連携攻撃を１００回した。みんなでかかれば怖くない！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>チート大好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/529ABC232DB9F7338AAE7D0AD8DDC4CD9B85990E.PNG</Image>
+      <Description>条件：チート屋使用回数が１０回を突破した。目一杯ズルしちゃえ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>はじめての操作キャラ変更</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/6FA1B2F4C263E36BBCF9A26F8AD8B917F60386A0.PNG</Image>
+      <Description>条件：はじめて拠点での操作キャラを変更した。今日から君も主人公！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>トレジャーハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/DEA724B5A21A83F4FF561E22A10A7D22E50A5FBF.PNG</Image>
+      <Description>条件：開けた宝箱の数が１００個を突破した。開ける瞬間が一番ドキドキするよね。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>１億ＨＬの誠意を見せた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/0CAF1B43FF5487716E0D37A66571F26E54FC2E6B.PNG</Image>
+      <Description>条件：誠意の金額が１億ＨＬを突破した。御代官様、お納めくだせぇ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>ラハールちゃんになる議題を可決</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/3B82CD9E1E325781D49A0A3881D60C8971D6A1A3.PNG</Image>
+      <Description>条件：ラハールちゃんになる議題を可決した。あんたも好きねぇ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>誘爆注意</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/CE56D3368AC59C3536135E9E4838C807DF21C4E9.PNG</Image>
+      <Description>条件：プリニー爆発を１０連鎖させた。危険物取り扱い注意ッス！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>セーブアイコンコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/DBEDE58E0FD7416992590C44D07AC4EFA29FF413.PNG</Image>
+      <Description>条件：セーブアイコンをすべて手に入れた。ついついもう一回。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>１０人乗っても大丈夫</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/0569139F723123F03BDD735F6D675B066C5D425C.PNG</Image>
+      <Description>条件：１０段のタワー作った。一番上は結構怖いです。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>修行レベルアップ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/0490F5C511006FE704FBEC5564BBD6ADD59E7D24.PNG</Image>
+      <Description>条件：修行レベルがアップした。君の修行は始まったばかりだ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>会話大好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/A7C6682869A95AF08EB283B518090480DC11E4B6.PNG</Image>
+      <Description>条件：拠点でキャラに１０００回話しかけた。会話は仲良しの第一歩。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR04163_00</GameId>
+      <Title>マラソンランナー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04163_00_00CA14932B7F569E3EBAEF78D06B7A515D767AF488/DF93FFE7C867680317C5CE9A43DF371305DF8CC2.PNG</Image>
+      <Description>条件：拠点、イノセント島等での移動距離が累計４２．１９５ｋｍになった。千里の道</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

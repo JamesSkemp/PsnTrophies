@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00179_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Pure</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/E7071BC2FBA6B462A349316C3DE2FEBC53C89EE9.PNG</Image>
+    <TrophiesCount Total="42" Bronze="24" Silver="14" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Pure platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/41DAF6D591D5818316507F1AA62037107EB4E9B9.PNG</Image>
+      <Description>Acquire all Pure trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Finished an event</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/6C289C7B6EE5AB1692BB4A6FB36EF53C61D0CD80.PNG</Image>
+      <Description>Complete an event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/9313546764CC6812DA3D03BB18187205EDE5DD65.PNG</Image>
+      <Description>Place first in all four events in Stage 1.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/FC88FD98D1C9FDD65DE4868232775EABC8D93A15.PNG</Image>
+      <Description>Place first in all four events in Stage 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/F563D8956B8798EDCCC2E826F4ECB9F4789E5714.PNG</Image>
+      <Description>Place first in all four events in Stage 3.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/67FDA4C59935BAE4E2855E7F59EDDC978F4A8ECB.PNG</Image>
+      <Description>Place first in all four events in Stage 4.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/A5754AA90BA6ED066834A3B36212B87DC8D6B0D0.PNG</Image>
+      <Description>Place first in all five events in Stage 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 6</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/4D2C128986F7FE5699E628CE3BF5AFE826F05B51.PNG</Image>
+      <Description>Place first in all five events in Stage 6.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 7</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/8C10286D929772D5D8BC9B49D2C966C4B1405685.PNG</Image>
+      <Description>Place first in all five events in Stage 7.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 8</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/831BC3E4792ECC7EDEDBB8A2C2FB1B5F8AF0F0F3.PNG</Image>
+      <Description>Place first in all six events in Stage 8.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 9</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/58C11B65C8615D5B82AB134E7CB0B9DFB9618B53.PNG</Image>
+      <Description>Place first in all six events in Stage 9.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Completed stage 10</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/4226F50E14E86653D53FC735EF237602ED0EB992.PNG</Image>
+      <Description>Place first in all seven events in Stage 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>1 of a kind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/C3ECA35BC3DA3E7E2962FA1F3FF92740F96DC6DF.PNG</Image>
+      <Description>Build an ATV from scratch in the garage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Fully loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/7DC145F7F957A0198F350C33D23B4757B9526A30.PNG</Image>
+      <Description>Unlock and then fill all ten ATV slots in the garage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Mechanic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/DFE030503AEB6BDCD69E3A3EA79B0FEFEA682D98.PNG</Image>
+      <Description>Build five ATVs, each with a different engine.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Flawless lap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/8EE1BDB3C4754A349CFCC52924C9FB648EDF79F0.PNG</Image>
+      <Description>Complete a lap of a Race event in World Tour without dismounting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Flawless event</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/8C607D7C844F2C998EF35F0C688DB08CDC70F55B.PNG</Image>
+      <Description>Complete a World Tour event without dismounting.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Tricked out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/A63D82D9D7E3F92031C59F3EE80949B4515097D4.PNG</Image>
+      <Description>Perform every normal trick in a single World Tour event.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Specialised</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/668935A175147B1A8F6414C586F91861F653A176.PNG</Image>
+      <Description>Perform 8 different special tricks in a single World Tour event.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Freestyler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/8D3E1D594C2DFBA75FAF3081D3680DFD3A269F4A.PNG</Image>
+      <Description>Extend a Freestyle session past the third lap.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Triple flip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/FF2FA53410CC3DDCD0F40A4A907E63654405790C.PNG</Image>
+      <Description>Pull off a 1080 forward or backward rotation in a single jump.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Nice combo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/2C8B64DF27C47DC3D4E53ADD9CF3299B9691496D.PNG</Image>
+      <Description>Perform a combo of at least 50,000 points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Sick combo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/E6DA92A34551EE0322C0831EC3ED7AA2C109DB85.PNG</Image>
+      <Description>Perform a combo of at least 125,000 points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Killer combo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/C02693C9B17613CCD83944B07A54AD966BE44F9E.PNG</Image>
+      <Description>Perform a combo of at least 250,000 points.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>You're special!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/978010A80ABD6B9CC9D5C47F898742BF8CF1EA2B.PNG</Image>
+      <Description>Perform every special trick in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Pure perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/558A03BA256EC6465D0619A5A357D233090410F5.PNG</Image>
+      <Description>Come first in every event in the Pure World Tour.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Grease monkey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/091003E667A25FD5D0D86ABDD7D647A9B4E0D86F.PNG</Image>
+      <Description>Earn a 1st place with every engine type in World Tour Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Comeback kid</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/A07C7C8EC0506F6A9599B9EEBBB6A0D7606BDAE5.PNG</Image>
+      <Description>Come from last place on the last lap to win a race event in World Tour Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Fresh air</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/99C9B8AB6810886AF105249344B220230C6E2DD6.PNG</Image>
+      <Description>Win a Freestyle event with Fresh tricks only.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>No messing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/0410A4314ED8E6E12D1A10766DC20012C9383B1F.PNG</Image>
+      <Description>Complete World Tour Mode while participating in a maximum of 42 events.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Zero to hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/B6E6BA29214BF5964A6D8A016B49DB522CD4B780.PNG</Image>
+      <Description>Aquire a special trick within 30 secs of a Race starting.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>You reckon?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/093E27D217BBDCDF94B37A8F80C9B164F1F6865F.PNG</Image>
+      <Description>Pull a special trick on a sprint track.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Two time!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/BFF871F0E41D5DEF93950B68EDDEBE474E66809A.PNG</Image>
+      <Description>Perform two special tricks in 1 jump.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Hang time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/151208AEBB83AB839977BD32C45E3F5D68C832B3.PNG</Image>
+      <Description>Spending 150+ seconds in the air and win the same event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Learner driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/2CBDC829DD808553915B1AADEBF8AB48BB74E2CA.PNG</Image>
+      <Description>Lap another rider in an offline sprint track event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>No pain, no gain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/D3D87F92A07897408470377A914C6173EA062795.PNG</Image>
+      <Description>Crash ten times and still win an event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Full speed ahead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/6868E7C0CC2E70C710D61D2D63DCD4358E183ECD.PNG</Image>
+      <Description>Hold down the gas for the entire event and finish in first place.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Show off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/67A54302C24C6246D149E96B4384C881BA42BCE9.PNG</Image>
+      <Description>Win a Race or Sprint event and cross the line while doing a Wheelie on every lap.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Win online</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/C4AECC54C0555BC0F00A4EA5312A9A37EE8DAA97.PNG</Image>
+      <Description>Come first in an online event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>5 in a row</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/5BC0DD6D8090515259573D1328CD70E29582DE15.PNG</Image>
+      <Description>Come first in 5 online events in a row.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Underdog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/C69B2AE4040264B1483AD4BAEFE3B39A770B0560.PNG</Image>
+      <Description>Use a class D engine to beat an opponent with a class A engine in a ranked match.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00179_00</GameId>
+      <Title>Online champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00179_00_4A1262AE2FA90AF6A938002573A4EA75DA087713/49546D0073D3E159A4E11A13C43BCA62A562A220.PNG</Image>
+      <Description>Come first in a online championship.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

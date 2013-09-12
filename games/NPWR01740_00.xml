@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01740_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dynasty Warriors 6 [CHN]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/71C9077981C7D0093B8CF5F7411C96E1ADDC6E62.PNG</Image>
+    <TrophiesCount Total="50" Bronze="41" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>真·三國無雙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/45170ED841C781559F555090F6A0827D0571D5FD.PNG</Image>
+      <Description>取得全部的Trophy（獎盃）。</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>大帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/AD515BE8FB9B505223ABDBBB120ADCA633B2AEBC.PNG</Image>
+      <Description>完成所有的故事。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>魏帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/4507BB5074E27D97ACD55A027E868B32A09CC9AF.PNG</Image>
+      <Description>完成故事模式中的魏傳。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>吳帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/0530F0312F5AAC5BD4BCDFBE5D1464C3578E4E89.PNG</Image>
+      <Description>完成故事模式中的吳傳。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>蜀帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/814A527B2CD8F0B057896499DE4518A1CE66B24D.PNG</Image>
+      <Description>完成故事模式中的蜀傳。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>晉帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/D215EB18F53E84EC7B099E5E68EB82FEB033F33A.PNG</Image>
+      <Description>完成故事模式中的晉傳。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>稱霸三國</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/829E5515F6755150C15EB2C4052522419657EBC2.PNG</Image>
+      <Description>完成魏蜀吳的故事模式。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>稱霸赤壁</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/CC6E331EC347D8FBC0A01E98A2BE4EAB96FDCF86.PNG</Image>
+      <Description>於故事模式中，完成任一勢力的「赤壁之戰」。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>討伐董卓</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/CD50C94E08C0455D3F0C2EA87783CE59DF1094E4.PNG</Image>
+      <Description>於故事模式中，完成任一勢力的「反董卓聯合」。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>鎮壓黃巾</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/02192DD44DE72E3F54785A1AC7223E313148162F.PNG</Image>
+      <Description>於故事模式中，完成任一勢力的「黃巾之亂」。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>一統天下</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/A0B70056CA305F6B14C63B32426C96A69417D096.PNG</Image>
+      <Description>於戰史模式中，完成除了下載內容以外的全部關卡。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>稱霸城鎮</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/CA24602169F5CAF9349FDABAC449504672037614.PNG</Image>
+      <Description>於戰史模式中，解放所有城鎮。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>魏之盟友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/B2D711BE831EB1999F6CABF152CA7EDA2CBDD960.PNG</Image>
+      <Description>於戰史模式中，完成和魏的所有同盟戰。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>吳之盟友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/BC870EEB92E6BE08B69B9DA0177B4BD2D27C98B9.PNG</Image>
+      <Description>於戰史模式中，完成和吳的所有同盟戰。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>蜀之盟友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/9AB279C4DE5D569FC84F70D7E0BE18A29A894A09.PNG</Image>
+      <Description>於戰史模式中，完成和蜀的所有同盟戰。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>晉之盟友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/FFAEC67FE25A03CE708A637E3135697C91451F32.PNG</Image>
+      <Description>於戰史模式中，完成和晉的所有同盟戰。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>大陸的英雄</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/62B393C3E9FF46815CCF7E48B5AFBE83CA4CC7CF.PNG</Image>
+      <Description>戰史模式中的名聲達１００００００以上。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>勇名武將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/420BDF25E04A0C4D0B29F8C70F5377C274FAA6AC.PNG</Image>
+      <Description>戰史模式中的名聲達５０００００以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>流浪者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/E8C827F8C2D2C5B3F359ED08AD779F6BC8518A74.PNG</Image>
+      <Description>戰史模式中的名聲達１０００００以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>大德</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/F6EFFE509AA256A3649EEC079FA90AFC5DF27773.PNG</Image>
+      <Description>於戰史模式中，與所有武將的情誼達到最高。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>好漢收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/7C4B7167EAE46E29607D6D9D9CDDB157B8E9CAC7.PNG</Image>
+      <Description>於戰史模式中，與五人以上的男性武將情誼達到最高。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>艷福家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/EA83B8ABDC7E35C6D4AC2AE17975067A5E14E4EB.PNG</Image>
+      <Description>於戰史模式中，與五人以上的女性武將情誼達到最高。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>人望之將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/CD2041B9C29D468DFD2C8DDBA049D19582D3AC79.PNG</Image>
+      <Description>於戰史模式中，讓所有無雙武將變為戰友。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>水鏡的傳人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/1747FE20C1D9371336C108F9082D79EFED1F3B96.PNG</Image>
+      <Description>於戰史模式中，答對所有學士的問答。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>歷史學者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/8CE5058D2703626201F6559EBE6BE1FA427BC675.PNG</Image>
+      <Description>於戰史模式中，完成１０個以上的列傳。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>小霸王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/0E4AEA64ED25854DD4419C5496430CDEACDBFB87.PNG</Image>
+      <Description>於戰史模式中，解放７個城鎮。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>義勇兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/BE5AE4DBD6A3AA969F71FE6AB5036F71747B60CB.PNG</Image>
+      <Description>於戰史模式中，解放１個城鎮。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>水鏡的得意門生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/59ADD5E66B928958B14A77007457D8710E38CC54.PNG</Image>
+      <Description>於戰史模式中，連續答對學士問答五題。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>兵卒</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/DE53C6EC9300E0EC6D73FD695910ECC1D6B7EA96.PNG</Image>
+      <Description>於戰史模式中，完成１個關卡。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>完全收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/E09AAA790B482B2EE8989F3BADF1FAB01823A4C4.PNG</Image>
+      <Description>取得鑑賞室的所有收藏要素。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>武器收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/98ADADD8EDE636BF2A2922EE06FCD9E357D643D6.PNG</Image>
+      <Description>除了下載內容以外，取得所有武器。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>影像收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/962F902AB40AC45CA7E585A2895C597D3C45C082.PNG</Image>
+      <Description>觀賞過所有的動畫。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>語音收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/54C439BA1094C441807EB14BD1A99DA747E79515.PNG</Image>
+      <Description>取得全部武將的鑑賞用語音。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>印收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/6F43473117E2E2B8F2A3B247FAD69792A25B5DE5.PNG</Image>
+      <Description>取得所有的印。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>桌布收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/50EF7EAFE5AD96B0604415D6EFD1647CBE89C74D.PNG</Image>
+      <Description>取得所有桌布。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>動物收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/E42926D1B938BD60F2A9E3C9B6478B410BF03798.PNG</Image>
+      <Description>取得所有支援獸。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>祭事收集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/D64ACCDE673C6C6824DE5E15B5DC3E35BDF3BC6F.PNG</Image>
+      <Description>觀賞過所有事件。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>善於傾聽</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/F08EB308AF1E18CA2C63D91294FEEBFCF067F94C.PNG</Image>
+      <Description>於故事模式中，聽聞過所有對話事件。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>達人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/BEA8BB917F77E4B28EC2FB9C51881EF5D177F75E.PNG</Image>
+      <Description>習得任一武將的所有招式特技。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>武器系統制霸</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/622AF3EE66502002F35D89E936B8DE57FF545753.PNG</Image>
+      <Description>除了下載內容之外，取得任一武器系統的所有武器。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>名族</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/FCAFFA5C3FC512C6BB57214E69E4C2659CAC46D3.PNG</Image>
+      <Description>累計獲得金額達１００００００以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>鬼神</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/4C29AC971DD84CB5E4422FA0A0DF17864987D391.PNG</Image>
+      <Description>累計擊破數達１０００００以上。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>一騎當千</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/AC1EFAD50E0F307FF9DA4CAB8BDB12F0561579F8.PNG</Image>
+      <Description>於一回戰鬥中，達成１０００人擊破。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>天下無雙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/B82C68E79C3CEF3564AA5156444F7D2C70DB2388.PNG</Image>
+      <Description>於一回戰鬥中，達成３０００人擊破。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>大飯桶</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/A75DE6BEDAE417940033477F9AFF22C69D721CAA.PNG</Image>
+      <Description>取得的回復道具數量，累計達１００個。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>基本教練畢業</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/D6251CD3D128E341B870A483DC8AFBBAA9C5A414.PNG</Image>
+      <Description>於作戰教學中，完成所有課題。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>無傷之將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/6401B44A8FCD309094BF2C989356EB6659842D39.PNG</Image>
+      <Description>無損傷完成一回戰鬥。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>連擊之將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/0823AD5B2D4A9A0B4D39ABDCCBACBA567592BBD2.PNG</Image>
+      <Description>達成５０連擊。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>迅速之將</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/25578E10ECDD74C7D72A1F132B888892C694D745.PNG</Image>
+      <Description>在一分鐘之內完成一回戰鬥。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01740_00</GameId>
+      <Title>飛將擊破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01740_00_09F7C0E839991C9AEFACE918503E8B46021C9697/71CF83DFF5498657BC56B75B99364A25853E9214.PNG</Image>
+      <Description>初次將呂布擊破。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

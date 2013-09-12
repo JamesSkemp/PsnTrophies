@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03569_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Tokushu Houdoubu</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/8BC52F4693C4153252E3F6F6C6F250700965C4C4.PNG</Image>
+    <TrophiesCount Total="33" Bronze="20" Silver="7" Gold="5" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>トクホウマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/8E1AC2E0B8CE4241E446B61B527F57C20ACBD3B7.PNG</Image>
+      <Description>全てのトロフィーを取得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>エンディングコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/C491169820BCBA8EEFFA8F574A0FBF00A8611BF1.PNG</Image>
+      <Description>全てのエンディングを見た</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>読破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/FFEF4F7FE820D4028704FD36E22FC4850B543219.PNG</Image>
+      <Description>各話の既読率を全て100％にした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>オールS評価</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/268D10CA6F5203FF93583DFCDD91054A3F115102.PNG</Image>
+      <Description>各話の制作評価を全て『S』にした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>グラフィックコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/F051FCEF6BBEFC6618B6E10105D473DEFB6833AF.PNG</Image>
+      <Description>グラフィックを全て見た</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>すばらしい観察眼</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/C6F4F5C5FC7202ED00F0E69F7376978E72C73498.PNG</Image>
+      <Description>各話のマテリアルチェックをノーミスでクリア</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第一話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/9FEEB0E76FC06C38EF5598D856BA851F24367C4B.PNG</Image>
+      <Description>第一話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第二話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/41B14E65DCF29EDE037DCCFA97D0002BD4DEB710.PNG</Image>
+      <Description>第二話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第三話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/DC2E3E2B3BBF6268275252BCC8DBBA5FCB5C0E43.PNG</Image>
+      <Description>第三話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第四話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/7FB18402DFC82797EA0F516CDAFD9BD423350F8E.PNG</Image>
+      <Description>第四話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第五話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/966EDAFE3A39E2D358C83D7FB61E339FA8C6FAA4.PNG</Image>
+      <Description>第五話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第六話制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/53369499B0BA9565DF4AAF2D3CDD11A795ECF3F4.PNG</Image>
+      <Description>第六話の各ルートをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>トゥルーエンド到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/F70DA08AB1E40E361AB9B5F473DDCA571E760EAD.PNG</Image>
+      <Description>トゥルーエンドを見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>プレイ開始！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/11FEAB5D679762E1334ECB5916069F45C3BEFD3A.PNG</Image>
+      <Description>「はじめから」プレイした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>はじめてのマテリアルチェック</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/30B8EF3CCB00048357C0C72023FDD7F1FE8B0E6B.PNG</Image>
+      <Description>最初のマテリアルチェックを通過した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>拇印、いただきました！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/E356BFD79CD46EC4E1C446874CA7E4F89C745E86.PNG</Image>
+      <Description>はじめて企画書に拇印を押した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>制作評価Ｓ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/99D8DFFB6ED6A46F37371214AA7D8AD52DAB250E.PNG</Image>
+      <Description>制作評価Ｓを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>制作評価Ａ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/7C47DA2B319D09F27439A5FFD8693037BA7C2BD8.PNG</Image>
+      <Description>制作評価Ａを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>制作評価Ｂ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/D123EAC98875044E33D928BE941B96122A3CBADF.PNG</Image>
+      <Description>制作評価Ｂを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>制作評価Ｃ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/68BF6787B234FDD136BB4B7890C149425B5B39F3.PNG</Image>
+      <Description>制作評価Ｃを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>制作評価Ｄ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/54AA550FA2A5D1295CEB8148B5967D61A6D86C24.PNG</Image>
+      <Description>制作評価Ｄを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>パーフェクトプログラム</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/AD2B0881313857E489521EFE71318C09DE8237A0.PNG</Image>
+      <Description>プログラムディレクションを完璧にこなした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第二話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/13EC516A16A34AE2926D0EB8623B8407A4BA7932.PNG</Image>
+      <Description>第二話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第三話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/07DEB105B34ABCA3D0B85A4520F15E7EE9F91E51.PNG</Image>
+      <Description>第三話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第四話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/EB29C105D1FAB75ED8E870679BFF909370552E5D.PNG</Image>
+      <Description>第四話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第五話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/F9B26896BCC5BB184B18CACDE08B7C705C4876D4.PNG</Image>
+      <Description>第五話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>第六話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/129A5F45084E13D3A08DBE1D93FE52CA41B658F3.PNG</Image>
+      <Description>第六話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>最終話解除</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/05783D69C0DCB4722B2CEA5F0DF928B225CA1315.PNG</Image>
+      <Description>最終話がプレイ可能になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>ノーマルエンド到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/FC67E197B7D18789E629EC0F8FB375D5ED01D64E.PNG</Image>
+      <Description>ノーマルエンドを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>バッドエンド知華到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/92DFB9CD345EB35D1DCF1B25B709FB0385B7D2EC.PNG</Image>
+      <Description>バッドエンド知華を見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>バッドエンド隔離到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/1528117B7B762FEB565F51112B3A2CF067EB5D15.PNG</Image>
+      <Description>バッドエンド隔離を見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>バッドエンド見限り到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/4BCC1B23C9456A2B380B31E6877437E8A947DD92.PNG</Image>
+      <Description>バッドエンド見限りを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03569_00</GameId>
+      <Title>ヒダゴーン好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03569_00_47FACE7E7E0496A665AF7C306E7C5769CB909C72/CF365DCD700FD1D15C20173F9EF1C318933B8B01.PNG</Image>
+      <Description>マテリアルチェックでヒダゴーンを選択</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

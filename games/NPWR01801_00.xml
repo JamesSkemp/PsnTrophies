@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01801_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Persona 4: the Golden</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/8D5948E399B9DE93940776DA1184BAC477079798.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ゴールデン制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/3583AD5DB240A757B1E8B1D75A1FA6F3F0CF394B.PNG</Image>
+      <Description>全てのトロフィーを取得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>王子様現る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/ACB48B58CF98DDE0A0115C4D04A736CDEDAE0ED6.PNG</Image>
+      <Description>天城雪子を無事救出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>真の漢立つ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/B0A4FC64A737F141A683DD622D0E055C016C98E1.PNG</Image>
+      <Description>巽完二を無事救出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ストリップは店じまい</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/2E2B0D13D82816A9B2E2E6075951AF7FFA3A8FCB.PNG</Image>
+      <Description>久慈川りせを無事救出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ぼうけんはおわった</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/AEDFB38F1084C542D8C4C8F5684DC49A78A8D57B.PNG</Image>
+      <Description>久保美津雄を確保した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ラボ緊急閉鎖</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/3F5B8839C4475E15427371438CE5477807328943.PNG</Image>
+      <Description>白鐘直斗を無事救出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>天使達の帰還</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/7611050AD2937B46EF4233981A7FEB6C42DA94BD.PNG</Image>
+      <Description>堂島菜々子を無事救出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>そして霧は晴れた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/86678561A534DE3C43F0D29611103097665A0286.PNG</Image>
+      <Description>足立透を確保した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>おかえりなさい</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/B113EAC232C8FD46309A8AA7E0AAB6850C24A36B.PNG</Image>
+      <Description>マリーを無事救出した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>真実をこの手に</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/379CE57A9432829954D850D1E44549D2BF95E033.PNG</Image>
+      <Description>イザナミを倒した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>合体玄人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/72897FAEF1110CBB4715F9ACD0B133982C0DE909.PNG</Image>
+      <Description>ペルソナ合体を５０回行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>特殊合体使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/405D3BE0BE9B0BF22E2A6B92B311E6B3AB8D9D28.PNG</Image>
+      <Description>４体以上の特殊ペルソナ合体をした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>鼻も筆の誤り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/2F3E27BE6817F5D4DDEB11F12CA083BA921BA67A.PNG</Image>
+      <Description>合体事故が発生した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ペルソナお買い上げ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/95D13B8E08C16F56743F0C986729C61DADCC73B8.PNG</Image>
+      <Description>ペルソナ全書からペルソナを購入した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>マリーにお願い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/BD08098D8B6DF88078E83AA541B229FDE9391548.PNG</Image>
+      <Description>スキルカードを登録した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>カードコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/09BCBE405943BB8538C449B13487936865D6FD2C.PNG</Image>
+      <Description>スキルカードを１００枚登録した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>臨機応変</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/825B50BAFE2208F80C97CF2BF9EAA042B36F8CB2.PNG</Image>
+      <Description>１戦闘中に５回ペルソナチェンジした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>熱心なりせファン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/29CB820386D8DEB750DED586FA0F4B7C988135A3.PNG</Image>
+      <Description>りせのナビを２５０種類聞いた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ハードアタッカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/5188EBE7CA69FE245E0B4740288559FED5AA3CD7.PNG</Image>
+      <Description>一度の攻撃で９９９以上のダメージを出した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>優れた司令塔</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/15EA9E57A7838F1E65707EE97E67B07495483036.PNG</Image>
+      <Description>総攻撃を５０回行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>バトル巧者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/248E7859ACBD2D5038E5636EE4CF0B367F30532E.PNG</Image>
+      <Description>WEAKを１００回突いた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>神ドロー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/A8016B50717D45517294FE0B098D563921D7D62F.PNG</Image>
+      <Description>ALLGETBONUSを５０回達成した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>欲望を掴む手</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/BB1C8EFF33B8CA0470AF7B40CD626BA704662F5D.PNG</Image>
+      <Description>黄金の手を倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>力を示せし者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/6A93FDEEBD3CFA7B2315789083876E00FB3E0585.PNG</Image>
+      <Description>マーガレットを倒した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>刈り取るものを刈る者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/7B2172B2EC2B2E7897E5ADDB0C96A70B1500B565.PNG</Image>
+      <Description>刈り取るものを倒した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>フードファイター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/E7113A4349A9FB125BCC79089BA27972955A48A7.PNG</Image>
+      <Description>愛家のスペシャルメニューを完食した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ビブリオマニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/800145B8F0CF4F6F7A6DCDA1699B74F1247AAB94.PNG</Image>
+      <Description>全ての本を読破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>今日は動くぞ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/B27F17A8EEF8A088CA0A50B0E3D74DD2F5607319.PNG</Image>
+      <Description>カプセル販売機からアイテムを購入した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ラッキー！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/7F6CE97C7DEEC6F994B8DB615CF1EE733C604ADE.PNG</Image>
+      <Description>自動販売機の抽選に当選した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>みんなの欲の友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/564AB526BA3A458F11D0413F4DF6376F51358F55.PNG</Image>
+      <Description>時価ネットで５回買い物した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>買い物上手</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/95E7FC53764A70A43772B9236B2AE18935DE573B.PNG</Image>
+      <Description>惣菜大学の特製コロッケを買った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>自炊系男子</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/8F2628E29A431EB8B63CA593E9A710965D2BE912.PNG</Image>
+      <Description>お弁当を５回大成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>特別な女性（ひと）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/75438A98E9DBE5E308C7EB81F47A6FFFE05AC64B.PNG</Image>
+      <Description>いずれかのキャラクターと特別な関係になった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>完璧な素質</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/EB817427EE01A3A4F3B4C705E80914F27A68CA43.PNG</Image>
+      <Description>人間パラメータを全て最大にした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>もう一人の自分</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/AC8E68A317A1236ED87E9C3471FDA4B7AE4F1C14.PNG</Image>
+      <Description>ペルソナ イザナギを入手した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>真実の力</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/E921691CA045D7FE18412A08376F44CC033F0941.PNG</Image>
+      <Description>伊邪那岐大神を作成した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ペルソナ全書中級者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/DA803FB0A13C5DEF0B48F593C2857E65630A3EC3.PNG</Image>
+      <Description>ペルソナ全書の登録が50%超えた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ペルソナ全書コンプ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/039BF597FDC89102AB6986836C28F086EC9F0EAA.PNG</Image>
+      <Description>ペルソナ全書をコンプリートした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>オシャレ伝道師</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/C3EED58B94551B988A2A46CB8756D350524E8405.PNG</Image>
+      <Description>コスチュームを変えてバトルした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>一目おかれる存在</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/892FBDF0A04DE89D9AE39D97EE98F034A5AC827D.PNG</Image>
+      <Description>試験で学年トップになった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>釣りマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/53AA9A14E3AE679BD342ADADEAD3D67F1FF5834C.PNG</Image>
+      <Description>海ヌシ様を釣り上げた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>真の絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/5E531A152E2BE8A9689E7B9C1B889D9375126710.PNG</Image>
+      <Description>いずれかのコミュニティをMAXにした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>絆使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/159D518D59DD08C0FBC64B92562982352D3AB00D.PNG</Image>
+      <Description>１０コミュニティをMAXにした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>稲羽の伝説</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/F7D3FA01D4E6A66B8311209ECC988D3050B79480.PNG</Image>
+      <Description>全コミュニティをMAXにした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>違いのわかる男</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/3AABC82CC86DB29F41E85959A34A301769EDFE72.PNG</Image>
+      <Description>シャガールのコーヒーを飲んだ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>映画評論家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/81B7DCF5BFA6BA47E5E730A426909B2FE9FB20F9.PNG</Image>
+      <Description>沖奈市の映画に３回行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>虫ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/74E72BDB6372E57BDC46F12A16CBF81F2D9F373E.PNG</Image>
+      <Description>ベストタイミングで虫あみを振った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>ナイスアタック！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/0B8E52836E401B508778032612CAFCA1900A613E.PNG</Image>
+      <Description>味方先制でバトルを始めた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>お兄ちゃんは心配です</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/34F5985F4285D5828B9483F882781F77FB9AA7B3.PNG</Image>
+      <Description>菜々子のお見舞いに３回行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01801_00</GameId>
+      <Title>新クイズ王誕生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01801_00_EA02F9790EF0D147E60E4175584A955B4275ABC2/8EAE4F11F37FBE2D95C14E1482CBB6B153B58FD5.PNG</Image>
+      <Description>マヨナカ横断ミラクルクイズ・決勝で優勝した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

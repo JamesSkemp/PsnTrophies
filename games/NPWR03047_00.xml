@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03047_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Nikoli's Sudoku V</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/8DB9B50D49A50328E84464D12D304A0848CA1677.PNG</Image>
+    <TrophiesCount Total="13" Bronze="11" Silver="1" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>中断50回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/3707BD3AAC890C759AA19E2911F4202B0F937ED3.PNG</Image>
+      <Description>パズルを中断した回数が累計50回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>やめる50回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/D635295BEB8D31B71861E02AE4498882084933E2.PNG</Image>
+      <Description>パズルをやめた回数が累計50回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>消去100回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/931695530DBD48956338E65221DBB9A13AA57EFA.PNG</Image>
+      <Description>消去回数が累計100回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>ガイド閲覧完了！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/21E0F693CDAD2262ED3F4461377B98525C1F0F41.PNG</Image>
+      <Description>ガイドを閲覧した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>24時間プレイ達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/88DEB66B443855650F06B5367264CC3B7EA96AB0.PNG</Image>
+      <Description>総プレイ時間が24時間を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>100REDO達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/F7CDAE1CF2325591124CD5B6677715BA0F0F8FD9.PNG</Image>
+      <Description>REDOを累計100回使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>100UNDO達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/495DD6F8CA47ECDBCBF87C1B0CDF27B76DA0672C.PNG</Image>
+      <Description>UNDOを累計100回使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>10問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/440D8DABB3ADB21BD09620582814F82C42D0C38D.PNG</Image>
+      <Description>「数独」を10問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>20問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/65DD1BEF078CD1D1429F381F2F6AFFA86DBEEEE2.PNG</Image>
+      <Description>「数独」を20問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>30問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/F288691A7D6FC067F116B70E24903F29BFB398C5.PNG</Image>
+      <Description>「数独」を30問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>40問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/1A5584342FA5444DEA2882260FB14F8F6C5AEEDA.PNG</Image>
+      <Description>「数独」を40問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>全問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/47346B93DB44AC5F0A0C13313F3E1677C87A5AAB.PNG</Image>
+      <Description>「数独」を全問クリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03047_00</GameId>
+      <Title>シャッフル連続15問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03047_00_958C138D3A651D422BDD4395BDB2DC69FF6D5794/78A8E973671201FF4A4A5536C44D62DB77A11C4C.PNG</Image>
+      <Description>シャッフルで連続15問クリアした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

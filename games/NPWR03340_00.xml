@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03340_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sonic </Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/DAB2B78AD0C0B04D0A908B340EA1132EDD243823.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Ultimate All-Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/5AD7BCFB1DB1F077A92E41F6BA481FE7FC91B0E9.PNG</Image>
+      <Description>Earn every Trophy in the game</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Racing Transformed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/A8E3E1D4934B6C4869EE5211B40AA3BF68490031.PNG</Image>
+      <Description>Go All-Star!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Parts Shop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/91D8C35E589B5EF7C2230924D49435473641F8EB.PNG</Image>
+      <Description>Win an event with a Mod equipped</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Sonic Drift</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/DC31F045A251444E61FC5CBE6040A3F3EA5A88CE.PNG</Image>
+      <Description>Do a 10 second Drift as Sonic</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Tornado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/CFC95C5CF45819EE811D28C259D144B842C4F09A.PNG</Image>
+      <Description>Do a Level 3 Air-Drift</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Magic Second</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/966E992EA92365D7517B91E0C722ADD25FCC2E35.PNG</Image>
+      <Description>Finish 0.5 seconds ahead of an opponent in a Race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Spin Dash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/C86A1FC552467654493ACB513AC72F402905DCC3.PNG</Image>
+      <Description>Do a Boost-Start in each vehicle mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Scud Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/6B57DE908AD9BF23828622208EF09EFFC9C06F5D.PNG</Image>
+      <Description>Finish 1st in a Race without getting hit by weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Blast Processing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/6E5A19B872A315C17C94F1A49EB0778E352ACB77.PNG</Image>
+      <Description>Hit 2 opponents with a single Hot Rod Blast</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Fighting Viper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/EA2AF4C1D2A3E4A11DF8F288ED82796F4DFAD1D2.PNG</Image>
+      <Description>Evade or Block a homing-weapon 3 times in a Race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Catcher Pitcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/1715CB2CE5E2A96736F96E4400005052C06FA51D.PNG</Image>
+      <Description>Absorb a weapon with the Glove and fire it back at your attacker</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Eyes On The Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/3D1A8E6EF3B258515EEC50F9D11D145E1782B9D0.PNG</Image>
+      <Description>Hit an opponent with a weapon while looking backwards</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Cosmic Smash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/25EA843CE7850F2EE9FCA5246CF00219DA7486C4.PNG</Image>
+      <Description>Detonate the Hot Rod at the very last second</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Nomad</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/FA0648BBE9B215A565E969C588CEFBCD4A244DE6.PNG</Image>
+      <Description>Visit every location in the game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Rank B</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/A22103621ED42610D74A593ABEEE40CAC0268548.PNG</Image>
+      <Description>Earn your B Class License</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Rank A</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/039D53AD06D1C4A82B38CBFEDDBAD7DAC41E5ED7.PNG</Image>
+      <Description>Earn your A Class License</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Rank S</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/FE7BDE4DB7E7DA2686BE36FCF8975BE97F2FFFCD.PNG</Image>
+      <Description>Earn your S Class License</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>SEGA All Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/E84B7DACEAB52C1B9675B75962FA55AC761E3151.PNG</Image>
+      <Description>Earn your Star License</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>SEGA Super Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/77EBFB37B2E45B29826D08925DB504C4654D8783.PNG</Image>
+      <Description>Earn your Triple-Star License</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/F96D4E8466956CF9331E0D2CEC9FE6E998F3EBBF.PNG</Image>
+      <Description>Complete a World Tour event on Expert difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Newtron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/0B836BC2D7E37C251F47F4AF3BF412D389430591.PNG</Image>
+      <Description>Manually select a Random character for a Matchmaking game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>SUMO Wrestled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/C6D5812A286634880D728741689AFACE58D808FB.PNG</Image>
+      <Description>Beat your first Staff Ghost in Time Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Yokozuna</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/9CE835AA927ECF19F29BEFD04DC3B9846303C64C.PNG</Image>
+      <Description>Beat all the Staff Ghosts in Time Attack</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>De Rol Le Credits</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/333731ABAA8C9C0296DC28808D2F973E680B33B0.PNG</Image>
+      <Description>Unlock Superstar Showdown in World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Takes AGES</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/17947CF6B35423B5D80FC482E9CDE7F7E6D306E6.PNG</Image>
+      <Description>Unlock every Character in the game</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Racing Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/C8404B56BDE9665A148EE7BFECB44EDB3F6E37DD.PNG</Image>
+      <Description>Get a Podium Finish in every Grand Prix tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Welcome To The Fantasy Zone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/1671822A10E16D9C02696F0AD0FBB8B2D705DEE7.PNG</Image>
+      <Description>Finish 1st in a Grand Prix tournament</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Holosseum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/791431571E3B80ADD9F4D47430D06A99C1ED3995.PNG</Image>
+      <Description>Unlock Mirror Grand Prix mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Gale Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/0DE6739AED87B7AA7D1B72AD204C6ED5C3FDDDE2.PNG</Image>
+      <Description>Get a Podium Finish in every Grand Prix tournament on Expert difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Race Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/4628FEF479ECFAF7FCD1DBC5F018EC24F05E8E55.PNG</Image>
+      <Description>Win a Matchmaking game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Swirling Ranger!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/1FADBAF5D633CAC2A0D1C5A43C08AF0C8217525E.PNG</Image>
+      <Description>Survive a Twister attack without crashing or being hit</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Virtua Trickster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/C028976B001E3A32D3E6C7AB798E48E526163641.PNG</Image>
+      <Description>Roll Left, Roll Right, Backflip, Forward Flip and land as a car or boat</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Link Chain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/4F56E38476312737A07C6BDE6840F507CC2BAD2A.PNG</Image>
+      <Description>Complete the Dream Valley Ring Race and pass every Ring as NiGHTS or Reala</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Vyse The Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/CF69F80B0209725AE31F1FBAF4B06387D4B21772.PNG</Image>
+      <Description>Beat 01:11.16 in Time Attack as Vyse in Rogue's Landing</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>You Got The Horn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/DDE57C202283E87D3642305E8C48965684A8738F.PNG</Image>
+      <Description>Level-up a character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>All Stars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/F70593F3AB68077BADCF4BF46788522C044799C6.PNG</Image>
+      <Description>Collect every Star in World Tour</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Battle Outrunner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/3BAE2BD27DD39A7DE9D84637F701F1087F34F002.PNG</Image>
+      <Description>Do 5 overtakes in a single Drift</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Genesis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/D4B248693667312A7DBAF678A7503F9F84B18E80.PNG</Image>
+      <Description>Triple-Stunt while transforming into a car or boat</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Drift More</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/CFA0F1BDFBF5E23E8D7F352A3EAB8FE21766D25B.PNG</Image>
+      <Description>Get a Perfect Drift score on a Drift Challenge event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Mega Jet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/DC40FCCAB80A235FCD4D5CEA98E5B1BD5DAF76FD.PNG</Image>
+      <Description>Do a Reckless Boost</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Ax Battler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/63919D039B8668C260FCCA1FE3F550B5FEF566DF.PNG</Image>
+      <Description>Finish a Battle Race without losing any lives</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Arrow of Light</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/0AA8D477D4A8325E51D383F63B3609049FF74DE0.PNG</Image>
+      <Description>Freeze an opponent with Ice from at least 100 meters away</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Buzz Bomber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/9AC8470272C03DC7D22D0DBDFEAC398062288C51.PNG</Image>
+      <Description>Hit 1st, 2nd and 3rd place with a Swarm attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Lock On Sight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/FACF38A8A9775E0EB7694E58E3C6DB6F8A127860.PNG</Image>
+      <Description>Score 90% accuracy with aimed weapons in an event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Welcome To Victory Lane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/9B885DCF6FCCE9C8F64F1B82B9A4E5A81CAACA40.PNG</Image>
+      <Description>Finish 1st in every Grand Prix tournament on Expert difficulty</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Meteor Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/6B895EA9CEB7AF30182AABBB641810058046BE87.PNG</Image>
+      <Description>Collect 10 Stars in World Tour</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Justice Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/03BFBF9AB401C8DAB4CEC848611C984E176E71F8.PNG</Image>
+      <Description>Get 10 hits by firing weapons backwards in a single event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Shadow Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/CA3C3C7F9C19DB1A58C1743252FD7032EB123A2F.PNG</Image>
+      <Description>Do 10 Stunt Combos in a single event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Crack Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/CEEA5FDE4323D8BB01D8DCBA638A3B5FC3389200.PNG</Image>
+      <Description>Get a total of 20 hits with weapons in a Race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>The King Of Speed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/E924D56C97020CC11FE495F4F408229BC0B43EEA.PNG</Image>
+      <Description>Finish 1st in a Grand Prix tournament at Expert difficulty</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03340_00</GameId>
+      <Title>Team Sonic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03340_00_000340CB2357805A8AEA61A51E015D38F292ECA2B4/20945BC50E32FB794517C33CBC22EF66AD610EBA.PNG</Image>
+      <Description>Raced in an ad hoc or Online game with Sonic, Tails, Amy, Shadow and Knuckles in the same race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

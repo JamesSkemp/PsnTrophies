@@ -1,0 +1,401 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01022_00</Id>
+    <IdEurope></IdEurope>
+    <Title>2010 FIFA World Cup</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/E333D2DF0819591A21C361C656B0C9CAE3DE4993.PNG</Image>
+    <TrophiesCount Total="43" Bronze="32" Silver="7" Gold="3" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>World Cup Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/AC3391EA6B99761907DF0EE0CCF863909130A75A.PNG</Image>
+      <Description>Unlock all Trophies In the game</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Single Star Group Stage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/AEB170CA43CD3475EC4D86BD4584F47493B7D610.PNG</Image>
+      <Description>Finish the Group Stage in the Online 2010 FIFA World Cup™ with a 1/2 - 1 star team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Two Star Group Stage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/DDFAB730CAEEFD9F347E0696BFE604ABE9DF6F83.PNG</Image>
+      <Description>Finish the Group Stage in the Online FIFA World Cup™ with a 1.5 - 2 star team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Three Star Group Stage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/2DD90C62770E5D029E660A4BFE3FABE4214653D1.PNG</Image>
+      <Description>Finish the Group Stage in the Online FIFA World Cup™ with a 2.5 - 3 star team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Against all odds</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/A3AB1478EE96E408D6B69ECB9267CAFBA79C7136.PNG</Image>
+      <Description>Win the Online 2010 FIFA World Cup™ with a 1/2 - 1 star team.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Ultimate Underdogs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/0569E08940F99D98E00FACF5020D6FB276AA0E1C.PNG</Image>
+      <Description>Win the Online 2010 FIFA World Cup™ with a 1.5 - 2 star team.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Played well as a team</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/31EBD342FB56504084F0DEF92B89FD63B627CD97.PNG</Image>
+      <Description>Win the Online FIFA World Cup™ with a 2.5 - 3 star team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>First time on the world stage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/F22AC161A0E7D28D1DA6DA50174FF282E36F86DE.PNG</Image>
+      <Description>Play in the Online FIFA World Cup™ with a team that have never qualified for the FIFA World Cup™ Finals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Dream Come True</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/3E9298A198F55D0FD99CBCF6B69C9026E5C114F0.PNG</Image>
+      <Description>Advance past the group stage in the Online FIFA World Cup™ with a team rated 3 stars or lower.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>adidas Golden Shoe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/BB8A4A64ED6EDA8ADC9985E1E908452E32E2F9B7.PNG</Image>
+      <Description>Beat the standing record by scoring 10 goals in an Online FIFA World Cup™ with a single player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Undefeated Group Stage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/368E26CB76B9A04D067F38C5BB7A44653B5AF23F.PNG</Image>
+      <Description>Win all three group games and advance to the knockout stage in the Online FIFA World Cup™.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Better luck needed next time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/0E128EEA14AD538973FD4E8958081EAF5F029152.PNG</Image>
+      <Description>Finish the group stage without advancing to the Knockout stage of the Online 2010 FIFA World Cup™</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Hospitality and Victories</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/52827F6049F6137EEE7C4796C561ABEC3D2F932F.PNG</Image>
+      <Description>Advance through the group stage as South Africa in 2010 FIFA World Cup™.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>We'll just score more</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/4058B5B8C168A0F8F70D3C792124A3BFE87AB254.PNG</Image>
+      <Description>Concede 14+ In the Finals (Record) </Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Concede No Goals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/6646D77D0FD6E04D6659CE586687AA1B459B9310.PNG</Image>
+      <Description>Advance from the Group stage in 2010 FIFA World Cup™ without conceding a goal:Semi-pro difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Defend, Defend, Defend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/32E33BD43E958146D6A2BB92DD54C3DD728A6725.PNG</Image>
+      <Description>Lift the World Cup™ Trophy in the 2010 FIFA World Cup™ scoring 11 or fewer total goals (Record)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Second Trip, First Goal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/0F8F8D39A091E71CB0A85B985B2E01810340BDC4.PNG</Image>
+      <Description>Qualify </Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Practice Makes Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/2DDD4217DAB1F78F2C91490ED375E3555CCE1602.PNG</Image>
+      <Description>Enter the training grounds to practice after a loss.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Europe Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/998319F131446C0562E2A8AFBCCE99DF7493D1F8.PNG</Image>
+      <Description>Qualify as a team from Europe in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Asia Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/2BC2F41132F4189758B33EFD8EFDEB88DBFC5EC3.PNG</Image>
+      <Description>Qualify as a team from Asia in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Oceania Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/F77F77AE07E8BB5793CD52ECAB50F536AD14949C.PNG</Image>
+      <Description>Qualify as a team from Oceania in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>CONCACAF Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/5D0F2F4137EA15D0A9D05124A74B9BD6AE508B62.PNG</Image>
+      <Description>Qualify as a team from CONCACAF in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>South America Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/5B52DA86B56C4B249608643C2A7F517CAAA4A398.PNG</Image>
+      <Description>Qualify as a team from South America in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Africa Qualifier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/157777FC6E6A07DA26E20B96CD633264E28CB653.PNG</Image>
+      <Description>Qualify as a team from Africa in 2010 FIFA World Cup™ single player only.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>First Team Selection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/A2A7B3A6160055FDE0A44676CE5A25D3998B3B0A.PNG</Image>
+      <Description>Get promoted to the First team and play a match in Captain your Country.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Managers First Choice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/526DD5ADE1D0720A444E62D99078A11B4D60A20B.PNG</Image>
+      <Description>With a Virtual Pro play a game as the #1 ranked squad member in Captain your Country.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Co-op Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/BB007BA314FC62A506379480935E130086A793F4.PNG</Image>
+      <Description>All four co-op players get a match rating of 7 or above in a captain your country match.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Practice Penalty Kicks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/60DEE2AE52A9DECBB668C06C6BF4FB6E7B71ABF5.PNG</Image>
+      <Description>Score at least 5 penalty Kicks in Penalty Shootout Practice</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Masterful Performance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/F10E760228D08BAEDC37F441C6431EDDA36D1D60.PNG</Image>
+      <Description>Finish a captain your country where one of the players wins an end of tournament award.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>The Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/CAFCE3FF3F01C78C2B19656A0A6F578216D0A9BE.PNG</Image>
+      <Description>In a Captain your Country campaign play a game as the captain for your country's first team.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Solid Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/FA268B0D386BCC45FCDE32ABD29256DB2D3248C8.PNG</Image>
+      <Description>Achieve an average match rating of 8 at the end of a single Captain your Country campaign.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Fair Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/4CFA9F9AC32B52D80C7750E90AFA33F6A3616E17.PNG</Image>
+      <Description>In a single Captain your country campaign Receive no match bans.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Victorious!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/AC06DF25F846313838617EB6D57EE581C8064C26.PNG</Image>
+      <Description>Win the FIFA World Cup™ in a Captain your Country campaign.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Pressure Cooker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/F71DF754ADEC7D6A230397A3A64AC7282EB1B493.PNG</Image>
+      <Description>Score in a penalty shootout using your Virtual Pro and win the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Hold the Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/BE74F6272C42154551E75269B344808975926533.PNG</Image>
+      <Description>Earn a match rating of 8 or above as a Defender in Captain your Country.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Most Hat-tricks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/23CD4DDA258297691C424CFED730F82D41905D0B.PNG</Image>
+      <Description>In Captain your Country score 2 or more hat-tricks in the Finals to beat the standing record.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>2010 FIFA World Cup™ Mastery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/7B942BFA7450E6B70674094A8BDDFB139AB58A7C.PNG</Image>
+      <Description>Defeat all 32 teams that qualified for the 2010 FIFA World Cup™.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>2006 FIFA World Cup™ Final</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/639BB7B41EE8ED80CB99DEB46F32E108A0F9525C.PNG</Image>
+      <Description>Beat France using Italy on Semi-Pro or Higher Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>2002 FIFA World Cup™ Final</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/69A942F6AA11400966DD4F64A1FD2B188F476572.PNG</Image>
+      <Description>Beat Germany using Brazil on Semi-Pro or Higher Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>1998 FIFA World Cup™ Final</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/043158B1442213FA922D2C2D5090200F956BC2AA.PNG</Image>
+      <Description>Defeat Brazil using France on Semi-Pro or Higher Difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>2 Button Mentor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/662D45FC0FB9E779F252E039AC0F6F1FFBBD7024.PNG</Image>
+      <Description>Play and win a co-op game where at least one user is on 2 Button Controls.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>Lightning Quick Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/6CEB9ADC574D0D4F0D248C04C512F5284B2BEA35.PNG</Image>
+      <Description>Score in under 90 seconds to beat the standing record for fastest goal in a World Cup™ finals match.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01022_00</GameId>
+      <Title>World Cup™ Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01022_00_4E03BDB76E050FE90CAFAEAAE54FB1187373DE6D/118D9411B070CA1395992A92D7F0BBE9E77748C2.PNG</Image>
+      <Description>Win the FIFA World Cup™ Final in 2010 FIFA World Cup™.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

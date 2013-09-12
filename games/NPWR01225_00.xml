@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01225_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Pure Futbol Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/6BF5ACCDE4387622581A1E47DC7DE2A7B0364A7B.PNG</Image>
+    <TrophiesCount Total="51" Bronze="35" Silver="14" Gold="1" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/5DDBEBB97435C4B26EA74FB3948A107ED6665F86.PNG</Image>
+      <Description>Obtain all trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Early Doors</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/389DC629E777D9CEEEF3D3EFE77AE626ADD0F769.PNG</Image>
+      <Description>Score with your 1st shot on net in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Share the Love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/F945502127FC89DE15A10EB11350D51EF9AE5CA2.PNG</Image>
+      <Description>Score 1 goal with each of your outfield players in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Hat Trick Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/09F764F9A98A85799BA61CD5398DA5842BD78CF3.PNG</Image>
+      <Description>Score 3 goals in one game with 1 player in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Last Gasp</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/D0A24CD35166539A716EAF0E7862B726CEEE7F7E.PNG</Image>
+      <Description>Score in the last 5 seconds of a timed match in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Toast the Post</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/DDBEBD07CA976D3123C7A5548CEA445E71C52118.PNG</Image>
+      <Description>Score off a shot that hits the post in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Full House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/698850210A432DB6A5C249AFBFA17E9FE0FD6AD9.PNG</Image>
+      <Description>Score 3 goals and record 2 assists with 1 player in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Velocity Rapture</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/BD5654D85237432A82F5C4C8F5CA37EABFDE081A.PNG</Image>
+      <Description>Score 10 pure power shots in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Apocalyp-Toe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/EF3A731FCA15901798899A083B72B08FCBF16EBA.PNG</Image>
+      <Description>Score 15 volleyed goals in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>On a Bender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/A03F9D7B5FDFDDD550D20E80C83B0A7A1F055DB5.PNG</Image>
+      <Description>Score 30 skill shot goals across all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Tao of Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/B05D97D136C938DFB49788A05B1E17C512CD0BDF.PNG</Image>
+      <Description>Score 4 consecutive pure power shot goals in 1 game in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Laundry Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/0AE0C53B3BF226D10BA4F88928493403416BFFFC.PNG</Image>
+      <Description>Record a clean sheet in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pitch-Hiker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/64C9298971ECD8117856178219E50F45D262A38A.PNG</Image>
+      <Description>Win a match in each venue in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Serial Thriller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/C0122F7A4CA2302AE136C6783BC81108D66051E6.PNG</Image>
+      <Description>Win 5 matches via penalty shootout in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Braveheart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/28A19D5705D3B63384D91472A1FBE77C9241B72D.PNG</Image>
+      <Description>Defeat England with Scotland on Pure difficulty</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Club Before Country</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/2869891E3A9C4E0048C50F64CD977B7AE879E488.PNG</Image>
+      <Description>Win a game with a team with immediate chemistry</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Head Case</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/E9C7423FDB953DCC4274784869F6518E43C9BA32.PNG</Image>
+      <Description>Score 50 headed goals across all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Defibrillator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/C441C24A54A1C50BB90DAC71ADF086E08C86364C.PNG</Image>
+      <Description>Come back from 3 or more goals down in 5 matches</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Firing Blanks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/5B3803859740D6019FB3AD674193C312D5BD08EE.PNG</Image>
+      <Description>Win a game without taking a shot on goal</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>A New Millennium</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/4D978778212D7F1D0900B941487820508BC3CE79.PNG</Image>
+      <Description>Score 1,000 goals across all modes</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>The Wanderer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/85A4E27C24D0BC657E0F199D1A9B6405BAB8D662.PNG</Image>
+      <Description>Travel 100 km on the pitch across all modes</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>One Small Step</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/7D83F72B5C0B94A9743E020A288515FB03CE363A.PNG</Image>
+      <Description>Unlock your 1st venue in a campaign</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Captain Fantastic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/11423883A1AA0D6BA281782A517649E657CCB755.PNG</Image>
+      <Description>Have your captain obtain man of the match in a campaign match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Rude Guest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/9ECFDD15175B16D6722A8E11646BB4C938F23359.PNG</Image>
+      <Description>Win a campaign match while completing all 5 recruitment objectives</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>The Guardian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/2DD0B73BC553082B1BB3BD4B223052960F3C075C.PNG</Image>
+      <Description>Complete a campaign with a defender with a 4+ star rating</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>The Emissary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/28E72B1548C9022B0249F10E851452F3E0807AD5.PNG</Image>
+      <Description>Complete a campaign with a midfielder with a 4+ star rating</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>The Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/27DE3AAA92644CBF839D1472A5C17B4D6F4A654C.PNG</Image>
+      <Description>Complete a campaign with a forward with a 4+ star rating</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>29 Days Later</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/98779691CF2B1337DFDEC0E51506CC8BE0AD3F92.PNG</Image>
+      <Description>Win the final tournament</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Lopsided Loyalty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/4C1CB6C4870361B209A03B99AD1FBB2EAEFBDCC8.PNG</Image>
+      <Description>Unlock all players from a national team</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>All World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/331F67D49F266CFB1C2AB9001C1F2E4BCD479CB2.PNG</Image>
+      <Description>Upload your captain at the end of a campaign</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>A League of Your Own</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/F0CE733EC3CCBEDCF87FB899C4026A5738B02144.PNG</Image>
+      <Description>Unlock all available national players</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>On the Board</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/3450E4C91138732049481A2AAC561C23B6A15532.PNG</Image>
+      <Description>Win a club match in Play Anyone</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Raising Your Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/468BF5FCD2043E710C084B62C480A5E715920ECE.PNG</Image>
+      <Description>Win 3 club matches in a row in Play Anyone</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>RSVP</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/43B92627A85EBF57A7591483C1E0CD49D7E747E0.PNG</Image>
+      <Description>Play a match against a friend</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Attested Development</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/BC3AF471EA4051C89BD60EA262EA1B51A8B666AF.PNG</Image>
+      <Description>Advance to division 7 through online play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Passion of the Crest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/8D333330426FAD26B51BFE2F6A2893DD3B6E3D2B.PNG</Image>
+      <Description>Unlock all 4 crests from an online challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Over Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/F09361BA2C8FB09B07DDA182B7FC6393F4E5688C.PNG</Image>
+      <Description>Score 3 goals in the first minute of a club match in Play Anyone</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Top Flight</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/ECE37193CF70EB6E30B55060FB2C145AEFCFF699.PNG</Image>
+      <Description>Advance to division 1 through online play</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Shoulders of Giants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/21BE344A6A9923CD9E16F3C7838DD1215466C7A5.PNG</Image>
+      <Description>Beat a division 1 Player or someone who has in Play Anyone</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Slump Buster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/23ECB6F5192AFDAA83B6A49F6ECD61FEA46CA819.PNG</Image>
+      <Description>Following a club loss, win a club match via a clean sheet in Play Anyone</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Online Odyssey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/9C2281A939664238877DF6F106F3FF62AF5DA75A.PNG</Image>
+      <Description>Unlock all online challenge crests</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Participation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/1CA22DFA5A9DB5124DAF1DB609C74087BE111419.PNG</Image>
+      <Description>Complete the tutorial</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Premonition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/21293079EA092080D08974A889F841207D3CF0F3.PNG</Image>
+      <Description>Save 5 penalty kicks across all modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/3EBCB22274A9A79B14B9DC36A073B30FBF83F6BF.PNG</Image>
+      <Description>Complete a match with 4 people on one team in Play mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Prowess</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/2D84A46BB2886B9911BAEC899FA7B59CE847329D.PNG</Image>
+      <Description>Earn 1,000 pure points in one match in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Pummeling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/939F79C321DD1D1DC3BE4F36B21B5FA05D021AB4.PNG</Image>
+      <Description>Outscore a human opponent by 1,000+ pure points in Play mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Punishment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/460D40968BED992B11BAE147798C3110A20E2B05.PNG</Image>
+      <Description>Earn 10,000 pure points in one session</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Posse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/CE787F4C302891B407BD9200AB3523C21BE97BD3.PNG</Image>
+      <Description>Score with your goalkeeper in any mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Pressure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/8137F5260508AE34E1E2B0DB05E328BE120C8868.PNG</Image>
+      <Description>Successfully perform 300 slide and step-in tackles</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Persistence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/0F9D224D6121C5EABB1E6FDB11408B72C6000E0F.PNG</Image>
+      <Description>Earn 100,000 pure points outside of campaign</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01225_00</GameId>
+      <Title>Pure Player</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01225_00_DC6731E05510EB17E6E0CA4ADB21CF29784D0B9C/C16A41ECC3323B2EDBA534B8FA72EF6AB6448F4E.PNG</Image>
+      <Description>Acquire 40 trophies</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

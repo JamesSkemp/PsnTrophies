@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01513_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Pachi Para 16: Silver Shining Paradise 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/3F7A3FF3F37AC469C7F341072CD793F59BAE66A0.PNG</Image>
+    <TrophiesCount Total="47" Bronze="26" Silver="16" Gold="4" Platinum="1" />
+    <TotalPoints>1230</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>ギンギラパラダイス２マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/7C77FB999F53512AF2A0D6A245197BA1E870B8AE.PNG</Image>
+      <Description>全てのトロフィーを獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>初リーチ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/39AEBBA3DFF51040B2431BA75D6641B56D477F9E.PNG</Image>
+      <Description>リーチを発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>マリンちゃん登場</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/45D473F83693652359F9FB45510962FFC89C4D12.PNG</Image>
+      <Description>マリンちゃんリーチを発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>魚群発生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/DFC0CC0E1B7E5C417825E0584A33C40659B2FD3B.PNG</Image>
+      <Description>魚群を発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>タコ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/40776E388B7AE93307314411A5C4B71573F90B38.PNG</Image>
+      <Description>１図柄「タコ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>ハリセンボン当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/939C1621F35B4ED131243C04BBAA50F2392735BD.PNG</Image>
+      <Description>２図柄「ハリセンボン」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>カメ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/957A6E1F1898F0D2CA10DA42E3C579E03A90B838.PNG</Image>
+      <Description>３図柄「カメ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>サメ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/8C9C009FA582ABFAD7616FF0B0FE18DDD372683D.PNG</Image>
+      <Description>４図柄「サメ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>エビ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/26EA864A968687C1BB11D040137186A8DACD3225.PNG</Image>
+      <Description>５図柄「エビ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>アンコウ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/816CF589EB395B257A91BFD9607025D890B7CC22.PNG</Image>
+      <Description>６図柄「アンコウ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>ジュゴン当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/CDFA096C817658E4F4D774AA844366E0D2264641.PNG</Image>
+      <Description>７図柄「ジュゴン」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>エンゼルフィッシュ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/947CD3E5BFCBFF997D8E098C51D3D14695FE6CAE.PNG</Image>
+      <Description>８図柄「エンゼルフィッシュ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>カニ当り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/B969F8E8FF0D847F12A55EAC3688C9A4EBF1F9DC.PNG</Image>
+      <Description>９図柄「カニ」で大当りする(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>ランキング初心者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/D453FD3FB789768AE1382ABAECC612E4BABE357D.PNG</Image>
+      <Description>ランキングに名前を載せる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>３連チャン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/71742C7120CE0F501F48AFAEEC51C87BD167580F.PNG</Image>
+      <Description>大当りを３連チャンさせる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>５連チャン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/813F17884D1E84134FFEE8594BD922506A3B64B8.PNG</Image>
+      <Description>大当りを５連チャンさせる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>リングフラッシュ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/8F4AB1603A236DED15ADBA8C2F660C0517761558.PNG</Image>
+      <Description>リングフラッシュを発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>クジラッキー発見</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/5F089A8942A296FF8C060516DB02CA7C7324A0A2.PNG</Image>
+      <Description>クジラッキーを出現させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>サム到来</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/4522257D7AC766288594994BBB9E336D2EA32BAB.PNG</Image>
+      <Description>サムを出現させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>プレミアムラウンドA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/AD9616322F804273AAD747A048036AF42232B7CE.PNG</Image>
+      <Description>5連チャン以上のプレミアムラウンドを発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>プレミアムラウンドB</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/3ABB1BEE51AE453AEE9804052049EDB79A7D4B70.PNG</Image>
+      <Description>10連チャン以上のプレミアムラウンドを発生させる(実戦モードまたはパチンコ勝負)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>演出コレクション　２０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/4A1620926AADAB832098A1CF0D375370CE697A2E.PNG</Image>
+      <Description>演出カードを２０枚集める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>演出コレクション　４０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/B135AB2883FE0BF0776F9B89A371979174001F96.PNG</Image>
+      <Description>演出カードを４０枚集める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>演出コレクション　６０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/7DFA68FFE5139ABA0BC5FF2FE1E4826283B2CAB1.PNG</Image>
+      <Description>演出カードを６０枚集める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>演出コレクション　８０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/0953F95FB9B3FD77B255A31C905B6660A0D4F09C.PNG</Image>
+      <Description>演出カードを８０枚集める</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>演出コレクション　１００枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/12D3E7EF84809F9052F21CDC79C108DE7B531BC7.PNG</Image>
+      <Description>演出カードを１００枚集める</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>役成立</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/6A7F40B68770ACB7E478696985B7B2C41B44D306.PNG</Image>
+      <Description>パチンコ勝負で役を成立させる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>役コレクション１０個</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/4BD281A856BA0836B6B6CE307A1D2ECA4F041D90.PNG</Image>
+      <Description>役コレクションを１０個達成する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>強者たちの珊瑚礁　初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/11F669BFC2EF3976AE8D828416430C35C6D0FD87.PNG</Image>
+      <Description>強者たちの珊瑚礁で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>強者たちの珊瑚礁　クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/6781E2A24DF00BE760537B1DC49323E68896E7F2.PNG</Image>
+      <Description>強者たちの珊瑚礁をクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>オンライン勝負　初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/29060A439BAA0486C294CA1DF4B5A85119533C82.PNG</Image>
+      <Description>オンライン勝負で勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>オンライン勝負　１０勝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/6A66D95FB3A6287E7DB0F3FD279FE0F90CC02831.PNG</Image>
+      <Description>オンライン勝負で１０勝する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>大会主催者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/836904F94DEA8C71166B2341CE809EE1B913E754.PNG</Image>
+      <Description>オンライン勝負で対戦部屋を作成する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>記念大会主催者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/3A84824E112EC24D54A3E0886D90849A966BA49B.PNG</Image>
+      <Description>オンライン勝負で１０回対戦部屋を作成する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>超主催者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/2DF9CA2FF5D27237F11F14AE748CF0796838EDC9.PNG</Image>
+      <Description>オンライン勝負で５０回対戦部屋を作成する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>百戦錬磨</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/31629800EC7E022D5B1455A327460FDCA857904E.PNG</Image>
+      <Description>パチンコ勝負を１００回行う</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>パチンコ博士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/A6AC662E92AD1369746A336B785F61C574FD6817.PNG</Image>
+      <Description>「パチンコ教室」を全て読破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>タイトルカスタマイズコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/F294814AFCB50CCDA466BE92420D729C481BCD38.PNG</Image>
+      <Description>「タイトルカスタマイズ」の画像をコンプリートする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>背景カスタマイズコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/7D74F3563A1A9C9808B9EAAD6080CD92DDB36F64.PNG</Image>
+      <Description>「背景カスタマイズ」の画像をコンプリートする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（パワー）演出コレクション　２０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/00635C3731FCD80F369E366393B94D2E4E43B4E2.PNG</Image>
+      <Description>演出カードを２０枚集める（パワーバージョン）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（パワー）演出コレクション　５０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/3069C82FC54BDDC7F768BE4DC8B63AEE6A63E2EA.PNG</Image>
+      <Description>演出カードを５０枚集める（パワーバージョン）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（パワー）演出コレクション　１００枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/42184F78A3B220D6A5CFA913132A75151539B55B.PNG</Image>
+      <Description>演出カードを１００枚集める（パワーバージョン）</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（パワー）強者たちの珊瑚礁　クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/5C021E2F2F218094BE9B550875C054687520A494.PNG</Image>
+      <Description>強者たちの珊瑚礁をクリアする（パワーバージョン）</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（遊パチ）演出コレクション　２０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/BCDFCFE71B3976119471C3066845980707FC9EF7.PNG</Image>
+      <Description>演出カードを２０枚集める（遊パチ）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（遊パチ）演出コレクション　５０枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/B20A6D300207D0B72BFE16B580085D7E2E93E1AE.PNG</Image>
+      <Description>演出カードを５０枚集める（遊パチ）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（遊パチ）演出コレクション　１００枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/D340ED1B4C15BF050ED3E83E2969A2B2244A5CD3.PNG</Image>
+      <Description>演出カードを１００枚集める（遊パチ）</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01513_00</GameId>
+      <Title>（遊パチ）強者たちの珊瑚礁　クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01513_00_C3634CA1CF6A8344F0B0988A84E7791B1197E490/465A7A0480CCA5420F0070602FE87D5C770BE106.PNG</Image>
+      <Description>強者たちの珊瑚礁をクリアする（遊パチ）</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

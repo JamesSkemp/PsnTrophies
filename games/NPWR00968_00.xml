@@ -1,0 +1,239 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00968_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dynasty Warriors Online</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/E8AA2E2C92DCD2A03846F4B707A5888EFCE4C093.PNG</Image>
+    <TrophiesCount Total="25" Bronze="6" Silver="12" Gold="6" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>真の三國無双</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/6942E7B631E5E546DD69E33B9DE8FEBC9B01B1B2.PNG</Image>
+      <Description>すべてのトロフィーを獲得した無双の将の証</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>撃破の修羅</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/275362C1BD6ABEA0C43016B33D30F152531BE239.PNG</Image>
+      <Description>激突あるいは争奪で撃破数2500を突破する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>激突の烈将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/2F0F96F72389360C212D4EDBC5FB42BFC95D175E.PNG</Image>
+      <Description>激突通算勝利数が500を突破する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>争奪の猛将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/6A05B1476CC7A4F7392C877E9567C13D721F954B.PNG</Image>
+      <Description>争奪通算勝利数が200を突破する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>能吏</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/39C05B26216870A30A1F3E22097AB970FEFEC68E.PNG</Image>
+      <Description>５種類の内政スキルがすべて50を突破する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>錬成術師</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/81BFD504184C30F561E4D4C8568AA6594493FF5C.PNG</Image>
+      <Description>３種類の錬成スキルがすべて30を突破する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>歴戦の将たる証</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/7717C149A9D43A8C37193C5A5C7820BB728F5E3E.PNG</Image>
+      <Description>身分が四征将軍に昇格</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>武器錬成の才人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/E174E159BA231ADE76F08B32887A69CF80F3B1D9.PNG</Image>
+      <Description>武器の錬成実行回数の総計が250を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>服飾錬成の才人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/E0F7F70526C9AE4414D6E4E88555CFE2D54F86C0.PNG</Image>
+      <Description>服飾の錬成実行回数の総計が250を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>道具錬成の才人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/D9F58018B22EF92F4D477B5D68F58A5A5A039729.PNG</Image>
+      <Description>アイテムの錬成実行回数の総計が250を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>伯楽</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/C67AF7B2656D4EE23B6B434C6295C04AA6512E00.PNG</Image>
+      <Description>副将８人全員がレベル40達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>争奪の練達者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/C8E93F616A417CA1AB052304579AAA8A7C59776F.PNG</Image>
+      <Description>争奪出撃数が100を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>争奪必勝の兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/B127AF76BFC544D7C9CED97E0BD565EF840DF14E.PNG</Image>
+      <Description>争奪連勝数が5を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>闘技の名将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/53D54DAB0682F77579F0C47B6B2FD847D8D92C68.PNG</Image>
+      <Description>闘技での通算勝利数が50を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>撃破の強者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/F1DA51737030549DC30DCBA3B925FB60AE874EB7.PNG</Image>
+      <Description>激突あるいは争奪で撃破数1500を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>仕事師</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/FB3CF575F5674F38ECA18F04F965EEEA577D877B.PNG</Image>
+      <Description>５種類の内政スキルがすべて10を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>仙箪巧者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/BE5CB13B4F8E130BF96D595BDB0F1EA182734888.PNG</Image>
+      <Description>激突あるいは争奪で仙箪強化数150を突破する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>武器を極めし者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/79C1E5FC2905962D82BE11D73309C9519371313D.PNG</Image>
+      <Description>いずれかの武器の使用度が200以上</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>将軍たる証</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/4477EDF5189A25E7DEA76F7A6DA7D288632ACBE5.PNG</Image>
+      <Description>身分が雑号将軍に昇格</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>副将雇用</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/45624A8859EA1F646FF0F8D72CB23A6346E9FC26.PNG</Image>
+      <Description>副将を雇用する（人・動物問わず）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>陥陣営</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/7CCFF0B59B3ACC4C335B827B6E94E96EFBB65360.PNG</Image>
+      <Description>激突あるいは争奪で拠点占拠数10を突破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>乱戦の良将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/B6303168A32EEAD78D4582A4AC452F7C99065AE9.PNG</Image>
+      <Description>乱戦での通算勝利数が5を突破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>争奪の良将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/F5BF42472FF93809CC5D091463E6DEB29A7C5797.PNG</Image>
+      <Description>争奪通算勝利数が10を突破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>激突の良将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/DAB94C9181ECADC6BC362376D9E5B039FC430308.PNG</Image>
+      <Description>激突での通算勝利数が10を突破する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00968_00</GameId>
+      <Title>指南塾卒業生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00968_00_3FD7FE39D8247180431496F5F7FE02A5CCFCB286/912C3B64EBE00415EBCCC40F575870F4697F4FE5.PNG</Image>
+      <Description>無双指南塾の課程を修了</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

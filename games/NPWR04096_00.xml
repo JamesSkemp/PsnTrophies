@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04096_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Aabs Animals</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/B92EBAEF6E3CF0007194B24A007EC2D7EEACC747.PNG</Image>
+    <TrophiesCount Total="5" Bronze="1" Silver="1" Gold="3" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04096_00</GameId>
+      <Title>Kawaii</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/53805EB109C69D1528E9BA1490BC06EC4F8C3E2E.PNG</Image>
+      <Description>15 seconds to play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04096_00</GameId>
+      <Title>Charming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/65F4C9AADB7CE4775EABF2F85C7293508F2D91B7.PNG</Image>
+      <Description>45 seconds to play</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04096_00</GameId>
+      <Title>Cute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/3996D1A6292FABA8B197D0987C7866EEE2542776.PNG</Image>
+      <Description>135 seconds to play</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04096_00</GameId>
+      <Title>Lovely</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/6494356ADE7477CB486AD8D2A29425B961E7120E.PNG</Image>
+      <Description>225 seconds to play</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04096_00</GameId>
+      <Title>Pretty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04096_00_00C580F7A9F24EE690CA11A5924C02DAA0EF455DFF/217DB5E96644CCC1AECC7D6796A4730564AD9D72.PNG</Image>
+      <Description>315 seconds to play</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

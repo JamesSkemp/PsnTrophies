@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01850_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Ion Assault HD</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/EDCB5FAFDC25C892AC6ACF50A316B6EE6C1181DC.PNG</Image>
+    <TrophiesCount Total="13" Bronze="9" Silver="3" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Triumph</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/0FFE245D05D509E31DEAC36C5EDC5693724584D1.PNG</Image>
+      <Description>Complete the single player campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Allied Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/D04865534391CD0E68C410570367ED8B36F200F0.PNG</Image>
+      <Description>Complete the cooperative campaign.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Battleship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/C6AC824ABC15F82390DA20F71118359C89E59B7D.PNG</Image>
+      <Description>Destroy five asteroids at once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Abstinence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/5AC7C45AA2D8A4D0BEDA05950D4B1919498CE9DE.PNG</Image>
+      <Description>Complete a stage without collecting a Power-Up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Untouchable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/4A89D6C245D77383E61971300FF0656A3AAAFCB0.PNG</Image>
+      <Description>Complete a whole sector without dying once.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Hyperspeed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/98D14E2C186E507940B9BCBA663230E075B1CB77.PNG</Image>
+      <Description>Finish a stage in less than 60 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Jackpot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/19B88FB6C4C2F9D41E8ECFC962AE7AD546FEB328.PNG</Image>
+      <Description>Score 1,500,000 points in a single game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/0DBAE68AFE0C22F02244599351378CE3363C3592.PNG</Image>
+      <Description>Survive 3 stages without dying once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Field Medicine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/68A985CDDABFFBA1E0B3E5390CEC622D00C77C91.PNG</Image>
+      <Description>Collect enough Score Orbs in a single run to get two extra lives at once.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Rock'n'Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/FD9A7EC480588EC17F1D64D0D3E280B8B4FE5216.PNG</Image>
+      <Description>Destroy 50 big obstacles in a single game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>Hard to kill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/0C03BC29B7DA9F6B3B7B401EFCD71B21E64B5CD4.PNG</Image>
+      <Description>Score exceeds 1,000,000 points (Survival).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>The will to live</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/25481C6E902D8B024F41E6F0C127D2AFF8FC443C.PNG</Image>
+      <Description>Score exceeds 2,500,000 points (Survival).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01850_00</GameId>
+      <Title>High Score Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01850_00_121FFE1A74522470245E03BA667EB39AFF79420E/71F3867A76637522B1A23D96AB620EDA45B8AFBC.PNG</Image>
+      <Description>Score exceeds 5,000,000 points (Campaign).</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

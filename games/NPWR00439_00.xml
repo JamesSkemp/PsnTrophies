@@ -1,0 +1,293 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00439_00</Id>
+    <IdEurope></IdEurope>
+    <Title>UFC 2009 Undisputed</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/96FFED9224D3BC55F40A3E1E36BB39A0B1E39F65.PNG</Image>
+    <TrophiesCount Total="31" Bronze="10" Silver="16" Gold="4" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/696B7059CC2F95016BFAA461B44272B647EE84F7.PNG</Image>
+      <Description>Obtain all Gold, Silver, and Bronze Trophies!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Pound-for-Pound Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/06E5E738D253E4BC170AF04D3E530772B7A534B0.PNG</Image>
+      <Description>Win the UFC Championship in each weight class in Career Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Undisputed Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/443EB7FD3B55BFF75737C14574E49A94524C36F7.PNG</Image>
+      <Description>Win the UFC Championship with a fighter in Career Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Hall of Famer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/D3E75E81FBC32B2DDCA5167382D104EE3D5F9444.PNG</Image>
+      <Description>Enter the Hall of Fame with a fighter during Career Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Call me "No Touch!"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/6BB5AD2696F89C7F477B81135A781F4817679A1A.PNG</Image>
+      <Description>Complete Career Mode and retire undefeated.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Where's my bonus check?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/1FC7D182142F8261E949188BEC3F535460DAE5A0.PNG</Image>
+      <Description>Obtain the KO, Submission and Fight of the Night Awards with a fighter in Career Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>That was easy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/B8D02B07D35E65F2A32A9B5BC85797BDA6369CFF.PNG</Image>
+      <Description>Win in under 20 seconds of the 1st round against a COM UFC Fighter in Exhibition or Career Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Student of the game.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/5B0A6FC543BB896078FA1E3F0B91D4D69A9815F2.PNG</Image>
+      <Description>Complete all tasks from the Tutorial Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Wax Off!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/52D6E848FC95E8853C2F919646255304E4BB9025.PNG</Image>
+      <Description>Escape 20 submissions by technical escape against a COM UFC Fighter in Exhibition or Career Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Trophy Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/3D63610D248511D3D2F1231D3F70F1C3FD15518B.PNG</Image>
+      <Description>Obtain all the trophies in Career Mode with a fighter.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>UFC Historian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/687135254E0887A33296E0DEB799EECDA76C7A39.PNG</Image>
+      <Description>Unlock all movies from the Classic Fights Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>World Class Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/9C18F651450FABAAEA7BE2639DBB081B37D58497.PNG</Image>
+      <Description>Win by KO without using any grappling moves against a COM UFC Fighter Exhibition or Career Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>World Class Grappler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/35344681FBBC85E5D84107E1839F3F0661EEF731.PNG</Image>
+      <Description>Win by Submission using no striking moves against a COM UFC Fighter in Exhibition or Career Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Roster Run-through</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/ACFD71E3472FD3145DF9E7A515D6CDAF2E3DE2D5.PNG</Image>
+      <Description>Complete one fight in Exhibition Mode with each UFC fighter.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>White Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/B9E82B5C385AD0D5174E31AAC8FCC4F042424D84.PNG</Image>
+      <Description>Win an online Ranked Match with a CAF or UFC fighter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Blue Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/A67F2481A2DDF8C00EBE149AAB1D843C7553D25B.PNG</Image>
+      <Description>Win 15 online Ranked Matches with a CAF or UFC fighter.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Purple Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/1000444A9654D256221A817700ED72A97F7C0EC5.PNG</Image>
+      <Description>Win 30 online Ranked Matches with a CAF or UFC fighter.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Brown Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/F046515B548798ECBD78A44BE599C858537B86A5.PNG</Image>
+      <Description>Win 50 online Ranked Matches with a CAF or UFC fighter.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Black Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/06FF3B68971E42461E70047BDC697B54FE2E41D2.PNG</Image>
+      <Description>Win 100 online Ranked Matches with a CAF or UFC fighter.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Wax On!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/D62B31FFEA16DB1BDFC162E0ECCE8182F64061C5.PNG</Image>
+      <Description>Win 15 online Ranked Matches with a CAF or UFC fighter by submission.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Papa Said Knock You Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/2ED39ED8C7640E30D2AC3D73160E7C1A22E8BE47.PNG</Image>
+      <Description>Win 15 online Ranked Matches with a CAF or UFC fighter by KO.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Gold Digger!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/38E0C815277646D2C0B2E6758A96E17BC8E23D02.PNG</Image>
+      <Description>Obtain all the gold medals in a Weekly Mission for Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>You really like me!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/ED334A267A057684E4C506BE926200E23A634CE1.PNG</Image>
+      <Description>Gain a million or more fans in Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Ooh, in ya face!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/2AA087C63269EA85995958EC7C5DF76AA60A5B88.PNG</Image>
+      <Description>Win a fight by flash KO in a Ranked Match with a CAF or UFC fighter.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Original fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/8615E73484830EDE0D092B9E4FA1BE071CCE2366.PNG</Image>
+      <Description>Create A Fighter and use the CAF in Exhibition or Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Red Belt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/0B5C23F885A73DB57509F1292768E2C93A128C23.PNG</Image>
+      <Description>Reach level 50 or higher in Online Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Two of my favorites!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/4969A89CFDBAFBB81E63B521FB316F3D54A5AE39.PNG</Image>
+      <Description>Watch the Octagon Girl cutscene 15 times without skipping it.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Wanted: Flying Mouthpieces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/360FE3414B0E2CB14E15A2C608442B3A6AADF091.PNG</Image>
+      <Description>Mouth piece travels more than 3 meters when knocked out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Ultimate Highlights</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/B97F3E5CA9A9C92C284775474F869A9C3CA9B8DE.PNG</Image>
+      <Description>Dominate the opponent in all 3 scenes of a replay segment.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Ultimate Knockout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/2EF0680A4FE58F44781752895192FCA91DC0388E.PNG</Image>
+      <Description>From the gassed state, KO an opponent in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00439_00</GameId>
+      <Title>Ultimate Submission</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00439_00_3DB8CF90AC781F6C53CCBD69CFD5FB34EE0891C1/D2C05967DFA9640E571DA6A2830841A4AA1DCDD0.PNG</Image>
+      <Description>From the gassed state, Submit an opponent in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

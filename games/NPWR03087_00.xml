@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03087_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sports Champions 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/B584D236700A2C9AF223312AE5229E9E8AE07D83.PNG</Image>
+    <TrophiesCount Total="44" Bronze="30" Silver="11" Gold="2" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Mr. Z</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/3DA6954090D5EC1481B868D97D75448EA4BCDC08.PNG</Image>
+      <Description>Unlock all Bronze, Silver, and Gold Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Strike! A Pose</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/128CB84082EE84D1682B8F5BFA9A385D31139666.PNG</Image>
+      <Description>Accumulate 20 strikes in Bowling</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Split Happens</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/877CA80DEFA9467DE66A1C0FD71695B1CC636ABC.PNG</Image>
+      <Description>In Bowling, pick up a split spare</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Pin Pal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/EE52D9DD5F2B1C850184D8602D9EFE388578B007.PNG</Image>
+      <Description>Complete a game of Bowling</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>You're A Piece Of Iron</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/23A76D5652DC2005F55922FB069189DC78894D06.PNG</Image>
+      <Description>Win a single-player Boxing match without being knocked down once (Silver or higher)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>C-C-C-C-C-Combo!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/28A60B15547BFF0E8BD5D4E26A7139193874513E.PNG</Image>
+      <Description>Land a 6-hit combo in Boxing</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Upstart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/04E22F023610A63701864DE98D3D86D17039A364.PNG</Image>
+      <Description>Complete a game of Boxing</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Net Points</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/AC75D88F120B5E183E6C9D68D0F43C3D0FD2D60F.PNG</Image>
+      <Description>In Tennis, score 10 points at the net in a single match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Double Deuce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/AE318481099811D306F021CFDAC5010BF8329BA1.PNG</Image>
+      <Description>Win a Tennis game after going deuce twice</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>You Got Served</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/AD6687F2BD6B340985F03B81E4FDB4EDE9CC7DD0.PNG</Image>
+      <Description>Score two aces in a single Tennis match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Game-Set-Match</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/85F42009E3673A539EF04D997938A6A5A152DC50.PNG</Image>
+      <Description>Complete a game of Tennis</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Straight Shooter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/09F56C89460DAD2C42CA4AF36024B9C713D09303.PNG</Image>
+      <Description>Win a Silver difficulty level (or higher) Archery match without missing a shot</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Arrowbics</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/B346D7D90F50FF13F53EBC0B3D99D2B815660629.PNG</Image>
+      <Description>Last for 2 minutes in an Archery Challenge Mode match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Arrow Dynamic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/F774012FD5615C9949CE7ABF3C500ED93EABF4A2.PNG</Image>
+      <Description>Get 3 split arrows in a single Archery match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Take A Bow</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/35EEAD8A2FF1CCF8CE110EA4F3FAF831AC7C99F8.PNG</Image>
+      <Description>Complete a game in Archery</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Icy What You Did There</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/11698E6EDBF65879C98B14163C30581D8976EBA4.PNG</Image>
+      <Description>During a race, cause another skier to crash</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Frost And The Flurrious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/9AF0BD2BBDE99CCCB68D734D96AAC0BD7640A4E8.PNG</Image>
+      <Description>Pass another skiier after drafting behind them for at least 5 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Two-Planker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/3A0880C2D7848AA5760CB2A6CDF81EEFC3CAD1D9.PNG</Image>
+      <Description>Complete a game of Skiing</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Flipping Crazy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/9000B64370C7C0A28D1F0B1164AD8E6BD5554081.PNG</Image>
+      <Description>Successfully land a jump with two forward flips and two back flips</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>To The Green</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/24CB9A44F5A3DE675C9168A08A87CE8AD050CF12.PNG</Image>
+      <Description>In Golf, hit the ball onto the green from the tee</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>FORE!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/4B453A0D286F9D9F7888A42999039474D43E1818.PNG</Image>
+      <Description>Complete a round of Golf with four players</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>What The Putt!?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/A892EE0BAC578164F986C1514588D24E869E1E18.PNG</Image>
+      <Description>In Golf, make a putt over 40 feet</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Tee Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/4F474852CC00006F860C9890A18D51F3EF89FE8C.PNG</Image>
+      <Description>Complete a game of Golf</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Lesson Learned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/6083A8954F449C6A78A9B8CAFBF1B5DBFD5AF3B9.PNG</Image>
+      <Description>Complete a training stage in any sport</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Party Monster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/0AC3F4814D5000DB48D7AFD430543549F250174A.PNG</Image>
+      <Description>Complete more than 1 Party Play playlist</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Profilin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/728280AAFBD5D966C3ACB315320A2A524CC608C6.PNG</Image>
+      <Description>Use two or more created Champions in a multiplayer game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Stylin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/296AACC0DDCC1A9838A4DCDCFA878224798F1CE1.PNG</Image>
+      <Description>Customize an outfit for your Champion in all 6 sports</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Fashion Forward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/B125865B54B300AF6482F8E3A134326B8C3945E7.PNG</Image>
+      <Description>Equip your Champion with an unlockable item</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>The Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/60E7C3EBD6FD9264DD68C0E1347F04B21D981750.PNG</Image>
+      <Description>Earn at least 2 stars on each Bronze Cup Challenge Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Star Bound</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/84AD507C6FE0A03FFE4CE4478FA1A935B3E1100C.PNG</Image>
+      <Description>Acquire 25 stars in Cup Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Most Improved</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/2659108D01DBCFBCB66A7BAA5E9AE3A19CCB521C.PNG</Image>
+      <Description>Improve your score in a previously completed Cup Play match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>All Heart</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/E808A09CCDA72CE78B8D3B56CA2438BE4FBE112F.PNG</Image>
+      <Description>Come back to win after being knocked down in a single-player Boxing match (Silver or higher)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Unbowlievable!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/7BC0DF7238D3A718E55C1CCDECB4164DD06FEF72.PNG</Image>
+      <Description>In Bowling, get above a 200 point game in Silver difficulty or higher</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Get The Point</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/EC00816EBC5ADDAA20ED2AF994B0FA47C6D4B93E.PNG</Image>
+      <Description>Acquire 500,000 points in Cup Play with a single Champion.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Golf Carting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/97315363953FD3302F4E856A1B9564C04B3D0351.PNG</Image>
+      <Description>Win a game of Golf at each location in Free Play</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Allstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/1CAB2B7DE4DEE7E7AFB784A6A282808D22918E8D.PNG</Image>
+      <Description>Acquire 100 stars in Cup Play</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Legendary</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/0F43B5F36DD7F3F2A4510B7F2F2729705AD41F91.PNG</Image>
+      <Description>Complete the Gold Cup in Boxing</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>King Pins!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/864A5B05E51ED108DA999D4428FA1C36AE95F3F2.PNG</Image>
+      <Description>Complete the Gold Cup in Bowling</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Make Some Racquet!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/CAFC44A5416F311B3709CD8FE34457F037693BF2.PNG</Image>
+      <Description>Complete the Gold Cup in Tennis</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Quiver With Joy!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/DE31B981A83D13B2CF7BA6DA9F0F2DF7C7D6335D.PNG</Image>
+      <Description>Complete the Gold Cup in Archery</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>It's All Down Hill!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/672086076B6C1E172463872A67B5AAE0C7166384.PNG</Image>
+      <Description>Complete the Gold Cup in Skiing</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Clubbin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/4C8A8D51E89B4ECB06CEE9936CF41C92043E6634.PNG</Image>
+      <Description>Complete the Gold Cup in Golf</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Sports Champions Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/A72A1593639AB2D046DA5B88FA7764220A7A8754.PNG</Image>
+      <Description>Complete the Gold Cup in all 6 sports</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03087_00</GameId>
+      <Title>Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03087_00_7BCBC631DCEA41A5F489CE501D7128710C656585/B0F830DE6049414FC267D1486AEC84B676821B6A.PNG</Image>
+      <Description>Acquire 250 stars in Cup Play</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

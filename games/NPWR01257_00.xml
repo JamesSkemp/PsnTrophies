@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01257_00</Id>
+    <IdEurope></IdEurope>
+    <Title>DJ Hero 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/A9492A19962E2904F009A0B587A1BF992AE04769.PNG</Image>
+    <TrophiesCount Total="50" Bronze="42" Silver="5" Gold="2" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Platinum DJ Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/615734738AC572F22B97CEB61A5D18BBA87DA0C8.PNG</Image>
+      <Description>Collect all other Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Keep Rising</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/6FB46B2A612A5C4DCFE56B917B47B0C4C93FF453.PNG</Image>
+      <Description>Reach online grade 10.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Quickathlon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/C2C1F2A0F4A520FE3DFA0DC6D819C6A0588D65CB.PNG</Image>
+      <Description>Set up and play a 10 mix setlist in Quickplay, earning at least 4 stars for each mix.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>You Want Some?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/D465D7FCF8362820A244C7528BF5DBD4CDFD60A5.PNG</Image>
+      <Description>Complete 30 Online Battles (in any Online Battle mode).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Battle Star Spectacular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/BEB3045855367092FEA8906416FCAFE5F3B99351.PNG</Image>
+      <Description>Win 50 Online Battles (in any Online Battle mode).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Scratching The Itch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/38EAF92BA325CFB17A3188932EAA23264A14F8BC.PNG</Image>
+      <Description>Successfully perform 25,000 scratches (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Fades Of Fury</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/7FCD4AB53A6484F02ACCB9830E480275EBE6B88A.PNG</Image>
+      <Description>Successfully perform 20,000 crossfades (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Battle Ready</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/CB756BEB00AA855F9993E60E8655896BD5BAD125.PNG</Image>
+      <Description>Play all of the DJ Battle mixes (online or offline).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>1 Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/C064B307FDD624B55CD8F249DD60F8A615312176.PNG</Image>
+      <Description>Beat a friend's score on any of the leaderboards.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Emperor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/A98537DE349F37B97EFACE0E6093B5F3F0BD27F1.PNG</Image>
+      <Description>Win all the DJ Battle setlists in Empire mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Freestyle Superstar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/9C996DB5687466258A66F397F112520FB95D699B.PNG</Image>
+      <Description>Get an A for Freestyling in any mix (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>You're The Best!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/CFF54FF5F64955821999110D2A61D6FBA0B51EB6.PNG</Image>
+      <Description>Earn 5 stars for every mix at Expert difficulty (in Quickplay, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Opening Act</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/1C05FB5434F02D3A4BCF731E21DEF03456475A56.PNG</Image>
+      <Description>Play your opening night in Empire mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Completist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/8AC9BFD6BC3A8764AD25E6F11AAA6ADEA91F2049.PNG</Image>
+      <Description>Earn 5 stars for any mix at all difficulty levels (in Quickplay, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Upgraded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/85218CD82741D0A0B94F09F3ED818CD9DC1336D9.PNG</Image>
+      <Description>Reach online grade 50.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>En Sink?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/9BBC9E388C8FC49D36F7588428CCE55ACF4244AB.PNG</Image>
+      <Description>Calibrate your system for DJ Hero 2.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Magic Number</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/C8FC3D2BBB95F5F76449E46D5D87CEB4D75DD6EF.PNG</Image>
+      <Description>Play a mix in Quickplay with another DJ and a Vocalist (in local play only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Perfect Pitch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/773033EC7D50A27161E6F4FA8C32463D29779851.PNG</Image>
+      <Description>Hit 100% of the vocal notes in a mix (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Mixtape Creation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/FEF1BB277C7262EEC21313E872556D9BD1AA04B7.PNG</Image>
+      <Description>Set up and save 3 setlists in Quickplay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Got ID?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/B9A82DF7E4D9097AA2AC36624D4C34FA9671F0B1.PNG</Image>
+      <Description>Set your own online Tag and Medal.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Master Of The Empire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/E19DE7424B6A60DAA7FF09DECA40537FD3505E92.PNG</Image>
+      <Description>Earn 12 stars in DJ Shadow's setlist in Empire mode on Medium difficulty or above.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Grand Master Of The Empire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/7D7CCC68A42891D5F43483C6D56743784FDF7C76.PNG</Image>
+      <Description>Earn 12 stars in DJ Shadow's setlist in Empire mode on Hard difficulty or above.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Supreme Master Of The Empire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/2DC118FD70BC7AB1EA66B60BFF9D65616D16C621.PNG</Image>
+      <Description>Earn 12 stars in DJ Shadow's setlist in Empire mode on Expert difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Rewind 4 The Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/A4FBCFE5758CBF4081612555FC542109068EC856.PNG</Image>
+      <Description>Perform 4 720° rewinds in a single mix, on any difficulty level without dropping your multiplier (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Go Crazy Broadway Style!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/C2E49D493EC453CEDBC0DCB7667EE9CA4FDEFD3D.PNG</Image>
+      <Description>Perform Vocals in every mix that supports them (in any mode except Party Play).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Professional Face Removal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/BE7ADCD947360D1D5B7D23B93224F49174551CDD.PNG</Image>
+      <Description>Win 5 Star Battles online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Mama Said...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/5B42825B9AABF32BA80C615A87D72205BEE90C0A.PNG</Image>
+      <Description>Win a Checkpoint Battle by knocking out the other player (online only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Bigger They Are...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/4C6CEC83126C04FC37B246A5A6BC0CB6AB09DE07.PNG</Image>
+      <Description>Win 10 Online Battles against players of a higher grade (in any Online Battle mode).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Accumulate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/247D0D7705E189D98DCF38C5CB5F30289D9D8422.PNG</Image>
+      <Description>Play Accumulator and win 10 mixes (or single mix battles) with a streak of over 50 (online only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Like Bacon?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/635F93CDB96C1ACA13B4B03392FDFB2FD03E92B0.PNG</Image>
+      <Description>Play Streak and win 6 mixes (or single mix battles) by 20 streak margin (online only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Chiggedy Check It Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/DDA7EC6BBB026A1A665DBDA24061638BD8509BA3.PNG</Image>
+      <Description>Win 10 Checkpoint mixes (or single mix Battles) by a margin of 3 checkpoints or more (online only).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Big Bad Boss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/8EFB9718505A556961EA52D800843D9C24A2EDAC.PNG</Image>
+      <Description>Beat all the employee DJs in Checkpoint Battles in Empire mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Hero Feed Heroism</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/DF87B3DA6F2404E39F89A0BE6DE61C64B75E9277.PNG</Image>
+      <Description>Play 5 mixes directly from Hero Feed Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Bonus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/05A6A807AAD8FD208E875FFE5F7D7E0A3B3826E5.PNG</Image>
+      <Description>Unlock all the Empire bonus mixes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Higher Education</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/E81A6EC42D8056B7C14BABD74BB6E29691C690E3.PNG</Image>
+      <Description>Complete 6 of the 'New To DJ Hero 2' Tutorial lessons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Me Like You Long Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/A427FCAA63158BB58210909BD3AFB3FA47BE9672.PNG</Image>
+      <Description>Apply 'Like' tags to 10 mixes and play these mixes (in any game mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Thirty Three Without The Third</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/2FA21E96148552F0B2FC34ABE11D6AFBDA12C250.PNG</Image>
+      <Description>Earn 33 stars (in Quickplay, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Rise To The Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/D3FE4E246A238D4691C8920CD8578F9A8677D46F.PNG</Image>
+      <Description>In Empire mode complete 3 Setlist Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Tappity Tap Tap Tappy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/5BB604B4CC8F11BD74F166F4C4F2980639A7072A.PNG</Image>
+      <Description>Successfully perform 50,000 taps (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>To The Left</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/9508D5A70BD60D18B7EFEC4F47D451649EAE54A2.PNG</Image>
+      <Description>Only crossfade to the left in all Freestyle sections in any mix (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Six Spins To Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/DE225210D7AA7BAD7DDD00C49C9E672B0F3EB9AD.PNG</Image>
+      <Description>Activate 6 rewinds in Show Me Love (Stonebridge Radio Edit) / I'm Not Alone mix (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>At Least You Tried...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/77C8649DCC882273117845969BB74C555EB360F5.PNG</Image>
+      <Description>Fail to 5 star Galvanize on Expert difficulty (in Quickplay, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>You're Golden</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/EEA451DE958F33B8E6CDD9A2F6F0CFF09EB5AA64.PNG</Image>
+      <Description>5 star Galvanize on Expert difficulty (in Quickplay, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Hot Swedish Action</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/A08A8BF8A36C8ACD107D75F5FFD8183867F45672.PNG</Image>
+      <Description>In any Battle get an A for Scratching, a B for Taps, a B for Crossfading and an A for Freestyling.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Super Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/60894B370688FFC2C8118CA94DEF8EC182880D1A.PNG</Image>
+      <Description>Get a 400 streak in I Will Be Here / Speed Rail on Expert (in any mode except Party Play).</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Microphonical Magic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/3B843642BED1E42ABAF74831D3B74A025CAEA0D1.PNG</Image>
+      <Description>Get a 200 vocal streak in any vocal mix (in any mode except Party Play).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>World Number One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/F98A1FA1745A39D6BFEA91E925E88D454F7A9BBC.PNG</Image>
+      <Description>Earn at least 3 stars in each of the mixes in the Tiësto Megamix (in Quickplay, Megamixes, Empire or Star Battle).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>The Grandmixer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/E35665D366A5AB57EE8BBCCDA0A34C569CC3E7D0.PNG</Image>
+      <Description>In Empire Mode beat DJ Qbert in each of his Battle Mixes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>I Have The Power Decks!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/93C3BF60D62A0FAB6B0CBAEB3CBEADEC5B8535A6.PNG</Image>
+      <Description>Unlock all the Power Decks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01257_00</GameId>
+      <Title>Credit Is Due</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01257_00_F7D331C4DC549C9147AF17BC1B6EB36F01BA9D7A/2BDF8311DE68CED90059245D7ACDF2FDD3BA91B3.PNG</Image>
+      <Description>View the game credits.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

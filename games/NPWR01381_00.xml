@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01381_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Voodoo Dice [JAP]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/4B35B21EF7FD9DF6A7A8B60B9E9CDB24E1DA61FE.PNG</Image>
+    <TrophiesCount Total="12" Bronze="9" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>グッドスタート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/C7EFBAC2C9FC86E979541CEC37B50A29CE1884DA.PNG</Image>
+      <Description>最初のステージをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ゴールデンナゲット</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/FA890C89F561614514BF3AEA29A1D6CA1ABD4C9E.PNG</Image>
+      <Description>ブードゥータイムをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>クリーパーウエーバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/F47450961A131F6424E8954E5067DC2653298237.PNG</Image>
+      <Description>ワールド1のすべてのステージをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>バオバブクライマー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/1F2DF78CD11B5012AE0BE1F9745C8B113554ACD7.PNG</Image>
+      <Description>ワールド2のすべてのステージをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ココナッツジャグラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/106BE4E6E1B6A922B3328E4884C39EE58684B989.PNG</Image>
+      <Description>ワールド3のすべてのステージをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>テンプルルーター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/583EA5B8874D1BA7079E9E09E287FE5CC452A935.PNG</Image>
+      <Description>ワールド4のすべてのステージをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ジャングルキング</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/D3DF4D38B8AEB6CBBD19B2BF8A4A15CEB83D027C.PNG</Image>
+      <Description>ワールド1のすべてのステージでブードゥータイムをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>デザートプリンス</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/A8622FEACE4FC2708581EAAC3C495C2C0F90092E.PNG</Image>
+      <Description>ワールド2のすべてのステージでブードゥータイムをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>トロピカルチャンプ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/672F0711F12F6C4FE460064BA6742DF47229E21D.PNG</Image>
+      <Description>ワールド3のすべてのステージでブードゥータイムをクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ロードオブダンジョン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/0B1C9BAADD6815F0CCDAEC35BC00A9A4F97F44C9.PNG</Image>
+      <Description>ワールド4のすべてのステージでブードゥータイムをクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ニュースキン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/CF365AC6A8451D26D80CF64C3EDC6298AE2F7847.PNG</Image>
+      <Description>ワールド選択前にスキンを変更する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01381_00</GameId>
+      <Title>ブードゥーソーサラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01381_00_B8D4AB121F50086EB41BB607F3C0320AC96A86AD/7D5CACE721818EB357E2BBA8BF3808373EDF7DFC.PNG</Image>
+      <Description>すべてのワールドのすべてのステージで、ブードゥータイムをクリアする</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03338_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Nikoli's Nurikabe V</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/B06A5B2C2FF25980C9433F247D6FBBEB4CE7DDB0.PNG</Image>
+    <TrophiesCount Total="13" Bronze="11" Silver="1" Gold="1" Platinum="0" />
+    <TotalPoints>285</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>中断50回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/28DFFAC2F24175F01B2B414EFB8DE18D5524F0A6.PNG</Image>
+      <Description>パズルを中断した回数が累計50回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>やめる50回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/F94A293BA7890C0F7702B61A79667EB66671BBB0.PNG</Image>
+      <Description>パズルをやめた回数が累計50回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>消去100回達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/84006060E998E186DF0C71B234064DE50A2D944F.PNG</Image>
+      <Description>消去回数が累計100回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>ガイド閲覧完了！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/C3530E4CB3A6451A1B2B03AAABF5533BC33DEFFB.PNG</Image>
+      <Description>ガイドを閲覧した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>24時間プレイ達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/A8998D22D4BD5B6FD8B8351E3CBBC42B595B2159.PNG</Image>
+      <Description>総プレイ時間が24時間を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>100REDO達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/E5B138CD1DA6047D7FDAB585B5B2D01F7226AAA7.PNG</Image>
+      <Description>REDOを累計100回使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>100UNDO達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/F2A614E33DC680D451C696A30A1D437CB1FE6572.PNG</Image>
+      <Description>UNDOを累計100回使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>10問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/B97F3477028FB5562B056370D6445589C0C748CC.PNG</Image>
+      <Description>「ぬりかべ」を10問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>20問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/C1601329AB615291E97EF4A5A1B9280A480B5AC1.PNG</Image>
+      <Description>「ぬりかべ」を20問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>30問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/0B82A03B2CC6C613FE35B93559EE6E9B0997C838.PNG</Image>
+      <Description>「ぬりかべ」を30問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>40問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/1CA0CB6BF252A9C048E404E4FC8C063107AAD41F.PNG</Image>
+      <Description>「ぬりかべ」を40問クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>全問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/FB372BE88AE5B4D1F9E68B8C4A3CD60B35E2EB18.PNG</Image>
+      <Description>「ぬりかべ」を全問クリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03338_00</GameId>
+      <Title>シャッフル連続15問制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03338_00_4436E3895F16B5154138C4F1B31B53B6BC778FA9/EBACAA32F4E1760F9F0CA1FAACDB7C8E41838AA9.PNG</Image>
+      <Description>シャッフルで連続15問クリアした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

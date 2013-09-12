@@ -1,0 +1,590 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03751_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Earth Defense Force 3 Portable</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/12147B851DF7493B454EBEADD35557FDD1ADB391.PNG</Image>
+    <TrophiesCount Total="64" Bronze="60" Silver="2" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ミッション・コンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/193DECD1F24AF26B5D19D63CFC9517A717853369.PNG</Image>
+      <Description>すべてのトロフィーを獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Easy全ステージクリア（ストーム隊）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/19ED744D22C79F097ED948A1BCABC905FE815DDE.PNG</Image>
+      <Description>ストーム隊で難易度Easyの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Normal全ステージクリア（ストーム隊）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/7638A1F7A985BEB4C2613370109612D03B6AE8A5.PNG</Image>
+      <Description>ストーム隊で難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Hard全ステージクリア（ストーム隊）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/82780E8DA10F2A614F1B40CC38B84DCF30833DAA.PNG</Image>
+      <Description>ストーム隊で難易度Hardの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Hardest全ステージクリア（ストーム隊）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/2C4808998C96C2B14304AD20BD616E22ECF92F2A.PNG</Image>
+      <Description>ストーム隊で難易度Hardestの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Inferno全ステージクリア（ストーム隊）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/DE0A781DAE1B74E531AA9597145EEF97BAC43BF9.PNG</Image>
+      <Description>ストーム隊で難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Easy全ステージクリア（ペイルウイング）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/DB11B0607D580017BAF5CC86F51699A025D1CD3D.PNG</Image>
+      <Description>ペイルウイングで、難易度Easyの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Normal全ステージクリア（ペイルウイング）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/3D7634D9F4A2FC9C874DCE39997DC6A7A52FBD25.PNG</Image>
+      <Description>ペイルウイングで、難易度Normalの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Hard全ステージクリア（ペイルウイング）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/85FA15A000F4991D788C671637BEE670332A2445.PNG</Image>
+      <Description>ペイルウイングで、難易度Hardの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Hardest全ステージクリア（ペイルウイング）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/088AB69523D35FA8B4B2AA77F51A3AE08C26D7B3.PNG</Image>
+      <Description>ペイルウイングで、難易度Hardestの全ステージをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>Inferno全ステージクリア（ペイルウイング）</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/7AD7F622C125E0EAAD1C4054847A9B3543BEDEC8.PNG</Image>
+      <Description>ペイルウイングで、難易度Infernoの全ステージをクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>レスキュー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/6ADDFB3B03666305F378DE88FBB15EE7E4D854BF.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーを５人救助する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スーパーレスキュー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/741BC46ABD99C69106FCE10EECEB59A0F153C0CE.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーを４０人救助する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>アント・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/2906EF717CC764C07AF69C458099567DE3828F2E.PNG</Image>
+      <Description>蟻系巨大生物を１０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スパイダー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/41457805C45392AFD6CEA7B4A635FE5905336871.PNG</Image>
+      <Description>蜘蛛系巨大生物を６００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ガンシップ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/3B83DC099FD766F7AA6DE4ABD562CC3941F29718.PNG</Image>
+      <Description>ガンシップを７００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>キャリア・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/96A73D4A166FD5E2CFF5512BF09E409DD9CDFB04.PNG</Image>
+      <Description>キャリアーを２５機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スモール・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/33020C6EC5BA10BB0B6A895726857D8CA1B236BF.PNG</Image>
+      <Description>小型ヘクトルを５機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ヘクトル・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/76629F0A4651EC42FBF1CF3FD77426ECE4DEDF0A.PNG</Image>
+      <Description>ヘクトルを４０機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ヴァラク・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/09231616215D915C3F9184BF9C47E6662762AFDA.PNG</Image>
+      <Description>ヴァラク、ヴァラクサイボーグ体を合計４体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>フォートレス・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/569726BF3D1B5265655D051682C56144B491962F.PNG</Image>
+      <Description>四足歩行要塞を１機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>クイーン・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/625D526182A37C7810AC7B73EBB14CB5A18B20FE.PNG</Image>
+      <Description>クイーンを５体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>キング・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/FE0D53208A6BB5BF475FC3FE1601C68E36B7C419.PNG</Image>
+      <Description>大蜘蛛を５体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>アタッカー・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/131BF3D147A7F6235A364819B4EAD6815D133581.PNG</Image>
+      <Description>新型攻撃機を６０機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>レッド・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/7D75374D5909280907308F5693F6BCA138E6203F.PNG</Image>
+      <Description>レッドカラーを１０機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>マザーシップ・ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/29930D07471A71EB94284EB8595825A0D8F15214.PNG</Image>
+      <Description>マザーシップを１機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>アント・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/2B5EA19DFB38898AA83B2BBE3A286D183BA54E1F.PNG</Image>
+      <Description>蟻系巨大生物を合計１００００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スパイダー・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/B137D48B97A8CB572A163DE7277B39E2B0F1458D.PNG</Image>
+      <Description>蜘蛛系巨大生物を６０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ガンシップ・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/071360185AF6422673F4CD4D9D528220F9C21138.PNG</Image>
+      <Description>ガンシップを７０００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>キャリア・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/BC28F253C277ED9998AAD197B45EE02025BDEC4A.PNG</Image>
+      <Description>キャリアーを２５０機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スモール・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/3F6E9E0B9211594EA53D0632D7AC55BC6B751AA6.PNG</Image>
+      <Description>小型ヘクトルを５０機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ヘクトル・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/CA27293712EFBEC7425509CFB1AEE029F19F6531.PNG</Image>
+      <Description>ヘクトルを４００機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ヴァラク・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/3F9D90808A3D82B96C639CFE272996241BC67C89.PNG</Image>
+      <Description>ヴァラク、ヴァラクサイボーグ体を合計４０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>フォートレス・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/4A8CE6C39F94BCEDA76BEE7ACF106B50CC49D15C.PNG</Image>
+      <Description>四足歩行要塞を１０機破壊する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>クイーン・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/DEAA58ED58093B8C8740BC2F5FEB09B37EAFC453.PNG</Image>
+      <Description>クイーンを５０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>キング・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/BBA7B38C5CE4536D6D86ABC0239105A1DF406910.PNG</Image>
+      <Description>大蜘蛛を５０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>アタッカー・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/737A62767F9B26CBD16D3F19D0168B7C62BEFAD4.PNG</Image>
+      <Description>新型攻撃機を６００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>レッド・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/079D7A44B052E2FC636B799E702C7AA7CC62B8E1.PNG</Image>
+      <Description>レッドカラーを１００機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>マザーシップ・キラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/0E6BAF1B6A1DD1142CF2F34C140C1DD64386EAEF.PNG</Image>
+      <Description>マザーシップを１０機撃墜する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>武器入手10％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/0B701E1448E7154F0505F37D2E2456C20AFF9689.PNG</Image>
+      <Description>武器の入手率が10％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>武器入手25％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/F0E671EC279A411635D20473B1DDD23C205DF37D.PNG</Image>
+      <Description>武器の入手率が25％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>武器入手50％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/E3FA50A88F2358017C21BE4C82BFF42718B15FBC.PNG</Image>
+      <Description>武器の入手率が50％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>武器入手75％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/F1985C61EBB57D1B5E482612F24501F8B3A13F4E.PNG</Image>
+      <Description>武器の入手率が75％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>武器入手100％</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/69C6F61EF2DEFABB8754AB38081284C40AF72FBE.PNG</Image>
+      <Description>武器の入手率が100％</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>シールド兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/12F39030FDC44CF136A5232BA477A4455BCD2DEE.PNG</Image>
+      <Description>ミニッツシールドで１０人の他プレイヤーを強化</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>シールドマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/051C8BD6CB1FAEE56CF899C3F7B9A5D41EFD8D5B.PNG</Image>
+      <Description>ミニッツシールドで１００人の他プレイヤーを強化</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ストームソルジャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/65F69DCA8149251FCB2AFE2FAD6FC5223D4FB870.PNG</Image>
+      <Description>ストーム隊の体力が２０００</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ストームマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/75084A0DD120D03B258877BE5B5C790AB396B553.PNG</Image>
+      <Description>ストーム隊の体力が４０００</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ウイングソルジャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/DBFAB124EBFDA4261657EEB0914ED9E56C8A21E4.PNG</Image>
+      <Description>ペイルウイングの体力が１０００</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ウイングマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/0656E98EE85032253C68945C55DD1B9FE5DC66D7.PNG</Image>
+      <Description>ペイルウイングの体力が２０００</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>リーダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/396EC195C2C95B6882FA3869CB8104D61D520F15.PNG</Image>
+      <Description>累計１０名の仲間を指揮下に置く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>スーパーリーダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/D78693B01D43DA43C0F484BDDB8D31850CD60216.PNG</Image>
+      <Description>累計６０名の仲間を指揮下に置く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>タンク乗り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/576AD31051B4E2A6382F1A6BE8A4B6023D7199F3.PNG</Image>
+      <Description>戦車で敵を２００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>タンクマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/4BFDA1E038F43C8E26E5719B7D6B61E98AEC64D0.PNG</Image>
+      <Description>戦車で敵を２０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>パイロット</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/BD6FB0F4A50D005EB2C4F3758656FA4BD325B475.PNG</Image>
+      <Description>ヘリで敵を１００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ヘリマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/78F6F5D647644F907395826EC03CAF62ACF56F5C.PNG</Image>
+      <Description>ヘリで敵を１０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>バイク乗り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/8645403F50CB19177EDFB260B0C4CDC0527EE063.PNG</Image>
+      <Description>バイクで敵を５０体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>バイクマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/4841017599C7A8F59E5D6D906DC24EAA35D14A26.PNG</Image>
+      <Description>バイクで敵を５００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ベガルタ乗り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/72DC058DE28E3145CAE1B11D70200BB3FFD9F463.PNG</Image>
+      <Description>ベガルタで敵を２００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>ベガルタマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/7D16875C48495696471BFE8F2521B96E1E46E0E3.PNG</Image>
+      <Description>ベガルタで敵を２０００体倒す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>衛生兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/02037BDCCB03AB0FA8A306F861AD85D10BB67F75.PNG</Image>
+      <Description>協力プレイ時に、他プレイヤーをリバーサー系武器で回復する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>通信兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/F84B455988F7E642151E5D555EEE5DB5256FA9B8.PNG</Image>
+      <Description>協力プレイ時、ミッション中、他プレイヤーに１０回チャットを送る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>情報分析兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/6F42DE952DC824A472C4C7005B716154A8D66A15.PNG</Image>
+      <Description>協力プレイ時、ルーム画面で他プレイヤーに１０回チャットを送る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR03751_00</GameId>
+      <Title>トレジャーハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03751_00_285A77E157500F9538E695FA31EF4E8D1A2C2ED9/2A5859DEED3A317C7AA5ED6527335C658A97C544.PNG</Image>
+      <Description>１ミッション中に、武器アイテムを１５個獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

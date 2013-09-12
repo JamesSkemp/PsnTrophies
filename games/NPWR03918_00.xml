@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03918_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Jak and Daxter: The Precursor Legacy</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/65C824B1B579584372D9BAEFE1A9D7BEBA3A6060.PNG</Image>
+    <TrophiesCount Total="39" Bronze="22" Silver="12" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Top of the Heap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/1EC3727C9001CBD6A4AB453EBCFA97C8F74A0179.PNG</Image>
+      <Description>You have mastered the game and collected all there is to collect!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Open Sez Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/68C28CC6AC101DBE4B728EF3C76FB3F71A95604E.PNG</Image>
+      <Description>Open the Precursor Door</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Yee Haw!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/A4C011F0EF99F9B100D7C3946A774DEB217AF2BA.PNG</Image>
+      <Description>Herd the Yakows in to their Pen</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Black Thumb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/8C232779BBE71ACA15A541B57F9CAD6A63AB6547.PNG</Image>
+      <Description>Defeat the Dark Eco Plant</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Shiny Happy Steeples</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/646E12832DE85A428646A886A7759632960D9B98.PNG</Image>
+      <Description>Connect the Eco Beams</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Hand Over Fish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/6DA41E2E677FF8E734C1DF3CB97B7684E462AE91.PNG</Image>
+      <Description>Catch 200 Pounds of Fish using the touchscreen</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Gimmee That!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/53D05640FBBD59C95DE9A82B43755E9636766F0A.PNG</Image>
+      <Description>Get the Power Cell from the Pelican</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Eggs Over Hard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/4268913427CA7E7CD61C6D172C693834D5E99070.PNG</Image>
+      <Description>Push the Flut Flut Egg Off the Cliff</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Pop Goes the Lurker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/B358133C8C051FB7CE944491D0D072FD8CA88198.PNG</Image>
+      <Description>Destroy the Balloon Lurkers</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Tonight's Featured Event</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/664FDF7C7D20E19D466E350A2735CF49BCD7BB53.PNG</Image>
+      <Description>Defeat Lurker Ambush in Arena</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Zoom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/44FB4F2477A5ECF5A90C5FCEE3013896926E9B17.PNG</Image>
+      <Description>Reach the End of Fire Canyon</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Catch as Catch Can</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/CF1A471A32D8A83C990530DCB359ED1760885903.PNG</Image>
+      <Description>Catch the Flying Lurkers</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Green Thumb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/7858A674450C4DC1326D694677551D5E06DDAB88.PNG</Image>
+      <Description>Cure Dark Eco Infected Plants</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Purple Pain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/34EC2899EA888237B4E5628300D5A17A6220992E.PNG</Image>
+      <Description>Navigate the Purple Precursor Rings</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>I Got The Blues</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/F7936B79017844B3E824C6BE204EAF18DB1D6738.PNG</Image>
+      <Description>Navigate the Blue Precursor Rings</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Speedy Fast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/E4CB3054143CF93BCBFD46FF8BF57EA2B01AAB95.PNG</Image>
+      <Description>Beat the Record Time on the Gorge</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Twist and Shout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/CA02B0247B0F6F7E548AE86CE36F6ABB8BBFF70B.PNG</Image>
+      <Description>Defeat the Lurker Ambush</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Hungry?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/0EF42AE5338E447C594FF20D031089C9A43C0045.PNG</Image>
+      <Description>Protect Farthy's Snacks using the touchscreen</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>The Lead Zeppelin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/B7F34AC33A165BB496AC520E05A5862BAC2E54AC.PNG</Image>
+      <Description>Break all Four Tethers to the Zeppelin</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Zoom Zoom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/938FC0CBA12F27C9BEFAE1C68D175C5644ACC937.PNG</Image>
+      <Description>Reach the End of the Mountain Pass</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>De-Klawwed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/A48F771C4AE643A20525B36FEAC09E57CD5BAE6D.PNG</Image>
+      <Description>Defeat Klaww</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Kerblamm!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/4C1439EC6A25EDD7B56AFE151DF7D928A6137D01.PNG</Image>
+      <Description>Destroy the Dark Eco Crystals</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>It's Dark in Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/61FE2861F12A97BA0E385FBD19BBC8734325F4FD.PNG</Image>
+      <Description>Survive the Lurker Infested Cave</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>It's Cold Out Here</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/1D5BAA3580E5D17B22D5439FB6E516ABF4A53CAA.PNG</Image>
+      <Description>Stop the 3 Lurker Glacier Troops</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Zoom, Zoom, Zoom!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/EA085DDE58CDE8BEA049315449104DB22EF524FF.PNG</Image>
+      <Description>Reach the End of the Lava Tube</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Set Me Free!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/3ACAC7A49B9D8FAFCA80E276D3E648EF95D3CAFA.PNG</Image>
+      <Description>Free the Red Sage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>No, Set Me Free!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/A52BDC400BD160EF1A500BCB6F1D35D0DE22793D.PNG</Image>
+      <Description>Free the Blue Sage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Hey, Set Me Free!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/8D500BF5EB1AF8A3952CB07F468BC8E6625C5BDA.PNG</Image>
+      <Description>Free the Yellow Sage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Set Me Free Already!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/E2C8E4FCDBE97FE68C29DF46A8D694B2340150E3.PNG</Image>
+      <Description>Free the Green Sage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Battle Hardened</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/3683C82E8B349E0F97B77524E51F4F190DAE88EA.PNG</Image>
+      <Description>The Final Battle Against Gol and Maia</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Power Lunch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/1BD21891C4DFA960E6504C0AE3F41D90571608AC.PNG</Image>
+      <Description>Collect 25 Power Cells</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Power Chords</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/5295666632776A128E91DDEB738FB75DB7B9F544.PNG</Image>
+      <Description>Collect 50 Power Cells</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Maximum Power!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/9DE32E91D12E0D83D22EB78F37AADF1108086FAB.PNG</Image>
+      <Description>Collect 101 Power Cells</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Buzzin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/FD4F66A1FC55F886032266952FB5AB925E29FF0E.PNG</Image>
+      <Description>Collect 28 Scout Flies</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Buzzed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/9E7E34684A9BE62BC3BCD0064A6C9E6DDB433E3C.PNG</Image>
+      <Description>Collect 49 Scout Flies</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>Totally Buzzed Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/7DA34852121F490A2B792F19B142B94C7F0E38D6.PNG</Image>
+      <Description>Collect 112 Scout Flies</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>The Orbist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/202860ED14806AF129167534EA0DBAD1CAB68FAE.PNG</Image>
+      <Description>Collect 100 Precursor Orbs</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>The Orberator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/036EFA72AD5C297B0282655185236458FA215DE6.PNG</Image>
+      <Description>Collect 1000 Precursor Orbs</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03918_00</GameId>
+      <Title>The Super Orberator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03918_00_00A1BE3DE8CCC7C81A750C970F1D0929F3B63C07A3/D999D3A705E5A402D0C0D31B4103831E33CE5C45.PNG</Image>
+      <Description>Collect 2000 Precursor Orbs</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

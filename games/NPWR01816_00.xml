@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01816_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Deadliest Warrior: Legends</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/6E0D63314122B0DE793BE8C92BF2A44B55B84E61.PNG</Image>
+    <TrophiesCount Total="11" Bronze="6" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Slash Mode</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/22AA353952FDC8AF06F286716FA1E2F3657931B6.PNG</Image>
+      <Description>Kill 50 enemies in a row in Survival Slice Challenge as the primary player.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Legendary Arsenal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/E97276171AB8B797DE6E7FC2304D579C3AFF326B.PNG</Image>
+      <Description>Unlock all weapon and armor for each of the Legendary Warriors.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Legendary General</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/0EF4452918B54A78324621DCC851834374034773.PNG</Image>
+      <Description>Activate all three General Abilities during a single game of Generals.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Legendary Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/F1C40442B7C8A9360897685A88BEA8EC9D7DD68C.PNG</Image>
+      <Description>Win 10 online ranked duels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>These Dice are Loaded!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/568FB244CC2DECB22CDD0B8C4D0005C66099BA12.PNG</Image>
+      <Description>Lose three consecutive battles at even odds or better during a game of Generals.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Six Degrees of Separation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/172AD3A2F2211F588387ED60361FD54DF98B97D0.PNG</Image>
+      <Description>Severed every limb from your opponent during a slice mode duel without using a final strike.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Dead and Broken</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/D52CA69575B5596E20F291E0744E2AF7B5948485.PNG</Image>
+      <Description>Break your opponent's arm and leg by grappling before final striking them in a ranked duel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>If anyone Khan, Genghis Khan!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/EFC5352799E79D429FA3A9468E9AB5ED79D5C03F.PNG</Image>
+      <Description>Beat arcade mode with Genghis Khan using only the dead fish on Deadliest Difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Denied!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/8D53F6C02AEEA57FC479020350685FA52FDA2A7D.PNG</Image>
+      <Description>Parry your opponent three times in a row without being hit in a single ranked duel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>Marksman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/F166531490372520510CBAD07547666BCF870A67.PNG</Image>
+      <Description>Get three consecutive headshots using any long range weapon in a single ranked duel.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01816_00</GameId>
+      <Title>When Push Comes to Shove</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01816_00_376DAC5BAA83F26B0225A03B17DE4975458BFA2A/1F87130F213C45D7601DA47BF4BB69E74C60BFD6.PNG</Image>
+      <Description>After being pushed knock an opponent out of the ring as the primary player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

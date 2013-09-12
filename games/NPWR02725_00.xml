@@ -1,0 +1,518 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02725_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dungeon Hunter: Alliance</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/CE5CFC62E77B90F5AF310B0F8BEB9CF047902957.PNG</Image>
+    <TrophiesCount Total="56" Bronze="48" Silver="5" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Champion of Gothicus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/BDA09C0B6A2721BD7EE54556FE0E9B5F5AC9CA58.PNG</Image>
+      <Description>Earn all trophies in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dungeon Trainee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/A8EA261F998CD44E0FF1BBFAD78CBA1EBEB91E4B.PNG</Image>
+      <Description>Reach level 2 with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dungeon Raider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/F078E3D925A1B61B543B20FCF846EA409F0EAB0C.PNG</Image>
+      <Description>Reach level 10 with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dungeon Seeker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/193CFA7013DAE473E8967ECD59C9058624205928.PNG</Image>
+      <Description>Reach level 25 with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dungeon Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/17FB89C1AAEF2E7DA168E22E08F4D0DBBF4C0E87.PNG</Image>
+      <Description>Reach level 50 with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dungeon Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/BE7F30F71363D9249BA2672C4518EF6E6A7F19F5.PNG</Image>
+      <Description>Reach level 75 with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Boss Goblin Go Boom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/4C4B9F9BA490B9F1BB74BF11CCBBFA47DA0F9C9D.PNG</Image>
+      <Description>Defeat the Goblin King in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>United We Stand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/CCAE0479A2CFEE21341A6F1804511F843877F654.PNG</Image>
+      <Description>Complete the game in a 4-player multiplayer game on any difficulty level.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Bottoms Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/1F28C1A2C19F978AB1D1C61EAE10F8EE740CE074.PNG</Image>
+      <Description>Drink 200 potions with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Bloodlust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/DEC3AFDC196586E6CDB4B132F28744B7BC88E0BF.PNG</Image>
+      <Description>Defeat 10,000 monsters with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Hero Of The People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/8BF790E06F31B6B6DB71F5AB2465B03B7A95F811.PNG</Image>
+      <Description>Complete all quests in Hero difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Pure Skill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/DC8EF5A47D4EB67E5430BC9FF8336F5F9DF89229.PNG</Image>
+      <Description>Defeat a boss using only skills, no basic attacks.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Executioner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/681DA1F984B4398FFC281F328D7087745CD1D403.PNG</Image>
+      <Description>Defeat a monster with a single blow.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>The Legend Can Be Told</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/388CA7A64132DB316C2EFC43A3A6C6E7CFF15ADE.PNG</Image>
+      <Description>Complete the game on Legend difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Strength And Honor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/7181E04604B77C63A52CEBDC346C690989263793.PNG</Image>
+      <Description>Complete the game as a warrior.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Courage And Grace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/6C91C508DB7AFA82137EDFCFE0890AF185E847A4.PNG</Image>
+      <Description>Complete the game as a rogue.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Power And Wisdom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/C97350A2CFF9804A3BC43B1BB8F8D1A21FDF2938.PNG</Image>
+      <Description>Complete the game as a mage.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Long Live The King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/EA0CB3A67ADF4F41089ADE64A2D93AB2D497B61D.PNG</Image>
+      <Description>Complete the game with all 3 character classes.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Big Spender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/81F59DF09D4406507D5AE6469E2DA38FDDFF4079.PNG</Image>
+      <Description>Purchase at least one item from every merchant.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Shake It!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/5CB8D4FDEFF71A707268779C31A56481F4B60AE5.PNG</Image>
+      <Description>Recover from Stun, Fear, or Confuse 25 times by shaking the PS Vita system.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Looking For Loot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/40CDDD453C9D219349DAD24171D3092DFEC3F3D0.PNG</Image>
+      <Description>Open 30 treasure chests with one character.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Chatterbox</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/7CBC40F2FA8B41D082674E462AF7DBDFAD1BEF1A.PNG</Image>
+      <Description>Initiate a conversation with every character in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Guardian Angel</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/FAF48BCE04DA4529175ECCCED71B565D1456455C.PNG</Image>
+      <Description>Resurrect 20 teammates in a multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Blademaster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/C1EC23FF6501E736EA047034053EA3499F544F75.PNG</Image>
+      <Description>Defeat 300 monsters using only swords (1H or 2H).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Little Women</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/B1E2AC326DBC1F17A7687BCD9029E13035599C7C.PNG</Image>
+      <Description>Control the fairies to damage 200 enemies.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Crystal Scavenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/004DE5493C9777A459CAFC4417DE9E03B79A17B4.PNG</Image>
+      <Description>Use the fairies to uncover 10 crystals buried underground.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Good Night, Sweet Prince</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/7FB6121437721F40FD66756C6E6F15E482F6285E.PNG</Image>
+      <Description>Defeat the Bandit Prince in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Along Came a Spider...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/AB3EB54798F9A5203380ABB23705DE1AC4F034E4.PNG</Image>
+      <Description>Defeat Seba the Man-Eater in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Broken Wings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/958DAD2781245A18C5A7EFEA0B437A76F1CF64CB.PNG</Image>
+      <Description>Defeat the Cloud Beast in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>He Slimed Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/88496FCEA03A2F35363ACCC93B43655F956F0BD8.PNG</Image>
+      <Description>Defeat the Depth Beast in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Rise from Your Grave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/6AAE3A1C71C71C8F1F096B1F6DF5810F7ACF8C76.PNG</Image>
+      <Description>Defeat Reldin in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dead Dog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/D477F0F6648BFF5FAFB2156760BAEB8329B0126A.PNG</Image>
+      <Description>Defeat the Big Bad Wolf in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Ashes To Ashes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/3BBA5ACD7C3B943AC64B9D0E5824EA79836F38AC.PNG</Image>
+      <Description>Defeat the Warlord in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dust To Dust</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/D7A6ADE85FA86A33293F3F1D4BF1073F528C9EC8.PNG</Image>
+      <Description>Defeat the Stone Devil in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Rest In Peace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/51B7BE945AC263EA58ADAAE3E384E7E2DBC34D21.PNG</Image>
+      <Description>Defeat Lord Plenko in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Playing with Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/37D1CB386654742B1945136770C2DEEAE05279C7.PNG</Image>
+      <Description>Defeat the Forge Monster in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>To Catch a Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/F5A0C1F16A362F80C5C8C61008E2CC212B2D8FBD.PNG</Image>
+      <Description>Defeat the Darklin Assassin in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Failure Is Not an Option</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/EA10C13646E5EA20F8B75F9455E3C5A318B8E990.PNG</Image>
+      <Description>Defeat the Corrupted Captain in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Avenge the Fallen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/7E5BB335A6413B4BAF639AC1466CC1867E4AD27D.PNG</Image>
+      <Description>Defeat Jeremo in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Eternal Punishment</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/8437875FF7ADA70733A2BA778725601C74FFBCE8.PNG</Image>
+      <Description>Defeat Gilgrath Zire in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Shalandriel's Chosen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/D17FED5129B698326A2DE0BD4DDEF913D043E4AE.PNG</Image>
+      <Description>Defeat Shalandriel the Eternal Keeper in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Battle of the Elements</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/4541D998C8F2B9120CB0203578F139B4DB0F548F.PNG</Image>
+      <Description>Defeat all five Generals in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>The Darkness Defeated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/B68BA7F692CDE6B9A41C46DFC722A8EF37768633.PNG</Image>
+      <Description>Defeat the Dark Queen in a single or multiplayer game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Killer Instinct</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/4C66A5D9EA8081254E9A357D1F36DF7D2B0017EA.PNG</Image>
+      <Description>Defeat the Dark Fairy in a single or multiplayer game without taking damage.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Grand Magus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/09FA1E1342D5383D45EFEEF4BD7473183517E7FF.PNG</Image>
+      <Description>Defeat 500 monsters using Fairy Spells.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Berserker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/96F847453CAA6B1ED75620CCE6B33C3A65B4FC12.PNG</Image>
+      <Description>Defeat 300 monsters using only axes (1H or 2H).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/8DB87488489B5C37FEE8E6475DC029D0996DE088.PNG</Image>
+      <Description>Defeat 300 monsters using only daggers.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/8DE7D14534B90F1E6ED6A7103AB80D1B5952A50A.PNG</Image>
+      <Description>Defeat 300 monsters using only bows.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Warlock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/813BCF6B468A08E9FEF1D5716B642D3E82158E70.PNG</Image>
+      <Description>Defeat 300 monsters using only staffs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/7C19AA066734D21330655F7D0C34EFB207950223.PNG</Image>
+      <Description>Defeat 300 monsters using only maces.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Sorcerer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/71823A5E479C8151358847FAD9E71AFFD9365F86.PNG</Image>
+      <Description>Defeat 300 monsters using only orbs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Dragon Lancer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/88FC31B61110C3BA8D721FDA12A440DD2CA86F75.PNG</Image>
+      <Description>Defeat 300 monsters using only polearms.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Eagle Eye</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/57BEAC1213E65C821D625CAAE92CA6E78F5D04A5.PNG</Image>
+      <Description>Defeat 300 monsters using only crossbows.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Panzer Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/1B1B6F355A2EE64CE4FC3BE0C3F13E407E57BEAF.PNG</Image>
+      <Description>Defeat 2,000 monsters using only 2H weapons.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Night Stalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/2A2ABF82939C798475F8B18064110BB81BAE13D9.PNG</Image>
+      <Description>Defeat 300 monsters by wielding two daggers at the same time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR02725_00</GameId>
+      <Title>Warmancer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02725_00_0615B99573F17E40A3C035E7E5C8F1F7EA095B65/5FC3851EFF4707B5617D96BDBFEF55415CE7397D.PNG</Image>
+      <Description>Use every skill in the game once.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01178_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Rapala Pro Bass Fishing</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/5467DFE84E57AAFA3340AB37A90C6F39AD227EC1.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Expert Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/3D84F0E3A4500343148468E3AA7525698F365391.PNG</Image>
+      <Description>Unlock all Trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Rookie Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/80D69A99334532DA829BDD8829FA87FED7FA82EB.PNG</Image>
+      <Description>Enter a Tournament mode event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>First Catch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/68EE032B9DFB463639C9DFE9D5C5FBFD061BF242.PNG</Image>
+      <Description>Catch 1 fish of any species.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Something's Fishy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/0587C9DCF9F0B22CC497CF7002A52ADAD55C2E88.PNG</Image>
+      <Description>Find and cast into a fishing spot on any lake.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Lightning Catch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/DACC5D1E9B43549665B811451223D032443803B7.PNG</Image>
+      <Description>Be the first competitor to catch a fish in a Tournament mode event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>First Steps</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/011B834D756CA610B42037A652E94B191C9EDECF.PNG</Image>
+      <Description>Finish a Tournament mode event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Perfect Form</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/05F29675E8D40DD7EE0151177849F15CC1E034C9.PNG</Image>
+      <Description>Perform a perfect cast.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Perfect Hook</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/95EFF33F0B52537ED0A0AC95A073C53BB346A1BF.PNG</Image>
+      <Description>Get a fish on your line with a perfect hook.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Flying Fish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/1ECCBC02EBDF006FEED3FADD1F77E227B5C4A7D4.PNG</Image>
+      <Description>Catch a fish of any species by flipping it into your boat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Confident?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/67EA705313950BDD492ECE0CCE1332D754C5FAB7.PNG</Image>
+      <Description>Weigh in early during a Tournament mode event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/43133C9F35F96767A234490946A3704541D54BFE.PNG</Image>
+      <Description>Complete any Challenge in Free Fishing mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>The One That Got Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/BC44D7EEE487FFD77AA4091AD64A7DA49A8329CF.PNG</Image>
+      <Description>Lose a fish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Isn't She Cute!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/EA667E83D43C0455CA2D17554D3EEEAD19C777B7.PNG</Image>
+      <Description>Raise a lure's attractiveness to its maximum level during a retrieve.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Original Feeling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/8022B394633E8FE93860C52F9B5674AC550E72A4.PNG</Image>
+      <Description>Catch a fish with the Rapala® Original Floater® lure.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>So Close, Yet So Far</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/C9D01CE45E0F6E2F735EBC83ECC65EC466315E47.PNG</Image>
+      <Description>Finish a Tournament mode event in 2nd or 3rd place.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Is That Who I Think It is?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/0F2684ACF26E62B40DE10035451B05ADE084672C.PNG</Image>
+      <Description>In Tournament Mode, begin fishing alongside each competitor on the lake while they are fishing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Multitasking</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/751704DF6BCBD385877A201863F0D3F04F1914D0.PNG</Image>
+      <Description>Finish a Secondary Objective in a Tournament mode event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>The Big One</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/11A52F07E412FD92797E3836E03715C022621860.PNG</Image>
+      <Description>Catch a record fish of any species.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>The 10th Grade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/25F2B86A1540B5D65D6D6EA3905B1B004BC55BCB.PNG</Image>
+      <Description>Catch a total of 10 fish.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Victory!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/36A05B0D38504B1CA434344B792E6ED8D9408923.PNG</Image>
+      <Description>Finish in 1st place in any event in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Journeyman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/CA78C0AA9F0A346DC5B8E0A98FE5CCD4ECE57B8C.PNG</Image>
+      <Description>Drive for more than 5 minutes in a Tournament mode event and finish in the top 5.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Intermediate Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/282443934763568953F64657333FCDCF5A51682D.PNG</Image>
+      <Description>Complete a tier in the Rookie Season of Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Driven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/140FFD52D7E6870A0ED75EA510DFD4A77232CB63.PNG</Image>
+      <Description>Complete all events in the first tier of any season in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Advanced Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/1B22F77C626D567596995D30D2C8A533D0606766.PNG</Image>
+      <Description>Complete the Rookie Season in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Friendly Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/7DFB17D74B0838B878E745AB48EA5495D6D9EF49.PNG</Image>
+      <Description>Finish the Rookie Season in Tournament mode with less than 3 penalty points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Fish Lover</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/DF18270387A917A6070D2F5918CAF60931B493F5.PNG</Image>
+      <Description>Catch 5 fish of different species during any Tournament mode event or in Free Fishing mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>I Do Attract!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/13B9CAE85F187EF4470346A967F917FC8C2728AE.PNG</Image>
+      <Description>Keep a lure's attractiveness level at 90% or higher for more than 30 seconds.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Flap Jack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/FF8CC07B5B444E0522A9B66930A331D62D74DAF2.PNG</Image>
+      <Description>Perform the Flip In Boat maneuver 20 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>It's a Monster!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/5D0F60BA469411B74E0A257338C1643BE96BDA4F.PNG</Image>
+      <Description>Catch a Monster Fish of any species.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>False Hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/4AD6DAA238A2ED9727FE9F4CFEFFC7156139F35F.PNG</Image>
+      <Description>Catch 5 fish during any tournament event Weigh In interval of time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Quick Catch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/F7D109DD732F578D4CF2EA2A2B931296C2D77067.PNG</Image>
+      <Description>Catch a fish of any species in under 1 minute from the start of any event in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Cast Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/6CE73B1389535BB70D95578E2D846DAA150658EC.PNG</Image>
+      <Description>Cast 500 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Location Scout</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/FB5EFF9236CD22F0C7E19096A98371F72E9CB867.PNG</Image>
+      <Description>Find and cast into 5 different fishing spots in any event in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Top Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/15EF2F5A226EB159BDAA8D19F0DA82FD4E1264A8.PNG</Image>
+      <Description>Complete all the Challenges on any lake in Free Fishing mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Need a Bigger Boat?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/5F070844E168D4FB5A113EDA83E3E066488945C4.PNG</Image>
+      <Description>Catch 30 fish during any event in Tournament mode or during a single session in Free Fishing mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>The Captain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/DAF0FF32AE28E57BAB6C0A7A735C017680C7E0FA.PNG</Image>
+      <Description>Accumulate 1 hour of boat driving in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Too Perfect!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/BD53C036F121C40D1CB3C0C0BCE8DFC86659D4E3.PNG</Image>
+      <Description>Accumulate 30 perfect casts in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Hooking Perfection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/DD8EFDF052EBC076F83A2B5EA301FD59D856C6AA.PNG</Image>
+      <Description>Accumulate 30 perfect hooks in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Veteran Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/EBF70DB478A9F700A434FC249C5DF9B8AD91FBAA.PNG</Image>
+      <Description>Complete the Pro Season in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Good Sportsmanship</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/D59704E156BCE1FEE43A61200A98A3DF13DAB506.PNG</Image>
+      <Description>Complete all seasons in Tournament mode with 0 penalty points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Show Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/49CF63C7C8684D5A054B1B7497C92BC827DA6A12.PNG</Image>
+      <Description>Win any event in Tournament mode without casting into a fishing spot.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Bookworm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/2ACF07BC826470077511145F581A9358B94714A4.PNG</Image>
+      <Description>Enter into all categories in the Fish-O-Pedia.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Elite Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/F61384BD11559956791F2FCC7BEACCA4AB250655.PNG</Image>
+      <Description>Complete the Legendary Season in Tournament mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>True Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/CBDF97AD0C781BE0272EB7A09C43A4744CC82FE3.PNG</Image>
+      <Description>Catch all 30 Monster Fish.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Seeing Spots</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/D7591A8E56D6EFB83A74997681E41F3751AD3A26.PNG</Image>
+      <Description>Find and cast into at least 60% of all fishing spots across all the lakes in any game mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Pro Bass Angler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/1D905261AC0BA751CFF1884C7AC17A4C7E09E878.PNG</Image>
+      <Description>Catch at least 50 fish of any of the Bass species in any game mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Fashionista</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/BD67228A0A0F756173074A54369327B3EC6F2FB7.PNG</Image>
+      <Description>Unlock every single clothing item for your male or female angler.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Weather-Proof</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/B43028270078C8A11C5E4A57A2A9A2EADBE553A6.PNG</Image>
+      <Description>Catch a fish in every one of these conditions: morning, noon, evening and sunny, overcast, rainy.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Lure Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/D00801EE80155F7FEADE82C7738CA72B03B3B779.PNG</Image>
+      <Description>Catch at least one fish, any fish, with every lure.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Like a Sturgeon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/2286E7F8B255729035AC8913CDB60EE396C338E2.PNG</Image>
+      <Description>Finish the Sturgeon Legends event in top 5 using only the 10 lbs. (4.5 Kg) fishing line.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01178_00</GameId>
+      <Title>Master Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01178_00_8738047E5C77CD38F80595788C62DAB74ED4D051/5C1DE9E759A22AA71918B7F4E5E877D9BA93D38A.PNG</Image>
+      <Description>Complete all Challenges on all lakes in single player Free Fishing mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

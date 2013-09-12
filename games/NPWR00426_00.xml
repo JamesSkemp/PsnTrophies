@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00426_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sonic  Sega All-stars Racing</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/F0B26751E239DDE386DC0CAEEF164D39BAB4A324.PNG</Image>
+    <TrophiesCount Total="50" Bronze="35" Silver="13" Gold="1" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Ultimate Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/0FAF4AE072D2021EB34EC84FE7DB13820B051DA0.PNG</Image>
+      <Description>All Trophies Unlocked</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>True Blue</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/AE2A66FE2D1D7B479DAF9E6ED13B7E503323CC7E.PNG</Image>
+      <Description>Earn your BLUE SEGA License.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Amber De Amigo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/8D429A35FA7BE4525099829E75325548E07DE9CD.PNG</Image>
+      <Description>Earn your AMBER SEGA License.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Red Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/CDAED3F8CB1814B97C2763E6C4BE282A52B5430E.PNG</Image>
+      <Description>Earn your RED SEGA License.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Virtual Bronze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/BFD20FE03F46ECE0CE1881EAF0871BB4C0A2C6EC.PNG</Image>
+      <Description>Earn your BRONZE SEGA License.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Captain Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/34182CD780F80BDD94B877DBAB76C4A46DBF71A5.PNG</Image>
+      <Description>Earn your SILVER SEGA License.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Golden Acts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/3C3B35CAAF9E2361CAD282AEB7A8A5EBD34AF929.PNG</Image>
+      <Description>Earn your GOLD SEGA License.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Now There Are No Limits!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/A1B7F556772F9080B665D1008E7D19D26D9273D4.PNG</Image>
+      <Description>Win your first Grand Prix Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Welcome to the Next Level!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/AF15486EF3058350D4D86F0EDB08A1FBB1F0D0A5.PNG</Image>
+      <Description>Win every race within a Grand Prix Cup.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>To be this good takes AGES!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/9C75373EC00B47FA64951456089C2513066CBEC8.PNG</Image>
+      <Description>Win every Grand Prix Cup.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Fighters Megamix</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/F6340DA29903E2C96BA876EA0B094954943E3734.PNG</Image>
+      <Description>Take out an opponent with each character's All-Star Move.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Time Stalker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/CD83CAB5A0F41929D13EDB30E1292514BFBE0EC2.PNG</Image>
+      <Description>Set a Personal Best Time on any Time Trial course.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Clock Work</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/C18E5E536C20A36EDC84AC48E5E60E3E32D794E0.PNG</Image>
+      <Description>Set a Personal Best Time on every Time Trial course.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Shadow Dancing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/DBA4E2301C5BD138C645FB47163FC2CD3967CC4E.PNG</Image>
+      <Description>Defeat a Staff Ghost on any Time Trial course.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Ghost Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/AEEF575D3D816D13B8319039D2C48D2F73FBB34B.PNG</Image>
+      <Description>Defeat a Staff Ghost on every Time Trial course.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Mega Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/A52D3B4A7C208183C51F79EE016E20AD25A38BEA.PNG</Image>
+      <Description>Score AAA on any mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Crazy Box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/B4CCA7F6FD3552AE0C45344DC8F472F17E28D1CF.PNG</Image>
+      <Description>Pass every mission.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Magical Sound Shower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/197BD2696C5ADBAC600FE9C1FD18118F42B5ED9D.PNG</Image>
+      <Description>Race to every piece of music.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Top of the Class</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/21AA67DCD07B5CDD3B446558A90C91B2E2156F50.PNG</Image>
+      <Description>Score AAA on every mission.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Dreamarena</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/F657BCE9C018123CA52B286F4E7B94E011BD7542.PNG</Image>
+      <Description>Play with a Friend online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Racing Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/647892D4DD4561E299AF1F708FAA5E986D5AC720.PNG</Image>
+      <Description>Win any race online.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Outrunner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/C38709045C2142180F2805694B3EC01792DA081C.PNG</Image>
+      <Description>Lap a trailing player in a race online.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Death Adder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/034708280A86B69B25EE64582D70932B580798B0.PNG</Image>
+      <Description>Take out opponents with items one hundred times online.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Lucky Dime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/8831F8DF77607BFF218CD1DE3E1FE770B28E9476.PNG</Image>
+      <Description>Purchase any item from the Shopping Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>High Roller</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/EF11A7EDE03498759D35C0243DBE75A46F3D41B6.PNG</Image>
+      <Description>Purchase every item from the Shopping Menu.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Classic Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/6F1C78AB8012BECED9E3155BDAAF745EDCD02580.PNG</Image>
+      <Description>Win a race as each racer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>SEGA World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/B50ECE2581D88B1F015C4E1BE82BC929F77AE0FE.PNG</Image>
+      <Description>Complete a race on each course in Grand Prix, Single Race or Time Trial mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Power Drift</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/DA591F30AB20A9FAB279F8FEC176FDB6763D82A9.PNG</Image>
+      <Description>Perform a fifteen second Drift.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Turbo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/4FB5E6C4536B442AFCDA1F7FECCF39C00F42424D.PNG</Image>
+      <Description>Perform twenty Turbo-Boosts within a single lap of any event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Triple Trouble</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/FC6F9E50A90F4DF60B57FF2384B440BD5B7981AF.PNG</Image>
+      <Description>Perform three Tricks in one jump and make the landing.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Gaining Ground</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/E60707D07D1D9B835F54E13C86C56DE93090373D.PNG</Image>
+      <Description>Get a Turbo-Boost Start in any event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Wheels of Fire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/E6688CB3A66D90EBAC7369ACFD33B6F0607E67A0.PNG</Image>
+      <Description>Perform a Turbo-Boost Start across 3 consecutive events.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Rolling Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/F5274F4B2793EBE585D7434C53217DDB1A485792.PNG</Image>
+      <Description>Complete Sonic's Test Drive.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Road Rampage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/1B35470706031B7C83CF1385FCAB781E7BFBDD03.PNG</Image>
+      <Description>Take out three opponents with one All-Star Move.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>After Burner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/01B4ED611AB7A111216BFDC026254E1DE62305FF.PNG</Image>
+      <Description>Take out three opponents with one triple-weapon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Up 'N' Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/282FBFF5ACF5AC541737E7B016FDC0D53DD351B6.PNG</Image>
+      <Description>Take out a racer by manually directing an item.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Streets of Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/5639624124E3CEC78A0A8EA2E24343864100474E.PNG</Image>
+      <Description>Ram an opponent off the course without using a Weapon or Power-Up.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Wonder Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/0EB0B95915FCC5941F6848F0CB5AEE1AE47DF4DA.PNG</Image>
+      <Description>Win a race by crossing the finish line in reverse.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Altered Beast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/C8F5A89D45E90617AD93B2D7C7B01550F2B6E1F9.PNG</Image>
+      <Description>Win a race while using an All-Star Move.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Last Survivor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/2F8CC07DF51669483CC8A6F5C0936A4D8E1C072B.PNG</Image>
+      <Description>Finish the first lap in last position and go on to win the race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Super Hang-On</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/033B203F248B446696D64B88D04173C276DA0AE7.PNG</Image>
+      <Description>Win the race holding first place on each lap.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Project Rub</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/30A8C5E3B382BD9C08A293E938E459DCD5E1A64F.PNG</Image>
+      <Description>Complete any Race event without collisions.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Enduro Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/919197A9A79E5BE7F4169B8C57FE8D3B9EE9923D.PNG</Image>
+      <Description>Play one hundred events including any race, mission or time trial in any mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Sonic Unleashed</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/006EBD60596DA31127B2EA26BCEF5242606C69A4.PNG</Image>
+      <Description>Use Sonic's All-Star Move to take out Dr. Eggman and show him who's boss!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Feel the Magic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/8D500970C473BADC4998437A0D3BF55BFA99E8AF.PNG</Image>
+      <Description>Use Amy's All-Star Move to send Sonic dizzy with love!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Working Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/1470A8E6E3599BE13300F9478315A7B670C68901.PNG</Image>
+      <Description>Use Ryo's All-Star Move to take out Jacky and Akira and show them who's the ultimate martial artist!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Giant Egg</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/9BAB5CCFA99A2DB34C0BC7F0147B4DBBE49D3371.PNG</Image>
+      <Description>Use Billy's All-Star Move to squash the Crows!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Top Skater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/51CC21F2381DE583C3DB3F62F06D924BCD7E5E72.PNG</Image>
+      <Description>Perform three tricks in one jump with Beat on Tokyo-to - Shibuya Downtown.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>The Chariot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/13801F48393A8852A4403EE7D621F9662E774B08.PNG</Image>
+      <Description>Use Zobio and Zobiko to send one hundred Curien Mansion Creatures back to the grave.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00426_00</GameId>
+      <Title>Cat Mania</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00426_00_6E293499FC463F457C47DEF0CC907F45626B357C/C102971F9512556B7E233A62BC25F29CA0312BFF.PNG</Image>
+      <Description>Summon the giant KapuKapu and gobble up Big the Cat for mouse revenge!</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,563 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00884_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Way of the Samurai 3 Plus</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/3B0DCA735161814C764F8B162AE09CAADAB23152.PNG</Image>
+    <TrophiesCount Total="61" Bronze="54" Silver="5" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>プラチナトロフィー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/029B87BA3D24F40180B1799BAD5B11A9CC4F8BD6.PNG</Image>
+      <Description>すべてのトロフィーを獲得した</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>大団円</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/9257D5EC4437C0DE31D92E6F9A23B21B68E78D43.PNG</Image>
+      <Description>エンディング「大団円」を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>終劇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/E35BD9D0EAB60D04C46E8D8BA68C3792CF691042.PNG</Image>
+      <Description>エンディングまでプレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>五つの物語</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/6C7F30E98F8FE6BA24FF380562772931CB5E1282.PNG</Image>
+      <Description>5種類のエンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>全ての物語</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/27FEAAD451867C4970499781C88F20E454732001.PNG</Image>
+      <Description>全てのエンディングを見る</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>侍フォーエバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/E8948FB0E0301D99D4CA3DAA481CFCD7F35A9AB1.PNG</Image>
+      <Description>侍度120%でクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>侍みならい</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/69CD9DDCFA2D4D7571636872116EF045BB9207F2.PNG</Image>
+      <Description>難易度"やさしい"でクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>一人前侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/D8DB833D665519F834C775A5D724669E43C24E12.PNG</Image>
+      <Description>難易度"普通"でクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>腕利き侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/1779793F424A2177CED3C26A182D4CE8A0F65422.PNG</Image>
+      <Description>難易度"難しい"でクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>鬼侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/4051A5E4AB5F91F17CCFFE3745EBA1EF11F135CB.PNG</Image>
+      <Description>難易度"一撃死"でクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>超侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/CB4BF43D094BC0755AE0D8DFF9FB848D2436E0C1.PNG</Image>
+      <Description>難易度"超難しい"でクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>俺の刀</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/E34F6E4BA22B6763DED228D21E3EB653F7336B7D.PNG</Image>
+      <Description>オリジナル刀を作成した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>上段の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/FA1D258BCEEC0DB8BCD3DA5BAEC6774CA2DAEA08.PNG</Image>
+      <Description>上段構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>中段の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/08D6430DE52E428E9C12485D541A937FA46DAAD3.PNG</Image>
+      <Description>中段構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>下段の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/A151433F5AD5FCEFADB51D2D82DC2D9E453C8F8C.PNG</Image>
+      <Description>下段構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>片手の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/6BE3D0CFCE99B21CB2294E2BFEA7A567C81992D6.PNG</Image>
+      <Description>片手構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>脇の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/D262F5929542433B36788C6FD5D2EC7D308F43C8.PNG</Image>
+      <Description>脇構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>槍の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/852EA32468F99588103B482BDD08391E055B8534.PNG</Image>
+      <Description>槍構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>無手の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/6E24788D44634CE1D072CEB8555B9DFE78E8E995.PNG</Image>
+      <Description>無手構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>居合の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/89BBC8D5F893004BBB52BA3A7BCE6AA8EDC8F4EB.PNG</Image>
+      <Description>居合構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>忍びの極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/BE4E848A00C6DBADB110F4211F05364F42E43CA5.PNG</Image>
+      <Description>忍者構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>二刀の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/A9705F115F801DAB85373FE8E35713F1FF00540F.PNG</Image>
+      <Description>二刀構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>忍び二刀の極み</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/34F040320C88E0A4AED5C5CADE0C47631B62494B.PNG</Image>
+      <Description>忍者二刀構えの技を全て習得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>刀を折る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/0924DDE5A1C853394DB92CEB1567A3DBC2124975.PNG</Image>
+      <Description>敵の刀を折った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>峰打ち</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/5D1862E35647729B54576255345AF4DAFF3E849B.PNG</Image>
+      <Description>峰打ちで人を倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>天奈通</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/03D62C2CE8B301E25EEAB804858C24EBD9BF0A78.PNG</Image>
+      <Description>10時間プレイした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>刀を鍛える</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/D720914F56AD2C882ED9BD0B56C30B53B12CAFE4.PNG</Image>
+      <Description>初めて刀を鍛えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>殺害</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/FE1DA69B6BC4FBB2AAB89BDEF20588E13E5E2F5A.PNG</Image>
+      <Description>初めて敵を殺した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>1刀皆伝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/F6B1F6E851A3D9EB074FE430618921F6AF9F8674.PNG</Image>
+      <Description>1本の刀の技を全て覚えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>30刀皆伝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/89F55ED0DF68E853B0E90A8560B721EDF0852DF6.PNG</Image>
+      <Description>30本の刀の技を全て覚えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>10人斬り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/0623A0C0226D776E587A2C91989C055E7459ADB8.PNG</Image>
+      <Description>10連殺を達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>100人斬り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/88A3386F5E067D8B1595C0BE489030ED6D5C2C52.PNG</Image>
+      <Description>100連殺を達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>頭部全取得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/41DFA8BFA2CFF93E32EEE0A37E9B0BB0DB5BE5D6.PNG</Image>
+      <Description>頭部を全て取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>服装全取得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/2A8AA4EEE0ECAC79CB4EC305457D0F0C17A1C57E.PNG</Image>
+      <Description>服装を全て取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>初めての閃き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/9876890D8A1995DDE8D1F670FD570D1928BCD444.PNG</Image>
+      <Description>初めて技を覚えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>10度目の閃き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/816D963AA4D833CA0A02B139CC10F29CBD4EB6F1.PNG</Image>
+      <Description>技をトータル10個覚えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>100度目の閃き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/6F5D955707F992A8139DBF73093A7DB53B4B2EF6.PNG</Image>
+      <Description>技をトータル100個覚えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>10本刀</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/5E9A3CA732A7FFBB613A478D23F8E32E81544B47.PNG</Image>
+      <Description>刀を10種類手に入れた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>50本刀</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/B086647507CAEABD954E7190524D4FC526F41F33.PNG</Image>
+      <Description>刀を50種類手に入れた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>初仕事</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/F53AFB236C46799191BD5A7AB325E3CF3E870F26.PNG</Image>
+      <Description>初めて渡世を成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>50度目の仕事</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/92B192BE75866B602585D35A85029EC2DA36F153.PNG</Image>
+      <Description>渡世を50回成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>伴侶を得る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/D24DA726B8C29A1B2DB99ED9EBE918B526BE0CD1.PNG</Image>
+      <Description>初めて伴侶を得た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>おせいを得る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/3B1EAFF2337B2E75409F3ADB29F8A42421EFDFA3.PNG</Image>
+      <Description>おせいを伴侶にした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>いつせを得る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/36DF7A455BA5E92ABB0EB53BD4353593038FF1AA.PNG</Image>
+      <Description>いつせを伴侶にした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>蘭姫を得る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/61707EC8992D2490981840D961AC7783808BEC5A.PNG</Image>
+      <Description>蘭姫を伴侶にした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>先生を得る</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/9A85838FB5507891302ADADA0FE97990BC47054F.PNG</Image>
+      <Description>先生を伴侶にした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>たんす増設</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/1597BA7FAAC6D4B4F1D6C4BFF8FE79A23F172101.PNG</Image>
+      <Description>刀ダンスを増設した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>主膳成敗</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/7042FFACADE5EB4802025CA0DD6D98F524D4B8DF.PNG</Image>
+      <Description>藤森主膳を倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>打倒先生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/874E90A3A4731E6B914B6C0971E3703B59EBC2AB.PNG</Image>
+      <Description>先生を倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>妖怪退散</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/740B3818BC43BE5182A0AD09280EB83596BFF00E.PNG</Image>
+      <Description>妖怪天邪鬼を倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>五つの称号</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/D4F79C4976B778E8E3C0DDA4EB424E255531EEFD.PNG</Image>
+      <Description>5種類の称号を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>二十の称号</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/27BFD3EE54A3324FF9F4A237EA6DE9848CCD7DA7.PNG</Image>
+      <Description>20種類の称号を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>零の殺し</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/B728CE23167BB3F15FB907C714BFF33F2375DE76.PNG</Image>
+      <Description>硬度0の刀で敵を殺した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>零の情け</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/DBC096492D99D416C2F4C235556058A8586C7370.PNG</Image>
+      <Description>硬度0の刀で人を峰打ちで倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>おせいの秘密</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/5AD31D43AB4527D9DFC67BE1741F9CE29DFF3512.PNG</Image>
+      <Description>おせいの隠し服装を取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>いつせの秘密</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/54AD669C2FD8492E926383052EBF23B1F43FD080.PNG</Image>
+      <Description>いつせの隠し服装を取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>蘭姫の秘密</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/E6D4AE40A0888339009996A3DB5C059180018B91.PNG</Image>
+      <Description>蘭姫の隠し服装を取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>先生の秘密</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/45FD4DBA8294E044D51CD4DA45B004BE1BAAF61C.PNG</Image>
+      <Description>先生の隠し服装を取得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>200点侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/DB8B6B87EBA109301B3B5C0E9D579342445445BE.PNG</Image>
+      <Description>侍点を200点獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>2000点侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/E93F586925BC6906B1E1B5750350D3827D19A235.PNG</Image>
+      <Description>侍点を2000点獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR00884_00</GameId>
+      <Title>10000点侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00884_00_DAEB2723EDEC393E62EFE9DA7F13C9A9A31DAF38/115FCBADC964F8EB530D9C0099F9AF1A14B2992C.PNG</Image>
+      <Description>侍点を10000点獲得</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03721_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Next Education: Information Network Specialist Exam</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/D44A1FB40448873E55D47B8A52989D6CFB9343B8.PNG</Image>
+    <TrophiesCount Total="12" Bronze="8" Silver="3" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>全トロフィー取得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/C7476AB34BD07F21087AC04A71731BCDB47C0703.PNG</Image>
+      <Description>すべてのトロフィーを獲得する。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>アイテムコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/27EBF0424FAE5763D16D8E81653C5ABDB6CB2B28.PNG</Image>
+      <Description>ポイントショップですべての商品を購入する。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>全問題制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/648FEFB27A4F28CF7A8215E9F4B4807CD4667EA6.PNG</Image>
+      <Description>収録されている問題をすべて正解する。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>日々の努力の成果</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/30324CFB8B05BA872756D7B6FF01F75D18EB482E.PNG</Image>
+      <Description>プレイ時間が10時間を超える。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>チャレンジャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/2A3B21261BFE94CADA8B40A23491312A64DC358C.PNG</Image>
+      <Description>チャレンジコースの１つを初めてクリアする。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>学習開始！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/891AB0751A9AC09CD255C3E4C5388C901963FE22.PNG</Image>
+      <Description>練習問題を初めてプレイする。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>本番試験に臨もう！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/37C05FAB73D031C5336C178785C6950E21BAB846.PNG</Image>
+      <Description>設定した学習完了日を経過する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>チェンジで</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/4B2CB2F5B5511C826040436965246C20CAD7F4D1.PNG</Image>
+      <Description>初めてキャラクターを変更する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>風船割りマニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/EF1DEF1F847EBAA067C326102210D3B07DDE7794.PNG</Image>
+      <Description>ゲーム学習の『BALLOON SHOOT!』で、スコア1000点以上を取得する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>第六感持ち</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/398D39CFE32699F3CB8070C1AE81A30FD740F882.PNG</Image>
+      <Description>ゲーム学習の『Ghost Hunt』で、スコア1000点以上を取得する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>超反応</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/D075A51AD58B8FD2F17495D7AFF58A9B6B16E4F9.PNG</Image>
+      <Description>ゲーム学習の『Rush Attack』で、スコア1000点以上を取得する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03721_00</GameId>
+      <Title>半分できました</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03721_00_FC410F6D6FC22983B46882EB40A82D9C1722248F/0D3818452650AAD8BC8F0534ABAD7F4BC40E796D.PNG</Image>
+      <Description>模擬試験の自動生成試験で5割以上のスコアを取得する。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

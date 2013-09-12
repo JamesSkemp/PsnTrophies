@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03446_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Puzzle By Nikoli V Nurikabe</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03446_00_06460766195E7FD8D1EFCF5540752757A1DB549B/852480A253C5719B879C61513EE2D6E95D1BB9DA.PNG</Image>
+    <TrophiesCount Total="13" Bronze="11" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03446_00</GameId>
+      <Title>Used delete 100 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03446_00_06460766195E7FD8D1EFCF5540752757A1DB549B/7C7A17DF0E550414C348D34F42E3221ACF6B5DD5.PNG</Image>
+      <Description>Used the delete function more than 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03446_00</GameId>
+      <Title>Read all the guides!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03446_00_06460766195E7FD8D1EFCF5540752757A1DB549B/93DEAE65789F787EDB38B454AF932BDCE3FD0596.PNG</Image>
+      <Description>Read all game guides</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03446_00</GameId>
+      <Title>Used UNDO 100 times!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03446_00_06460766195E7FD8D1EFCF5540752757A1DB549B/D7F13FFF86FA81E830DFAD32D04D4C0676727B5F.PNG</Image>
+      <Description>Used the undo function more than 100 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

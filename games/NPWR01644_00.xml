@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01644_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Storm</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/BA453E65801BA4AD85F2C1895DCA35B7232DD1FE.PNG</Image>
+    <TrophiesCount Total="10" Bronze="7" Silver="1" Gold="2" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>End of a season</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/9A28D37983E7BE68CD5FFC5B3B7512FC647EA822.PNG</Image>
+      <Description>Finished the spring season</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>End of time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/019D30EB824D2F8B3FC27F514795A123864325D2.PNG</Image>
+      <Description>Finished the summer season</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>End of leaves</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/B61EC60C0140583CF98320FBE3D53B1628F944BF.PNG</Image>
+      <Description>Finished the autumn season</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>End of times</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/0FE9CF32C7ECE5FE49B5001FE0D43E21300C1157.PNG</Image>
+      <Description>Finished the winter season</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>Bubble's master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/6D20B850BC1F8B825E15E459E2358653F63E9B15.PNG</Image>
+      <Description>Used bubbled 20 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>Fire's master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/1DB7B90D13DD8C57D9C90D07D5B883AFAF8C5AEA.PNG</Image>
+      <Description>Burned 20 grasses</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>Wind master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/03B6A3117C58BF465B411B09665396EF36FFF9E0.PNG</Image>
+      <Description>Created 30 tornadoes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>Sprit of Nature apprentice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/F4919CA9F02C09F6EF11231D592A6D5349AF719F.PNG</Image>
+      <Description>Saved a third of the Spirits</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>Spirit's master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/434EBB4971107C652E22411ED107526BD79C8247.PNG</Image>
+      <Description>Saved two third of the Spirits</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01644_00</GameId>
+      <Title>The savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01644_00_D51F5AB65CEF45E5527623D60E9567C898CA7CFD/936EDF636F76504EF86347554A574A42D6984BBA.PNG</Image>
+      <Description>Saved all Spirits</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

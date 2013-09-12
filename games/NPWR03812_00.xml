@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03812_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Heartful Simulator Pachislot: To Heart 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/6CE291ECB79DA32A6752B1263E2D2C3D3200E4D6.PNG</Image>
+    <TrophiesCount Total="44" Bronze="28" Silver="12" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>全てのミッションクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/54F5773714B3891315BA6AC1A2646963A69E6AC6.PNG</Image>
+      <Description>全てのミッションをクリア</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>１Ｇ連</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/B3311CEFB4EB6FD870ECEB3C72AFD1EC6FC4446D.PNG</Image>
+      <Description>ボーナス終了後１Ｇ目にボーナス当選</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>BB５連続</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/04219CC96235EE7AD1D3020BCCF1FBDCA916B7F0.PNG</Image>
+      <Description>当選したボーナスが５連続でBB</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ＨＹＰＥＲ　ＲＢ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/BD91D756E90FB8677DC93FD95FBE44F911E4AC58.PNG</Image>
+      <Description>ＨＹＰＥＲ　ＲＢ当選</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャルデートタイム中ボーナス当選</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/DF8EF609716D70F37E89C37F8FBC09DA2A560BB4.PNG</Image>
+      <Description>スペシャルデートタイム中ボーナス当選</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>通常時ベル４連続入賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/4B3FF940E8DDE7D3112E6347F5786B45E3249CCE.PNG</Image>
+      <Description>通常時ベル４連続入賞</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ＭＣ、ＴＣ中スイカ入賞</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/4E77285E3808959D79A564A5EC8FD994C07C3273.PNG</Image>
+      <Description>ＭＣ、ＴＣ中スイカ入賞</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>通常時フリーズ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/A459BF7E84120627FC855C2C2B9056B06FF5576E.PNG</Image>
+      <Description>通常時にフリーズ演出を発生</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ボーナス中フリーズ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/3438E78D64FFBA63DE013BD8E553A9EA9FE05FF9.PNG</Image>
+      <Description>ボーナス中にフリーズ演出を発生</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ART中ベルフリーズ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/2B5966B8E0E3738A74EB5F07AD55174DE8A701E8.PNG</Image>
+      <Description>ART中にベルからのフリーズ演出を発生</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ＴＯＴＡＬ ＧＥＴ ３０００枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/83A0ED4663278EA3AC248033E7771F3FCF605A1D.PNG</Image>
+      <Description>ＴＯＴＡＬ獲得枚数が３０００枚以上を表示</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ＴＯＴＡＬ ＧＥＴ ５０００枚</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/3A3EADF0DF727C92245F97C99FF861572889B415.PNG</Image>
+      <Description>ＴＯＴＡＬ獲得枚数が５０００枚以上を表示</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>救済機能発動</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/DE57F1D2BD3FB3B3A370C615F192ECC07077AA58.PNG</Image>
+      <Description>救済機能が発動</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>全ヒロイン５周目に突入</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/11A384DD37DF53E04582F939B29882BD2F7E2C60.PNG</Image>
+      <Description>全ヒロインで５周目に突入</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>上乗せ「５００Ｇ」表示</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/53EBD985AE1BFFA08F4CEF1F64EB053C83A0F177.PNG</Image>
+      <Description>上乗演出で「５００Ｇ」表示</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>プレゼントＢＯＸ「キリン」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/6F0A65247FFE62D6082D6011AEA0E5D83642276E.PNG</Image>
+      <Description>プレゼントＢＯＸで柄が「キリン」を入手</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>プレゼントＢＯＸ「×１０」表示</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/22DCD7A83402B69FFEC4D462DED046A0103FDF32.PNG</Image>
+      <Description>プレゼントＢＯＸで「×１０」を表示</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>プレゼントＢＯＸ「×１５」表示</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/F3B60342CC7A032B847E767BD47A4DD8CEAF6B24.PNG</Image>
+      <Description>プレゼントＢＯＸで「×１５」を表示</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>デートタイム１５００Ｇ継続</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/4B5378643ABFA4BA4F182914FC59D878F8025EA6.PNG</Image>
+      <Description>デートタイムで１５００Ｇ継続</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>赤７V</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/AE61101A7B8DB256BB65E0CBA4E87F40573BB1A6.PNG</Image>
+      <Description>赤７図柄をV字型で停止</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>通常時ＢＡＲダブル揃い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/714EF705B068FD1A4F267D54082DC049453B7F1F.PNG</Image>
+      <Description>通常時BARダブル揃いを見る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ボーナス中ＢＡＲダブル揃い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/02E6B96F9D8ED0BE632594EB44DE0C0BA6FB8839.PNG</Image>
+      <Description>ボーナス中ＢＡＲダブル揃いを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「キリン」柄出現</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/1831218CDCFA0893B9DEA691FDCFAE281DEA499E.PNG</Image>
+      <Description>「キリン」柄演出を見る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャル告知画面</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/AD0E239FA73E4E30E4374947FCD023F1E14E5F2C.PNG</Image>
+      <Description>ボーナス確定画面で水着を見る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>RB終了画面でハート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/025301705ADAEA5FA922E135BF90142010635D5A.PNG</Image>
+      <Description>RB終了画面でハートを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>速揃え</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/0B1E66E600093651AB380D732C5A57D83A26DC4F.PNG</Image>
+      <Description>第1停止から1秒以内に第３停止を押しボーナス図柄を揃える</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「だーれだ？」演出５連続正解</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/DA1C8435CC275400409F0EF984472F3D8E50FF84.PNG</Image>
+      <Description>「だーれだ？」演出を５連続で正解</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ＴｏＨｅａｒｔフラッシュ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/9800DBABD932E63BA2D56ACFAC144687006F839D.PNG</Image>
+      <Description>ToHeartフラッシュ発生</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ねじねじ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/DED2F96A32283130600341B390E59AA89C8A7598.PNG</Image>
+      <Description>第３停止ボタンを３秒以上ねじった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ボーナス当選遊技に揃える</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/A65D69E9EFE25E619EC812C09CEE50706FADC58F.PNG</Image>
+      <Description>ボーナス当選遊技に揃える</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャルデートタイム「このみ」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/C0A96282ED3D715FA300F01401EC30AB720E7E66.PNG</Image>
+      <Description>スペシャルデートタイムを「このみ」で突入</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャルデートタイム「環」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/9BA880FA90AB709EA5399D966E72FC908E72D119.PNG</Image>
+      <Description>スペシャルデートタイムを「環」で突入</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャルデートタイム「愛佳」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/A5398C27BBCEA12DE92FBF0B1E4AC93F6E1CC529.PNG</Image>
+      <Description>スペシャルデートタイムを「愛佳」で突入</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>スペシャルデートタイム「ささら」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/EAEF0A5BD5187841348D9DEF3BEEFE9F0713BB98.PNG</Image>
+      <Description>スペシャルデートタイムを「ささら」で突入</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「Sparkling　Heart」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/3ED496B0384C98447608364281309514BB46D5B6.PNG</Image>
+      <Description>「Sparkling　Heart」を聴く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「小さな勇気 〜がんばれ女の子!〜」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/309BB859B6A8B7C43E111DCC83B21FC296B04A38.PNG</Image>
+      <Description>「小さな勇気 〜がんばれ女の子!〜」を聴く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「飾らない心で、飾らない私で」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/2C2D9E9BB424ADEA2DEAE32316F25AE25332D1D1.PNG</Image>
+      <Description>「飾らない心で、飾らない私で」を聴く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「春の日和の野原の寝顔」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/21B415412B94CBDA9672622795E6E35E823E68A2.PNG</Image>
+      <Description>「春の日和の野原の寝顔」を聴く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>「彼女の領域」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/3A29D5EA0DAE02827F08F874BEC51660E5386247.PNG</Image>
+      <Description>「彼女の領域」を聴く</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>エンディング「このみ」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/456E304687B6AA3E96F9CD847EB4464660058F17.PNG</Image>
+      <Description>このみのエンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>エンディング「環」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/75FFF1011454D27A9FE953BB8E0BB838AE398CD2.PNG</Image>
+      <Description>環のエンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>エンディング「愛佳」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/7B6AA1398BB05DF389869BE681ED79C0885920FF.PNG</Image>
+      <Description>愛佳のエンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>エンディング「ささら」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/181029401DC10779E1925555C877D70147B0A881.PNG</Image>
+      <Description>ささらのエンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03812_00</GameId>
+      <Title>ハーレムエンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03812_00_CDFD6B728CBF744C93DFB4E31BCA3FFDA994A522/13F2A8BC1704270DBF97DBDB27DA462B260941FA.PNG</Image>
+      <Description>ハーレムエンドフリーズ演出を見る</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

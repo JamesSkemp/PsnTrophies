@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04185_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Hako! Open Me - Digest Version</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/065EDAA47E3078B894F40CA1BB6E74949899AFBC.PNG</Image>
+    <TrophiesCount Total="8" Bronze="0" Silver="7" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You're a box Master!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/F8981F1D647823073080465020AB87CC820EC749.PNG</Image>
+      <Description>Earn a S rank in all single boxes</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>First ever box! Let's touch!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/C18E7ECBFF7E52D3A4C5BE69C4CC89ABC6BBEF20.PNG</Image>
+      <Description>Touch the first title menu</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've opened the "Tutorial Box!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/E034DD482215959594C512166172279FB0BC28C3.PNG</Image>
+      <Description>Earn a reward with the "Tutorial Box"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've opened the "Rebellious Wooden Box"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/AE0A0504704141FE49B21029EA511899A41ABF54.PNG</Image>
+      <Description>Earn a reward with the "Rebellious Wooden Box"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've opened the "Color Box"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/A7CC9FB6DFE34A67E7E16985641DE990101B8B95.PNG</Image>
+      <Description>Earn a reward with the "Color Box"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've opened the "Under Box"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/33468049713429B48C091501618A0973E1E84F95.PNG</Image>
+      <Description>Earn a reward with the "Under Box"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've opened the "Surveillance Box"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/5E7A591F8472FEC8678490FABA92E5062D6C9A70.PNG</Image>
+      <Description>Earn a reward with the "Surveillance Box"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04185_00</GameId>
+      <Title>You've Opened the "SF Box Type F"!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04185_00_00B8BA9B3FA4466E5A826AF07DBB016FECF58F735C/EE5FC8B063DD18F15ECB966DB22EE430AF6D9A10.PNG</Image>
+      <Description>Earn a reward with the "SF Box Type F"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

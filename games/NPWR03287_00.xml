@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03287_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SBK Generations</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/6A61D23FF7E17FEACDD8FE19A2E954F0A2839D67.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>SBK™ Generations Checkmate!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/278B92525205F0BB3239D4AD87B8C05C254F11FF.PNG</Image>
+      <Description>Unlock all the trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Money well spent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/2182B675EBF75DF9F2B81F9CB08A3CD09E142720.PNG</Image>
+      <Description>Unlocked when player presses START for the first time on splash screen.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Newcomer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/B01D9C708DB3EB5F8D685634C7BA590DD1FC0AF4.PNG</Image>
+      <Description>Create your first custom rider.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Engineering Degree</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/183CC26BAFCA8CAC8F4DB019E52437B11C280AF1.PNG</Image>
+      <Description>Save a bike setting in any Simulation game mode for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Hello Chief, Nice to Meet You!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/98B202320AD1E73B0691BD2724BFF49B892B28F5.PNG</Image>
+      <Description>Use the Technical Meeting for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Break Your Soul</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/C02CD4A5F74CB3A02F79DA4F0541F5AA3A98BC7F.PNG</Image>
+      <Description>Damage your bike to retirement.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Break Your Body</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/A18E8806FEEDC9FCFA0C1AF72B776BA7885BD48C.PNG</Image>
+      <Description>Injure your rider to retirement.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Pit Walker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/2A8084F94A25329034B6543E8D757274F463A877.PNG</Image>
+      <Description>Ride your bike from the track into the pit-lane.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Superstock Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/2C6242FA3EEAFC66302A245A6E978A4E8C83674C.PNG</Image>
+      <Description>Win a Superstock Championship in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Supersport Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/AB0DAEB4DDF264701F808751E1B77EF57436669F.PNG</Image>
+      <Description>Win a Supersport Championship in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Superbike Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/B2DD8BFA376BFC96C86A274F46CEAC8ABDC59D08.PNG</Image>
+      <Description>Win a Superbike Championship in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>MUD World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/73EB5A8255B2FCDCB5C0EE4EC0710A90316C2978.PNG</Image>
+      <Description>Win a Race Weekend while your rider is wearing the MUD™ helmet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Team Up with Baz</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/6C386747C9563DD4FEF74C8A14AB2E7E1B614B66.PNG</Image>
+      <Description>Join MRS Racing in Career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Better Than Spies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/5887324BA35F0BE93E1CBEBFFBFAFC0E0EF2E30C.PNG</Image>
+      <Description>Achieve at least 14 Superpole and 11 Race victories in the same Career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/283A5250B53E8A6FC110F905861C1FB16D76FE95.PNG</Image>
+      <Description>Complete the first challenge of the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>2009 Was Amazing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/DA4DB6EF0875268CB397D127F6ED68D9AC002CEA.PNG</Image>
+      <Description>Complete the last challenge of the level 2009 in the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>This Was My Year!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/86759B41A2D815471D6814D6A252031F6D5D47CF.PNG</Image>
+      <Description>Complete the last challenge of the level 2010 in the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Last Year Best Year</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/E74FBC1E3A5B2A1309E47C7A473423037888229B.PNG</Image>
+      <Description>Complete the last challenge of the level 2011 in the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Entering the Future</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/E34E76FDB9EF31C7D56C79BA11A6B5CE93E0686C.PNG</Image>
+      <Description>Complete the last challenge of the level 2012 in the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>I'm a Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/0E92A6BCE5AE4E2FC4D71F42BA2C960A712DC1FA.PNG</Image>
+      <Description>Complete the last challenge of the level Legends in the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Challenge to All Comers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/588C717A4CC0BEC720CD603351A2DF5D75D0CAF0.PNG</Image>
+      <Description>Win your first Online Quick Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Social Poleman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/0698BB257944AF9D46F0CB9F1521C3DAB6E1168A.PNG</Image>
+      <Description>Obtain the best time in an Online Qualifying session.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Easy, Mate...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/FA5281ED1835FAB2DCDFEFB74F549A4D499FCFF0.PNG</Image>
+      <Description>Win a Quick Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Like a Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/246665AF1B7CBC2FDDACF1C8C520AF6921492BCF.PNG</Image>
+      <Description>Win a single player Quick Race at Pro difficulty level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Too Real to be True!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/B9FA9BA50C9294922A0DEA17632C1942DEE99E66.PNG</Image>
+      <Description>Win a single player Quick Race at Real difficulty level.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>This is How You Play This Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/522C28CAAC3DBB244B0845484F3A43512247EEAD.PNG</Image>
+      <Description>Win a Race Weekend at Full Simulation.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/5E1C500083DA9B1BC0D0093202472FAEC85A3DC0.PNG</Image>
+      <Description>Unlock all locked riders.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Water, a Lot of Water</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/853971F1AF34472CD3D66982FFDD741E5DC63C42.PNG</Image>
+      <Description>Win a rainy single player Quick Race of 100% length.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>One Enemy is Not Enough for Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/19441CE16D10D46DAE733D7CD9853FE9CB45A102.PNG</Image>
+      <Description>Beat the Special Opponent in Career for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>I'm Living the Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/19D784D1F894701356D498D0E943E7A9E5EFD228.PNG</Image>
+      <Description>Complete 14 SBK™ Experience challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>A Complete Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/6F9895A8DD4297111EA73E7D7B5E54DC12E733C1.PNG</Image>
+      <Description>Win at least one Championship for every class in the same Career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>3, 2, 1... Done!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/215805A9D7102F7F419367F960B00AF18770F6A0.PNG</Image>
+      <Description>Reach all podium positions at least once in different Quick Races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Days of Thunder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/E8504CB8F5D995D44B16138CE1C398058F893853.PNG</Image>
+      <Description>Reach 186 mph (300 km/h) with any bike on any track in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Yes, weekend!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/DB9B3B5D5058EE1FD321A0912C8442E79C2BE617.PNG</Image>
+      <Description>Win a race in a weekend.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>I'm the King Now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/0F8BDD558BD47F5185BAB3B7E90BF5E7941EFD31.PNG</Image>
+      <Description>Storm the last challenge of the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>I like the Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/1ED1A4A08A0A4D2C7F5544FE3BBDBE75FD91CCC2.PNG</Image>
+      <Description>Complete all SBK™ Experience Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>I love the Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/E52F38E9A4B9F44AB5169F15E4C2F56CEF6EBFF0.PNG</Image>
+      <Description>Storm all SBK™ Experience Challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Online Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/17963291721AB6ACD977A8FD0047608C3A2137CA.PNG</Image>
+      <Description>Win your first Online Championship.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Burn the chronometer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/44E7CB6A1B59A467565F25E6EE1098C43DAD3BDE.PNG</Image>
+      <Description>Win a Time Attack.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Thanks to the R</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/68DAE84C618476E5B9D962727DBE9A931D45F400.PNG</Image>
+      <Description>Successfully upgrade your bike in Career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>A Short but Amazing Journey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/77BFF9C9C5C3905AB18F23D16BD93AF81AE106BC.PNG</Image>
+      <Description>Finish the Career mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Rookie of the year</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/54F21D2F90B9F62CFC2933CDFA6146CF97CF59B7.PNG</Image>
+      <Description>Reach 500 reputation points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Rising Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/4F124944559DFE81F0AA2A99E007AC5CB222BD10.PNG</Image>
+      <Description>Reach 2100 reputation points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Fan Favourite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/E85B79E4EC5FC56DF9734AB520DFF67834C5ED3E.PNG</Image>
+      <Description>Reach 4000 reputation points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Living Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/85A93EF6DCADFFAACC47234134BD4BF36F0248AD.PNG</Image>
+      <Description>Reach 6000 reputation points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Not so popular</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/BEE22590C057A2133C6BCBE7F1D67F65844DBA64.PNG</Image>
+      <Description>Lose at least 100 reputation points in Career mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Stormed!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/1A0BB02161BF7D530262FAACE0377270D95CAC89.PNG</Image>
+      <Description>Storm one challenge of the SBK™ Experience.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Young Guns</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/49B410405EE7EF85F8EC18FC634B120D4E3D1BA4.PNG</Image>
+      <Description>Join a Superstock class team in Career mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>600cc, pure Fun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/52EC784947547CCF453A55B659E0139EFB71531C.PNG</Image>
+      <Description>Join a Supersport class team in Career mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>It is Time for the Top Class</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/A3883814337A999502FB709808AA546DE4EA4257.PNG</Image>
+      <Description>Join a Superbike class team in Career mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03287_00</GameId>
+      <Title>Orient Express</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03287_00_98E7E892BD1E609166A72E1F86524E06D6364F49/1367D3B763589482CE6EC304AAB56B4CC24486A8.PNG</Image>
+      <Description>Ride for at least 2000 km in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

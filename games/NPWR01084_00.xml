@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01084_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Power Smash ライブマッチ！</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/3E3A579A164F130D566508163C7E8EE25455454F.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/40C04A38D5ADE20EB888B2E4E7F7F0E8E9181033.PNG</Image>
+      <Description>全てのトロフィーを獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Fore!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/1FF6A4721B139101575C1C7230240A2B91101483.PNG</Image>
+      <Description>ラインジャッジにボールを当てる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>To be this good takes AGES</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/47C485009A0D57480F41760831848D17A21B9734.PNG</Image>
+      <Description>アンダーハンドサーブでエースを決める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>One Small Step..</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/0FD40335B83ED636486E6745971E873CC03EDA62.PNG</Image>
+      <Description>ワールドツアーで1勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>...One Giant Leap!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/075D2980A09AC2B965007F068713BFAC156CBB9B.PNG</Image>
+      <Description>ワールドツアーのトーナメントで1回優勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Make Friends and Influence People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/44B7DCDED0C41A2B7C7BBD7CF1DBEBBF72BEA92F.PNG</Image>
+      <Description>ワールドツアーで8人のパートナーを作る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Quick and Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/6CE738B1131D1C6A63185331A87A5B87B0A00395.PNG</Image>
+      <Description>モードプレイで、試合やミニゲームを合計25回プレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Loving It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/A681DE9EA074518A810E81DC6D6DE952A46142D1.PNG</Image>
+      <Description>無失点で25ゲーム勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Breaking the Speed Limit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/D76858409BE610C962889E46DDD4BD14C5578A1E.PNG</Image>
+      <Description>200km/h（124.28mph）より速いサーブを打つ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Big Hitter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/2E2590722FA5ABCF38FB9099957E84F08D369A0D.PNG</Image>
+      <Description>MAXパワーのサーブを250回打つ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Pushing it to the Max!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/F5B833B4A5DC450A829B1F79CC4DD1C14F8C2C75.PNG</Image>
+      <Description>1試合において、3回連続でMAXパワーのサーブを打つ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Different Strokes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/669C0771E936005A28A7DD9586075B6501231B5A.PNG</Image>
+      <Description>ストロークで400点獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Volleyball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/348E879E11DEF6FFBD3AD94E1DEEC7C0D7A3DEAF.PNG</Image>
+      <Description>ボレーで300点獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Super, Smashing, Great!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/A9BB694D5BF333EAC0BF67C0480512C63DF1EE1F.PNG</Image>
+      <Description>スマッシュで200点獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Aces High</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/7483AF0E9884490A29F8EB67E91098712D5F0FB6.PNG</Image>
+      <Description>エースを100回決める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Over the Top</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/583ABB1AA76B619396A9B381513E1E3416434025.PNG</Image>
+      <Description>ロブショットで50点獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Drop and Give Me 50!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/07DB5E04ED5854D93328E6123292B5D414A85C6B.PNG</Image>
+      <Description>ドロップショットで50点獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Your Country Needs You!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/68D09736C8E38FDC96B81C6A8B8ACE4C37538480.PNG</Image>
+      <Description>ワールドツアーで、Davis Cup か Fed Cup のメンバーに選ばれる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Practice Makes Perfect</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/602666F2FD810B9B9F9824C254AD9B9E659EAF20.PNG</Image>
+      <Description>ワールドツアーの練習試合で10勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Training to Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/A1541F416F13A33E0B3E19595B78888713E4CF99.PNG</Image>
+      <Description>ワールドツアーで、1つのミニゲームのレベル8をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>School's Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/2BB5C3730B14C2F69043D1B56DCB92A3FCA11A1F.PNG</Image>
+      <Description>ワールドツアーのアカデミーで全ての課題をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/25E271B40E02843678A768D8C35AAF8225E6B29D.PNG</Image>
+      <Description>ワールドツアーのテニスストアで100種類の商品を買う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Versatile Male</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/ABF0EE992196F9AD0E3E768854B6D0476342C5C7.PNG</Image>
+      <Description>実在の男子選手（最初に使える選手のみ）を全員使って1勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Versatile Female</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/0483D9790E23187DA72566C1D17E83E145BFB7F2.PNG</Image>
+      <Description>実在の女子選手を全員使って1勝する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Last Man Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/2C06340279552CC97456AFC5D13A46FBF4701BCA.PNG</Image>
+      <Description>実在の男子選手全員（最初に使える選手のみ）に勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Last Woman Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/45C4231ECFCC116A5359D7394D3F676BFAB34189.PNG</Image>
+      <Description>実在の女子選手全員に勝利する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Competitive Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/E529D914F2F911A404A7709120F79D7B1A81A977.PNG</Image>
+      <Description>ワールドツアーでオンラインランクマッチを10回プレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Social Animal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/189D4D36FD31E7EFA6AC8ED5A3C94E0ED6314804.PNG</Image>
+      <Description>オンラインでランクマッチ以外の試合を10回プレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Block and Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/36B75E5DAC593A874F6ED2609322491A239A4F8D.PNG</Image>
+      <Description>ワールドツアーまたはモードプレイの「Block Buster」で、15ブロックを同時に消す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Dr Doolittle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/9992F6B24FD93028DBAF4821A83AC9370FA3789A.PNG</Image>
+      <Description>モードプレイの「Zoo Feeder」で、全種類の動物にエサを与える</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Arrrrrrr!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/BBCEFADCA2188D6CDDAA5D6D79C836DD377C8725.PNG</Image>
+      <Description>モードプレイの「Pirate Wars」で、1回のプレイで金色の大型艦を3隻沈める</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Cherry Picker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/7428510143E572B212DBDDFEC10A86A9F04531B0.PNG</Image>
+      <Description>モードプレイの「Avalanche」で、1回のプレイでチェリーを10個取る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Perfect Frame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/D7ACA406C2562C3E7C7B4F6A62F5E08C1E494881.PNG</Image>
+      <Description>モードプレイの「Pot Shot」で、1度もミスをせず最後に9番ボールを落とす</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Ham and Eggs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/9D6EEF2D2EF8F4E2DCAC7FAFD218C9BECE16C98B.PNG</Image>
+      <Description>ワールドツアーの「Pin Crusher」のレベル6以上で、ターキーを出す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Marathon Man</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/7B20DE9056626F383876D0C942CCCEDD176F0E72.PNG</Image>
+      <Description>合計10キロメートル（6.21マイル）を走る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Grass Stains</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/4684B69585CE54391D763FB3D94E65D25AB95956.PNG</Image>
+      <Description>芝コートで100試合する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Play with Clay</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/3098574643603DBD47FE819A6517510C64533373.PNG</Image>
+      <Description>クレーコートで100試合する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Astro-Carpet King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/D260332862A863493427F402DF2BB649B9E7E64F.PNG</Image>
+      <Description>ハードコートで100試合する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>To be this good takes SEGA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/6D22B32AC81EBA95EB41F44A381D6E85B78EFAE6.PNG</Image>
+      <Description>全種類のSEGAコスチュームを着てプレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>King for a Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/945048A85DF21AD6469F9CAE63E3ADB9049BE8F2.PNG</Image>
+      <Description>「King」をアンロックする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>That Duke's a Hazard!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/DDD7CE1F37C0A1838D5C8BF66EB7618DC8F77EF4.PNG</Image>
+      <Description>「Duke」をアンロックする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Gold Medalist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/004489C0641EAAE908BFBF3264B2A16E1E0E285E.PNG</Image>
+      <Description>マイレコードで得られる金メダルを全て獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Access All Areas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/C76416FC6729F55B485AEEC6A5D3C159B1CC76A5.PNG</Image>
+      <Description>ワールドツアーで全てのコート使用権を購入可能にする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Style Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/3FA618A50BB0D858FAB770D6D3EAABE7C4F640A4.PNG</Image>
+      <Description>ワールドツアーで、全種類の基本プレイスタイルを使う</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Go Pro!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/8BCE9E018626F1F9CD151730BF0FBBFB67C4B5DE.PNG</Image>
+      <Description>ワールドツアーでプロに転向する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Leader of the pack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/4F2A9A269EA1263B49CAB6AAEBAB72E6B3550791.PNG</Image>
+      <Description>ワールドツアーでアマチュアランキング1位に輝く</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Them Bones</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/025C1ACF0890DF525A66D1168949BAD8D8BAB2EE.PNG</Image>
+      <Description>全種類のスケルトンコスチュームを着て、「Meat Defender」をプレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>National Treasure</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/22B57509A8BBE3FFB84FC346EA5DE6F26359B042.PNG</Image>
+      <Description>ワールドツアーの Davis Cup か Fed Cup で優勝する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>First Amongst Equals</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/B3DCB2CC81A47762783C9D80765059CED7F40EB6.PNG</Image>
+      <Description>ワールドツアーで世界ナンバー1に輝く</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>You are Gold!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/3552E9C53EA2660A60C50E0C76DD3689FEC45514.PNG</Image>
+      <Description>ワールドツアーのアカデミーで、全トレーニングメニューを金でクリアする</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01084_00</GameId>
+      <Title>Coronation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01084_00_2776E0738C474360F2EBA640B8EDAEFC20327E38/1FC93C6C5F3EFDB95F6692EC7966C06E2BAB5980.PNG</Image>
+      <Description>ワールドツアーの「King of Players」で優勝する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

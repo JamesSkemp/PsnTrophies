@@ -1,0 +1,536 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01227_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Test Drive Unlimited 2</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/CAE65EFE5288A0C6FBA536E75FDE0230874A32D9.PNG</Image>
+    <TrophiesCount Total="58" Bronze="43" Silver="11" Gold="3" Platinum="1" />
+    <TotalPoints>1245</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/0E128748F97558D8F409D9488F58F7F028DD54CF.PNG</Image>
+      <Description>This is the platinum trophy and is unlocked automatically when all the trophies have been unlocked</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Level 60</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/76D79647E6CC55AF8DC6490025FB80DAD238E766.PNG</Image>
+      <Description>Reach level 60</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Aloha!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/325FA6B920E4A654C146F2BCBD485078C98E466B.PNG</Image>
+      <Description>Make it to Hawaii</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Learning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/78AF062FC70A084446335828FF3B04299E2498D8.PNG</Image>
+      <Description>Obtain The C4 license</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Racing School Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/4679DB7E3DCECAB4E9FD8A525E839505F6C24C42.PNG</Image>
+      <Description>Obtain all licenses</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>The Beginner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/0477FE4A3BCD4FE40A3E4011458208ED5B815DDA.PNG</Image>
+      <Description>Win a championship</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>King of Ibiza</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/19CED02E989233D608E222FEFE44DD864543F4F4.PNG</Image>
+      <Description>Win Ibiza Cup, area 1</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Coronation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/C6A34679D0B3EF5D9BFB398CF207D7FCED1CA754.PNG</Image>
+      <Description>Win all championships </Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Multi-Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/052DF438B48DA3DBFDB04073051344C0AFD6EE44.PNG</Image>
+      <Description>Win 5 challenges in each multiplayer mode (Race, Speed, Speedtrap)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Instant challenge, instant cash!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/E53DE9A33D46D32F02493CEC5B21C24E2AB03CEC.PNG</Image>
+      <Description>Earn $10,000 in instant challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Cockpit Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/A6E781856C8374A194FAEFEABB229D10A93EF242.PNG</Image>
+      <Description>Drive 500 km (311 miles) using the cockpit view (any game mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Fast and Luxurious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/2F3711ECFE68CCA65472E31C603641A96FE7F5B5.PNG</Image>
+      <Description>Drive at 400 km/h (249 mph) for 5 sec. (any game mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Say “Cheese!”</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/D9F5BDD5E985ED220726D2F064FD3101269616B2.PNG</Image>
+      <Description>Get clocked by the radar 100 times (Speedtrap game mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Tuning Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/DE0D3B6F63434A7C6CF10493CD6151CA45A4C8D2.PNG</Image>
+      <Description>Tune a car to the max level</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>My Beautiful Caravan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/F3AE11CFB229D275A82412622F4884CE17939B68.PNG</Image>
+      <Description>Own 1 house (caravan)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Subprime crisis?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/1D99CCD24BB88FD88C5B3461D6418F44DD0EF88F.PNG</Image>
+      <Description>Own one house from each level</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Fashion Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/E3B0571C26E0B40D1B7DB897F29AC236DD8033D5.PNG</Image>
+      <Description>Change your clothes or hairstyle 40 times</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Mummy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/B642FA0EFFE2BBFAFFF2C325BE855006F333F45D.PNG</Image>
+      <Description>Complete 20 multiplayer challenges with bandages</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Small Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/CFA2CE53901643D6804397C2FAD65E35E7F4F5AD.PNG</Image>
+      <Description>Own 3 different cars</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>One of each</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/7C272D203AC185DF3356DDFA2E25D8C6294BC064.PNG</Image>
+      <Description>Own a car from each category (A7-A6-A5-A4-A3-A2-A1, C4-C3, B4-B3)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>God of Cars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/F7474226C76BA7B27EB7D4B463334FEDC0384D5C.PNG</Image>
+      <Description>Own all purchasable cars</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Car-tist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/490D07E0BCEEE0ABEA06094F475EF2E032939AB5.PNG</Image>
+      <Description>Decorate 5 different cars</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Big Spender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/22318833E880F63249540A438BA10FBB86F3DBC5.PNG</Image>
+      <Description>Spend 1 million dollars</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Get rich or try driving</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/C38B31927E50A4CEFC019D13E306B13FB206B3E4.PNG</Image>
+      <Description>Possess 1 million dollars</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Reckless Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/AB7084BF821046AB5D95E29B28376C3DDD68DCF4.PNG</Image>
+      <Description>Drive around and hit 100 AI controlled cars and destructible objects</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Easy Money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/8C9C4535A150BA09437686D81DC71B82BDB17D09.PNG</Image>
+      <Description>Earn $100,000 with F.R.I.M.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Hard earned money</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/45B10B08B88B04DCB20FC15145EF4BFD29DF8D6B.PNG</Image>
+      <Description>Bank the maximum level of F.R.I.M. (10)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Kangaroo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/A722AA497542CE3658D707A8C115BBCA05FE0409.PNG</Image>
+      <Description>Make a 100 m (109 yd) jump (any game mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Cruising</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/696B3882508BD35DD09072489B9BB8476BA524D8.PNG</Image>
+      <Description>Drive 200 km (124 miles)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Road Eater</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/B6ECDEB44F2E7991893A47F5F555E8B09D888E7A.PNG</Image>
+      <Description>Drive 1000 km (621 miles)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>The Explorer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/C58A99005B1EE9C7C869CE301FF0BF815D3AE3ED.PNG</Image>
+      <Description>Drive 5000 km (3107 miles)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Helping hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/449C68E3C2FA00C6F7541B7FF622E756209C5025.PNG</Image>
+      <Description>Succeed in 10 missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Events Accomplished</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/614D4BC8D6585835381199B7E38A381E3ADC4C2F.PNG</Image>
+      <Description>Achieve all missions</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Ibiza Photographer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/2255A7B7C663744743FE0BCC005A0ABABF32834A.PNG</Image>
+      <Description>Find 5 viewpoints on Ibiza (photographer)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Reporter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/FD90CB2F2D3E1E810AA612A940FBD1775D0032A9.PNG</Image>
+      <Description>Find all viewpoints (photographer)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Hey! What's this car?!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/1708E7618B20854B08D3F26BABFD1CF31B2E2DEF.PNG</Image>
+      <Description>Own 1 bonus car (treasure hunt)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Tyrannosaurus wrecks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/D2CC90BDC1672DE6C9DCB5EFD1DB7C8203033533.PNG</Image>
+      <Description>Own all 6 bonus cars (treasure hunt)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Me against all of you</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/60CF3B711118A4ECC89BD56BACD1150A497E7AAB.PNG</Image>
+      <Description>Play 40 challenges in the Community Racing Center</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Social Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/E8CD25B58532BED7FFFF027B36A718E745968AF3.PNG</Image>
+      <Description>Join and invite friends 100 times (any game mode)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Better than a GPS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/1C9B1FF9194164F28DD32AE27B77C09D701D1376.PNG</Image>
+      <Description>Invite 10 players to drive with you in your car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Co-op Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/651E22CBF5A648A07523D26A29FAE2AF64210467.PNG</Image>
+      <Description>Drive 150 km (93 miles) in "Keep Your Distance" and "Follow the Leader" modes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Keep your distance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/4ADD91CFF7E29DC8D4C47CD68C2960701EEF73DE.PNG</Image>
+      <Description>Drive for 15 sec. above 100 km/h (62 mph) with 8 playersin "Keep Your Distance" mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Exclusive Car</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/562EF2D32433D1642DA77BC0BDA9987AE60252C9.PNG</Image>
+      <Description>Drive a Club car</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Exclusive CarS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/7913919793670076BC518B501C789BCA9B289B9A.PNG</Image>
+      <Description>Drive all Club cars</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>My Club and Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/CE9F18B4BCFD95EDFA22E900B841C9DC5B144F6E.PNG</Image>
+      <Description>Drive 150 km (93 miles) in intra-Club challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Club Basher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/11B777B6ABAEA6A90AC3B946D46F5ACEB037F775.PNG</Image>
+      <Description>Win 30 Club vs Club challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Marshall</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/4A2DC71838D37924886E15A144D15B3D9426F725.PNG</Image>
+      <Description>Arrest 30 outlaws in Online Chase Mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Fugitive Wanted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/2847007C58C4AE5994CC0D373F87D045BFE9FFE2.PNG</Image>
+      <Description>Outrun the police 30 times in Online Chase Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Risk Taker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/456D6DE2B62BCDCFDA7094330980E3C60E4B7EC1.PNG</Image>
+      <Description>Give up a Three of a Kind while playing Video Poker and win the next hand</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Island Caretaker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/A7767154D8EAE445DE1419D766CB4BA7789B875D.PNG</Image>
+      <Description>Wake up the Island caretaker</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Drinks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/FEA356EA7D6EE0AD574C0A6AD2400CCFBBB63447.PNG</Image>
+      <Description>Have 10 cocktails at once at a poker table</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Western</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/E42843FC2516340A667DAB3B8F87362B7449DF1D.PNG</Image>
+      <Description>Play the "duel" emote at the same time as your rival at a poker table for two</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Wanted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/8D6F00FFAFF085BB31C9068E289C38EBB2E50B99.PNG</Image>
+      <Description>Get the right look to get the reward</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>1-in-38 Chance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/7F10A14461FA52BB044FAA942F78B182B06872B1.PNG</Image>
+      <Description>Win a straight-up bet at Roulette</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Ready to play TDU2?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/B10A51CFAAD5FA2D7BA69055245E3DB02FD144E8.PNG</Image>
+      <Description>Get the luxury car displayed in the entrance hall</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Casino Fashion Victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/E9E479D927D745AE4C6B4FDCDA387865A67146B8.PNG</Image>
+      <Description>Buy all clothes available in the Casino Clothes Shop</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>Socializing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/AA9DA7ED7CC65C0FB6CF404C3AEC3DE0F9D557C6.PNG</Image>
+      <Description>Unlock all cocktails and emotes</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01227_00</GameId>
+      <Title>V.I.P.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01227_00_DE4F9008A30497FA0F70D6D3CA5F4C384C3C762B/42381B5E4E6984D896DEAA87B351FD3F4782BAC9.PNG</Image>
+      <Description>Become VIP of the Casino by reaching level 5</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

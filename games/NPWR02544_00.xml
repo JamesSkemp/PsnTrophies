@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02544_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Gladiator Vs</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/A15E94B3A5EDD41C476581F9DE0FB1342CE0A994.PNG</Image>
+    <TrophiesCount Total="49" Bronze="40" Silver="6" Gold="2" Platinum="1" />
+    <TotalPoints>960</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>プラチナトロフィー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/63CCCF19D942C15C9CB23FEACF0E248F1DFC6E8E.PNG</Image>
+      <Description>全てのトロフィーを獲得する</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>対戦で１００勝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/16494A0C03510DC09D1F368588BC0662C5E705CB.PNG</Image>
+      <Description>通信対戦で通算１００勝以上する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>全スキルを取得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/177FA94BBCE176E67C974E11646DF122B25FD871.PNG</Image>
+      <Description>全てのスキルを取得する</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>全ミッションをクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/CB39D64E2E2A51891938B1BF8A60918CB5F4D82F.PNG</Image>
+      <Description>全ての難易度で全てのミッションをクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>スタイルマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/2DE814E679FC167F0B1F9AFFF611902C5FE0C2D8.PNG</Image>
+      <Description>全てのスタイルをレベルマックスにする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>エンディングを見ました</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/0A2075E76889DD9F4829DE943C8B28975D171922.PNG</Image>
+      <Description>エンディングを見る</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>全ミッションをＡランククリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/ED5BE7A2EF426FA50CD5203D3DFD01D24FD6607A.PNG</Image>
+      <Description>全てのミッションをＡランク以上でクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>全ミッションをＳランククリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/128415DFF5DA0224FF66912330C64A35354CF64E.PNG</Image>
+      <Description>全てのミッションをＳランク以上でクリアする</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>パッシブマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/FD6A27009778659782ADB44BC57A4F3E16E5B582.PNG</Image>
+      <Description>パッシブスキルを全て獲得する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>剣盾レベル３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/40E792B73D45E70E979A19626E0CD5A4AA0640AA.PNG</Image>
+      <Description>剣盾スタイルレベルが３以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>剣盾レベル１０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/E8ECF74751B0B4AB9014CA5597C11AB77DD88F69.PNG</Image>
+      <Description>剣盾スタイルレベルが１０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>剣盾レベル２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/F955C0261F697166F4B7A06BD4502EA03B83F96D.PNG</Image>
+      <Description>剣盾スタイルレベルが２０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>二刀レベル３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/62C5133FDC74E3602256ABFF096ED38DF65F8754.PNG</Image>
+      <Description>二刀スタイルレベルが３以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>二刀レベル１０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/02D0DFBA824E3EC905990CB3836804CC3856479A.PNG</Image>
+      <Description>二刀スタイルレベルが１０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>二刀レベル２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/797ABFA032E4B917C09B3CD36BD4CF80FBC879DB.PNG</Image>
+      <Description>二刀スタイルレベルが２０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>格闘レベル３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/76452E7E502F1C6990FE34775C9C1C73078EEAFB.PNG</Image>
+      <Description>格闘スタイルレベルが３以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>格闘レベル１０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/83720348BE63DC375F857EC278FCF36E90C9F71C.PNG</Image>
+      <Description>格闘スタイルレベルが１０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>格闘レベル２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/AF0049BCFEA446A86E02B51606884818EB5C6591.PNG</Image>
+      <Description>格闘スタイルレベルが２０以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>新米魔法使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/9F517B06CA66152C5AC33A176B7E89EC94E02F23.PNG</Image>
+      <Description>魔法を２個習得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>半人前魔法使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/4EC85A78AB93ED47034559D64C9D6E787E3DF468.PNG</Image>
+      <Description>魔法を５個習得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>一人前魔法使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/E0290993F8813DD98FFE7E954E0C9D974153958F.PNG</Image>
+      <Description>魔法を１０個習得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>立派な魔法使い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/949DAB6F3107EEFC2304871057740E6445A479EC.PNG</Image>
+      <Description>魔法を２０個習得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>マジックマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/3BB748674FB8FBF1FD17F2E599769A1394D1E524.PNG</Image>
+      <Description>全ての魔法を習得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>ミッション１～６クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/3B083D85D91B5F5437B21D9463EC31590084BB8E.PNG</Image>
+      <Description>新米のミッション１～６をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>ミッション７～１２クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/8852830E0FFF42DE03BC857009E5B68130472A07.PNG</Image>
+      <Description>新米のミッション７～１２をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>ミッション１３～１８クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/43F22A1C9ADC76987DC0CA929A2CCD4ED5FCA60C.PNG</Image>
+      <Description>新米のミッション１３～１８をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>ミッション１９～２４クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/0A66F53828E0ABB5C6405158F676017C509B93CB.PNG</Image>
+      <Description>新米のミッション１９～２４をクリアする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>熟練クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/397E807FC5914090A2A86CAE76F42FA2A325D378.PNG</Image>
+      <Description>熟練の全てのミッションをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>猛者クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/FE58EE0882D0F4529D0C3B5A9F8DB2969972E109.PNG</Image>
+      <Description>猛者の全てのミッションをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>伝説クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/A8B7EDD0D9D843FB5CE2E3E649C3B34552F42672.PNG</Image>
+      <Description>伝説の全てのミッションをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>アサシン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/398D0CA4CC831EBD8C90ECDB42F94BA81C396786.PNG</Image>
+      <Description>通信で敵にとどめを５０回刺す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>英雄</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/586B61583205584FBBB9F99E0C0C33FC7AA15C9C.PNG</Image>
+      <Description>通信で敵にとどめを５００回刺す</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>初通信プレイ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/2195281C465B89C87AE4F641E76A037E0DDFA7CB.PNG</Image>
+      <Description>通信プレイを１回行う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>通信プレイ２０回</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/51E44249E6E07AEE136310EF88E5124EB21B506F.PNG</Image>
+      <Description>通信プレイを２０回行う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>通信プレイ１００回</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/E344F0C192FD1C3B7BC070AA19B9AC2F4642602C.PNG</Image>
+      <Description>通信プレイを１００回行う</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/52AB10F7E59FFCCDFE371D2A1A15D3F99B09595C.PNG</Image>
+      <Description>通信対戦で通算１勝以上</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>対戦で２０勝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/21D374942503AEDC52AA3044ED84CCBC2EC09F71.PNG</Image>
+      <Description>通信対戦で通算２０勝以上</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>初パッシブ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/112BBF90E89AF946112F351CDD4F470A56B8237B.PNG</Image>
+      <Description>パッシブスキルを１個獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>パッシブ１０個獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/C873113CE0481A69C5B7603B05A0074A92CFAB2C.PNG</Image>
+      <Description>パッシブスキルを１０個獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>パッシブ３０個獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/48052D1396B9CF49DF3FE13B5C0402719D9F4979.PNG</Image>
+      <Description>パッシブスキルを３０個獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>パッシブスキル６０個獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/979087D0F3145B232FFA6D0056F079400446F64F.PNG</Image>
+      <Description>パッシブスキルを６０個獲得する</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>お金は大事</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/7857484E1E0F468C309B17B8932BCFA0C59A810F.PNG</Image>
+      <Description>所持金が１００００以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>貯蓄大好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/03F7EB49DD959A8410A909F1A675675A67FC476D.PNG</Image>
+      <Description>所持金が１００００００以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>おしゃれ初心者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/644C0E787C382FE7C5420517FC1489BBBF4B3724.PNG</Image>
+      <Description>インナー上半身・下半身を３個以上所有</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>おしゃれ上級者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/6F9F374D1E60239041435873D587EC29AC8FC756.PNG</Image>
+      <Description>インナー上半身・下半身を５個以上所有</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>おしゃれ達人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/A743D31F0041C1C358B428F91BC9F315B0CF70FE.PNG</Image>
+      <Description>インナー上半身・下半身を９個以上所有</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>商品が少ない</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/5903BDD5BF46A1B1317E2F63D7C31CA9FD3BFCCF.PNG</Image>
+      <Description>売っているアイテムが１０個以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>店らしくなってきた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/B5A73EF6273FFA8EBA0B5BF116BD37CFCBE4C9FC.PNG</Image>
+      <Description>売っているアイテムが３０個以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02544_00</GameId>
+      <Title>デパートみたい</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02544_00_875A793C427B8BC216507C751895564CD3CF2DB2/68727FF468B6DFC69460809EBC43E97E5D174CC7.PNG</Image>
+      <Description>売っているアイテムが８０個以上になる</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

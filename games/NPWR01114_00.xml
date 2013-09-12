@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01114_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Ferrari The Race Experience</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/6F37B9A3D16F84912818CDE60DEEA188FFB34DEF.PNG</Image>
+    <TrophiesCount Total="44" Bronze="32" Silver="7" Gold="4" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Congratulations</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/A03D4716A69FD0FA0AFC7FE2677977C655D9E5FE.PNG</Image>
+      <Description>You have successfully unlocked every trophy in Ferrari The Race Experience.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Rame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/A811C4281EBA6DC82253E7B598BC56F507B43612.PNG</Image>
+      <Description>Achieve 1st place in the 348 Challenge Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Ferro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/FC10278D584FC74A190EB6F1D040C1F8DB91B223.PNG</Image>
+      <Description>Achieve 1st place in the 348 TB Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Perla</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/DFE1E1CDBBC7A667EE0399A0933C444CF2B599DE.PNG</Image>
+      <Description>Achieve 1st place in the F355 Challenge Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Topaz</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/AB0583233EEA5C8414F18936FBC16B2453361417.PNG</Image>
+      <Description>Achieve 1st place in the F355 Berlinetta Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Carnelian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/D36218FE1426837791AEC2EA6D9B2F9FC643688D.PNG</Image>
+      <Description>Achieve 1st place in the 360 Modena Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Tourmaline</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/C3DE6D9B714EBDBA59DD3729BF833FBB56252D04.PNG</Image>
+      <Description>Achieve 1st place in the 360 GT Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Mercurio</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/8C932D7D6ADD0C035CF6C28502C2E4FE38ED8E9A.PNG</Image>
+      <Description>Achieve 1st place in the F430 GTC Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Malachite</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/A7A017B9816C1B11A3EC449D0945555CE6BD1A95.PNG</Image>
+      <Description>Achieve 1st place in the 550 Maranello Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Acciaio</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/01E4F7C571469FA0FAEE5F6E94ECC206A92BFFBE.PNG</Image>
+      <Description>Achieve 1st place in the 575M Maranello Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Bronzo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/7179DF3427C101BE039479279349DAFAC4B447CE.PNG</Image>
+      <Description>Achieve 1st place in the 575 GTC Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Argento</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/E0223F272EB1C866522AEEA9DB85D192369BB2B0.PNG</Image>
+      <Description>Achieve 1st place in the F40 Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Oro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/6E1C8AE54D302C887E4883515764D938EE0A1A94.PNG</Image>
+      <Description>Achieve 1st place in the F50 Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Granato</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/C69B3970EC625BC35AECEC2FA9F06F02D4D80F3B.PNG</Image>
+      <Description>Achieve 1st place in the F333 SP Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Obsidian</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/CE311BB9E8EDC0FAA8CF7B4BDE12569AEA52630C.PNG</Image>
+      <Description>Achieve 1st place in the FXX Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Opale</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/41B992AC955745ECA5FED227F10DEE0C3325723F.PNG</Image>
+      <Description>Achieve 1st place in the 365 GTB4 Comp. Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Platino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/C32014D54185EDD3A4DB1C408AC4A65E11D393FD.PNG</Image>
+      <Description>Achieve 1st place in the 512 M Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Rubino</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/D6523B0E99B371F9237534CB139B79A1A167DBD2.PNG</Image>
+      <Description>Achieve 1st place in the 512 S Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Zaffiro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/D6E0FA5106DEECCA18BA24F3966BF2507FFBF721.PNG</Image>
+      <Description>Achieve 1st place in the 250 LM Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Smeraldo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/C0E533A998E5E802C63F3A9B704EF123885F4F51.PNG</Image>
+      <Description>Achieve 1st place in the 250 Testa Rossa Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Trofeo Diamante</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/EDE2B9DC40F57FE191C211BFB4263DB1582D315A.PNG</Image>
+      <Description>Achieve 1st place in the 250 GTO Trophy Event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>The Graduate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/956CED109C1038E703C423D52D3AF7CC7BBC4450.PNG</Image>
+      <Description>Complete Tutorial mode for the first time.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Hot Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/A2139C2E34901B7F3B37C08A4099624567AAB11A.PNG</Image>
+      <Description>Achieve 75% accuracy or above in all categories in Tutorial mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Italian Lap King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/04CA0A485CF1DC663352D0943D11B1AC4AAC5EF3.PNG</Image>
+      <Description>Beat the Lap Record on all Italian circuits in Time Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Euro Lap King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/9174C471E6136EF29AD8B3F64B735BE95A7EA53F.PNG</Image>
+      <Description>Beat the Lap Record on all European circuits in Time Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>North American Lap King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/5446866CC75F7B8FAECC2B3D807A17FF2B2F7AA9.PNG</Image>
+      <Description>Beat the Lap Record on all North American circuits in Time Trial mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Time Trial Lap King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/3C1F3CCF6011C5F9B8038F57295AE9890E0A44B5.PNG</Image>
+      <Description>Beat the Lap Record on every circuit in Time Trial mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Numero Uno</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/7BA1B067BC37CDBAD60D46F7ED3068FAD3145769.PNG</Image>
+      <Description>Achieve a pole position in a GT Race Series.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Prancing Horse</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/954A483EF85B2D7CFD661163E552B182E2B4F525.PNG</Image>
+      <Description>Complete a GT Race Series.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>First GT Race Series Win</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/558C421D1CF313888F382D05759EF728E1159D40.PNG</Image>
+      <Description>Win your first race in a GT Race Series.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>GT Race Series Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/31B4A27DAB67EE41F952A130ABDD3AD61DD335DA.PNG</Image>
+      <Description>Complete a GT Race Series with maximum points.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Double Whammy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/B1BF88FB1B88CD628F5A3D18E75038396327626C.PNG</Image>
+      <Description>Achieve 2 podium finishes in a Road GT Series.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Road GT Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/4F18E3BF5938EA83FDB3D77EE1C3B22F0F84CD92.PNG</Image>
+      <Description>Win a race at every Road GT Series circuit.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Road GT Series Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/498C526783F9152501BE2CD39A5E81980345CCD8.PNG</Image>
+      <Description>Complete a Road GT Series with maximum points.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Classics Race Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/14797613CD16E279A43453ED263BD2D5A91F1D57.PNG</Image>
+      <Description>Win a race at every Classics Series circuit.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Classics Series Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/ADCFDB017D5313788B408509712CAC1E91904C76.PNG</Image>
+      <Description>Complete a Classics Series with maximum points.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>The Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/58209019C5FAE1023CE6A128686ABF344935660A.PNG</Image>
+      <Description>Complete Expert difficulty in Arcade mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>The Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/BEDE2207FAB09AAFE5F202DC56F2EBF5DE6A812C.PNG</Image>
+      <Description>Complete Legend difficulty in Arcade mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>Arcade Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/EAB497136E83598D4D9C9DFE182532C141FE9EEB.PNG</Image>
+      <Description>Achieve a gold trophy in every Arcade Mode Difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>First Across The Line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/649BDF1ADEC29E16E84ED01F63A8BB0BAEF7572D.PNG</Image>
+      <Description>Place first at every circuit in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>New Wheels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/AF7132D874CF9DDCC864DF6ABAD9A35A7611FA44.PNG</Image>
+      <Description>Buy your first car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>100 Wins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/6DC55547B74300F42788359DDBEC62986D8A64A8.PNG</Image>
+      <Description>Win 100 races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>2000 On The Clock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/48F7E1B81684AFC78A5B6C73068A84BAF463574A.PNG</Image>
+      <Description>Race a total of 2000 miles.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01114_00</GameId>
+      <Title>The Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01114_00_CFB3E60EE29583EE37BE451E44E3FFDC446601C8/1C8E3B1775ACC3DF55831CB542C3497E1043B3AF.PNG</Image>
+      <Description>Buy every car available in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03500_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Saint Seiya: Sanctuary Battle [ES]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/DD4DDF3D5595441F28E79B1D6D1F9E2C6078E85F.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Lenda Eterna</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/2F4569FC70F8D1B45B35F796744FC4AE5FA02CC9.PNG</Image>
+      <Description>Colete todos os Troféus</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Batalha das 12 Casas de Ouro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/66C4AD3B7B3219EFEDDDF68D5F26E577ACCD5D38.PNG</Image>
+      <Description>Conclua a Casa de Áries no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Aldebaran, o Touro de Ouro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/80190B9893DD0DCEBB04DF7E414FCFB4A4967125.PNG</Image>
+      <Description>Conclua a Casa de Touro no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Labirinto das Ilusões de Gêmeos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/1D363B440114B0D2BFD1072172552DD1E9FD13C7.PNG</Image>
+      <Description>Conclua a Casa de Gêmeos no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Entre a Vida e a Morte</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/B094863975BF508CCB6DFCF48D3B87342BBA2A69.PNG</Image>
+      <Description>Conclua a Casa de Câncer no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Acorde, Aiolia!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/4F07185FD86F2196E2AA968709F43844F7B618BC.PNG</Image>
+      <Description>Conclua a Casa de Leão no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>A Fênix Ressurge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/2CE09E2DE491EE659B88528742BDA21576A2C636.PNG</Image>
+      <Description>Conclua a Casa de Virgem no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>A Espada de Libra</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/56B508FFCB54570D141C90D121C571CC5C2173C3.PNG</Image>
+      <Description>Conclua a Casa de Libra no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>A Última Agulha Escarlate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/630000202CA9F80F51FEECC611B206679F2781F5.PNG</Image>
+      <Description>Conclua a Casa de Escorpião no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Atena é Sua</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/8CE11DC4777EE6AEC08C2FB1AE5BB06B232322E3.PNG</Image>
+      <Description>Conclua a Casa de Sagitário no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>O Golpe Proibido</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/82C6588AAF318938F598CD88B70890B0DC54F070.PNG</Image>
+      <Description>Conclua a Casa de Capricórnio no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Em Busca do Zero Absoluto</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/50C125DDAA0C412D8C092618F1679418E4EF0A71.PNG</Image>
+      <Description>Conclua a Casa de Aquário no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>A Corrente Nebulosa Explode!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/7BA56762DDB3D00A9F85D6C0CC82786A017462FF.PNG</Image>
+      <Description>Conclua a Casa de Peixes no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Loucura Divina de Saga</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/93D00E88416FA2DF80A3AFAD183A5503E1585A3C.PNG</Image>
+      <Description>Conclua a Sala do Grande Mestre no Modo História</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Saori Resgatada</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/779AE54283400EE4201619F08235047A7ED88B6A.PNG</Image>
+      <Description>Salve Atena no Modo História (em qualquer dificuldade)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Há Treze Anos...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/CA63F95CE579359570D7398B6DC1CDB6F9F388AF.PNG</Image>
+      <Description>Conclua a Saga de Aiolos no Modo História (em qualquer dificuldade)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Fim de uma Lenda</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/4C6694A240CCEECCC1D0F0C9E497212665C00021.PNG</Image>
+      <Description>Conclua todas as histórias e fases no Modo História (em qualquer dificuldade)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Cavaleiro da Esperança</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/ADA60E2A6CB0747BB91CB4CFFFE0C3F57838020F.PNG</Image>
+      <Description>Termine a saga do Santuário do Modo História na dificuldade Normal (não comece em Escolher Fase)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Cavaleiro da Velocidade</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/AE77ABDEB6C5AD4D533C6A63BA2202EC8EDF99D3.PNG</Image>
+      <Description>Termine a saga do Santuário do Modo História na dificuldade Difícil (não comece em Escolher Fase)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Cavaleiros da Deusa</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/8661D222E5E75F7B620A264F474FC808490682FD.PNG</Image>
+      <Description>Termine a saga do Santuário do Modo História na dificuldade Bronze (não comece em Escolher Fase)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>A Lenda Renasce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/FB61DF1B0246A13488A3187A290BD63EB0AF72D9.PNG</Image>
+      <Description>Jogue a saga do Santuário do Modo História do começo ao fim sem usar nenhum continue (em qualquer dificuldade)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Pensando em Shina</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/307446C4762B4242890642C09255469A6632C083.PNG</Image>
+      <Description>Derrote Cassius</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Elogie Minha Beleza...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/E99A5546C71458FFDA6D86B5877D0FB5483894E2.PNG</Image>
+      <Description>Derrote Misty</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Extermínio de Cavaleiros Negros</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/680A403CCA60B7BBE547F7DDF5419D50A26FA048.PNG</Image>
+      <Description>Derrote todos os Cavaleiros Negros</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Digno do Grande Mestre</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/86D564C0D5B779C53015886C5702CB1D7D9B1AF3.PNG</Image>
+      <Description>Vença 100 batalhas contra Cavaleiros de Ouro</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Só Posso Confiar no Meu Poder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/AC393850D188535272ADC842E1B89A7A0AB55564.PNG</Image>
+      <Description>Vença uma batalha de chefe (contra qualquer oponente) sem usar nenhum continue</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>O Verdadeiro Vencedor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/0D024D9E3D393F415D819A120CCBF3B9C5AD6EC9.PNG</Image>
+      <Description>Vença uma batalha de chefe (contra qualquer oponente) sem sofrer nenhum dano</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Domínio Sem Sentidos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/5318BA9BAE377D409143AE81EC75FA94B267C6DA.PNG</Image>
+      <Description>Vença uma batalha de chefe (contra qualquer oponente) sem usar o 7º Sentido</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Começo da Batalha</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/6464ED560E1A2878A1DB01436C87CE02704DE9D7.PNG</Image>
+      <Description>Conclua um percurso de Desafio Solo no Modo Missão</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Fim da Luta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/B76D8AA9726E48CC417A2C8858FA6870C8FC4D4D.PNG</Image>
+      <Description>Conclua 10 percursos de Desafio Solo no Modo Missão</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Depois da Luta</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/D408198AFA6EB193DB0B2BEEC8FC5CADCA9C6816.PNG</Image>
+      <Description>Conclua todos os percursos de Desafio Solo no Modo Missão</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Vamos Morrer Juntos, Meu Irmão</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/7EDB429FE9F890069EE98D642B8FD2B3E0D6D17F.PNG</Image>
+      <Description>Conclua um percurso de Desafio Coop. no Modo Missão</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Não Preciso da Minha Armadura!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/46EF0AF1F9DA621F3FC2090CD3E8FF2F8D47572F.PNG</Image>
+      <Description>Conclua um percurso no Modo Missão com um personagem que tenha tirado sua Armadura</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Estamos Todos Juntos Nessa</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/CD63004A462253F7DED6C9202A3CA8833B03030C.PNG</Image>
+      <Description>Desbloqueie todos os personagens na tela de seleção do Modo Missão</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>O Mesmo Ataque Nunca Funciona Duas Vezes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/6CB5014809136775BE89868E8058D7112F359743.PNG</Image>
+      <Description>Use todos os Ataques Big Bang de todos os personagens</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>O Guerreiro Inabalável</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/858DDF2B1FA0845EEAACB41A59A8C941043F481A.PNG</Image>
+      <Description>Ganhe classificações A em 10 fases ou percursos</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Sequência de Milagres</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/B6415AE6F6ED1A96F9BEC197D300C4826A1CB084.PNG</Image>
+      <Description>Ganhe classificações A nos modos História, Desafio Solo e Desafio Cooperativo</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Habilidades de Cosmo Liberadas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/306F538D211DC397061F013D354901B037BB3A54.PNG</Image>
+      <Description>Use todas as ações de Queima no modo de Queima de Cosmo</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Big Bang Liberado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/6E1D663D9D8C07F0AF8F76A742440E5EAC558B0E.PNG</Image>
+      <Description>Use um Ataque Big Bang pela primeira vez</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Despertar</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/D89F3CFA04320D4702A38C9840E995BC2BC21B4C.PNG</Image>
+      <Description>Ative o 7º Sentido Real sete vezes</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Vou Remover Já!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/94BD82EB3D023F616A439D1665A227199FE7E9B6.PNG</Image>
+      <Description>Como Shiryu, retire sua Armadura</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Sabia que Viria por Mim!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/E7B55BB2778E02968EAA8F2F7D0FB894F8C06188.PNG</Image>
+      <Description>Faça Ikki aparecer ao continuar como Shun</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Uma Verdadeira Fênix</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/C2FD083862D5493653981E022B32749AD388EFD8.PNG</Image>
+      <Description>Como Ikki, coloque de novo sua Armadura depois de removida</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Uma Guerra de Mil Dias</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/03ACFBE31B1AF19379E9825976E5830DD958C504.PNG</Image>
+      <Description>Use um Cavaleiro de Ouro para derrotar outro Cavaleiro de Ouro</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Pulverizando até os Átomos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/091F302F576E3D51771C03381504451499B092E2.PNG</Image>
+      <Description>Destrua 100 objetos quebráveis</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Desvie das Agulhas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/48E10610CA3B92FE7E922343A8758C7AEA38B533.PNG</Image>
+      <Description>Derrote Milo de Escorpião sem ser atingido pela Agulha Escarlate</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Rompa os Céus e a Terra</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/F3E652A7DF3AB1EE13CB96C8C7105CE5B16AB4EA.PNG</Image>
+      <Description>Use Pontos de Cosmo para melhorar suas habilidades</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Até as Galáxias</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/C76D8DDD0FDA704262DD3061F94C0E2B492D9520.PNG</Image>
+      <Description>Envie os dados do Modo Missão para a classificação on-line</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Mestre em Estancar Sangramentos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/6AA14B55573A2B0F65DCDC147419E7684B413C61.PNG</Image>
+      <Description>Use Shinoten 10 vezes para salvar amigos em percursos de Desafio Cooperativo</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03500_00</GameId>
+      <Title>Axia Completo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03500_00_BA25C7344393642901D06A8E00FBE0702A33063D/AFA81A6FB66E41247CB198D93B3081799AA74F5A.PNG</Image>
+      <Description>Complete sua coleção na galeria</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

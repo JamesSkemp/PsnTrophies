@@ -1,0 +1,347 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01255_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Trinity Universe</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/E29AE17EDFD8D9EBE9D2C447203CD36B6EF6A27A.PNG</Image>
+    <TrophiesCount Total="37" Bronze="22" Silver="9" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Platinum Prinny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/CFA4F1B62BEE61C50BBC2974EC0DEDFB6327FF11.PNG</Image>
+      <Description>All that work for this, dood?</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Everybody's Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/21862EF9CD649C45EF41D8D51196BA285F3343CA.PNG</Image>
+      <Description>Defeat more than 100 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Planetary Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/4F445C9634820EAD6856B646D0828E7880718BA4.PNG</Image>
+      <Description>Defeat more than 300 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Galaxy Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/4801A05716CFBC4BEEA9B905C326F9F6B42923A2.PNG</Image>
+      <Description>Defeat more than 800 monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Seeker of Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/9BA2AF45A64CE20DC148A8C86DD1FE95F2AF7D71.PNG</Image>
+      <Description>Win in battle 30 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Seeker of More Victory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/039E8519539002C92F5B8E9AE59EB86647BAC4BD.PNG</Image>
+      <Description>Win in battle 100 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Seeker of Annihilation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/40AB431E4CA37CC3EDA6AF8D951ACD514F207DBD.PNG</Image>
+      <Description>Win in battle 300 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Power of the Earth</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/75B3F9077FEAFE29AC2E03168EE93C7807AB8989.PNG</Image>
+      <Description>Total Damage in a Fury Chain exceeds 10,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Power of the Sun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/10A3FE95CBD8021CD493891800A4BAB958B16D9A.PNG</Image>
+      <Description>Total Damage in a Fury Chain exceeds 50,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Power of the Cosmos</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/66987D395C34708F658288806BBD67971CC98A2B.PNG</Image>
+      <Description>Total Damage in a Fury Chain exceeds 100,000.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Be the Space Debris</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/32EEF9DEEC674C438D862BC5723F47098EFD0F96.PNG</Image>
+      <Description>Hit Count in a Fury Chain exceeds 300.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Be the Comet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/B29926B412680654F8F90CEDCA29F870E0FFC685.PNG</Image>
+      <Description>Hit Count in a Fury Chain exceeds 500.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Be the Shooting Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/95CB376FFF2E563FDFC4E26D015CF0E2C4C0F206.PNG</Image>
+      <Description>Hit Count in a Fury Chain exceeds 700.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Art Appreciation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/158BF789A50A6BD8EDEFA8E4191D116D41AA98A2.PNG</Image>
+      <Description>Obtain 10 Managraphic Images.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Treasure Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/76A8344C16DC744255FA55FD4F00110C9A3C5370.PNG</Image>
+      <Description>Discover 30 concealed treasures.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Space Cleaner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/AB964211248DCC79F2B9124580965ED7065C772D.PNG</Image>
+      <Description>Drift 10 dungeons out of orbit.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Bourgeois</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/BBCB034757FCA493737F1CE4721B79E33BCF616C.PNG</Image>
+      <Description>Spend 100,000G at the Shop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Managraphic Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/76605DC9B1AEBAFCD5E2451D9A301E59129A0A69.PNG</Image>
+      <Description>Spend 1,000,000G at the Managraphic Workshop.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Galaxy Miser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/80E994B3298EC0304B92D6E2921ED1ED86E0B0A3.PNG</Image>
+      <Description>Hold over 1,000,000G.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Meteorite Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/11C1B6898CFB03761E8E512616D2BF7BF5B33ED2.PNG</Image>
+      <Description>Create 100 Meteorites.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Material Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/15E266A02567E574BCD88762C01535FF4948FE66.PNG</Image>
+      <Description>Synthesize 100 Items.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Monster Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/E229177F3D259BB7E34DAA9F583737CC6117F2B9.PNG</Image>
+      <Description>Create 100 Monsters.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Space Tourists</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/54B49A54F0FB0C6E5E0D3F901F65B030E2191B5F.PNG</Image>
+      <Description>Let yourself drift out of orbit 50 times.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Game Maniac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/BD80D1C7E64D9BCDA6758FB0B58F286C029E4C0F.PNG</Image>
+      <Description>Get over 1,000,000 Evaluation Points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Shopaholic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/CAB09970A8D76860691563CE6CBCA1E8F2F08842.PNG</Image>
+      <Description>Spend 1,000,000G at the Shop.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Closet Otaku</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/50944F87F24D4C1CCDB4CB763205777B25CA7039.PNG</Image>
+      <Description>Obtain 30 Managraphic Images.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Museum Curator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/478F0C04DE1CEDCF5DDFA842E74952F4E61FFD1A.PNG</Image>
+      <Description>Discover 60 concealed treasures.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Be the Meteor Shower</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/BD7DBE7602500279789A560C01BBCF650C8279B2.PNG</Image>
+      <Description>Hit Count in a Fury Chain exceeds 1,000.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Power of Creation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/B3592A08AA682DA88281FA4643C6F7F50AAA3A9C.PNG</Image>
+      <Description>Total Damage in a Fury Chain exceeds 300,000.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Seek Obliteration</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/82D28D7D2B6A1CD20FF2D9C71EAD2A96EE3A11F6.PNG</Image>
+      <Description>Win in battle 500 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Space Scrubber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/3ED78656E9796627A751205801BF32167D08536B.PNG</Image>
+      <Description>Drift 50 dungeons out of orbit.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Deep Space Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/492BE531232DFE658ED3C729A92D1FEBD333307E.PNG</Image>
+      <Description>Defeat more than 1,300 monsters.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Hero of the Universe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/CDC2B71F860F48BCDAD6C1013FFCE12EE93519A2.PNG</Image>
+      <Description>Defeat more than 2,000 monsters.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>What is truth, dood?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/1B4CB3A2BA38131387EAD5A877EB76997BD95C96.PNG</Image>
+      <Description>Complete the true ending route.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>Space Activists</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/5B04B2A21EAB375B73B80E3B25CEC15C659A746A.PNG</Image>
+      <Description>Drift 100 dungeons out of orbit.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Debtor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/6AC87450824ED420F0139B78999A7F61CE979607.PNG</Image>
+      <Description>Spend 3,000,000G at the Shop.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01255_00</GameId>
+      <Title>The Strongest Harem</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01255_00_1C7DD2F75B24ADDFEC7D3A4E32D5AEB5C24AF645/B0470F7721A2D4CA097056FEBC547E6E52362F95.PNG</Image>
+      <Description>Every character's Level is 100 or higher.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

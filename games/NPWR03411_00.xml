@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03411_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Blood Knights</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03411_00_0105F57A9E1D28BC5327E564372833E26F3E488939/B39F51644CFE2D2675D40EC84B688D114E9878F0.PNG</Image>
+    <TrophiesCount Total="12" Bronze="11" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03411_00</GameId>
+      <Title>A former ally</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03411_00_0105F57A9E1D28BC5327E564372833E26F3E488939/453B77C501D38CBB475DCB7128AD12AD0728E28A.PNG</Image>
+      <Description>Kill one of your former friends</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

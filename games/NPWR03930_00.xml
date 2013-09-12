@@ -1,0 +1,311 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03930_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Virtue's Last Reward [EU]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/02F269531063327065F02126F1CCA30F0DCDDDED.PNG</Image>
+    <TrophiesCount Total="33" Bronze="17" Silver="10" Gold="5" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Virtue's Last Reward</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/13B7A5CC57070AF6D0FBE38F67BFFE10F9898ED8.PNG</Image>
+      <Description>Acquired all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Bachelor of Escapology</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/D9BEB7D28F0E5C12D49D26318AF33D16A5109EE9.PNG</Image>
+      <Description>Escaped from the elevator.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Master of Escapology</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/4B85456D9F062E13F19362ADC3F06174E1EE1503.PNG</Image>
+      <Description>Escaped from eight rooms.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Doctor of Escapology</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/9044412FEF038C0F2622943E5AA557220492C14F.PNG</Image>
+      <Description>Escaped from sixteen rooms.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Escapey</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/D3A03F0ECCF656E90CD774971A3F6E258087B673.PNG</Image>
+      <Description>Escaped on Hard difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Escapest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/63284520FF6947D42B680A5D65F8EDF99A1F2E1E.PNG</Image>
+      <Description>Escaped everything on Hard difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Classified</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/A1DB477E1BC641B2298490490ED46FA1D8707A74.PNG</Image>
+      <Description>Found a secret.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Redacted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/8A30C3770AACA8378BA93119BA8E426BA946FEF3.PNG</Image>
+      <Description>Found ALL the secrets!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>An Eidetic Experience</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/F3E202A21ED031574D536B9D96573DAD23336989.PNG</Image>
+      <Description>Found a file.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>A Consumate Collection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/5854E402AC045C3C0A3456C0AFD2C3B77D722D2D.PNG</Image>
+      <Description>Found ALL the files!</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>To Each According to His Needle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/ED566FEDF9B942D4A8F143C90D00E4183FB5D67D.PNG</Image>
+      <Description>Opened the first lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>I Can't Believe It's Not Murder!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/0343064C9A82DF88BFD392D63E87C4C760382348.PNG</Image>
+      <Description>Opened the second lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Gotta Hand It To You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/F590F973B3D697B599D8A556B232E4C508051228.PNG</Image>
+      <Description>Opened the third lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>If I Told You You Had A Nice Antibody...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/8341F817E525D0F8BABC7FD0F8176257B3DA8A6B.PNG</Image>
+      <Description>Opened the fourth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>He Was Convicted of a String of Numbers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/64D12F5EAD3743CE31A3C1F42B1BCAC4EC1255D0.PNG</Image>
+      <Description>Opened the fifth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>No Lying Down On the Job</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/D0DB5AF0BA317C9BF362A6DAA4A433139BBD6B5C.PNG</Image>
+      <Description>Opened the sixth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Who Set Up Us The Bomb, Part 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/96AFE1F8F635ECEEB7EBFAE6A8507208B87DD25F.PNG</Image>
+      <Description>Opened the seventh lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Why'd You Do That, You Dumas!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/3C109E5113A9EE88639722F49B77C8CE564BBC8C.PNG</Image>
+      <Description>Opened the eighth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Who Set Up Us The Bomb, Part A</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/36ED0FEE3F0489C51EF002C208A62B2CAE55D8AC.PNG</Image>
+      <Description>Opened the ninth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Some Days You Just Can't Get Rid of a Bomb</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/BCE3B7CFBA677621DEF770FA748E2F8716FB0CE7.PNG</Image>
+      <Description>Opened the tenth lock.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Every Ending Begins Somewhere</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/C30AB0DFA18738F527C0D8BE53DA0592D632C336.PNG</Image>
+      <Description>Saw any of the endings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Tears in the Rain</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/ACEB10339780D35905B5DFBAD01BF5BBC0FCFA14.PNG</Image>
+      <Description>Saw Luna's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Through the Looking Glass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/245D7BFCF06C44E86961B46B9592C30F598694CC.PNG</Image>
+      <Description>Saw K's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Behind Blue Eyes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/C13976C45D92B2D5650D003886C0A6D52906F58D.PNG</Image>
+      <Description>Saw Dio's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>In Root Beer Veritas</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/F369905BA3A5678BEACCAE05613245E048131A08.PNG</Image>
+      <Description>Saw Tenmyouji's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>An Equal and Opposite Reaction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/94EF447A9B6EBB0BB72161AAE26F08ED059F688E.PNG</Image>
+      <Description>Saw Quark's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Secret Agent Woman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/C28D8A25179034736081B7B7D33759F65F2DEB37.PNG</Image>
+      <Description>Saw Clover's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Best Served Cold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/350AD51EB1254A0026AB3DF3627335E0DD2EF41E.PNG</Image>
+      <Description>Saw Alice's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Arms Race</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/CC94EC4A8543215D73D8A9EC2EA6E6AA48A1327B.PNG</Image>
+      <Description>Saw Sigma's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Time After Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/5D9B3D4B7858E8AAB82E373E1682D34EF21331A0.PNG</Image>
+      <Description>Saw Phi's ending.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>Fire and Ice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/4B4C3034B37C10A11A1444BC32E370F2BD5AAD55.PNG</Image>
+      <Description>Saw the end. Or maybe the beginning?</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>A Certain Point of View</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/F3B69F51A57FC4C01031148862BA91FF3757ECCA.PNG</Image>
+      <Description>Caught a glimpse of another time.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03930_00</GameId>
+      <Title>That Wasn't Supposed to Happen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03930_00_00F11C943E19C41FF050DD82BD96D8A424F190A29F/2A5E08C69D8E0DE5FED8BD696252CE184DDF6E0E.PNG</Image>
+      <Description>Saw any of the bad endings.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

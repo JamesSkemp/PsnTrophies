@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00972_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Puzzle Chronicles</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/BFF703AF42B8DB2090A61C23E318C4E547FD92BA.PNG</Image>
+    <TrophiesCount Total="12" Bronze="8" Silver="3" Gold="1" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Humble Beginnings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/DFA5849C3891968819160C8FDF1C093C68F9F4CB.PNG</Image>
+      <Description>You’ve learnt what to do. Every hero has to start somewhere.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Zombie Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/24EA6DBAD1CDA6D3EB7E4FBD6B27A978E6EC8073.PNG</Image>
+      <Description>You don't need a shotgun or chainsaw to defeat the Undead, just a weapon and some gems.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Basilisk’s Bane</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/89AB75F196E89A6AB69B65D5FE29FB8ED9612722.PNG</Image>
+      <Description>With all the dead snakes in the jungle, maybe you should open your own restaurant.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Giant Slayer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/ABD0CCA43FE6C266F5414268054D02FB6C2A4D1B.PNG</Image>
+      <Description>The arena may miss him, but you won’t. After all, he was just a big purple dude.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Story’s End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/37A6CEB04BD0C5194C964BB044DEC5BF5C4C6FAF.PNG</Image>
+      <Description>Our hero's saga may go on, but this part of the story is over.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Conquering Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/4633DBB0C7B18D65CA93138EF45B824600187488.PNG</Image>
+      <Description>You’ve shown the world you’re no pushover.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Skillfully Done</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/96D0835BAD5AF7BE361B1395AEDE1C293459CCC4.PNG</Image>
+      <Description>Now you're beginning to look like a Hero.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Dungeon Delver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/3AD74B77E4C88D4B783A5C7A57F7DDDF16E13906.PNG</Image>
+      <Description>Monsters beware, lest your head end up on the wall.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Finder of Secrets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/3ED4B7EA19043C635F190D6BCA64CE8881D9DABB.PNG</Image>
+      <Description>Persistence isn't its own reward, secret locations are!</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Dog Trainer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/03A5C80400762B4717939BA8D43B82E05E359E62.PNG</Image>
+      <Description>Okay, he's house-trained, but can he herd a bunch of sheep?</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Craftsman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/59BF084A89B7564700916FAFDA4760E966FE061D.PNG</Image>
+      <Description>You're getting good at this whole crafting business.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00972_00</GameId>
+      <Title>Deathbringer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00972_00_6D95F3EEC92FAF366F9B70D4ADBD794555A54FB7/A82DA93B189FFA9E89E73BB0B05F5197D1B08DF3.PNG</Image>
+      <Description>That's it! There's nothing else to do.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

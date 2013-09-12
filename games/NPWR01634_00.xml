@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01634_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Space Ace</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/5AF929038D7D6108DE514B425A4E27CB3787C8FB.PNG</Image>
+    <TrophiesCount Total="8" Bronze="3" Silver="3" Gold="2" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Regain Your Manhood</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/5E51E67A47631A1FCA1731BECAF0E515DA49EAA3.PNG</Image>
+      <Description>Energize in the First scene</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Just Dex</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/01B47366EE31DA4BC76D49449FBC635BC177ED36.PNG</Image>
+      <Description>Complete the game in Cadet mode, with Infinite Lives</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Get the Popcorn</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/DB5FA69343EA5F22034E2402AF495CEE79293085.PNG</Image>
+      <Description>Watch the entire game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Oh Captain! My Captain!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/E24B2CCC192C9990BA3AF38426AF6A4E22061C3A.PNG</Image>
+      <Description>Complete the game in Captain mode, in 5 Lives mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Call Me Ace</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/20DF6C626019E86EBCCA7C885E74E6F2669E661E.PNG</Image>
+      <Description>Complete the game in Ace mode, in 5 Lives mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Infantilized</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/788526983C358A4FB46C4C2F6275547384A42322.PNG</Image>
+      <Description>Complete the game without Energizing in all but the final level</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Go Go Ace!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/7C9BF989C7C2E52C29D46EE49748098189A95803.PNG</Image>
+      <Description>Complete the game Energizing in all scenes - (Ace mode, with 5 Lives)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01634_00</GameId>
+      <Title>Borf Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01634_00_64FC7C441BF5B1DA57355F300D747A45B7CE1D64/A3538BA603E3968BF452077856C9E839C1221163.PNG</Image>
+      <Description>Complete the game in Ace mode, with no Move Guide, in 3 Lives mode</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

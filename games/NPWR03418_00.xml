@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03418_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Yakuza HD</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/157CD40E973F38D800C167D30FF228FAFA2FC5B1.PNG</Image>
+    <TrophiesCount Total="50" Bronze="40" Silver="6" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>プラチナトロフィー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/27F32C491AF7F2B76377399FB110641787C3D2DF.PNG</Image>
+      <Description>ゲーム中の全てのトロフィーを取得した</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス01撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/ADC40CC80F4A17F4AA8C0490DCBFFF1638293344.PNG</Image>
+      <Description>第3章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス02撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/4AC4ECD6BA27726E69755A44CFF2661C6EDC0932.PNG</Image>
+      <Description>第4章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス03撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/BFDD2A1090C6D23B90B6444C5106F9F37A2E93BE.PNG</Image>
+      <Description>第5章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス04撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/AA12F3B99D2996AD5E306692CB64BB35C2B40A98.PNG</Image>
+      <Description>第7章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス05撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/D03A2ADCC04436D37550512D17402A61FA5DCAC6.PNG</Image>
+      <Description>第8章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス06撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/092E2F9610DA52705AC69B26A6B749B5823755C7.PNG</Image>
+      <Description>第9章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス07撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/A3E39A2679319D62806CD9A05830A0006C7A1BE4.PNG</Image>
+      <Description>第10章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス08撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/B8566CA404BBE70E06E3B65A929522A2FBFB1A3F.PNG</Image>
+      <Description>第11章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス09撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/8DAB19E9555FF094A28DF44769B306282778BBAE.PNG</Image>
+      <Description>第12章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ボス10撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/38E42AC98F9BF51EA5B10746D42C064996A7BC5D.PNG</Image>
+      <Description>第13章のボスを倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>感謝　-スタッフ一同-</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/D76306AB72CDA94D2FCBF5245B4FD5576B55186C.PNG</Image>
+      <Description>最終章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>真の終わりへ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/1BC5BBED467F59275FE69571240DEF49E2EDEC03.PNG</Image>
+      <Description>NORMALモードでゲームをクリアした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>サブストーリー4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/41E9643BE0DDA9DD9D7E42AFDAA304895DEDD2A1.PNG</Image>
+      <Description>サブストーリーを4個クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>サブストーリー20</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/068E833B9ECA57A8EF9D9F3DE8D750BA261EF2CB.PNG</Image>
+      <Description>サブストーリーを20個クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>サブストーリー40</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/97CC7F737476D564ECFDAD5F492062031022235A.PNG</Image>
+      <Description>サブストーリーを40個クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>亜門撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/A062EC58A3495FC935411E1012CA783AB145DE2F.PNG</Image>
+      <Description>亜門を撃破した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>神室の食通</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/9D0B4F878ED4D4BF6F08AAAC667228E56E2DE2F1.PNG</Image>
+      <Description>全ての飲食店で全てのメニューを注文した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>グルメマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/AA977B651F757531EB8056235241D7AB877FE22F.PNG</Image>
+      <Description>全ての飲食店で一番高いメニューを注文した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>キーマスターへの道</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/9C057C8A20937F3C5A90B45AE4555BCBB46E8ED0.PNG</Image>
+      <Description>コインロッカーの5箇所をオープンした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>キーマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/7456442CBE0E19C596D02AF86F7FACA6B10E2562.PNG</Image>
+      <Description>コインロッカーを全てオープンした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>神室町暴走王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/3E4C3C9CF639770D82314C0774EBE223E5902B0E.PNG</Image>
+      <Description>街の人と1000回ぶつかった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>歩く銀行</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/45AF26D95344DE4DB9B4AB13A37D4D4048FEE1B9.PNG</Image>
+      <Description>所持金が500万円を超えた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>タクシー・マニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/B2253FA0A3956357F263E6791F2B98271FFF3DF3.PNG</Image>
+      <Description>タクシーの全ルートを利用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>基本を学びマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/F674B123F3EDAA873E92B67174ECA973B6D8BD55.PNG</Image>
+      <Description>チュートリアルをクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>百人斬り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/256DAF7924173F9835DA588F581B2A553C5C3634.PNG</Image>
+      <Description>敵を100人倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>一網打尽</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/096321B7E046D363840817FA9E60774DA10286A7.PNG</Image>
+      <Description>敵を3人同時に倒した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>神室町無双</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/EC1BE2C62A62BDCD8EC3498B4A02A2A5E192D541.PNG</Image>
+      <Description>攻撃を食らわずに連続で敵を25人倒した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>エスケープマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/34AF56A8FC1208E49FD9105BFF70FBDA6FAEA34A.PNG</Image>
+      <Description>敵を15回振りほどいた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>デストロイヤー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/384CCFF783235D304CEDCBD73299D0F79E71A0DA.PNG</Image>
+      <Description>武器を100個壊した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>最強の男</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/678873172F6FEC19347E64FAD1C60421EFBDC128.PNG</Image>
+      <Description>心技体を全てLV.10にした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ヒートアクション・マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/664EF66ED08969CF07D64BB2F5F99086EEB1AF65.PNG</Image>
+      <Description>ヒートアクションでバトルフィニッシュを50回決めた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ウェポンアタッカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/EC4AC6946CA18310C90B69C84E8C2F55CD079093.PNG</Image>
+      <Description>武器の極みを100回以上決めた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ジャイアントスインガー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/8A687E5FF56BD3D4EB9ECBFA373ACB2BBAFE18D0.PNG</Image>
+      <Description>ジャイアントスイングを50回決めた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>バトルマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/0925901A865D669C81E91637BEF41A62FCE86129.PNG</Image>
+      <Description>BATTLE REVIEWでSランクを取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>駆け出しチャンピオン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/61DBAA17604C16596BAF67353DD5921F4DE83EEB.PNG</Image>
+      <Description>闘技場ではじめて優勝した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>伝説のチャンピオン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/5F334E8F3D805EB254027E5D85F84DEC47705A62.PNG</Image>
+      <Description>闘技場の全てのトーナメントで優勝した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>免許皆伝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/ED2F1812AC41A72DC8BA229B68178E0F60B68A99.PNG</Image>
+      <Description>古牧の技を全て会得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>癒されマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/FD3F532661DFDDE7A5E8768F76F334DD973B1ED2.PNG</Image>
+      <Description>マッサージで5回成功した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ぬいぐるみゲッター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/D4CB744BCBA7CF1C62686695BCA7DE9696BC17CE.PNG</Image>
+      <Description>ＵＦＯキャッチャーでぬいぐるみを10個取った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ナイス・ヒッター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/A056082B9A9F5731A9FCC7152B1F5006BB7867F8.PNG</Image>
+      <Description>バッティングセンターの1回のゲームでホームランを10本以上打った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>スマートギャンブラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/B1AFA69812A2E1545EFF44E4B14C98A9BB67FEA6.PNG</Image>
+      <Description>カジノ系の全ゲームと丁半博打を1回ずつプレイした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>プロスロッター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/C27E7E8B3B770A3F2B9B0E53C67ECBE0352D7144.PNG</Image>
+      <Description>パチスロでメダルを累計1000枚獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>グレイト・ギャンブラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/D8D352FD648009981D19B262BBA175D453236C42.PNG</Image>
+      <Description>ルーレット、バカラ、ブラックジャックでチップを累計10000枚獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>遥に首ったけ・初級</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/3C5124C62078DBA5667225EC0F10263CCFE3C91D.PNG</Image>
+      <Description>遥のおねだりをきいてあげた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>遥に首ったけ・中級</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/BC07F8521611A2455954041A4D45A55720DE01DF.PNG</Image>
+      <Description>遥の信頼度Cを獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>遥に首ったけ・上級</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/B1784A9D41575AFAA0BA84AFAA3E62BC3352CF75.PNG</Image>
+      <Description>遥の信頼度SSSを獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>おとなの階段</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/FF5F355CC8C69BF5621206BCDB18588A771913A2.PNG</Image>
+      <Description>キャバ嬢へのラストアタックに成功した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>ジゴロマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/8A1A38F00904B3952A6AD01EB492EF556C7680A6.PNG</Image>
+      <Description>全てのキャバ嬢へのラストアタックに成功した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03418_00</GameId>
+      <Title>太っ腹</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03418_00_510D1DFA4B78D9CC4E653AC6653F8E08F6966043/C4F1564B1C24910BA6997F331DEFB5F610368F6E.PNG</Image>
+      <Description>キャバクラで一回の入店で30万円使った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

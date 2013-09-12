@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01024_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Fist of the North Star</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/78E090B86E6DB00A10A6EC6C52840DFE43A1B29D.PNG</Image>
+    <TrophiesCount Total="48" Bronze="37" Silver="8" Gold="2" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>北斗無双マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/E76D168C819DEE202466565FD1EAB2D51BBFF58D.PNG</Image>
+      <Description>すべてのトロフィーを獲得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>戦いの始まり</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/2552AAF7E21E4805DB49850F961C375EA0BE905E.PNG</Image>
+      <Description>第1話をクリアした（キャラクターは誰でも良い）</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝説編ケンシロウの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/65B0714A2FDC080713903AA69B8AE2D620777B0B.PNG</Image>
+      <Description>伝説編ケンシロウの章をクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝説編トキの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/983B538B492E839D9F743812D4A6378944D4DB72.PNG</Image>
+      <Description>伝説編トキの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝説編ラオウの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/6CD78ABCC81991C15C5FC567441852506301D104.PNG</Image>
+      <Description>伝説編ラオウの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝説編レイの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/568873E72EE55D3CFA26FFBEB02E39AE27A8BB12.PNG</Image>
+      <Description>伝説編レイの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝説編マミヤの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/E030EEF04BBD187211B35B54AF263064FECD5EA5.PNG</Image>
+      <Description>伝説編マミヤの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編ケンシロウの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/BE61F5B80616E0178E75EF4E34834156E2200204.PNG</Image>
+      <Description>幻闘編ケンシロウの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編トキの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/BA21428C4C34CF0E517715883683E76E8803792B.PNG</Image>
+      <Description>幻闘編トキの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編ラオウの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/534E78CB0BA2500F2E2E7EEBEABD5B45E8D2087E.PNG</Image>
+      <Description>幻闘編ラオウの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編レイの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/646E20CF76A73C5E07A09FF8ADE215010704E24D.PNG</Image>
+      <Description>幻闘編レイの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編シンの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/2BDA24AA4CC236BBD9932DDA79F37B803951047E.PNG</Image>
+      <Description>幻闘編シンの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編サウザーの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/6A6674C986D489689404CC1A3DE786D7D1158D1B.PNG</Image>
+      <Description>幻闘編サウザーの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編ジャギの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/8770A818A142DD118435D5C125CE1E647C040FE2.PNG</Image>
+      <Description>幻闘編ジャギの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>幻闘編マミヤの章をクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/08024519C20624D6A8A3623CCBFB6B8010084EAB.PNG</Image>
+      <Description>幻闘編マミヤの章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>プレイ時間30時間</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/3E4BEA432CA6CE438E71758588A68DE077CE3DB6.PNG</Image>
+      <Description>総プレイ時間が30時間</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>10000人撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/9C71A93E6BA5BBAD59F9B9C8B5A087D4DB912611.PNG</Image>
+      <Description>敵を10000人撃破した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>北斗神拳で5000人撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/B02CB95169993E2E4A156B9964D6390373D9E4F1.PNG</Image>
+      <Description>敵を北斗神拳で5000人破裂させた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>南斗聖拳で5000人撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/8E4AB665A2918C7BA4A4FBBCD697373E8E29CBC9.PNG</Image>
+      <Description>敵を南斗聖拳で5000人切り裂いた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>北斗有情拳で5000人撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/78845D687FCCCC2AF9108EDADFD426337F6F3455.PNG</Image>
+      <Description>敵を北斗有情拳で5000人昇天させた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>伝承奥義で1000人撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/FC63B05CE768D47D92B53A2B838C8829FD852286.PNG</Image>
+      <Description>伝承奥義か真・伝承奥義で1000人撃破した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ジードを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/CB829A2A217D857DEF8B7DD7F9D3339F6100A35A.PNG</Image>
+      <Description>伝説編ケンシロウの章第1話のジードを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>シンを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/C1E61591817D91D10B686187EF6DE03F7C27B354.PNG</Image>
+      <Description>伝説編ケンシロウの章第2話のシンを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>牙大王を無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/3461877CD908F72487B08868ACA4122774AA3D17.PNG</Image>
+      <Description>伝説編ケンシロウの章第3話の牙大王を無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ジャギを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/A7E94DD8625D17BAE5F064E0765636D76B12174D.PNG</Image>
+      <Description>伝説編ケンシロウの章第4話のジャギを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>アミバを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/EBF19FB08C542A6290EC8951626690C0F08887E0.PNG</Image>
+      <Description>伝説編ケンシロウの章第5話のアミバを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ウイグルを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/E183AC2A019133B078D07E7477E5D28AE526949C.PNG</Image>
+      <Description>伝説編ケンシロウの章第6話のウイグルを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/F1B0C2711FBB6ED94D693FDFA86DD5BB164CED6B.PNG</Image>
+      <Description>伝説編ケンシロウの章第7話のラオウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ユダを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/35561549F33021F463D2413E7EB530483C131A34.PNG</Image>
+      <Description>伝説編ケンシロウの章第8話のユダを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>シュウを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/98E698C97C6300D352719D8AF1B55F9EF2578DE3.PNG</Image>
+      <Description>伝説編ケンシロウの章第9話のシュウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>サウザーを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/37EF9C4D7280D1205C86B5623DA205E9F273B94D.PNG</Image>
+      <Description>伝説編ケンシロウの章第10話のサウザーを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>サウザーを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/C37B1E70641C918D2CB708782CF23974C1E4B0F0.PNG</Image>
+      <Description>伝説編ケンシロウの章第11話のサウザーを無双闘舞で撃破した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>リュウガを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/56C5FAEF81D08A63EFED3A0BD8CFD078B947B1B6.PNG</Image>
+      <Description>伝説編ケンシロウの章第12話のリュウガを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/81F61B49BFCE5D5B300E57E863E0ED1BFAC6994E.PNG</Image>
+      <Description>伝説編ケンシロウの章第13話のラオウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/3C54BA20D0D3C4F1A9AF85D5A90A9E69BAB551B7.PNG</Image>
+      <Description>伝説編ケンシロウの章最終話のラオウを無双闘舞で撃破した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破4</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/715803889F9AFB981131CE5BC9FEBC2A4BB93EB0.PNG</Image>
+      <Description>伝説編トキの章第1話のラオウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破5</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/6D699F22F7354EA474E58546B1ADEACE5D844902.PNG</Image>
+      <Description>伝説編トキの章最終話のラオウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>レイを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/40EF1F10E9C0771268D05CD3288ED9636989DF2E.PNG</Image>
+      <Description>伝説編ラオウの章第1話のレイを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ケンシロウを無双闘舞で撃破1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/5C2A57E10BA0B4654E9E3B6A1176C2D861965C2F.PNG</Image>
+      <Description>伝説編ラオウの章第2話のケンシロウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>トキを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/6E6D39C5FA7EA3565382796174C157D2576AE934.PNG</Image>
+      <Description>伝説編ラオウの章第4話のトキを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ケンシロウを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/EFA8A82E9749468945995B8649697E41FC7E6012.PNG</Image>
+      <Description>伝説編ラオウの章第5話のケンシロウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ケンシロウを無双闘舞で撃破3</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/999758687088750F86B3EA834CF19E596F05FBB7.PNG</Image>
+      <Description>伝説編ラオウの章最終話のケンシロウを無双闘舞で撃破した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>マミヤを無双闘舞で撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/3FDE3394551C7A0BE1DEC122251BAF593CF7BAD8.PNG</Image>
+      <Description>伝説編レイの章第1話のマミヤを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>牙大王を無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/182571A334B0D966A6A1BDFBE7ABCB79FA545250.PNG</Image>
+      <Description>伝説編レイの章第2話の牙大王を無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>アミバを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/D2CC08A2AAD1D3B2E70BA155BFDEB9A4D13286C3.PNG</Image>
+      <Description>伝説編レイの章第3話のアミバを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ウイグルを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/9945785C749B9898A6F68AFA48C03BC5F9D5A47C.PNG</Image>
+      <Description>伝説編レイの章第4話のウイグルを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ラオウを無双闘舞で撃破6</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/5FE4EBCC8247DFBCFA2EACC8F875D51169B4D46E.PNG</Image>
+      <Description>伝説編レイの章第5話のラオウを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01024_00</GameId>
+      <Title>ユダを無双闘舞で撃破2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01024_00_9B8915733A711D4DAD1CE1C08862D418AB00A339/9112B637C6EEF9F3041688653E5C043A7A66560E.PNG</Image>
+      <Description>伝説編レイの章最終話のユダを無双闘舞で撃破した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

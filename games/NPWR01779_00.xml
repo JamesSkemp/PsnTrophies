@@ -1,0 +1,455 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01779_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Gachinko Heroes</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/926FE90A9A1A8FB2FB596C1B18AC6721B381EDFB.PNG</Image>
+    <TrophiesCount Total="49" Bronze="39" Silver="6" Gold="3" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Gachinko Heroes™</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/AD6785B45B89685F68F4DDCFE53EA11BD503D245.PNG</Image>
+      <Description>Obtain All Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Metropolis</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/F13F769827690F960D18D52E8B52726120D907D4.PNG</Image>
+      <Description>Complete All Metropolis Story Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Haven City</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/243AC9860EFEE2329C2124F208F081E83806F54B.PNG</Image>
+      <Description>Complete All Haven City Story Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Paris</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/FF6EE9DA37CAD21088C5B5E05F72B59C7E45D807.PNG</Image>
+      <Description>Complete All Paris Story Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Gleebertopia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/29D9B45D31B30B1396617C43CCBB4766A939A119.PNG</Image>
+      <Description>Unlock The Final Gleebertopia Story Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>The End</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/8A00EEE5041CF3A06099E28B4C4F004BD4090612.PNG</Image>
+      <Description>Complete Story Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Fire In The Hole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/6FAFB177E48DB90A0C32A4C406238F7CB91260D2.PNG</Image>
+      <Description>Destroy 8 Enemies With One Grenade From The Bouncer</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Lock N Load</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/1BF711B3367E2E79EA7BA2EF325FAAE27BFF077F.PNG</Image>
+      <Description>Destroy 5 Enemies With One Red Morphgun Blast</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Simma Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/EB717C4983BAD87B5514AD170BCDB4B18EC90A8B.PNG</Image>
+      <Description>Complete A Haven City Or Paris Challenge Without Overheating The Combuster</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Line Em Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/D3CC5445A12D1C1AB98E9CD53961A2B20835AD82.PNG</Image>
+      <Description>Destroy 3 Enemies With A Single Melee Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Babysitting</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/F163B254A359A1CD902D52076E1FBB543CFD7115.PNG</Image>
+      <Description>Return 4 Whibblets Simultaneously In A Single Haven City Or Paris Rescue Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Strike</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/4E13CCA597DE6D7209DE1D3599485102F21B668F.PNG</Image>
+      <Description>Destroy 10 Pinbots With One Ball Detonation</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Chain Reaction</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/BEB68D07B55A2119A611C0D3459CCD91F968D107.PNG</Image>
+      <Description>Save 4 Whibbles With One Disc In A Haven City Or Paris Jailbreak Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Cool Whip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/043A103B2D1A70933623C141EFD05D37DB2A9B5E.PNG</Image>
+      <Description>Destroy 8 Enemies With One Whip Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Just Enough</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/BAC65E6E00026CF3D49C5CA5EB5959928991CBAB.PNG</Image>
+      <Description>Get Bronze Medals On All Story Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>1st Place Loser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/4CF3A1EB9D245395AFDCFEC3EF90C693476FC367.PNG</Image>
+      <Description>Get Silver Medals On All Story Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Round of Applause</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/72E8F24E1736D6FE1DF8F9BA00B21A019E1FC666.PNG</Image>
+      <Description>Get Your First Gold Medal</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>G.O.A.T.</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/824BD82FB2291C68A284F3C8B626CE8474237023.PNG</Image>
+      <Description>Get Gold Medals On All Story Challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Look What I Found</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/232F82087DB8BFF76EC649B85544718F9D0C01AD.PNG</Image>
+      <Description>Pick Up Your First Hidden Collectible</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Buckets of Bolts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/03366068AC5BDE416588E28FC69126831558B183.PNG</Image>
+      <Description>Find All Hidden Gold Bolts In Metropolis</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>That's So Haven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/E435B426F1CA4020D2C7204E2D27CA021900351B.PNG</Image>
+      <Description>Find All Hidden Precursor Orbs In Haven City</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Pocket Change</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/B28630AE82313A6F5B1B530DC8B73CFD59B65511.PNG</Image>
+      <Description>Find All Hidden Coins In Paris</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>All Together Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/1E1310FA12CFE4CED65B44C4075D1E9A633ED209.PNG</Image>
+      <Description>Find All Hidden Gold Bolts, Precursor Orbs, And Coins</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Crystal Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/31B5628E4D41A1CB3F01DCCFE6D51F8BD3D08D6E.PNG</Image>
+      <Description>Get A 30x Crystal Combo In Team Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>25 Is Alright</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/F3006C1ACD43A1C71417A129AB7B060862487FEB.PNG</Image>
+      <Description>Get A 25x Multiplier</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>50 Is Nifty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/91673F2C11683D34F475F2844845C2615BFC76BE.PNG</Image>
+      <Description>Get A 50x Multiplier</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Day Care</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/8BC2DA9F80B60CF68CE9408BFDD469B40C029C54.PNG</Image>
+      <Description>Return Every Whibblet Simultaneously In A Single Rescue Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Make It Look Easy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/9F7881A54C235373313681B0BA8D1A85257B4E2E.PNG</Image>
+      <Description>Save All Whibbles With One Disc In A Haven City Or Paris Jailbreak Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Can't Touch This</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/35F708F0F180D66AD0B9049BA722DDFBD5697E41.PNG</Image>
+      <Description>Take No Damage In A Single Haven City Or Paris Survival Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Seen It All</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/E71E749A40C0C597B657B44F8A173D5C867B93FB.PNG</Image>
+      <Description>Use Every Ultimate Ability In The Game At Least Once</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Dance Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/97E459E1BA00E955EC85060C30D78DCBD9DD3106.PNG</Image>
+      <Description>Get 200 Total Enemies To Dance With The Groovitron</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>In The Zoni</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/6F73E681B4F4C1A601288D95FF85DFD4B154EE7B.PNG</Image>
+      <Description>Destroy 200 Total Enemies Via Zoni Attacks</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>HaXxoR</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/D13533C80CF1E8EAC374F5E8B24D68ADD05336A1.PNG</Image>
+      <Description>Turn 200 Total Enemies Against Each Other With Bentley's Auto-Hack Ability</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Eco Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/2C30E7B141EFD0BFADB690F1EE8EDB40486A0BDA.PNG</Image>
+      <Description>Destroy 200 Total Enemies with Dark Jak's Eco Lightning</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Daxter's Whirlwind</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/62C47C09AEBF3263810CA730EBFF76E836D3B9A2.PNG</Image>
+      <Description>Destroy 200 Total Enemies With Dark Daxter's Whirlwind Attack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Sneak Attack</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/00DF1FEAFD6AD7B972282876F6CE43EEEB0F6A0A.PNG</Image>
+      <Description>Destroy 200 Total Enemies During Sly's Thief Time</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>All Falls Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/D18E8753F7F0BF701E50E43D7CD890D2BB323951.PNG</Image>
+      <Description>Destroy 20 Enemies During One Ultimate Ability Activation</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Agorian Dishonor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/E6C4D00DE6C2EA8AD4FA20947992913A17B29D1F.PNG</Image>
+      <Description>Destroy 40 Total Agorian Bombers</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Pork Chops</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/4B535F176D94CF4BC4A772A5A8C1B5DE6553D9A7.PNG</Image>
+      <Description>Destroy 100 Total Boar Bodyguards</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Landfill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/FD4785CD13781B8BD952E501ECE3370A86CA56B0.PNG</Image>
+      <Description>Destroy 2500 Total Enemies</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Space Junk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/52B444DF235E033682938C109600ADF4A2B8EB26.PNG</Image>
+      <Description>Destroy 5000 Total Enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Party People</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/DD515128F79AB54E303B65C9F53625C8DF6EB6A3.PNG</Image>
+      <Description>Earn 10 Medals Of Any Kind In Team Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Team Trauma</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/39E214F2AD669A2E660CE556747A4EE13DE41106.PNG</Image>
+      <Description>Destroy Any Combination Of 12 Enemies Or Objects With One Team Strike</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Medic!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/0FDFB1CCD70018A4623BD478FAB9187EBB81E663.PNG</Image>
+      <Description>Give A Teammate 20 Health Ups In One Challenge In Team Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Spending Time With Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/7284D498A17E0397AF7463EDB5235371D8A5989F.PNG</Image>
+      <Description>Give A Teammate 10 Total Time Extends In One Challenge In Team Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Target Practice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/E7CF51C3BF89BCE3F8247D0ACCF441AAC5CD0FFF.PNG</Image>
+      <Description>Hit Your Teammate 100 Times In One Challenge With Crystals In Team Play</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Ultimate Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/B7D77144D78E25B3AB46245545B63CB8E3FD6CDD.PNG</Image>
+      <Description>Trigger Your Ultimate Ability 3 Times Within One Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Diamonds Are Forever</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/1816569835D995DD36074834790CF5334985846A.PNG</Image>
+      <Description>Earn Gold Medals On All Diamond Challenges</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01779_00</GameId>
+      <Title>Nothing Up My Sleeve</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01779_00_EBF1813525DB691212B1BA82823683306CE5545E/D48889C9A3751F5444030CF625642A9E87154F40.PNG</Image>
+      <Description>Get A Gold Medal On A Diamond Challenge Without Using An Ultimate Ability</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

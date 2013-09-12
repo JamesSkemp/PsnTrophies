@@ -1,0 +1,437 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01264_00</Id>
+    <IdEurope></IdEurope>
+    <Title>UFC Personal Trainer</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/B079FED0C2B235E88E2D2BFD39E963028376C61B.PNG</Image>
+    <TrophiesCount Total="47" Bronze="34" Silver="9" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/3FFD56D9E30D805082547F2711AC75691F321AC3.PNG</Image>
+      <Description>Earn all Trophies in UFC Personal Trainer.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Let's Get It Started</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/0272AC7A0E181A3988A65A5C1D24FB67A26E7CBC.PNG</Image>
+      <Description>Complete the Fitness Test.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Average Joe</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/C8C8E450435E6D5FA9D59CA3EBAA5BCFF5F78586.PNG</Image>
+      <Description>Perform a workout at least 3 times in a week.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Gym Rat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/F6E89D085F54F28521D209965F3A7AFB17EE828E.PNG</Image>
+      <Description>Perform a workout every day in the week.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Dialed In</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/2FF2823F91E7F23AB71C107453A3192383062B79.PNG</Image>
+      <Description>Perform a workout every day for 30 days.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Training Devotee</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/7E582C609E9897D670EC9086992114706A55ED63.PNG</Image>
+      <Description>Perform a workout every day for 100 days.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Fitness Guru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/E2260F7B046FDA50CB00B67F3BC0DDE25F5AFA8E.PNG</Image>
+      <Description>Successfully complete all Standard exercises.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Sityodtong Disciple</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/537CD6B492EB921FE5E162D887B92038AC98F4D3.PNG</Image>
+      <Description>Successfully complete all 12 Mark DellaGrotte-specific exercises.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>"Thunder" Kickboxer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/70773C4224C721290609F9C31FB947609F07039F.PNG</Image>
+      <Description>Successfully complete all 12 Javier Mendez-specific exercises.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Submission Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/13D0FBBF1B8071E95272D9051CBFDD7D3351EF6C.PNG</Image>
+      <Description>Successfully complete all 12 Greg Jackson-specific exercises.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Head of the Class</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/CE413FCA72CDD3487B0F47162AD5148A42714BB6.PNG</Image>
+      <Description>Get a score of A or higher in all Standard exercises.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Century Mark</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/43B8A7A7CD0948441B6F15A2F04F2419E52B0391.PNG</Image>
+      <Description>Successfully complete 100 exercises or activities.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Shaping Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/FCBCEFF3464F1CAAF37522EBAB9094B158D10C91.PNG</Image>
+      <Description>Successfully complete 300 exercises or activities.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>As Real As It Gets</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/F448672B7F1424DF22F95674D682F2A2A6D59CDA.PNG</Image>
+      <Description>Successfully complete 500 exercises or activities.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Opening Bell</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/A562EB454E89E3C3A3203F66447A33E20B01680D.PNG</Image>
+      <Description>Successfully complete 1 exercise at all three fitness levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Rare Intensity</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/06E523E1193B301E6DB35A88512889EEB750F0DA.PNG</Image>
+      <Description>Complete all exercises at all three fitness levels.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Film Study</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/CDD66531F52F2AA53233935872BDDBFD9D2F1E2C.PNG</Image>
+      <Description>Unlock all Videos.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Streaky</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/640A698B9485CC292B1970B0326E5AE6B80403A9.PNG</Image>
+      <Description>Perform 100 gesture streaks in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Crowd Pleaser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/01278F5E905C717585CD51E63363A8DFD45135AB.PNG</Image>
+      <Description>Perform 1000 gesture streaks in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Flawless Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/14928C31EADCF84E314BED2C8B78FDFDE7CF409D.PNG</Image>
+      <Description>Complete 1 Hit the Mitts routine without missing any strikes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Unequaled Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/8D39E03756244E6BA749A1F58F28E3E4BE4C5CCC.PNG</Image>
+      <Description>Complete 3 Hit the Mitts routines without missing any strikes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Experienced Competitor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/798561361250C01BD17EA6A78E5224E7EEDD6A92.PNG</Image>
+      <Description>Complete 6 Hit the Mitts routines without missing any strikes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Expert Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/0EEBF20E22F26EB22C1FF90D7FEF5BC6BB7B5EAB.PNG</Image>
+      <Description>Complete 10 Hit the Mitts routines without missing any strikes.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Hit the Mitts Machine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/3AF7C89EE25C6DB31950184E13E1984FD07CEAB9.PNG</Image>
+      <Description>Complete all Hit the Mitts routines without missing any strikes.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Versatile Combatant</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/F9ECD4385CA871B6D9CD001B86EFB5A236B67A2C.PNG</Image>
+      <Description>Complete a Pre-Made Workout session with each Trainer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Motivated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/8E05A69D5AA40DA1F9573517403AC2786C0C0BAA.PNG</Image>
+      <Description>Complete one 30-day program from any Trainer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>All Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/E9DD4B4B50D87787623E96451FB9AEA2C2F28E39.PNG</Image>
+      <Description>Complete one 60-day program from any Trainer.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>No Nonsense</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/8505F4941B5AE83AF289324CAE8BB075B58D4964.PNG</Image>
+      <Description>Complete all three 30-day programs.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Fully Pledged</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/9E653779C28CEC9D641CD2C19D20EEBABF21C099.PNG</Image>
+      <Description>Complete all three 60-day programs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>1 Hour Photo Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/BF7F8E289335343590350EE2B48A6CF67B0EAAD8.PNG</Image>
+      <Description>Work out in the game for an hour.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>5 Hours of Energy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/1AC2B12E992C01B82D2B1D308618ED60939F5E50.PNG</Image>
+      <Description>Work out in the game for 5 hours.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>10 Hour Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/5C4DF5C405747106D36FB4616FB61812198B7181.PNG</Image>
+      <Description>Work out in the game for 10 hours.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Unstoppable</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/12FB2194D2717F16933BF61DF5E98221B558B7ED.PNG</Image>
+      <Description>Work out in the game for 15 hours.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Epic Milestone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/345BE970173119B612B777DEEF64ADB23FB9DE1C.PNG</Image>
+      <Description>Work out in the game for 30 hours.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Full Plate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/62F36B41ABFFD124A2957F4137C564C353A7D73C.PNG</Image>
+      <Description>Create and successfully complete a custom workout with the maximum number of exercise slots filled.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Medal Detector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/3F5C0C74A028CE4426A1E3A427FFF2BCD2A3D13B.PNG</Image>
+      <Description>Earn 20 medals in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Medal of the Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/F5E2A5EF13CD732AE3905A8AC12BB23768DFE94D.PNG</Image>
+      <Description>Earn 40 medals in the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Heavy Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/7E68BF96CD69DF7C0059732EE15F34745168DE89.PNG</Image>
+      <Description>Earn 60 medals in the game.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Bronze Bomber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/57FCA8D6E6646A9C889C1FA3C68B93DA0029BFE8.PNG</Image>
+      <Description>Earn a Bronze Medal in every exercise.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Silver Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/CA6E960EB61545AC7724E2D28D5710D0AD4E275F.PNG</Image>
+      <Description>Earn a Silver Medal in every exercise.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>The Gold Standard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/5C141762096C630479BDA6397226580314F63EC3.PNG</Image>
+      <Description>Earn a Gold Medal in every exercise.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Up the Challenge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/12AD86F663A14CBDAA15BFA8DD8D62886A1690E9.PNG</Image>
+      <Description>Successfully complete any PlayStation®Network Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Won't Back Down</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/91AD06D3EE6A7F79F80EDB31FC97A7918BE02524.PNG</Image>
+      <Description>Successfully complete 10 PlayStation®Network Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Heating Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/A11C4A255FA336ED1968B2A514357FF2A1828353.PNG</Image>
+      <Description>Successfully complete 5 Hot Seat Multiplayer Challenges.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Quite Accomplished</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/6FA22B069209AB76D327700315FB4977A5042BBA.PNG</Image>
+      <Description>Successfully complete all the Accomplishments.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Speed Bag Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/FEA58195A4BA1296C445A1E381DC96B14DBF9553.PNG</Image>
+      <Description>Get 3 wins in the Side by Side Multiplayer Speed Bag activity.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01264_00</GameId>
+      <Title>Flipped Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01264_00_EB4E3B7A65C4CCAE4E1E93D0686CA1BD4A59F16F/089ACD9073CA1D0B7946381816D91B5CF72C10C0.PNG</Image>
+      <Description>Get 3 wins in the Side by Side Multiplayer Tire Flip activity.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

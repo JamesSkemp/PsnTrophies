@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01749_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Champion Jockey: Gallop Racer and GI Jockey</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/E05A94A8062AC1472571C03A884EF5FD3685B201.PNG</Image>
+    <TrophiesCount Total="50" Bronze="32" Silver="16" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>全トロフィー獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/098F2C4F8D03F4BDFFFA6D9AC8EDB6B40E1E48EB.PNG</Image>
+      <Description>全トロフィー獲得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/A470B178F3D138AFBFF9C8998839C113A3E5F718.PNG</Image>
+      <Description>ストーリーモードで初勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：重賞初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/C735A5047024955F7876AE8AB1BDD948EA19164B.PNG</Image>
+      <Description>ストーリーモードで重賞初勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：ＧⅠ初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/3B14E39D74872A8C085EABA35E43B415056C7718.PNG</Image>
+      <Description>ストーリーモードでＧⅠ初勝利した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：海外で初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/647B230CC4AAAAF15157D6A8F740875490DA132D.PNG</Image>
+      <Description>ストーリーモードで海外初勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：海外で重賞初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/062E3D7C91D4230A137711D036CDDF8E1A1E36FF.PNG</Image>
+      <Description>ストーリーモードで海外重賞初勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>ストーリーモード：海外でＧⅠ初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/E9D2A5EFA8E2624A6D55DBB3CF6E0FF4D18DADAB.PNG</Image>
+      <Description>ストーリーモードで海外ＧⅠ初勝利した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>クエストチャレンジ：完全制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/AC857D04C6FB25065264CF9C82C39C6B0A0AACDA.PNG</Image>
+      <Description>クエストチャレンジを完全制覇した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>プラクティスチャレンジ：完全制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/265F4C96B8B297C8690950E2B5744301F5F13B5A.PNG</Image>
+      <Description>プラクティスチャレンジを完全制覇した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>全競馬場勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/DE6E59AF09DA79E906A46B082B1BE843A99CC75F.PNG</Image>
+      <Description>すべての競馬場で勝利した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/69E9F36D8EF4DE4083BF5CFEB36131F5AD3110CE.PNG</Image>
+      <Description>プレイヤーの育成馬が初勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬重賞勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/476BA0E19DBD6DB9CBC46F0CFE1E696B2D7C4902.PNG</Image>
+      <Description>プレイヤーの育成馬が重賞勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬ＧⅠ勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/2C291700E906DDA5245315008B32407EACC88944.PNG</Image>
+      <Description>プレイヤーの育成馬がＧⅠ勝利した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が殿堂入り</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/512D47C4C9BA63EC0FC5A5FDD9DCFB413FB30842.PNG</Image>
+      <Description>育成馬が殿堂入りした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が年度代表馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/3880A038D492A2A1CDB498D41326E491FDA5FABA.PNG</Image>
+      <Description>育成馬が年度代表馬に選出された</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀２歳牡馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/A95ADBD0AE6BA0C1C2830F3751FA5DFA2826ECB1.PNG</Image>
+      <Description>育成馬が最優秀２歳牡馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀２歳牝馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/CB49B5DFE92A3A322A476EA145DB5387569A3879.PNG</Image>
+      <Description>育成馬が最優秀２歳牝馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀３歳牡馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/5731F5D7FDB3D0E33A04E8166444E83CF5798AC0.PNG</Image>
+      <Description>育成馬が最優秀３歳牡馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀３歳牝馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/AB1D448D69DE3104251CB4933BA44ADBCCE1F144.PNG</Image>
+      <Description>育成馬が最優秀３歳牝馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀古馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/43A5C5B185035BF1947C093DBCCD3AE95AC44FCB.PNG</Image>
+      <Description>育成馬が最優秀古馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀短距離馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/757941FDBF951A950E8085CCF05D5BFBC362DFD6.PNG</Image>
+      <Description>育成馬が最優秀短距離馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀長距離馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/9776F9D6DE59E881884900F9C84F8380093665B0.PNG</Image>
+      <Description>育成馬が最優秀長距離馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>育成馬が最優秀障害馬に選出</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/44EF69416E0D35495D530551C428E4C4DD4DE70A.PNG</Image>
+      <Description>育成馬が最優秀障害馬に選出された</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で騎手大賞を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/D77F68E182F12094D5FFA83584A2123EBAE8D95A.PNG</Image>
+      <Description>日本で騎手大賞を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で最多勝利騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/175F74E72C0BB8D129D9963C1FA4956C66936D63.PNG</Image>
+      <Description>日本で最多勝利騎手を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で最高勝率騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/776BE7BBB858C8DBB2F62B7B3E2A34A2C267B233.PNG</Image>
+      <Description>日本で最高勝率騎手を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で最多賞金獲得騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/7E8E7C544467D7DE8F8B3BA46C6F2A1123F16F5D.PNG</Image>
+      <Description>日本で最多賞金獲得騎手を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で最多勝利障害騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/44D10CE81DAE48A1934C01B4FC72DDE585C8B442.PNG</Image>
+      <Description>日本で最多勝利障害騎手を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>日本で最多勝利新人騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/EB08EB181E672063F16E1E6544C0CCA7FC8AD3EB.PNG</Image>
+      <Description>日本で最多勝利新人騎手を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で騎手大賞を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/E01AE21F0F70A7C2D52A9E2A771222CC9372FA47.PNG</Image>
+      <Description>欧州で騎手大賞を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で最多勝利騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/CAA236EC5537663F34A5A3AA1883C5307C10A76A.PNG</Image>
+      <Description>欧州で最多勝利騎手を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で最高勝率騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/82EEAD7397B93F745AC0A99D636E47203B21A298.PNG</Image>
+      <Description>欧州で最高勝率騎手を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で最多賞金獲得騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/42F08D383DE0A07CF6E14013819D0AC554BC20B4.PNG</Image>
+      <Description>欧州で最多賞金獲得騎手を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で最多勝利障害騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/3EB74B0E893BFDCF35E16C9C7D46CC62EFC3C146.PNG</Image>
+      <Description>欧州で最多勝利障害騎手を獲得した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>欧州で最多勝利新人騎手を獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/CC2F776A277C6B4FE687F3E572F306AB08C24F95.PNG</Image>
+      <Description>欧州で最多勝利新人騎手を獲得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>マイナスアビリティコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/512453FE35930758BE4B7F4A62835C94F7F4B558.PNG</Image>
+      <Description>マイナスアビリティを10種類以上発動した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>断られ上手</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/0AE6539D3CBD27C861036C9CB288A380EC9F18D1.PNG</Image>
+      <Description>通算で100回騎乗依頼を断られた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>嫌われ者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/F89B2FC6CA7DC76D6AE388DD982D6DF36A6E8C5A.PNG</Image>
+      <Description>通算で100回以上、他人の騎乗依頼を奪った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>降着迷人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/721767D185ABBE8A878FD9E346783789655EF158.PNG</Image>
+      <Description>審議で降着になった騎乗の回数が通算10回を超えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>一発屋</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/4CA34F4AB7EDC9872F66F9143E7E3FC135EA7FD4.PNG</Image>
+      <Description>その年に初めて勝利したレースがＧⅠレースだった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>女性好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/9A4FEA80F2A0E651023194FA5E529786FFAC6289.PNG</Image>
+      <Description>1年で10勝以上重賞牝馬限定レースに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>飛越名人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/6FF9DACCEC4978236B39FB0CCFCB445243631BCD.PNG</Image>
+      <Description>1年で5勝以上重賞障害レースに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>競馬道「逃げ」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/1DD50DD579EB9B5DE70B46E633CC2DE7BCA18276.PNG</Image>
+      <Description>1年で「逃げ」脚質の馬で10勝以上ＧⅠに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>競馬道「先行」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/E86F529E99F70EABAD7A60B050B5C25BC403D976.PNG</Image>
+      <Description>1年で「先行」脚質の馬で10勝以上ＧⅠに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>競馬道「差し」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/571461030651558A3FF20AEC62353357D9EA0EE9.PNG</Image>
+      <Description>1年で「差し」脚質の馬で10勝以上ＧⅠに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>競馬道「追込」</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/77A3003B2A337D484847EC0D658C21CE6431CDA6.PNG</Image>
+      <Description>1年で「追込」脚質の馬で10勝以上ＧⅠに勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>レボリューションを発動して初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/4C8E700A69BB0A83D4F0A271CC84141009AE0D5B.PNG</Image>
+      <Description>レボリューションを発動して、レースに初めて勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>アビリティを発動して初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/D569474221228D4039701C32A61FF4DB66023018.PNG</Image>
+      <Description>アビリティを発動して、レースに初めて勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>騎手ランク「若手」にランクアップ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/2CB61FB16BBC7BC4B4DB5C71A4E45F522D2E6B86.PNG</Image>
+      <Description>騎手ランクが若手にランクアップした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01749_00</GameId>
+      <Title>騎手ランク「一流」にランクアップ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01749_00_BB0FCD65D175C1B2E47B5CC0251D17E9C6879C90/B929C4AAD4F410A94638A6E32E4B1CBF334F918D.PNG</Image>
+      <Description>騎手ランクが一流にランクアップした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00762_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Star Trek: Dac Trophies</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/85286F7813FB8B37A6D6D9DE7607582845E8042C.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Academy Graduate</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/7C1941E090D9CE3A75B60681C3BC7A9F89FCCC57.PNG</Image>
+      <Description>Earn 1 kill with each ship class (except the Support Frigate)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Red Shirt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/A702C4F1BA691859D1F5A9447414172F3503C04F.PNG</Image>
+      <Description>Be the first to die in a Versus multiplayer match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Imperial Instincts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/3116DC40D931771A72B377A67D6AB8BE7053C89B.PNG</Image>
+      <Description>Earn 25 cumulative point captures in Conquest</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Bridge Commander</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/3E00CF4836F63FC20651701A56DBD2FC002C6D7D.PNG</Image>
+      <Description>Earn 250 cumulative kills in Team Deathmatch</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Mirror, Mirror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/7F9AF4B9EBA5C28F9DAE310477F8979EB7CD1978.PNG</Image>
+      <Description>Capture a point with the aid of your own wingman</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Born Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/44A901B43B4B076DB4B5D650E6F8C92BBFD2BB48.PNG</Image>
+      <Description>Capture 3 points and help destroy the 4th in a single Assault match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>NCC-1701</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/863ED9C3916ED17E90E20F0AC0BE37C122D17E1C.PNG</Image>
+      <Description>Earn 250,000 points as the Flagship class in one Team Deathmatch game</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>No Mercy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/E0F3441DF8B427FFCE9995FC48CEE41F1A085B4E.PNG</Image>
+      <Description>Earn 50 cumulative Escape Pod kills</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Starfleet Medal of Honor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/204FA63F2D18CACC511FA110A6E3372416BB6FD3.PNG</Image>
+      <Description>No deaths or ejections, plus at least 15 kills, in a single match</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Vulcan Wisdom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/0FAB03EA4D648AAF0F54CBA364D5B43EE2C7CF9E.PNG</Image>
+      <Description>Don’t die or shoot, yet capture 3 points (including the enemy base) in a Conquest match</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Nero’s Rage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/75962DE8DF6859DB7D631C3134A4A5F9EA4F559C.PNG</Image>
+      <Description>Destroy 3 enemies while using a single invulnerability powerup</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00762_00</GameId>
+      <Title>Kobayashi Maru</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00762_00_7861F3B8A21158E6C31911294BF4D74B75E6321A/F442D18752F395F5994ADDB2641049C3362180BC.PNG</Image>
+      <Description>Some trophies are unattainable... unless you cheat</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

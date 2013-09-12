@@ -1,0 +1,509 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03490_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sengoku Basara 2 HD</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/56E2D9864771BEEC669693FD8057B19ACFD0D529.PNG</Image>
+    <TrophiesCount Total="55" Bronze="47" Silver="6" Gold="1" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>全トロフィー取得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B016152AC79CF198B790A186635DC56E0B80C85C.PNG</Image>
+      <Description>トロフィーを全て取得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天下人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/FF664795B3FDA734CFE5793BEBA771115E3C9CBB.PNG</Image>
+      <Description>難易度「ふつう」で、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>日本一</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/5F0DCE4783853421047937DED83EAE2C4B79BF83.PNG</Image>
+      <Description>難易度「難しい」で、天下統一 達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>宇宙一</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/123C3985665E903D75DD4DB18465DB4D64DE2A9C.PNG</Image>
+      <Description>難易度「究極」で、天下統一達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>バサラ者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B856CE006955F51539EEED41480DFC29C7D1DDD5.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでもバサラ技で勝利条件を充たした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>逆転ホームラン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/0F8DA378097DB73535A685B5F850D03D7E71888A.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでも瀕死(体力が赤い)状態でステージクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>Stylish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/034A80A2DBEAE2B2A82BDAC51F147B129E9021DF.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでもノーダメージクリアを達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>バサラ大将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/18A36A2AB7E903F655155D4A78C74164873AD469.PNG</Image>
+      <Description>天下統一を達成するまでの全ステージをバサラ技で勝利条件を充たした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>逆転満塁ホームラン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/618E7DB7423D14CB65A08F322D06797F366DF360.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでも瀕死(体力が赤い)状態のときに、究極バサラ技で勝利条件を充たした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>Super Stylish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/AAC6F317A6DEE752A4C248214CFBCF37C2CBD673.PNG</Image>
+      <Description>難易度「究極」限定　一度も中断せずに天下統一かつ、1ステージ以上ノーダメージクリアした</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>千軍万馬の兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B5859DE7EB04D4D8B505992D85AA21018DC53316.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでも馬に乗ったまま勝利条件を充たした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>挑発王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/A82B180475F4EA5D3F27751A9778FC6DAE6F87C7.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージでも挑発で勝利条件を充たした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>ギャンブル侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/4B83B0B97DDF7B116C1CAB1A150CE4710EE6BD4A.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“あぶく銭の財布”を装備して1ステージ以上クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>熱唱侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/5D51F176F1650DF1E2FA852300DE94A9D176BC0D.PNG</Image>
+      <Description>天下統一を達成するまでに、熱唱アイテム(“熱唱びわ”、“熱唱つづみ”、“熱唱こと”）のいずれかを装備して1ステージ以上クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>あんたが大将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B49F8667F44763826AB439A30929900D6A0D54D2.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“ごますり棒”を装備して1ステージ以上クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>桃色大将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/C6507FAE6AD994D52A06D0017C380F3827FD0C7B.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“白金切符”を装備して1ステージ以上クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>リセット侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/188D6B30D9FE8D83D384F95F6E1E2BB47AE6C30C.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“2度目のくじ引き券”を使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>心眼の達人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/89F9E2D289D8142B051C801F581FD5FDFEB8EEF9.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“常闇の眼鏡”を装備して1ステージ以上クリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>おみくじ侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/4D4E1D6C61EEA09B523589CB2B22814B2C609934.PNG</Image>
+      <Description>天下統一を達成するまでに、アイテム“一八のおみくじ”を使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>智勇兼備の将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/D2B55C343C4F69099F027265FA41C79351B4FA6B.PNG</Image>
+      <Description>天下統一を達成するまでに、倒した敵の数の合計が100人以下だった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>万夫不当の兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/841CAEB28A01CF583C890CBC77FAE911824E331C.PNG</Image>
+      <Description>天下統一を達成するまでに、倒した敵の数の合計が7000人以上だった</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>FEVER侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/708557818F44DF89517B04FBE3DDD628975B8FFD.PNG</Image>
+      <Description>天下統一を達成するまでに、乱入ステージを除く全ステージで最大連撃数500Hits以上を記録</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>百戦錬磨の兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/C36297AEB0EF54CF0EC113BB9642B2A199BC71EA.PNG</Image>
+      <Description>天下統一達成時に、通算100ステージクリアを達成していた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>阿修羅道</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/CCBAA5BC863A1D3BE374D68A4CF38959AE2D4D7C.PNG</Image>
+      <Description>一度も中断せずに、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>電光石火の兵</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/43F3ECBD228F4999314D46A8978D70425A3E8CE7.PNG</Image>
+      <Description>婆裟羅暦3年12月までに、天下統一を達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天上天下唯我独尊</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/483F039D348717D184C034BF950883F31FE7A9C7.PNG</Image>
+      <Description>難易度「究極」で、全ステージを初期装備のままプレイして、天下統一達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>鶏侍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/5D5F44E7E0D60838D3E08A5A79C828CC9C67EE5B.PNG</Image>
+      <Description>難易度「ふつう」で、全ステージを8つ目の最強武器を装備して、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>財宝ハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/EDC1F56F1F00906923E4560FA9F3F8BA36122A57.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージで“玉手箱”と“武具”を合わせて24個以上集めた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>くいしんぼう将軍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/D0DE057A255E5E530D8ACBAE8CECB9AA9C500D64.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージで30個以上“おにぎり”を食べた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>鋼鉄の肝臓</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/5C2CFAD7E27473E8667E11FDA33ED0EE12E7A791.PNG</Image>
+      <Description>天下統一を達成するまでに、1ステージで30個以上“神水”か“恵比寿樽”を飲んだ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>財宝ブリーダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B36E358896E9F25D64407150C1EFD2256EE1CD16.PNG</Image>
+      <Description>天下統一を達成するまでに、財宝をLV10まで育てて、入手した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>奥州筆頭</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/77ABB23EE2BE405FDAEF81ABC81CF799DF3F5B05.PNG</Image>
+      <Description>伊達政宗をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天覇絶槍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/1923D81985D32284D862919D0ACAF94C79F6F558.PNG</Image>
+      <Description>真田幸村をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>絢麗豪壮</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B4BBABEA895A5C09EFE91AC28EF0FA63704738AF.PNG</Image>
+      <Description>前田慶次をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>裂界武帝</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/B51AC424D8CF7EABE8B73A74C917480F679F1155.PNG</Image>
+      <Description>豊臣秀吉をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>征天魔王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/C97AFCBCDDC24B916393DAD85FBB75A64E15CD81.PNG</Image>
+      <Description>織田信長をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天衣無縫</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/3078757D1864CBCC53DD4FEE13BC2FA5922A0285.PNG</Image>
+      <Description>長曾我部元親をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>月下為君</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/73ACE2D40E60A4FB203786A1BFB7B121751D8BC5.PNG</Image>
+      <Description>かすがをプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>破邪清真</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/76FFFDD3D19A349FD2D8339479445E265F41F4EC.PNG</Image>
+      <Description>森蘭丸をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>蒼天疾駆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/62612A80A1356D08A0D934472020CFAA5EEA7009.PNG</Image>
+      <Description>猿飛佐助をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>賢才瞬麗</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/C9350019ACB08AD80F78FB1C3F375E749B6D5257.PNG</Image>
+      <Description>まつをプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>蒼烈瞬躙</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/0497BD85FBB7A013D2A238142402E43C6A4AEA00.PNG</Image>
+      <Description>竹中半兵衛をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>冷眼下瞰</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/2049EEB8C4B73A029D4ED8E36B3FDAF4AF72AB56.PNG</Image>
+      <Description>明智光秀をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>詭計智将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/7863E1B4567C1A37B8FB79D9DA98C03353A147A9.PNG</Image>
+      <Description>毛利元就をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>神速聖将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/9F8A721C7C19280A86FC32C10FA76BE7515C4F95.PNG</Image>
+      <Description>上杉謙信をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>一刀必殺</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/F39E4EFBBDDC157179B5289FD9E8DEA0A65BA9CA.PNG</Image>
+      <Description>島津義弘をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>戦神覇王</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/3B3289AE81D51AD8DA5E5C7B3377BC0D2DF116DE.PNG</Image>
+      <Description>武田信玄をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>豪放磊落</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/43AFB2C4A170F0FAC9EFA9CFA4507A9B1C69CFA9.PNG</Image>
+      <Description>前田利家をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>戦国最強</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/8C8A10D908F83063FE904E5AE78439772186881A.PNG</Image>
+      <Description>本多忠勝をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>繚乱無比</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/DEB21D965840E836203AF1A88C3FD36B7931A28D.PNG</Image>
+      <Description>濃姫をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>南蛮我道</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/D50414B044EF9E899ADDC1ED24ACEF94E53A3619.PNG</Image>
+      <Description>ザビーをプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天真爛漫</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/5BBCD25C22A3AB400894E6A9FA6BFECFECF9F3A9.PNG</Image>
+      <Description>いつきをプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>天驚動地</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/2410CD60AA600BA695BFA1D8A1EBBE8DE46AFCD8.PNG</Image>
+      <Description>宮本武蔵をプレイして、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>完全制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/3189F78B2B883F5F5472BD6EE843DD5A63FF09AC.PNG</Image>
+      <Description>22人のプレイヤー武将、全員で天下統一達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR03490_00</GameId>
+      <Title>人類最強</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03490_00_BCD168060EE279A760A69084233B4692D5E131AC/3681393CFA18C2277B614392C38FDB91C5286864.PNG</Image>
+      <Description>挑戦者“宮本武蔵”を撃破して、天下統一達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

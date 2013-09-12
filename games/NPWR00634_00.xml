@@ -1,0 +1,392 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00634_00</Id>
+    <IdEurope></IdEurope>
+    <Title>SBK09 Superbike World Championship</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/E671BDDE097BDED04F0F93390435BFD7B7CCEE03.PNG</Image>
+    <TrophiesCount Total="42" Bronze="24" Silver="14" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>You are the best!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/BDC31ED75D97986A92D9A267DF5D1531DCA6ABCD.PNG</Image>
+      <Description>All Trophies collected!</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Be a Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/020C54B79CE111E8D182560CDA95C9BC0EA132FC.PNG</Image>
+      <Description>Win your first race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Simulation Wizard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/3F52019731C4620C42D28B62C1360397B29549BE.PNG</Image>
+      <Description>Win a race in extreme simulation mode with opponents at Professional or Real level</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Who needs wheels?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/409046689D93B5E398ED2851550E2CA9BB10480C.PNG</Image>
+      <Description>Win performing at least 10 seconds of wheelies and win the race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>King of Assen</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/D29A4EFC99C1F214DAD9B22FF9B3BDBEA3BC3A70.PNG</Image>
+      <Description>Win a race on Assen with less than a 3 second gap at Professional or Real level</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Tires are expensive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/BCD48A0839E85437002CEEFC56BB8E8CD606314D.PNG</Image>
+      <Description>Win a race with tyre wear activated and with a minimum waste of tires</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Back to my first love</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/4F68C72CFFBC76BA336EA4B4BFE16D8CB0AB84C5.PNG</Image>
+      <Description>Win a race at least at professional difficulty level using Max Biaggi and his Aprilia</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Milestone best friend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/0CEE00850ED161C445606CA508BA5DAF6F992FE8.PNG</Image>
+      <Description>Win a race at Misano Adriatico using Luca Scassa</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Telemetry Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/642E212F89B1CAC1D1BC3F7A674AFC5F082D44AC.PNG</Image>
+      <Description>Compare two telemetries</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Somebody will be quite angry now</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/4EB421D585ECBDD01CD53E682FAA67CA95626F0E.PNG</Image>
+      <Description>Win a race with a gap of less than 1" from second place</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Despite bad luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/73600A82E4EDE14C353C2F4A37DA12DA1B62DDE3.PNG</Image>
+      <Description>Win a race with a highly damaged bike</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Impossible Comeback</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/87D2F752675BC790D74B48330922BB6500C0910B.PNG</Image>
+      <Description>Win a quick race starting from last position at Professional difficulty level</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>I pwn n00bs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/201B8D11D28EFB70978A1C03343EA0B849357981.PNG</Image>
+      <Description>Perform a 360 burnout and win an on-line quick race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Italy rules the world</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/BE687D49FFEC9B1CCD3677DCBC99499704DD2252.PNG</Image>
+      <Description>Win a race with all the Italian riders</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Turnaround</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/D0167CA3D4E9D318C096A7A044F7B36969EC4E27.PNG</Image>
+      <Description>Win a race performing at least 2 360's</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>I'm the Wizard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/0BACE1D15A76CD4A1519DD0DDCCC12A6FB8D1342.PNG</Image>
+      <Description>Win a race on Monza using Michel Fabrizio</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Milk Shake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/DF9F11050E23F01E646B9E399CB727C75D972FBE.PNG</Image>
+      <Description>Damage a Team Sterilgarda bike until it is unusable</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Dorifuto Kingu</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/2B2EB89535ACDFDC327A0763BA68FAF64B863D9E.PNG</Image>
+      <Description>Win a race performing at least 10 seconds of skids</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>The Pirate lands in America</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/B099DC7CB0D46BA53C9D458B5DFB5AEFD5C7DA65.PNG</Image>
+      <Description>Win a race with Biaggi at Salt Lake City</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Straight out of the factory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/DD66830406246293B7F4741E0B72EBF5848287E1.PNG</Image>
+      <Description>Win a race at Imola using a Ducati Xerox</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Mr. Crocodile under the water</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/236A9A93B53C8D7F5D40D525FFB5C8879E37940D.PNG</Image>
+      <Description>Win a rainy race using Troy Corser</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Living on the edge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/757CDB72598FA11B2BD547EBE5B5737B1AB3527D.PNG</Image>
+      <Description>Perform 10 seconds of wheelies and 10 seconds of skids in any game mode</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Out of time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/F883C9FB063974896A7E941C3D87B0558CD078AA.PNG</Image>
+      <Description>Win a race with a 10 second gap or more from second place</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>The only way to make someone read them</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/E9E70C35DE37899FA834EDD6AB5CED09170BBC7E.PNG</Image>
+      <Description>Watch all credits</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Transmission Wizard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/BA7C35F122AF9C59312E5BF362C5ADCD73888B4E.PNG</Image>
+      <Description>Win a race using manual transmission with opponents at Professional or Real level</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Teamwork</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/885C096FF2F4EF4D0CC3291D724EE1E6C0E0D3DA.PNG</Image>
+      <Description>Win at least one race with each of the SBK™ teams</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Mr. Superpole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/DABBBBF59CF11F7B251FCDBE56DA14A48E06C324.PNG</Image>
+      <Description>Achieve at least 10 Superpoles in the same championship</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Pure ruler, out of the box</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/142D1E30029F6F5B992022697DDDDEEC85EC1A7B.PNG</Image>
+      <Description>Win on all tracks on-line</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Italian Miracle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/E430567D4AB097D169DA877038A7B081687E51AD.PNG</Image>
+      <Description>Win a championship with Pedercini team</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>The SBK™ Kamikaze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/35045BCC0435B7998B1DE054D5A0A536DA1939C2.PNG</Image>
+      <Description>Win at least one race with all the Japanese riders</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>The Prancing Pony</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/C60AB4494BDE9351AA115957F8098A851F7E91BB.PNG</Image>
+      <Description>Perform 60 seconds of wheelies and finish at least fourth</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>I'm the Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/5847AFD4383324DF9835F6E742492CA61024A30C.PNG</Image>
+      <Description>Win a championship using the team Suzuki Alstare</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Bronze Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/D4A1EF155E19B2F92E81A7BCB29ADE4106928213.PNG</Image>
+      <Description>Win at least a bronze medal in all Scenarios</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Silver Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/58B650659BC683A7965E5E1E42F4FE08ED84FE18.PNG</Image>
+      <Description>Win at least a silver medal in all Scenarios</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Tight Rope Walker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/08CF0625170B4F45ED3B700756A750AD29B977A3.PNG</Image>
+      <Description>Finish 10 races in a row without falling</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>The championship is on the line</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/8D2220CD4C590E534C64EA1F17FFD3ED94945A67.PNG</Image>
+      <Description>Win an on-line Championship</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Winning Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/3BAC39A0A8786561E70B0FF7A4CAA16FBF99D8F2.PNG</Image>
+      <Description>Win at least 10 races in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Pure ruler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/375CF50FD190F9EDA56B869A662E41A51BCDC39C.PNG</Image>
+      <Description>Win on all tracks</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Teatime</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/0DCAD7C7E096A2A722AA67ACE76D28BA15CBB2B9.PNG</Image>
+      <Description>Win at least 5 races at Donington</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>How cool are my trophies?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/C12237F547EE5AF206AB062051F1B70092AB8399.PNG</Image>
+      <Description>Complete the CUPS board</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Gold Medal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/41DCD1C864D555405ADC218C320A507524C4D7FF.PNG</Image>
+      <Description>Win at least a gold medal in all Scenarios</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00634_00</GameId>
+      <Title>Rainbow decks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00634_00_DE1F58B9A665E888F1A47186BBD7936F82604D93/42E3D372F95495204D7F773617F670D2F49AFE03.PNG</Image>
+      <Description>Win all the cards of the game decks</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

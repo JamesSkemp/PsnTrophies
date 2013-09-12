@@ -1,0 +1,464 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01946_00</Id>
+    <IdEurope></IdEurope>
+    <Title>.hack//versus</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/C5BADC8163EEE557B82A83182E43405C617DBBD1.PNG</Image>
+    <TrophiesCount Total="50" Bronze="39" Silver="8" Gold="2" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>VERSUS：The World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/20922F0BA35566BB50B6A3EFF3726A398A44263F.PNG</Image>
+      <Description>全てのトロフィーを取得した。</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>チムズキッカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/984A944F0F22BC76101302515872DC374763B271.PNG</Image>
+      <Description>ファーストアタックを通算10回成功させた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>超Ａ級殴られ屋</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/EA48BDAC8210D1418E85711D40D9DA45F813BF6C.PNG</Image>
+      <Description>ジャストエスケープを通算10回成功させた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>窮地を脱する者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/A74A334E813839EE4D9FA0CAAE4AD816CBA9E745.PNG</Image>
+      <Description>クラックバーストを通算10回ヒットさせた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>吹き飛ばす者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/8B3EC2D1E2F1B382A822D374E6ED72EA7D034ACC.PNG</Image>
+      <Description>叩きつけを通算10回成功させた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>護りを打ち崩す者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/5488D5DDE045C015681F966412B9E33A551EDEFC.PNG</Image>
+      <Description>ブレイクアタックを通算10回ヒットさせた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>テクニシャン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B8B3DBB8C332D52FCA4C6DCC3BC5FA2F9EEFA87F.PNG</Image>
+      <Description>スキル全般を通算10回使用した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>アルティメットテクニシャン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/31AFB7C5C36D27E7D4025412CDB8287BE355D8E3.PNG</Image>
+      <Description>アルティメットスキルを通算5回ヒットさせた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>スキルフィニッシャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/A6AD8EBEF950D4B3232F701B7EBA94393126602C.PNG</Image>
+      <Description>スキル全般で通算5回トドメをさした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>アルティメットフィニッシャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/89F29AAC6CC443AE256F3238FF3940574E14D001.PNG</Image>
+      <Description>アルティメットスキルで通算5回トドメをさした。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>フィアナの末裔</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/DD52BAA450F41EA2F45CFC76D9F36A4D7BA1E462.PNG</Image>
+      <Description>パーフェクトで勝利した。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>The World入門</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/59014952AD63C11C23F10414DA8296BCC138B018.PNG</Image>
+      <Description>ストーリーモードのチュートリアルをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>新参者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B180C7704381AA6FC69C44045079D7ED32C312A0.PNG</Image>
+      <Description>そらの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>キノコガール</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/3D16FA308466CF5C6A74F2F8B0A2292103A889E9.PNG</Image>
+      <Description>サクヤの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>死の恐怖</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/08E50196608B7ECF4956407AF730FFF17CAD15FF.PNG</Image>
+      <Description>ハセヲの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>伝説の勇者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B58806948153E36C6B211C34ED844EA9B595DAC9.PNG</Image>
+      <Description>カイトの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>勇者のパートナー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/822061EC11CDD1C77422F06D853AD26873AFC143.PNG</Image>
+      <Description>ブラックローズの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>未帰還者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B6616A2976F2B980519E6D577D7C86386BDA22F1.PNG</Image>
+      <Description>司の全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>三爪痕</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B6718B3920359BA489C4EA5ABAC001871568AA92.PNG</Image>
+      <Description>オーヴァンの全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>ブロンズランカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/493C85950AAB32C59B3D2E83247C0E20FC457CE6.PNG</Image>
+      <Description>ブロンズランクに到達した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>シルバーランカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/6BDC9BDCA9D1AB4F6569191AC33FF0A2E8EA3AC1.PNG</Image>
+      <Description>シルバーランクに到達した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>ゴールドランカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/4F98A9A413C7F5733A7C4FF99B08E2A47D127E17.PNG</Image>
+      <Description>ゴールドランクに到達した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>プラチナランカー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/05CE77CFDA0961AC0324800F42283191E970D112.PNG</Image>
+      <Description>プラチナランクに到達した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>チャンピオン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/F4913DE4F874828FA7CD3609012C5B9CCC812FB6.PNG</Image>
+      <Description>チャンピオンになった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>オールクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/9B11F5CE6FE695A9903F72328B9BC20E114E87E2.PNG</Image>
+      <Description>全てのバトルポイントをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>オールA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/0F024AC8249535A675E05A42553172873090C3EA.PNG</Image>
+      <Description>全てのバトルポイントをGRADE A以上でクリアした。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>オールS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/877CEDDE63B9F6E6288923A50095CBBA1D17B912.PNG</Image>
+      <Description>全てのバトルポイントをGRADE S以上でクリアした。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>トキオとメル友</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/7F800AF314381A298319698E00345074CC4CE776.PNG</Image>
+      <Description>メインシナリオをクリアした。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>MISSION CONTINUES</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/7F54B8944BA1453D7C85C8E1F4B891EC1933F996.PNG</Image>
+      <Description>MISSIONを50個クリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>MISSION COMPLETE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/A8548F4421196D7CDEBEC44CD98BB9A715FB0699.PNG</Image>
+      <Description>MISSIONを100個クリアした。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>お宝大好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/80540A00488AC84D0E803ABF420786E50F38E174.PNG</Image>
+      <Description>サポートアイテムを10個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>トレジャーハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/1787DA57802F7A714B3424DF0F007A5EDA288BFE.PNG</Image>
+      <Description>サポートアイテムを25個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>マルチウェポン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/BD9E49A15BDF39EC0C9F199A12E30A4731FCCAF0.PNG</Image>
+      <Description>着せ替え武器を20個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>エッジマニア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/504DF7D35574AC6D08ACC754EA695F11F052FA01.PNG</Image>
+      <Description>着せ替え武器を40個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>壁紙収集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B8F01D48C2178D11C04B65661983F11E111A11BC.PNG</Image>
+      <Description>壁紙を5枚集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>壁紙収集癖</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/60A928EF40CB9DB8DC2C9459834DFFF9DA548A79.PNG</Image>
+      <Description>壁紙を10個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>サウンドコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/86513360AC9BDEB37334367A8C7CF86F2D9DC615.PNG</Image>
+      <Description>BGM・VOICEを10個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>ミュージックフリーク</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/146B4E34684E918BE39D4A20298A86F1859ED36E.PNG</Image>
+      <Description>BGM・VOICEを25個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>アイコン収集家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/6B1D5BE96DBC14BDB5D0800F5750ECDF00416AA6.PNG</Image>
+      <Description>プレイヤーアイコンを10個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>アイコン収集癖</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/2FD399B40324F711A3A84F0F8D6FB3734723E4E2.PNG</Image>
+      <Description>プレイヤーアイコンを25個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>肩書き大好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B57589DE8413C1D0E84A66CACD4E316E4644B5DD.PNG</Image>
+      <Description>称号を50個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>肩書き大々好き</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/3E109F3C20BF7C42EB8024C2A34F2DEC0ECF93B6.PNG</Image>
+      <Description>称号を100個集めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>タナトスレポート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/F0B43FE9AA3B2E9ACAEF56FAC3DEFBBF34AF668F.PNG</Image>
+      <Description>『タナトスレポート』を閲覧した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>俺はここにいる！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/B4AD917CAB4C2E71FEB92034DE1FB68D80DCD7F6.PNG</Image>
+      <Description>VS-PASSを編集した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>バトルビギナー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/41FA174AF5885B2BB5E389CD658FE3B3793DB64C.PNG</Image>
+      <Description>VERSUS MODEのOFFLINEで対戦を行った。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>バトルマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/AEE0C2BDFB7BFA7A3F450924066AA51FAF4DB2C5.PNG</Image>
+      <Description>VERSUS MODEのOFFLINEで対戦を5回行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>アリーナバトラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/14B1948EB50F8765A8A3C8282AA701FC665C2425.PNG</Image>
+      <Description>VERSUS MODEのONLINEで対戦を行った。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>宮皇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/744F020F8DB3595456A5CB304BE3193B3E4691D4.PNG</Image>
+      <Description>VERSUS MODEのONLINEで対戦を5回行った。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>一人前プレイヤー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/E447660EAE2CDD3E6C7ECAE542FB3C34088B96A7.PNG</Image>
+      <Description>総プレイ時間が5時間を超えた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01946_00</GameId>
+      <Title>ベテランプレイヤー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01946_00_7E1D0E657D90623D940AD177206A20ADBDA594B9/9E64F725D3DEC023DB97D0541C366504532A6055.PNG</Image>
+      <Description>総プレイ時間が10時間を超えた。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

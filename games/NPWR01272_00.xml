@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01272_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Disney Sing It: Party Hits</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/94835C3F0C6BC92BF079DBA1D5FDDB0FD2855F7C.PNG</Image>
+    <TrophiesCount Total="48" Bronze="36" Silver="8" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>All-Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/2A4257645F8A087223B46D42271B5C10215100E4.PNG</Image>
+      <Description>Win every other award in the game.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Vocal Score</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/D23DB17D50973FEECEAFC7C0E681649800390607.PNG</Image>
+      <Description>Complete the Scoring Tips lesson with at least a silver cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Vocal Power</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/C954F316A1B0D4ABF81AEC6B766A6FBA2995CAEC.PNG</Image>
+      <Description>Complete all Power Singing lessons with at least a gold cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Riffin' Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/E3ABBE364BDA6EAE93DEE1856D32FB505C4BCDF7.PNG</Image>
+      <Description>Complete all Riffing lessons with a Superstar rating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Singing Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/A27B793E0FCC8F4768C59A179E9BA0B0CAE90E99.PNG</Image>
+      <Description>Get a Superstar rating for all lessons in Vocal Coach.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Curvy Notes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/EFA0D76788C362E2AB95C49373048E404B1343BE.PNG</Image>
+      <Description>Sing 80% of curved notes correctly in "Ignorance".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Word Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/EA4DE30640EA24321622CA1E3EE87245892F6BF8.PNG</Image>
+      <Description>Correctly hit 80% of the spoken words in "It's On".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Note Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/390342D6D2B7A133C9B280AA9DAD274F7A9DC69C.PNG</Image>
+      <Description>Successfully sing the longest note in "I Wouldn't Change A Thing".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Jackpot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/C0FD819D06D2A78C8135CCC811C3FED1E378DAF1.PNG</Image>
+      <Description>Earn 150,000,000 total points throughout the game.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Paramore Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/7DA76257EDA9E087E206E630101B083588A31B81.PNG</Image>
+      <Description>Sing both "Paramore" songs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>That's Punk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/ABC20FB9A51899608FC6E23CB86C91C88039D2BC.PNG</Image>
+      <Description>Apply the "Pop Punk" theme.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Billboard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/39C65B49A08297910906631A906F4960E00CB8C2.PNG</Image>
+      <Description>Get on the Score Board with "Brick By Boring Brick".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Paramore Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/70E3B47090179D38170330DBFF0C3CE3BBD3BDD0.PNG</Image>
+      <Description>Achieve at least a 4 Star rating in both "Paramore" songs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Stylin' Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/E2DE261CA1B97F1CC92B3B5AE3408F5522EF2A57.PNG</Image>
+      <Description>Hit level 5 Style in "Already Gone".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Performer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/C12877CD096D0CC6D6741397668E511149E68B39.PNG</Image>
+      <Description>Score at least 750,000 while singing "I'm Yours" in Performance Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Solo Success</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/2BBF522D2182710FA615D1B5E0A6C12BD6922002.PNG</Image>
+      <Description>Sing every song on the disc while playing a Solo game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Super Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/654D6910D34508E759B9A100BC91C505473D0947.PNG</Image>
+      <Description>Achieve a 5 Star rating in any 15 songs while playing in a Solo game.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Team Up!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/53EC3890490D954F486839DEF8199899D74A2F11.PNG</Image>
+      <Description>Sing "Boom Boom Pow" in a Team game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Pass The Mic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/4614BC43FE253B65E10181D4FE2A87CD1FDB4061.PNG</Image>
+      <Description>Sing "It's Alright, It's Ok" in a Pass The Mic game and achieve a 3 star rating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>High Five</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/4F3E456ED86157F13121EF215FA697420B87C6BB.PNG</Image>
+      <Description>Get a Gold bonus in 5 songs during a Sing Off game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Sing Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/ECCC8FB0DCA1DCC9FDBE0F9A668BF99A95F210FD.PNG</Image>
+      <Description>Sing 10 songs with a 5 star rating while competing in a Sing Off.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>The Final Jam</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/44BC55F511ABF21F8349E82BE6552A40A3609CFF.PNG</Image>
+      <Description>Sing every "Camp Rock 2" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Bonus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/DB938FFA122AF5F98085E0A10E94172C0A153606.PNG</Image>
+      <Description>Get a Bronze bonus in "Fire".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Rock!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/16F41B394990E5259C216D010A0A1B20F99EB705.PNG</Image>
+      <Description>Get on the Score Board with every "Camp Rock 2" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Rock Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/4FBE9FB1CB210A807DF0A4E19A449F2818D9034B.PNG</Image>
+      <Description>Achieve a 3 Star rating in the hardest difficulty for every "Camp Rock 2" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Me To You</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/BB755DA3710B4D5365EC16EAA9549A2C0C4254A6.PNG</Image>
+      <Description>Sing "Remember December" in a Pass The Mic game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Awesome Co-op</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/83593A23165ED10C6DD1530B981FFBBE30DFF33B.PNG</Image>
+      <Description>Get 70 Awesome bonuses while playing any co-operative games.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>$1m Buddies</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/38896F2702767BAD585BD995D986656429687429.PNG</Image>
+      <Description>Sing "One Time" and achieve a combined score of 1,000,000 during a Duet.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Top 5 Duo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/D10B548C2E9F95E2D8D8748C0F09ACD88681092B.PNG</Image>
+      <Description>Win 4 stars or more in any 10 duets.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Showdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/8757278D0C6B1C262CD9045595244A126139B6C9.PNG</Image>
+      <Description>Sing "Naturally" in a Competition.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Great</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/4465494829AFBB33733221AF8E5F23E43C4AB699.PNG</Image>
+      <Description>Get 250 "Great" bonuses while playing competitively against other players.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Party Millionaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/646C1B01BB699CB3298BE5A43C0AFA9F19A9556A.PNG</Image>
+      <Description>Score 1,000,000 or higher while singing "Fireflies" in a Competition.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Silver Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/605592B307359E956A4ABC7F52EAC69C4C0B9AA8.PNG</Image>
+      <Description>Win a silver bonus in 10 competitive Performance games.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Jonas fan</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/BE51132E51EEECA269D70EB8F398F20652F5599A.PNG</Image>
+      <Description>Sing every "Jonas Brothers" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Bonus Skill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/C17A538A1A086E2EE08984477285485E8B5E3ADF.PNG</Image>
+      <Description>Get a Silver bonus in "Paranoid".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Chart Hit</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/55AE19636CBDD2FC44238343DF23B05712259EB4.PNG</Image>
+      <Description>Reach the top spot on the Score Board with "Fly With Me".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Living the Dream</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/8E6AE5AC700FC0FBB9B817D03D11EB8302FEE6F7.PNG</Image>
+      <Description>Achieve a 5 Star rating for every "Jonas Brothers" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Awesome Bonus</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/F2F16F248014E139D8B5E173BE14D27BC6CEB094.PNG</Image>
+      <Description>Get 10 Awesome bonuses in any 5 songs.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Style Pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/DC1B49CF8AAE1F713D35966E601B024A04F5B7DC.PNG</Image>
+      <Description>Achieve the maximum Style level in 10 songs.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Bling</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/AB291EC64894ED3D5A3D3B2256D04167305CFD85.PNG</Image>
+      <Description>Get a Gold bonus in every song on the disc.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Bonus Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/C23E7678CB3C2F38B3D2922D1F80E1B0F0191D82.PNG</Image>
+      <Description>Achieve a 5 Star rating for every song on the disc.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Z Mode</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/98B9BDF9CD68FC2103B6477C99C727269F1E12A4.PNG</Image>
+      <Description>Finish a song in every game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Supermassive Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/DA113CBB90C882501C27882B4181EF7AB54C9FB2.PNG</Image>
+      <Description>Sing 200 Songs with at least 3 star rating.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Billboard Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/76DF565AFFA7AA2EFBBC577B38851B856ABB32B6.PNG</Image>
+      <Description>Reach the top spot on the Score Board for every song on the disc.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Baby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/3288929ABCE6DC9CB145DC683B4147AC7EC5C8F0.PNG</Image>
+      <Description>Sing every "Justin Beiber" song with at least a 3 star rating.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Gold Status</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/1BCF4072063040428E7AB18A8F1E5A09A70FCDA9.PNG</Image>
+      <Description>Get a Gold bonus in "One Less Lonely Girl".</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Chart Topper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/B5C1A4E454AB6AB6FE7E4BC4BC48D8C396B426D0.PNG</Image>
+      <Description>Reach the top spot on the Score Board in every "Justin Beiber" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01272_00</GameId>
+      <Title>Justin's World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01272_00_62081B1D6D4FA4C0A4D553FC735AB42274F7DBC2/586519F06F5157C20C672D0F94C7A22A62F6DD86.PNG</Image>
+      <Description>Achieve a 5 Star rating in the hardest difficulty for every "Justin Beiber" song.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

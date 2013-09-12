@@ -1,0 +1,446 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00743_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Winter Sports 2010</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/BF9C72D3CBE394A3FCECB668C10ED21DE7EE83EA.PNG</Image>
+    <TrophiesCount Total="48" Bronze="33" Silver="12" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/DA8B6DB090DD8F9CCEC4EC835013D2F596CFE335.PNG</Image>
+      <Description>Win all Winter Sports 2010 Trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Boss 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/CEB0843F1D2B2037010A4F0E4E04C9361F809B5F.PNG</Image>
+      <Description>Win the Snowboard Boss 1 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Downhill Boss 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/81A9E6DA3BEE9281295A66FED7464065B7BCAEF7.PNG</Image>
+      <Description>Win the Downhill Boss 1 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Biathlon Boss 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/C8A39DE25AA507FAF0F0FFF575B4B08281ADA9E0.PNG</Image>
+      <Description>Win the Biathlon Boss 1 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Biathlon Jet 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/411818B4D2E0A4A1CA5423CA7F43F730F2CE1261.PNG</Image>
+      <Description>Win the Biathlon Jet 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Jet 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/E37347B7B4EE453A810A65FF964457D6523A9115.PNG</Image>
+      <Description>Win the Freeride Jet 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Boss 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/BEA27957D1AB2A2A7A89CB48BB983B64285E0762.PNG</Image>
+      <Description>Win the Freeride Boss 1 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Biathlon Gold Rush 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/281DBF4B3BEE22DFE3EAC00FF6DCF873C9D388AF.PNG</Image>
+      <Description>Win the Biathlon Gold Rush 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Boss 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/91E5715E581685EB166F1D50AC1A095823B9870F.PNG</Image>
+      <Description>Win the Bobsled Boss 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Gold Rush 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/BD487F2D0893C71081EF7FBD4EC5C4407CBEC6AC.PNG</Image>
+      <Description>Win the Snowboard Gold Rush 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Gold Rush 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/533E48DCFDC7642CA4A06D5116EA88CE47BB2C53.PNG</Image>
+      <Description>Win the Freeride Gold Rush 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Boss 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/1B59AEDE28B98DA7F06470B2945C713562F65E47.PNG</Image>
+      <Description>Win the Bobsled Boss 2 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Downhill Jet 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/CE6B6BFF111A0597F53CCA23EB938D23E0BC48BF.PNG</Image>
+      <Description>Win the Downhill Jet 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Biathlon Bone Breaker 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/9B97A27C62D1C7288A3C2409FA30738792B3F34D.PNG</Image>
+      <Description>Win the Biathlon Bone Breaker 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Jet 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/A4E91C1BCC04107375CB214A0F5CEF73C304740A.PNG</Image>
+      <Description>Win the Bobsled Jet 1 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Gold Rush 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/D6BAF1326611243B77DDF7EA597ECE2D34AEC39B.PNG</Image>
+      <Description>Win the Bobsled Gold Rush 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Trickser 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/87FBBDCA31CD53F3D533AFB3304DBC4E284E0BF8.PNG</Image>
+      <Description>Win the Snowboard Trickser 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Downhill Boss 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/4EE3E858951E2926A80BD4E01B61E11AC8C5B317.PNG</Image>
+      <Description>Win the Downhill Boss 2 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Jet 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/676EA9AE43E48C558C3DEE3D8FCAD79DC0CF957A.PNG</Image>
+      <Description>Win the Snowboard Jet 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Bone Breaker 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/5142973AFE3F360A3B3FB0DCB44D031570C75B79.PNG</Image>
+      <Description>Win the Snowboard Bone Breaker 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Downhill Jet 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/4165FCAE2F421EEB57232C076535FC8E543AFABC.PNG</Image>
+      <Description>Win the Downhill Jet 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Biathlon Boss 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/312124627DC0A805E544274B3AF29D52B3E659F8.PNG</Image>
+      <Description>Win the Biathlon Boss 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Gold Rush 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/40F97162EC7EACA3B8FFE2BC35DD29291F488BF7.PNG</Image>
+      <Description>Win the Freeride Gold Rush 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Trickser 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/E608FBC55A2D26BF5D9B2A2245ECA6B36462EE6C.PNG</Image>
+      <Description>Win the Freeride Trickser 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Boss 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/033064FB9AAF17CDD65B043770C2870AE82583A9.PNG</Image>
+      <Description>Win the Freeride Boss 2 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Bone Breaker 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/BDB9CE0B91D1A28A5C2651A13C28192BBCB5F885.PNG</Image>
+      <Description>Win the Freeride Bone Breaker 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Bone Breaker 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/AD0252BC447A907C6A5DE471E1DE7015F553EDD5.PNG</Image>
+      <Description>Win the Bobsled Bone Breaker 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Bobsled Jet 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/179AF8366149212D149C99BFB241D73D7C265361.PNG</Image>
+      <Description>Win the Bobsled Jet 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Downhill Bone Breaker 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/EF65E3FFFE093516493A6C4998A46A78A2A20C18.PNG</Image>
+      <Description>Win the Downhill Bone Breaker 2 Challenge.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Bone Breaker 1</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/08DA3EA972625D3252CFFC1951F504BC19FBEAD4.PNG</Image>
+      <Description>Win the Snowboard Bone Breaker 1 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Freeride Jet 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/1123E887B7C3E064514C26DDD1881B8F4D10FC50.PNG</Image>
+      <Description>Win the Freeride Jet 2 Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Snowboard Boss 2</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/E9997F1CA871776FDDD57255EB01B53E60959E75.PNG</Image>
+      <Description>Win the Snowboard Boss 2 Challenge.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Rookie Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/41357FFBF9E7A03F8FE8EAB744BB231557C5D388.PNG</Image>
+      <Description>Win the Rookie Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Sophomores Best Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/6351EFFDDB76A43B47A256AE863331CFB4C4C4EF.PNG</Image>
+      <Description>Win the Sophomores Best Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Ski or Die Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/FB8430BB7B68F87909D550E80EF2AF287C797217.PNG</Image>
+      <Description>Win the Ski or Die Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>First Big Time Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/0D612E0D7FA4AE305A6AC30A40914DA18E7608DB.PNG</Image>
+      <Description>Win the First Big Time Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Night Move Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/6910F114C7AAA7CAAC593B7A66F468A6526D6B48.PNG</Image>
+      <Description>Win the Night Move Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Tube Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/561D018F00E5364F2E2B321106FED03507333E0F.PNG</Image>
+      <Description>Win the Tube Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Race Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/85733CD2CD2C10EA6A923366773B5C253DDC490A.PNG</Image>
+      <Description>Win the Race Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Lord Ice Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/3809E04A70A01BFBABDEF7A13CA3CE20ABEC258D.PNG</Image>
+      <Description>Win the Lord Ice Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Five To Stay Alive Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/E7113BFAD48E6C6F1F82E87BAEA4EA1C92EEB9B2.PNG</Image>
+      <Description>Win the Five to Stay Alive Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Night of Five Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/BD246E976AAF192F24ED2503F4BE1BC1653F32CF.PNG</Image>
+      <Description>Win the Night of Five Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Fab 4 Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/68BC0044DCDBB350CDB8DDB0CBB7BF6CF3EB826A.PNG</Image>
+      <Description>Win the Fab 4 Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Destiny Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/13DD9FE870FC49BA76C6C76D02193D87EA041336.PNG</Image>
+      <Description>Win the Destiny Cup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Oldschool Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/8B134BC200C6F1F38C61C8677DE9C87E82965C12.PNG</Image>
+      <Description>Win the Old School Cup.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Newschool Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/EAD8647145FFA2601E9F6A28723B605BE3454299.PNG</Image>
+      <Description>Win the New School Cup.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>Go for Gold Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/22A3F0741DDB63F4EEDB96F13D26B139856028EE.PNG</Image>
+      <Description>Win the Go for Gold Cup.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00743_00</GameId>
+      <Title>49Games Cup</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00743_00_9938502A24A9ECF50F087AFE9FC80A930AACD0EA/41A049D955995C375BEE1D4FE08CF42722C1FB82.PNG</Image>
+      <Description>Win the 49Games Cup.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

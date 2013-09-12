@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03291_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Hello Kitty to Issho: Block Crash V</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/98E95D297DDB27A20C526B244817992C6DDD8D46.PNG</Image>
+    <TrophiesCount Total="34" Bronze="21" Silver="7" Gold="5" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>超キティラーとは私のことよ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/84E2372365B4B63E49A5A65E89AFB652330B0925.PNG</Image>
+      <Description>すべてのトロフィーを獲得した</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>次はもっともっと難しいのを作るです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/E10DC5E3C76A06AC357850287C324E2497ACA6F8.PNG</Image>
+      <Description>真エンディングを見た</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>マスター・オブ・ブロッククラッシュです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/75D85E4169B8BE8C02AFA7C961174F05466B623B.PNG</Image>
+      <Description>Sランク１００個以上獲得</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>や、やりおる……です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/3068FFC01C27C60E082F16D1FEC7B291C9A7DF99.PNG</Image>
+      <Description>全ステージＡランク以上でクリア</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>ボスがコテンパンです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/1A7840CD95E57A657531B817FFB82998B336C5B3.PNG</Image>
+      <Description>ボスステージで全てSランククリア</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>天才です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/C9794C15A772EA8E1EF31D1EA9EA06B11E31BFC1.PNG</Image>
+      <Description>挑戦状エリアでSランク１０個以上獲得</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>覇王への道です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/7C2A42048DEE24699DAB7D6C4F8B90A729B4A502.PNG</Image>
+      <Description>エンディングを見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>破壊王があらわれた！です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/B93925527C0CABB6C8E36EABEDA66986A272F8C8.PNG</Image>
+      <Description>一度のボール射出で25個以上のブロックを破壊</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>一撃必殺です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/630231D8922B52E6B66364557693D43DA81C2B82.PNG</Image>
+      <Description>最初の射出で全てのブロックを破壊する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>めげちゃダメです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/DFFD23226DF0AA777437C566849B8C0A6487CB0C.PNG</Image>
+      <Description>ミスを５００回以上する</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>ホールインワンです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/125BB4C7275AAADB16326620670EB87AFC481FDE.PNG</Image>
+      <Description>ゴルフステージで、ボールを跳ね返さずにクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>驚きの早さです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/8BF4864C058997206780BAD6528DEDB88BA5C883.PNG</Image>
+      <Description>3秒以内にクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>攻撃が効かないだと！？です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/AC314B525E2FD7A6F5398B34B29E17FC3B40F77A.PNG</Image>
+      <Description>砲台ブロックやボスが撃つ、クラッシュボールを１５個以上消してクリア</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>フラットです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/9973DAD4F04C81FBA688BA85827F900A55F647FD.PNG</Image>
+      <Description>クリアタイム下二桁が00秒</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>信じるのは己の力のみです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/2C337A55158F8BF92954AA99C39D07F376B8B714.PNG</Image>
+      <Description>アイテムが出現するステージで、１つも取らずにクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>動じない心です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/ED1BBF8979EED1EA875006006BB68E08A8B8A20E.PNG</Image>
+      <Description>PlayStation®Vita本体を一度も傾けないでステージクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>かんたん、かんたんです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/282EDE09D85424BC939F5474DB877A7319C43C2F.PNG</Image>
+      <Description>EASYクリアデモを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>ここから本番、本番です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/CF8238658B8D298D5F8ADF5A30699813ADF4845E.PNG</Image>
+      <Description>NORMALクリアデモを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>まだまだ負けないです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/D4903282CE177623F82C1BA71A193E83967564BB.PNG</Image>
+      <Description>ボスステージを１０ステージクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>たくましいです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/0767C3134078943C503EF99ABA79D0BA8A3430C8.PNG</Image>
+      <Description>貫通状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>さ、さわりすぎです……っ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/3821C52FE4A5A92DED6B6FA8ECFBD402B27E540B.PNG</Image>
+      <Description>１ゲーム中、１０回以上シャルロッテ、かのんにタッチする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>ムチャしすぎです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/013BA5A37837CB7CBCBB060A28A97EE44D7D6F54.PNG</Image>
+      <Description>バッドアイテムのみ、３個以上取ってクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>持久戦に耐えた証です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/6B0EB00073AFEB529A5D1D43D574D68B693329CD.PNG</Image>
+      <Description>１ステージで3分以上プレイする</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>負けない心が大事なんです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/B04456CA486E20DB72B9A849739750CD2DB3A4AA.PNG</Image>
+      <Description>お邪魔ブロックに５０回当てた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>頑張り屋さんです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/EBE056D45D7A13E5C1813FB4D520DC924059D48C.PNG</Image>
+      <Description>プレイ時間が５時間を突破</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>暗いのは嫌いです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/7DF2566ADBEF6FED3B0CD42982CD98506D891D53.PNG</Image>
+      <Description>暗闇のステージで灯りをともした状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>短いのは嫌いじゃないです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/03031CD2336B936D8CA094D03E0E910617FD04EE.PNG</Image>
+      <Description>バーが短い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>遅いのは嫌いじゃないです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/DE6B7EDDF19CAF6B7582D4A098BA6BD2321012EB.PNG</Image>
+      <Description>バーが遅い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>ボクは長いほうが好きです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/8864980B8022C3590D48E8AA672B10C134CB66FE.PNG</Image>
+      <Description>バーが長い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>速いのは嫌いじゃないです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/1120CA83AB8C7F5E8FFD505BE6FD5E045044EBBD.PNG</Image>
+      <Description>バーが速い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>下手な鉄砲も・・・なんです！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/FEC6BB8E5BDB9D30ADDCFAB59C3B31234874BAF6.PNG</Image>
+      <Description>ボールが２つ以上の状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>反射神経いいですね！です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/0C32DB2214C30ECCD89E3477FBE6E826EA756DCC.PNG</Image>
+      <Description>ボールが速い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>慎重派なんですね！です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/3C2FEFE6F2BFD0D6BD34002A6774A0B38337E0BD.PNG</Image>
+      <Description>ボールが遅い状態でクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03291_00</GameId>
+      <Title>せつめいはとっても大事です！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03291_00_AD43FE23C0E507FF906A9C40D9A81080F5745FB7/FF55F265F372A70141D2AFFE89981859AFCF7726.PNG</Image>
+      <Description>せつめいを全て読んだ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,320 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02755_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Asphalt Injection [JAP]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/FA4B965F030CB53D373F5EF4BBB5D7CBE9047C19.PNG</Image>
+    <TrophiesCount Total="34" Bronze="19" Silver="9" Gold="5" Platinum="1" />
+    <TotalPoints>1005</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>アスファルトドミネーション</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/2D45DA5FAA33E2C90E7A32EFEF2AB57DDFFF77F2.PNG</Image>
+      <Description>全てのトロフィーを獲得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ファーストデビュー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/D72985D1AEA6FF0F93DF68DE167CECA1A2C37525.PNG</Image>
+      <Description>1位でフィニッシュ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ポディウムマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/ED8164CC9F26916EA8E486365E776400F666CFC6.PNG</Image>
+      <Description>3回連続で1位を獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>インビンシブル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/B8FAD09F171FD255A9082CB83706566DB1123437.PNG</Image>
+      <Description>マルチプレイのレースで10回勝利</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>レジェンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/8AD156FF9E28CE54FF766065B5DEF2F1B47D86B0.PNG</Image>
+      <Description>マルチプレイのレースで100回勝利</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>プロディジー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/3DDA97D4494BC4ED427C6BFD965CF33FC5AB5CF6.PNG</Image>
+      <Description>10レベル以上の格上がいるマルチプレイレースで1位獲得</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>レーサホリック</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/EF39B3BB38BDDF149AE5D1A12F983021B239908C.PNG</Image>
+      <Description>50レース達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ベテラン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/224F9A38E5EB7A34FCFA38B94BEC802F0DEE1FC2.PNG</Image>
+      <Description>マルチプレイで100レース以上完走</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>パーフェクトパーフェクト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/61643AA0010F94822C1F60E11513BCCA61B77F23.PNG</Image>
+      <Description>1つのコンペティションで全てのスターをゲット</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>カミカゼドライバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/00E018C785B7F714819AA48991F7A46B1C3E93CB.PNG</Image>
+      <Description>キャリアをコンプリート</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ブースターハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/D3B4F5B63583B89CAFD48AEC268BFACCD652E99E.PNG</Image>
+      <Description>1レースでニトロを25個以上ゲット</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ノンストップブースト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/7F74EE292E574B3DAA3D2DB73BA7A67087D6691A.PNG</Image>
+      <Description>1レースでニトロを35個以上ゲット</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>スターコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/968155B958F698FBD501FF43C8F6D3A43D9996A8.PNG</Image>
+      <Description>Collectorでコース上のパープルキャッシュを半分以上ゲット</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>クラッシュビースト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/EA226F7B4A5A69F6A411C500BAE857DB61C24FCC.PNG</Image>
+      <Description>1レースでライバルマシンを10台以上ノックダウン</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ドライバー・フロム・ヘル!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/71EA6A979D63EAAEDAA5E3583E661BDF6482FD1C.PNG</Image>
+      <Description>1レースでライバルマシンを15台以上ノックダウン</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>クイック・アンド・ダウン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/E641F661FA6C816055EAC69F113807FF189DF7AE.PNG</Image>
+      <Description>10秒以内にノックダウンを3回以上達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ベルセルク</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/987EB52D09B0A3328D17DC9857CB09F277C7B776.PNG</Image>
+      <Description>20秒以内にノックダウンを5回以上達成</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>アグレッサー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/0FE0C575D646296335788E33EBC86CE9FCCDF63A.PNG</Image>
+      <Description>同じライバルを相手にノックダウンを3回以上達成</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>シェイクダウン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/FB992F58B1A908F28BD7EA66D2AD3085F1BCF1CE.PNG</Image>
+      <Description>1レースで各ライバルを1回以上ノックダウン</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ドリフトスト－ム</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/E11FBA26BCC41EAD3D323DE8049C8781D0D747E9.PNG</Image>
+      <Description>ドリフトしながらライバルをノックダウン</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ドリフター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/94DBC54497B992DF59170502EE84BB666F350FFF.PNG</Image>
+      <Description>ドリフトポイントを2,000ポイント以上獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ストリートインフェルノ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/BD6AC298517F0054C55379598BF02B0047BF7CEA.PNG</Image>
+      <Description>ドリフトポイントを3,000ポイント以上獲得</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ロングトリッパー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/5A837B44244E143E993A6A96D2056ACDB0CD720C.PNG</Image>
+      <Description>1回のドリフトで1,000ポイント以上獲得</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>Mr. アナーキー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/50C7A9B5F1A8131B92703E60B151FD78421FA310.PNG</Image>
+      <Description>Beat'em Allでドリフトポイントを500ポイント以上ゲット</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>アクションスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/AD14CEEF1BB760F6757B25C3B868E2E06834B2DC.PNG</Image>
+      <Description>1レースでジャンプポイントを1,000ポイント以上獲得</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ジャンピング・ジャック・スマッシュ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/AF62A500FCBDDA098306FB7B948E082F6C6EFC43.PNG</Image>
+      <Description>1レースでジャンプポイントを1,500ポイント以上獲得</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>クリーンシャシー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/84FD9BE28784C477F3B3C21D75F18FADEA89BCD1.PNG</Image>
+      <Description>一度もクラッシュせずにNormal Raceを完走</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>オフ・ザ・ウォール</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/8F333ACAF836DE048941494C316ED920145DD4F8.PNG</Image>
+      <Description>一度も壁に接触せずにNormal Raceを完走</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ノーボディコンタクト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/8F0EE3CCFDC886728F5255EAF1688EC84E2D3865.PNG</Image>
+      <Description>一度もライバルと接触せずにNormal Raceを完走</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>サバイバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/3A6C149A8CE4CDC369C13F61FB816CBA76FD985D.PNG</Image>
+      <Description>一度もクラッシュせずにUnder Pressureをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ジャンプハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/FF09FB5CA4084634C0ABFDF658866B6B0DFD202E.PNG</Image>
+      <Description>1レースの各ラップで1回以上ジャンプ</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>ストームレーサー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/2169FB5C9E0EB75F21CE9AA4600FE4614C9AF2CC.PNG</Image>
+      <Description>1レースの各ラップを1位で通過</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>アクロバット</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/E1030ADE43B6A6FF19143A708A2037E291A702F5.PNG</Image>
+      <Description>ドリフトしながらフィニッシュラインを切る</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02755_00</GameId>
+      <Title>エリートレーサー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02755_00_A7BDC638F78D6C53BA8DD3DA67F98E2BFC6D181B/233ED0088AEF0B242DD4D1E5AA192A11F5F8D9E6.PNG</Image>
+      <Description>ニトロを使用せずに勝利</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

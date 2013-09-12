@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01302_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Brunswick Pro Bowling</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/A468A3B7CC54901F713992E05C1D24A6CCE7C2C3.PNG</Image>
+    <TrophiesCount Total="12" Bronze="7" Silver="4" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Pants</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/CD80B7AA8AF75424AFAEF721EDBE3DF98E6DE2A5.PNG</Image>
+      <Description>First pants/skirt unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Shirt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/A401306C959E356086B72F647A876F48FBCBA671.PNG</Image>
+      <Description>First shirt unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Shoes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/21B7BD9F1E6DE1392B0D303F4C66A1ABCFFACB3F.PNG</Image>
+      <Description>First shoes unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Hat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/B947744620707ED6A7607ECDB987BFC389C4C8D4.PNG</Image>
+      <Description>First hat unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Glasses</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/32737FDFA938A95999A50282EA8D68E915BD04D7.PNG</Image>
+      <Description>First glasses unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Wrist Guard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/297DB2F096F422C5585A79BDA4AA7A39C86782E3.PNG</Image>
+      <Description>First wrist guard unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/6A43574198502A0D3D5688E5C90533FF3607F966.PNG</Image>
+      <Description>First ball unlocked</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Online Winner</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/05AB947E21654FB4C6C99E508DB02E1E39C31128.PNG</Image>
+      <Description>Online match winner</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Expert Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/6C7BB0BB0AF45F407614298607045C1FB5FBD592.PNG</Image>
+      <Description>Expert league champion</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Tournament Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/2DC287A13640466086177DB53811757B02280199.PNG</Image>
+      <Description>Pro tournament champion</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Rival Victor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/6D5D0E9CC85BD471185FE48643A6491B7C9CB565.PNG</Image>
+      <Description>Win rivalry game</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01302_00</GameId>
+      <Title>Brunswick World Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01302_00_28DD2742582383E5E960C25A919404CF11D30D6A/A2A2780AD14A2F8D69225050F6DC9F0A83537947.PNG</Image>
+      <Description>World Tournament champion</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,338 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01562_00</Id>
+    <IdEurope></IdEurope>
+    <Title>MLB 11 The Show</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/E3ECD54E8CFA6803CB82BFF90D2DB17A04CFD36F.PNG</Image>
+    <TrophiesCount Total="36" Bronze="24" Silver="5" Gold="6" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/7BCD96E08FFD4BD04D777D7B9E0A9CC3A113FD06.PNG</Image>
+      <Description>This is the platinum trophy and is unlocked automatically when all trophies have been unlocked.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Dig that long ball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/80E028E2FD21C03D0EB9764ADF2F23BA2EECA222.PNG</Image>
+      <Description>In any mode (excluding HRD) hit a Home Run with a pitcher.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Strong Arm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/E51762C9A7D428848EAC4B8574786FA68C4F9323.PNG</Image>
+      <Description>Throw the ball into the stands when attempting to throw out a runner at 1st.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Fill'er Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/41AB3975C70D260854E37B2A4DF7FFCAE6DF4453.PNG</Image>
+      <Description>After falling behind in the count 0-2 work back to a full count. Must be completed vs. the CPU with both pitching and batting set to All-Star or higher difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Insider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/3E43A8DBF936049B6D24A2E68A0AF2B7F9220D85.PNG</Image>
+      <Description>In any mode get an inside the park Home Run.Must be completed vs. the CPU.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Sell Your Body</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/A1F2CC709A3389A3909D88E771F0BC75E83494DA.PNG</Image>
+      <Description>Make a diving catch in foul territory for an out.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Running Down a Dream</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/049743693510B472E43B8ECA12E18A0F6F984AFD.PNG</Image>
+      <Description>In a single game, steal 3rd twice. Must be completed vs. the CPU.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Psychic</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/001A77B3BB25BA2E712982A54E56AB1655C3A337.PNG</Image>
+      <Description>With Guess Pitch on, in any mode, correctly guess 10 pitches in a row (Location OR Pitch) vs. the CPU on All-Star or higher difficulty.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Beat LA</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/4DC8D25A1D939F10B2A2320CF83E7BAFA96EDB5F.PNG</Image>
+      <Description>Beat the Dodgers. Must be completed vs. the CPU with both pitching and batting set to Legend. RttS excluded.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Yankees "Inhale Deeply Through The Mouth"!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/CC3DD156071EDB61A322B15759D0D4BF3889BC1F.PNG</Image>
+      <Description>Beat the Yankees. Must be completed vs. the CPU with both pitching and batting set to Legend. RttS excluded.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Patience...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/E310B8670612AF5CD6AA3B944614A5147048A0A2.PNG</Image>
+      <Description>Draw a 4 pitch walk in any mode. Must be completed vs. the CPU on All-Star or higher difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Pesky...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/8B0CBF82E67B0361BDB8DFC2AB6362905C11AA5D.PNG</Image>
+      <Description>In any single at bat, see 10 or more pitches. Must be completed vs. the CPU on All-Star or higher difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Lean On Me</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/71D19ECBCD4AF18EEDCD2E07D114D7709C80FF05.PNG</Image>
+      <Description>Pick off the CPU runner on 1st.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>The Bacon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/DF49A949356769FDEA0CD5CB52781F9CF9ADAF60.PNG</Image>
+      <Description>In RttS, earn more than 20,000,000 over the course of your career.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Batting Performance Evaluated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/272A3FCB8197EDFF2B143379A5FA2470C50726FB.PNG</Image>
+      <Description>As a Batter in RttS, have 3 or more "Good" or better At Bats in a single game at the MLB Level.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Pitching Performance Evaluated</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/63D8E773799D3AD9ECD5E2102F57746AFAB8B88C.PNG</Image>
+      <Description>As a Pitcher in RttS, in a single game, face 6 or more consecutive batters achieving a "Good" or better rating at the MLB Level.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Peak Training</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/A1C995B00EC74EE1143B7C8674BF27E79E57D317.PNG</Image>
+      <Description>In RTTS, reach level 5 in all training modes as a pitcher or a batter.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Cooperation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/2E153027689548499B4814A14905821FABFEBE43.PNG</Image>
+      <Description>Win a co-op game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Advanced Cooperation</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/D3C40A1F4237FE48A58697C78696FE703A122B2C.PNG</Image>
+      <Description>With different users controlling the pitcher and fielders, complete a strike 'em out throw 'em out double play.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Today... I am the greatest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/75C50F4B05FE1094D8BFB0FBACCDAA0FB2916DAE.PNG</Image>
+      <Description>In any mode, with any single player, accumulate 130 or more stolen bases in a single Season.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Experienced</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/AE1917401535DF82D73832807FBAB54D564956E7.PNG</Image>
+      <Description>Accumulate 100 XP across any online game modes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Seasoned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/E342A73EE0782B17EC74A698F517B568F20CEC9A.PNG</Image>
+      <Description>Achieve an All-Star rank across all online game modes.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Have a CoW Man!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/55F06F3C5066875579E0DEAAEAD8A27892924324.PNG</Image>
+      <Description>Compete in the Challenge of the Week in back to back weeks.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/2D00FBA322FCB4BBB6EEB082190BA6D3AC389AE0.PNG</Image>
+      <Description>Place in the top 33% in any single week of Challenge of the Week.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Tough Loss</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/3E0F6D47046032A8989678CCFD88D2D2528A2566.PNG</Image>
+      <Description>As the away team, take a shutout into the bottom of the 9th and lose the game. Must be completed vs. the CPU.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Momma's Boy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/87FE3D363463EE277E57ACDE0560CFBABEB632B3.PNG</Image>
+      <Description>In any season mode, hit a Home Run on Mother's Day with a pink bat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Daddy Long Legs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/CCFD018334F6A964635ECB55F5D23A682CE02D00.PNG</Image>
+      <Description>In any season mode, hit a triple on Father's Day.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Poor Billy...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/2EC37620BB02F3BCADCF9FB492F3A5D97B7CF62D.PNG</Image>
+      <Description>Win a game on an error.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Stone Hands</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/319A665F65427F9399F9A34A8F07AB4D3427A09B.PNG</Image>
+      <Description>Make 5 or more errors in a single game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>The Billy Goat</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/A7B544A0F2CC80BBA51535907BD9E39870A2E74B.PNG</Image>
+      <Description>In Season or Franchise mode, win the World Series as the Cubs. Good luck, you're going to need it!Must be full 9 inning games, simulating of World Series games will invalidate the trophy.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Splash Down II</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/8E3E3C189C9C51A65043B3911F0E9960ACDB8C23.PNG</Image>
+      <Description>Hit a Home Run into the hot tub in Chase field.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Swim With The Fishes</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/9FA383B5516D7AB762C3E082576E3A37EB138951.PNG</Image>
+      <Description>Hit a Home Run into the Ray's aquarium.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Stay on Target</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/339068D9428FB1A1B024504B9AADA15A83A64DE3.PNG</Image>
+      <Description>At Target Field, land your foul ball or tailing Home Run on the Target sign down the right field line.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Ice Cold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/790D9563E86F7D904D080998C176C3CD18965C2D.PNG</Image>
+      <Description>Hit a Home Run to dead center in Coors Field.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Salute the Troops</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/798CDF62548C16072ABBC0F7F35466E24ED398FF.PNG</Image>
+      <Description>Win a game using the Padres while wearing Camo Jerseys.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01562_00</GameId>
+      <Title>Day at the Beach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01562_00_1ABE2D86453DE67F4365A100584F41318682AA98/FC7A9A4282513CFDFDF579522929E7A28C1CB9F2.PNG</Image>
+      <Description>Hit a Home Run into the sand at Petco Park.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

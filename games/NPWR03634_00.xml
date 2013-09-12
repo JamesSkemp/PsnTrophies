@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03634_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Alien Spidy</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03634_00_014A96FAB1CAF0C1AE814135E27693FA2447BF0A49/004793B3D03FDE1A3D4B7B4156F675D242814D65.PNG</Image>
+    <TrophiesCount Total="12" Bronze="0" Silver="0" Gold="0" Platinum="0" />
+    <TotalPoints>0</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03634_00</GameId>
+      <Title>Training end</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03634_00_014A96FAB1CAF0C1AE814135E27693FA2447BF0A49/4EEE48DB31AD7D10EB7782B041746C5E89B5652F.PNG</Image>
+      <Description>Complete all training levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03634_00</GameId>
+      <Title>Millionaire!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03634_00_014A96FAB1CAF0C1AE814135E27693FA2447BF0A49/56BDADB277D1452C68369BC1CF5A301432F81CDA.PNG</Image>
+      <Description>Get 1,000,000 points playing through the levels</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

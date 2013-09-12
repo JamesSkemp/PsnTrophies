@@ -1,0 +1,374 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04425_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Kamen Rider: Battride War</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/ABC20A2F96362EE726C107F1ADCDBC75416403D0.PNG</Image>
+    <TrophiesCount Total="40" Bronze="25" Silver="11" Gold="3" Platinum="1" />
+    <TotalPoints>975</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>究極のライダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/16870E3EE6B52E343EAF994933A3428AA50AC561.PNG</Image>
+      <Description>すべてのトロフィーを獲得した。</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>ビギナーライダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/94E3565A204B0AE7FF82A4B48FCE8FB54C09BBED.PNG</Image>
+      <Description>ライダーロードを１ロードクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>ベテランライダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/A9EEC775F642FB0A71FFAE181437888BA27F669F.PNG</Image>
+      <Description>ライダーロードを１０ロードクリア。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>マスターライダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/5979138363AE8608D33C5E5DD4885DB92FF07F88.PNG</Image>
+      <Description>全てのライダーロードをクリア。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>さぁ、ショータイムだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/22CE8DEAD90D716D8DFB42A21913E6BAEC22D5CB.PNG</Image>
+      <Description>クロニクルモードで最初のミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>フィナーレだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/B6F68FCACEA0CDAA64A1A36840993D66D98CF330.PNG</Image>
+      <Description>クロニクルモードですべてのミッションをクリア。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>フィギュアコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/65982D2089425D9FAD81F73D50901C0C34875855.PNG</Image>
+      <Description>全てのフィギュアを獲得した。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>みんなの笑顔の為に！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/90ABC22C4465940C84D254E4D21EFD5A7A0A8780.PNG</Image>
+      <Description>クロニクルモードで「空我」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>アギトの為に、人間の為に！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/8EA6D1F35C95FFC7AFFBFB3E688B4E5645967391.PNG</Image>
+      <Description>クロニクルモードで「呼び逢う魂」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>俺は人を守るためにライダーになったんだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/88E186C57A43F2FDF99E20576E4A4D503ACAFA48.PNG</Image>
+      <Description>クロニクルモードで「妹の想い　兄の想い」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>俺には夢はない、でも守ることはできる</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/8A2EF227DBDAEFA65AA13E7622FE9242856E1708.PNG</Image>
+      <Description>クロニクルモードで「俺の・・・夢！？」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>俺は運命と戦う！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/31C3FDC721E9134E0509BF49D5B0B8D1F6F305EC.PNG</Image>
+      <Description>クロニクルモードで「Double Joker」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>いくぞ！少年！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/FBF1F99D1AE8316A5FD0A18574718CE5B75505C6.PNG</Image>
+      <Description>クロニクルモードで「響く鬼　喰らう童子」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>天の道を往き……総てを司る……</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/EF6218B94A8B8548238F689F083840F123AAD80B.PNG</Image>
+      <Description>クロニクルモードで「ＶＳ最恐」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>俺、参上！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/14B74A94F0AB4CEBF0883A62D9363D4FD0E8A6CC.PNG</Image>
+      <Description>クロニクルモードで「今明かす愛と理（ことわり）」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>キバッていくぜ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/A0A6D495637A50E0DABEE010D3D46AE6E065F647.PNG</Image>
+      <Description>クロニクルモードで「ウェイクアップ　キバの記憶」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>通りすがりの仮面ライダーだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/D7ADD4BF44D74C29890CA8C7AF026254F30234DF.PNG</Image>
+      <Description>クロニクルモードで「宇宙で最も迷惑なヤツ」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>さあ、お前の罪を数えろ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/6C559AD6B199658776C729228986D24E67024C6A.PNG</Image>
+      <Description>クロニクルモードで「全てを振り切れ」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>ライダーは助けあいでしょ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/6CA1D39FF8F1223FCEF45453A2FE759D0BB2AAC7.PNG</Image>
+      <Description>クロニクルモードで「明日のメダルとパンツと掴む腕」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>宇宙キターッ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/0FA5B71692BE09AEAEFE74F37E70B59738F79162.PNG</Image>
+      <Description>クロニクルモードで「この支配からの卒業」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>約束する、俺がお前の最後の希望だ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/0B08405B7E114AAF8EFB410ED748D3BC95174538.PNG</Image>
+      <Description>クロニクルモードで「不死鳥のごとく」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>さぁて、稼ぎますか</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/ABA2B824C6B7549EE0F2D7894CA4830A56F276F1.PNG</Image>
+      <Description>獲得ショップポイントが１０００００以上になった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>お前の運命は俺が決める！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/5E8F920473CEEAD8217B52BA6A711E568A4F597E.PNG</Image>
+      <Description>ボスを５０体撃破した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>振り切るぜ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/99C3F45AE54F52E498BD5A42639DDA02E0998530.PNG</Image>
+      <Description>バイクの走行距離が４２．１９５ｋｍ以上になった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>じゃあ、ランチタイムだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/655AB958CBF7AAF109E25E995EB5A47E8EA74D98.PNG</Image>
+      <Description>総撃破数が５０００体以上になった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>悪魔と相乗りする勇気…あるかな？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/97BD4ACCD3D7EC32492CA76D78A487279AB72240.PNG</Image>
+      <Description>クロニクルモードで「黒いトリ…」ミッションをクリア。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>超変身！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/F5DA986A096B7E628282CB83EE88E255CB671B3C.PNG</Image>
+      <Description>総変身回数が１００回以上になった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>目覚めよ、その魂</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/EB8DB49E1D238B50164CD081703AE77F870D54FF.PNG</Image>
+      <Description>プレイ時間が５時間以上になった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>戦わなければ生き残れない</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/4A2D63D6849643A2ACEDCD5E101C6B2B8C288703.PNG</Image>
+      <Description>総コンボ数が１０００００COMBO以上になった。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>どけ、俺の歩く道だ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/3F2DDA749966E1BAD35A9EC9DA5BB0C4D74976AE.PNG</Image>
+      <Description>バイクの走行距離が５５５ｋｍ以上になった。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>本当に裏切ったんですか？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/4A3422A7726D3FDBE835996F354A9BABC1F8AEB3.PNG</Image>
+      <Description>クロニクルモードで「『裏切り者』の正体」ミッションをクリア。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>鍛えてますから！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/25B19CECB387CA51A652B889C01788E75A8CBD1D.PNG</Image>
+      <Description>いずれかのライダーのレベルが４０以上になった。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>クロックアップ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/810982D569465B76E5271B73F6CB15EBD2B78DE1.PNG</Image>
+      <Description>いずれかのミッションを５分以内にクリア。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>最初からクライマックスだぜっ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/C5532A36CE93084A97739D30D5C07F6A83E33FEA.PNG</Image>
+      <Description>スキルを３つ装備してミッションをクリア。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>ブラッディローズ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/25D7A8CBB7A47CF76586B527CB79FB98DAB9F3A6.PNG</Image>
+      <Description>すべてのＢＧＭ、ボイスを獲得する。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>世界の破壊者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/23F48AE4A12AE6F0973C98EC23B4E7AC6B0E612E.PNG</Image>
+      <Description>総撃破数が１００００体以上になった。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>これで決まりだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/6D88A8527D976F1B9C6F46A7670F2310777DC398.PNG</Image>
+      <Description>超必殺技を１００回使った。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>頼れる右腕</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/8AFCDAA54C31F85730EA3E12226DE5900F6DA986.PNG</Image>
+      <Description>パートナーが設定されているミッションを１０回クリア。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>俺は全てのライダーと友達になる男だ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/E6F748024E077973156A3A9BDA3C6D065CFC0D9F.PNG</Image>
+      <Description>すべてのライダーを解放する。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR04425_00</GameId>
+      <Title>いつものプレーンシュガー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04425_00_00E7227566FCF2AEA395F27F7C32FFFD83943E542B/D72FB9BC2C8877B0CCFD7C570616C96589EC0294.PNG</Image>
+      <Description>ショップで商品を３０回購入した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

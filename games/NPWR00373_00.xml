@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00373_00</Id>
+    <IdEurope></IdEurope>
+    <Title>The King Of Fighters XII</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/BDF092EAA5859CA7628A7E297F26ECFD8CB81DBE.PNG</Image>
+    <TrophiesCount Total="51" Bronze="42" Silver="5" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>King of Fighters</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/4FF9275FEBFC466169FB52CA1AD4C767335276C5.PNG</Image>
+      <Description>Unlock all trophies.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/11813E252B848ED0D52F91BE9AB6EA3C437CD8BD.PNG</Image>
+      <Description>Won 5 or more battles in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Gladiator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/F9A83FB235E949C8434E3A6F14D023F1B858664B.PNG</Image>
+      <Description>Won 25 or more battles in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/21138CBE9EF1ABDF40B663A6329E315FB0D3FFB4.PNG</Image>
+      <Description>Won 50 or more battles in Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/DDE5C1711DBC97B858F1CE8E1A8F5CC4D5132466.PNG</Image>
+      <Description>Won 100 or more battles in Online Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Rookie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/7F77B0F55FFBD5E2018D9CB9B2870F291512B821.PNG</Image>
+      <Description>Competed in 10 or more battles in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Veteran</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/02C0AA863A5660843723BD3B93D178F36DA1AC8E.PNG</Image>
+      <Description>Competed in 30 or more battles in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Champ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/0874F5B485AF14E27C78718C38FCB5FEA7248B15.PNG</Image>
+      <Description>Competed in 100 or more battles in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/01BDF7227D21F2BB771332CD595C5AA06917D431.PNG</Image>
+      <Description>Competed in 300 or more battles in Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Striker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/ED17AC166762BEFA2BC39AF081607B449E0E9F33.PNG</Image>
+      <Description>Executed a counter-attack at least 10 times in Versus Mode or Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Sniper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/804D132FEC9F37CBA36D4037BEB71448DDDF31EB.PNG</Image>
+      <Description>Executed a counter-attack at least 30 times in Versus Mode or Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Razor Edge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/AE25082EEE49FCB2E59CF7E5C1663D32BAA9F47A.PNG</Image>
+      <Description>Executed a counter-attack at least 50 times in Versus Mode or Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Bull Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/16A2B46DCEA08D23EEAE29E6DBFA7E38FF4B2836.PNG</Image>
+      <Description>Inflicted critical counter-attack damage at least 10 times in Versus Mode or Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Slow Starter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/263F4D2AE458907D6F26BE636AEC14F47B71EAFB.PNG</Image>
+      <Description>Cleared Arcade Mode within 10 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Speed Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/1861AD52F0B1D8A87EDA4DEE03F6021FFA10ABA6.PNG</Image>
+      <Description>Cleared Arcade Mode within 8 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Cannonball</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/A81A091006A3831ECA13951B0EFC708A1675EEEE.PNG</Image>
+      <Description>Cleared Arcade Mode within 6 minutes.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Lightning</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/2B08C9B82308402C3583E65087DAF69E58A071DF.PNG</Image>
+      <Description>Cleared Arcade Mode within 4 minutes.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Speed King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/515582D16FB1D3E3C3E8BC9166DDD7211395E0D6.PNG</Image>
+      <Description>Cleared Arcade Mode in under 3 minutes and 30 seconds.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Scion of the Flame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/EDA367D6B4A1A0FA8157A48FEAC7BAE1924F22BD.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Kyo Kusanagi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Psychic-Powered Idol</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/20EECDA45D41C306FD7C0B81AAF30BC1D3F12CE5.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Athena Asamiya.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Out-of-control Tank</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/216F442E6AF1F80AFE401AD6B514BF4216A3F209.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Raiden.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Strongest Tiger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/D1E591E5EE7580688E89795E8DCD7614FAD1FD2B.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Robert Garcia.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Legendary Wolf</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/42F1C4693F9FD28FD1879414E711E8567A3E9524.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Terry Bogard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>One-Man Army</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/E445664FDC3BD371292C3AF6410B7D5BCB442F9E.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Ralf Jones.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Tough </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/6114453545455C6F15F275B7B94730920530D9E1.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Clark Still.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Shooting Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/CC2900A4C59936DC4EB99D20F7F46A66D0D68D82.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Benimaru Nikaido.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Crown Jewel of Taekwondo</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/C095E795A9EB7FE1749A0B0F551DB9ACD891DFE7.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Kim.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Human Weapon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/84943CBDB571973F33C8DDBC5138A9F1E6DF1E1A.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Andy Bogard.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Shanghai's God of War</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/7CA219846E88358EF079A081B3516E9E1F87A7C3.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Shen Woo.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Unbridled Instinct</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/B7A3431B6774049B0C9165EE053E41A3859297DD.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Iori Yagami.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Rising Storm</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/1A47D52C67BC9965A3DD2C585F428FE5F48AEC03.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Goro Daimon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Silent Soldier</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/D7A16497DA017707DFBD8A23738077C5CFE7E065.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Leona Heidern.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Invincible Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/5E674797570F671C8A6970F2D80D1D0D178FE36E.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Ryo Sakazaki.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Drunken Fist Master</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/58AE82CDDDACF4519EC5F23B51FD1A557D3DD6D3.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Chin Gentsai.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Young Rising Dragon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/0A2EE7D5B60FF3143659B1DF78FE196362E2128D.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Sie Kensou.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Silent Assassin</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/848F26F46F61C32F1920F04945684748D1024078.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Duo Lon.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Young Champ of Muay Thai</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/69FDA4C146272E5A440FA920B833EC581FA82F8D.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Joe Higashi.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Conductor of Brilliance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/E62BAD02CD00E0A25F8A8BCFC0019813F6A9F91D.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Elisabeth Branctorche.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Cruel Beauty</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/7BD80EB1FDB635BC546A9F878154A85E7DC08602.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Mature.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Sneering Blaze</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/BB2BAD5938EEF07B0B03D87BEDCF0F565D32003B.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using Ash Crimson.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Perfect Fighter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/B43DC54C9054E3E4892512ACA812CD391C4D7F93.PNG</Image>
+      <Description>KO'ed every character in Arcade Mode using all of the characters.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>Conqueror</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/88E4A7C6ECB7BF53C1E988E41980D0AAFA5D42BA.PNG</Image>
+      <Description>Cleared Arcade Mode without using CONTINUE.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK F</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/367EC910BC8A777B6288D645B98391DEEFF4CD07.PNG</Image>
+      <Description>Achieved Rank RANK F in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK E</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/76B644CD40B079508191AB7B5B6C95DA83CC0170.PNG</Image>
+      <Description>Achieved Rank RANK E in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK D</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/68699479D1624849F51CCD31D82847C0109B8615.PNG</Image>
+      <Description>Achieved Rank RANK D in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK C</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/1F2E974DB33209CC29FBFA2C60DE2BB589F461B5.PNG</Image>
+      <Description>Achieved Rank RANK C in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK B</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/44E598D52E339FFDEFBDDBD5EB94AF055DF84ADE.PNG</Image>
+      <Description>Achieved Rank RANK B in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK A</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/9F54236C1D0A3A63B6A5408C32B72A2B8CF2FB1B.PNG</Image>
+      <Description>Achieved Rank RANK A in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK S</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/9859563267776D9ADECCBD2B2D79EB22AAADCF23.PNG</Image>
+      <Description>Achieved Rank RANK S in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK SS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/654EB8AD449DA955390DA318DD94E8D092961019.PNG</Image>
+      <Description>Achieved Rank RANK SS in Online Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00373_00</GameId>
+      <Title>RANK SSS</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00373_00_D88CE069C0C6FDE31A02519EBFFD9DD078CC579A/FECD83ADFA2D40634D9773E76CE9B62C1086F503.PNG</Image>
+      <Description>Achieved Rank RANK SSS in Online Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

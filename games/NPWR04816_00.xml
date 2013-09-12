@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04816_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Hotchkiss</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/2184D8C78F6B2D47D6BA52A06F1D67EE6FFA4C63.PNG</Image>
+    <TrophiesCount Total="8" Bronze="4" Silver="2" Gold="2" Platinum="0" />
+    <TotalPoints>300</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>芦川ゆきの開始</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/BC13E6BF2071C17E10F5B8E65B6E3441ED5DBF3A.PNG</Image>
+      <Description>『芦川ゆきの』ルートに入りました。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>住吉奈々開始</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/87091B88EE029C50A4F53D7C6F891E969725FD7C.PNG</Image>
+      <Description>『住吉奈々』ルートに入りました。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>春日野三咲開始</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/99F923EBFA0D27C20599B74E815A6D559779FBDF.PNG</Image>
+      <Description>『春日野三咲』ルートに入りました。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>御影しずく開始</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/9583C0B1999F1CBF63DEE0C7EDCC009403022ED5.PNG</Image>
+      <Description>『御影しずく』ルートに入りました。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>芦川ゆきの終了</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/002D8C6F84402E4EF29096EAB95E0D7438FFCF68.PNG</Image>
+      <Description>『芦川ゆきの』ルートが終了しました。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>住吉奈々終了</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/7D78B3C43765DF869D83E0AFCD877A46A67AED61.PNG</Image>
+      <Description>『住吉奈々』ルートが終了しました。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>春日野三咲終了</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/D572B662FF82D17A68B8F370600877E3BD101AAE.PNG</Image>
+      <Description>『春日野三咲』ルートが終了しました。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04816_00</GameId>
+      <Title>御影しずく終了</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04816_00_0031F8CE3E77AA1DF22052E68A70341E3AEB608D10/6CEBB98F23155A273F9E3EBFDFAB093DACBDDC2B.PNG</Image>
+      <Description>『御影しずく』ルートが終了しました。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

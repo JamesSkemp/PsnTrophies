@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04380_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Atelier Totori: The Adventurer of Arland Plus [EU]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04380_00_007BB583E347915B5AA88D17A906B9B3E64CFAABA9/25B0260CADC3792B3D9C2C41119A7F243030CFE8.PNG</Image>
+    <TrophiesCount Total="29" Bronze="11" Silver="2" Gold="1" Platinum="0" />
+    <TotalPoints>315</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04380_00</GameId>
+      <Title>A Day in the Life</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04380_00_007BB583E347915B5AA88D17A906B9B3E64CFAABA9/A1CD328B8D793C148690594DD413A2CFA207CB44.PNG</Image>
+      <Description>Watch the opening event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,594 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02787_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Tales of Innocence R</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/3AB3539002B28FA022254E7C01021090CCF8329B.PNG</Image>
+    <TrophiesCount Total="53" Bronze="42" Silver="8" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>テイルズ オブ イノセンス R マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/378527C2ABC449FFC69384E16439F1EB38398081.PNG</Image>
+      <Description>"テイルズ オブ イノセンス R"を
+極めた証。あなたの愛に感謝！</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>初めてのガードカウンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/3DBA36D8EF749767CF198F69467B90E1DD471EB5.PNG</Image>
+      <Description>初めてガードカウンターに成功した。
+このタイミングを忘れずに
+戦闘を有利に進めよう</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>初めてのミッション</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/6614D920212A41ED6ED7BF6A0E261068318AC16B.PNG</Image>
+      <Description>初めてミッションを達成した。
+ミッション達成で報酬ゲットだ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>200コンボ達成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/CE980E8C121B409CB5F0CF90514F302C931BF47D.PNG</Image>
+      <Description>200コンボを達成した。
+ここまでコンボを繋げられる
+あなたの腕前は、素晴らしいの一言</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>天術マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/761070F7C3C59EE496E6FC24F1D0855D8DE52AE4.PNG</Image>
+      <Description>コンウェイが、その身に受けることで
+覚えられる敵の天術を全て習得した証。
+一度くらえば覚えてしまう、
+彼の器量は見習いたいものです</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>秘奥義制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/29E87FF4E89059A22CA2A960A8B9D28184E08C64.PNG</Image>
+      <Description>全てのプレイヤーの秘奥義を見た証。
+天を統べしその力に溺れることなかれ…</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>レイヴLV4最大時間</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/D1CACBDB1BB9157F5BF735AE92F6FEBB4E41CA14.PNG</Image>
+      <Description>戦闘中のレイヴLV4最大継続時間が
+60秒を突破。継続は力なり！</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>レイヴLV4総時間</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/FD5B064451F3317B491214274652D7A25CE9EB83.PNG</Image>
+      <Description>レイヴLV4の継続時間が10分を突破。
+これからもレイヴLV4を維持して、
+素敵な効果も継続しましょう</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>スピードゲーマー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/2670CCF207AF276F9F21AF03FAF44206F243EC40.PNG</Image>
+      <Description>15時間以内にエンディングを迎えた証。
+その早さには脱帽の一言。
+次はもっと早くクリアできるかも！？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>プレイ時間が100時間を越えた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/687FC285F352F6F120DC8B2D4C79B78BB1028B15.PNG</Image>
+      <Description>プレイ時間が100時間を越えた証。
+こんなに長く遊んでくれたあなたは、
+イノセンス世界の住人になれるはず</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>100万ガルド貯めた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/5627C97E6641161629405FEEE26C806AF85387B8.PNG</Image>
+      <Description>100万ガルドを貯めた証。
+貯金は大事なのです。
+実は重たいのがタマにキズ…</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>1000万ガルド使った</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/17BB4AE477217A3917C6982242248B005E8C7F46.PNG</Image>
+      <Description>1000万ガルドを消費した証。
+お金は天下のまわりもの。
+消費することも大切なのです</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>敵を2000体撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/7CDEACA72553DC17539AC3FA19F5C0393D17243C.PNG</Image>
+      <Description>敵を2000体撃破した証。
+少しはアスラに近づけたかな？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>戦闘回数が1000回以上</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/5A02C8EFB42749C9F148C2DB91AEA9AA0E937AA4.PNG</Image>
+      <Description>戦闘回数が1000回を突破した証。
+もはや戦闘のプロと呼ばれる腕前</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>サーチガルドマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/10F861C908ECB21EE5B77D15A6289062CF60BB25.PNG</Image>
+      <Description>サーチガルドの使用回数が
+250回を突破した証。
+雨の日も風の日も、めげずに
+ガルドを探し続けたその努力は
+きっと報われているはず</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ローバーアイテムマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/CF5D42A60805E9EECDA43320A24CC7DAE92ACA35.PNG</Image>
+      <Description>ローバーアイテムの使用回数が
+500回を突破した証。
+良い子はマネしないでね！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>スタイルマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/2D13A854C2CF4E7791E91C892124AF188FD9B7B8.PNG</Image>
+      <Description>全キャラのアビリティを
+全て取得した証。
+お気に入りの組み合わせで百戦百勝！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>全キャラレベルMAX達成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/A5FEBC228BC19B34985F6F622DFB4206BC28E2DB.PNG</Image>
+      <Description>全キャラのレベルが最大になった証。
+ルカたちのレベルは
+これ以上あがりませんが、
+あなたのレベルに上限はありません</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>モンスター図鑑コレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/337A9C9DCA65DE217361F43741436A09A7530A05.PNG</Image>
+      <Description>様々な敵に出会い、情報収集した証。
+好きな敵を、あんな角度や
+こんな角度で眺めてみよう</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>スキットコレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/C7F92251A60E41646E0DD27F1FD4E3BDD4519C86.PNG</Image>
+      <Description>あんな話やこんな話を
+聞き遂げたあなたに。
+キャラたちの意外な一面にびっくり！？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>称号を10個獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/1A0C124D1E9D225B9048F55FE7F2D4DA22013081.PNG</Image>
+      <Description>全キャラがそれぞれ
+10個の称号を獲得した証。
+好きな称号を名乗ってみよう！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>称号を20個獲得</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/2A9ADAB641EF2FB1E555CDED215125D9F29592B0.PNG</Image>
+      <Description>全キャラがそれぞれ
+20個の称号を獲得した証。
+名前で選ぶもよし！
+性能で選ぶもよし！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>称号制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/A9203967AD3905A7A09DE56EE2477EF7DB57ACED.PNG</Image>
+      <Description>全キャラが全称号を獲得した証。
+お気に入りの衣装は見つかったかな？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>宝箱コレクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/BA2427FC71715A79F8FAD42AF96CB12D0C2C2B58.PNG</Image>
+      <Description>宝箱を一定以上回収した者の証。
+トレジャーハンターと呼ばれる腕前</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>世界踏破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/B9CC3DDD48D36E7A1ACE8070A44B8CBCFCA70A37.PNG</Image>
+      <Description>世界をその目で、全て見てきた証。
+この世界に、君の知らない場所はない！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>料理マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/1CA9398D3D12347824E7A9B578A7621005448C58.PNG</Image>
+      <Description>全キャラの料理レベルをMAXにした証。
+素晴らしい料理愛</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>低レベルクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/A138DE0C4D034A864D1370EFB70CF3FC5CD307C9.PNG</Image>
+      <Description>レベル30以下でゲームをクリアした証。
+このゲームを
+知り尽くしたからこその快挙！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>五色の英雄</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/EF15970D2FF7DFDCFD5AC3D83D0BA32B3EC3493F.PNG</Image>
+      <Description>五人の英雄たちの生き様を見届けた証。
+シンジャーファイブよ永遠に！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>初めての温泉</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/20CF00226A55D7972D7025959C06413C169B3B3D.PNG</Image>
+      <Description>誰にでも初めてはあるもの。
+温泉はいいものです</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>狙撃手撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/11E0E4C6C8501720F9CF6BDA1F0EDFCF419DB58A.PNG</Image>
+      <Description>狙撃手を撃破した。
+遠距離攻撃はフリーランで回避！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>異界の魔物を撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/72685CE41C01C9674D2818D8C0B956ACB6843E5C.PNG</Image>
+      <Description>ネガスィオンデローズを撃破した。
+コンウェイの助けがなければ
+倒せなかった…はず</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ギガンテス撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/D8564D7D40E4458211849D6FA745B0A35CFBA48B.PNG</Image>
+      <Description>ギガンテスを撃破した。
+動力源は転生者。
+許すまじオズバルド！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>用心棒撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/579FE447BD78CD2D6B8AEB6453157111176A134D.PNG</Image>
+      <Description>用心棒を撃破した。
+実は子ども想いの優しいおっちゃん</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>闇の住人を撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/8145FFE73C275A21DE3BBC06AB90B1603AF3E9CB.PNG</Image>
+      <Description>マッキア・グラーヴェを撃破した。
+ぶよんぶよんと波打つ体。
+しかし、攻撃はとてもハードでした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>チトセ撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/9D5A01CCD0A5A9A5EDAB5DB21D89168180ADF263.PNG</Image>
+      <Description>チトセを撃破した。
+前世を色濃く受け継ぐ彼女に
+救いはあるのか…</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>シアン撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/24D087506CE120341FE368A1C07138D14FDCF612.PNG</Image>
+      <Description>シアンを撃破した。
+彼の生い立ちを考えると、
+改心して欲しいと願ってやみません</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ガードル撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/136B8767D604405FEEFE97CEFB0EAB9C0883919B.PNG</Image>
+      <Description>ガードルを撃破した。
+彼の転生者に対する憎悪は、
+地上に対する愛に溢れているがゆえに</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>アルベール撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/05AADA19B00345084546632A5D3866728ABD4169.PNG</Image>
+      <Description>アルベールを撃破した。
+アンジュに対する彼の思いは、
+世界中の誰よりも強く物悲しい</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ハスタ撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/7DFF0172AFF2BA8D81AE0101D8E475558287672C.PNG</Image>
+      <Description>ハスタを撃破した。
+彼の破天荒なキャラクターは、
+どこか憎めなかった…</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>マティウス撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/46B62095CFB7259AA63E246BA13A2D5DFA81734C.PNG</Image>
+      <Description>マティウスを撃破した。
+絶望に打ちひしがれたその魂を
+ルカは受け入れ、
+明日も前を向いて生きていく</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>異界の守護者を撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/732D985760CFE761F2B597E7CFD4DF808CBFD3CB.PNG</Image>
+      <Description>ロテュスデリュイーヌを撃破した。
+これで無垢なる絆の世界へのゲートは
+全て解き放たれた…</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>闘技場初級クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/0B67B2ED8361E4964E9C8EA5C911EA0CC423A931.PNG</Image>
+      <Description>闘技場でシングル、パーティーの
+初級ランクをクリアした。
+次は中級…ちょっぴり手ごわいかも</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>闘技場中級クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/9D435D267D61F62DF49E564747428433357D0753.PNG</Image>
+      <Description>闘技場でシングル、パーティーの
+中級ランクをクリアした。
+次は上級…
+かなり手ごわいけどがんばって！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>闘技場上級クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/212EFD0543E7C338A29B28F28A1BDDE94B6A08B1.PNG</Image>
+      <Description>闘技場でシングル、パーティーの
+上級ランクをクリアした。
+闘技場を制覇したと言っても
+過言ではありません！
+おや？　誰かがこちらに
+視線を送っているようですが…</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ハーツ兄妹撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/DB7A686ADB68A55F5EAC086FD409AEB397CAC6DF.PNG</Image>
+      <Description>コハク、ヒスイを撃破した。
+一体どうして彼らは、この世界へ
+紛れ込んでしまったのでしょう……</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>ミラ撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/F4530D4296482CB4973793D1F82E4ACCEE16FA3E.PNG</Image>
+      <Description>ミラを撃破した。
+彼女は無事、
+ジュードに逢えたのでしょうか？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>イリアとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/23AA4EFB784209AC89C89430F716E973DE275A67.PNG</Image>
+      <Description>ルカがイリアとの絆を深めた証。
+彼女に振り回された日々。
+そのどれもが、愛おしい大切な思い出</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>スパーダとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/B18FCC0FE387754B343FF21FAC14FE7E75F3A4C7.PNG</Image>
+      <Description>ルカがスパーダとの絆を深めた証。
+いい兄貴分として、一緒に旅をした彼は
+かけがえのない親友</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>アンジュとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/9DFB91400A4E4AD137A9B86BB1863C614164166D.PNG</Image>
+      <Description>ルカがアンジュとの絆を深めた証。
+慈悲深い彼女は、食べ物に対しても
+愛のある人でした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>リカルドとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/9DBB090C82545604C5813734CFE7B646E86517DD.PNG</Image>
+      <Description>ルカがリカルドとの絆を深めた証。
+その生き様を見て、戦うこと、
+生きることを学びました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>エルマーナとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/CDA46B742163A33E782220FE93E47F32661BC49D.PNG</Image>
+      <Description>ルカがエルマーナとの絆を深めた証。
+何事にも動じない彼女に、
+立ち向かう勇気をもらいました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>コンウェイとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/AF10D4D8681691CB6A34AA87295A5B09F3CD8993.PNG</Image>
+      <Description>ルカがコンウェイとの絆を深めた証。
+どこか不思議な彼からは、
+冒険の手助けと、
+人との接し方を教わりました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR02787_00</GameId>
+      <Title>キュキュとの絆</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02787_00_2A28C2649F507F76A0A891A2442EC67163D40F65/0526BE9E8AE14F46F492E8F951D0E57D4F907A42.PNG</Image>
+      <Description>ルカがキュキュとの絆を深めた証。
+好奇心旺盛な彼女からは、
+無償の愛を受け取りました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

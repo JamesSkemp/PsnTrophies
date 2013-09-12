@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00525_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Sonic World Adventure</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/82EF355F4771191720D4ED5283B572EBADB12A21.PNG</Image>
+    <TrophiesCount Total="51" Bronze="35" Silver="14" Gold="1" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/64B53B99DCFD0CA4B6B770521294A1587DBEBDAE.PNG</Image>
+      <Description>This is the platinum trophy and is unlocked automatically when all the trophies have been unlocked</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Still Broken</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/E3E3B4BC23AE00DB0087790F1D22B1455EC5A451.PNG</Image>
+      <Description>Restored the first continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Looking Better</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/F1EE027561F3C82B9BDE5F372CB6937A0DC72419.PNG</Image>
+      <Description>Restored the second continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Still a Jigsaw Puzzle</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/128CAFFD751AA233D8ABEE6D7E9D2A1DFCCB93F3.PNG</Image>
+      <Description>Restored the third continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Picking Up the Pieces</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/A874571A4948EA2D7D23EFBB15926A82A0FF59F4.PNG</Image>
+      <Description>Restored the fourth continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Almost There</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/FF179776089DE4228E7003BD82E6225B8A39B351.PNG</Image>
+      <Description>Restored the fifth continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>One More to Go</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/BC1039C044EFB94019F89C68C0B72DADF233D186.PNG</Image>
+      <Description>Restored the sixth continent</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>World Savior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/20C6A9837F41505F952E7B37882ED7649A571614.PNG</Image>
+      <Description>Cleared the game</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Partly Cloudy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/CB0B51E8E43E5F93E2D34DBB308616215804E1A6.PNG</Image>
+      <Description>Collected half of the Sun Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Sunny</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/0ED8D361763309629A59E7465D08E5A196F0C9EE.PNG</Image>
+      <Description>Collected all Sun Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Half Moon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/BC481B52F36E54A7AE5D99FAB66DF2D2F62EA964.PNG</Image>
+      <Description>Collected half of the Moon Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Full Moon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/CD7089142639E2022E53D82C077154FECBAC3FDA.PNG</Image>
+      <Description>Collected all Moon Medals</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Blue Streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/BFDBBABEA108EB40AC8C831F90ABF3FDFAD90B3A.PNG</Image>
+      <Description>Upgraded all of Sonic the Hedgehog's stats to their maximum levels</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Power Overwhelming</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/1E6D7800257F7C4B559C4A4BE5B29C165DC5DC84.PNG</Image>
+      <Description>Upgraded all of Sonic the Werehog's stats to their maximum levels</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Getting the Hang of Things</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/6BEF6AA29E71363C0235DBC2290EA6488F1B9C6B.PNG</Image>
+      <Description>Achieved an S Rank with Sonic the Hedgehog for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Creature of the Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/247803EF49D9C8689C300AA9BE32C824E81098D3.PNG</Image>
+      <Description>Achieved an S Rank with Sonic the Werehog for the first time</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Helping Hand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/DAAAEF3DFE4A838C0D541C8BB61856ED8A48BFF8.PNG</Image>
+      <Description>Completed all missions for a townsperson</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Lay the Smackdown</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/B49A325BE34BD56664D5E2FDDC6E3C3AD82C722B.PNG</Image>
+      <Description>Have mastered the Stomp technique</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Wall Crawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/AB2A2F74ED1322DFCFA65277BAC94BF1C5BACAD6.PNG</Image>
+      <Description>Have mastered the Wall Jump technique</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Airdevil</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/E1B59724E9602B869160CBD07F73D939FEEC97C1.PNG</Image>
+      <Description>Have mastered the Air Boost technique</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Hyperdrive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/751B884FD32E832284D18D0DF545A8FD4F0AAF03.PNG</Image>
+      <Description>Have mastered the Lightspeed Dash technique</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Basher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/E3E248BB7998D8A8F915585AC93062353828B509.PNG</Image>
+      <Description>Have attained Combat Level 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Smasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/9AD69E7675A584BAB7BD3E495D3BFA890F05FBFA.PNG</Image>
+      <Description>Have attained Combat Level 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Crasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/34B8150FB5E4D1BF620DA4E41ADCB04DF1E810E7.PNG</Image>
+      <Description>Have attained Combat Level 15</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Thrasher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/9DB7BF0A138FC84CF2AA8A61D2CD9F7CB9398115.PNG</Image>
+      <Description>Have attained Combat Level 20</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Social Butterfly</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/B3B445197047AEC7FA00AFA7D2A4DF4AC496409B.PNG</Image>
+      <Description>Talked to all townspeople</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Hungry Hungry Hedgehog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/F69F6D120D11722D37C56E5D024B854B0EB4230D.PNG</Image>
+      <Description>Got every type of food</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Ace Pilot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/E837972B40D851935C23902FD33FB0D1993BF194.PNG</Image>
+      <Description>Cleared Act 1 of Tornado Defense without taking damage</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Day Tripper</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/BD01912558B15C793EFFD2FBAC0EA5D1EDC6737C.PNG</Image>
+      <Description>Cleared all Sonic the Hedgehog stages</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Hard Day’s Night</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/C01DAB79F62CAD131D1829F1CB710AB9C13FA5ED.PNG</Image>
+      <Description>Cleared all Sonic the Werehog stages</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Get on the Exorcise Bandwagon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/6193CB3A4F1B0A01B233C07A89908C673A14A538.PNG</Image>
+      <Description>Exorcised everyone</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Gyro with Relish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/F1DAE20A01AB183225B40CC0A5272AC3673C2A05.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Apotos</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Pig in a Blanket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/7D065E56BB28A9B69704D61F21D268F9D87E81C0.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Spagonia</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Exotic Toppings</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/DCAADC77C14DC27591AF4DA0FDC55CD8BFA4AD4D.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Mazuri</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Sausage Fried Rice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/BC44F5643BE4E1D1DD41C02A7E0981DDFE1AB55F.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Chun-nan</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Iced Hotdog</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/1D0E2AFAFF98D62C5B78B6DCEEDA3487CE44FCFE.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Holoska</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Kebab on a Bun</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/DD5DDE48BE58FAF33F9271EFE1CB004F238C6715.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Shamar</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Ketchup and Mustard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/9985F3785E8D90A1FEF63FF97F56F105E470EC5C.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Empire City</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Fried Clam Roll</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/D32EC2131FE902ADCAA6EC775BCE5EF24A3A7D78.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Adabat</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Hard Boiled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/69CBA6F560CAB7F782964E037AAC5C8A8B3EA433.PNG</Image>
+      <Description>Cleared all hot dog stand missions in Eggmanland</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>First Time Customer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/0CDBAC53B5C8AB4B17BC12FF32A6C60E394AD40B.PNG</Image>
+      <Description>Bought a product from Wentos</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Oh, You Shouldn't Have!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/5D2EBFBB5A44992D6FBFF867E433E19B30B378D4.PNG</Image>
+      <Description>Gave a souvenir to the Professor</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>That's Enough, Seriously</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/A7EA17B41F2728120092B25B07D7F5E59A97AAD2.PNG</Image>
+      <Description>Gave all souvenirs to the Professor</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Hedgehunk</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/B17CD57ADC1D68B4406498B6CE9BF5661AC0DF04.PNG</Image>
+      <Description>Cleared the Louie Montaine missions in Empire City and the Ana missions in Mazuri</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>I Ain't Afraid of No Ghost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/7F9239059E81648C1814EBFC0E842F08DCDB4F89.PNG</Image>
+      <Description>Cleared the Marcantonio missions in Spagonia</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>BFFs</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/4B1FBCDD61A18323D23D8768483EA20BD7B1A34E.PNG</Image>
+      <Description>Became best friends with Chip.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Speeding Ticket</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/F957FDF6F3082991CB8181E879616F023519D847.PNG</Image>
+      <Description>Reached the Goal of Arid Sands, Act 1 as Sonic　within 2'50"</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Combo King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/268855FC4C69504C0EA5B904435F1F3BA60BD8F6.PNG</Image>
+      <Description>Achieved 10,000 total combos</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Ring Leader</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/5D3F3A03471AF86B1D62620263D27FFFD68220D7.PNG</Image>
+      <Description>Collected 5,000 total rings</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Knockout Brawler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/AD2C3728D1E028A127E9FD737FFBE6D3AA109D66.PNG</Image>
+      <Description>Defeated 1,000 enemies</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00525_00</GameId>
+      <Title>Blue Meteor</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00525_00_1DEA686997F78E787004C358169846632A619196/B5B800C7AC4BD4D362CDC9F8FE39901FA393E4B1.PNG</Image>
+      <Description>Reached the Goal of Windmill Isle, Act 2 as Sonic within 2'35"</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,572 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00642_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Tales of Vesperia [JAP]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/52941D36CB113C3995CB94D3CA2D48CBC1A9B23F.PNG</Image>
+    <TrophiesCount Total="54" Bronze="44" Silver="7" Gold="2" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>TOVマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/1C9469CB2DC656AE180E8F258146B117F172DA11.PNG</Image>
+      <Description>TOV完全制覇の証。
+ここまで遊んでくれてありがとう！</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>初めて合成した</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/23F2FD00E2D972241FC62EA366A04534D6C5DFEF.PNG</Image>
+      <Description>合成を有効活用して、
+どんどん新しい武器を作り出しましょう</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>初めてフェイタルストライクを決めた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/CA8ABB9D7147871C3351BE6F96E443CA796041FF.PNG</Image>
+      <Description>乾坤一擲！ 一撃必殺！
+マスターすれば戦闘がグッとラクに！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>初めてギガントモンスターを倒した</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/E4936954875A27FDF0AAADCC570D9EB412C2BFA9.PNG</Image>
+      <Description>他のモンスターとは違う、特別な存在「ギガント」
+世界にはまだまだこのような強力なものがたくさんいます。
+ぜひ挑戦してみてくださいね</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>１５０コンボを達成した</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/649ADE5E6D89EA21735D6FAA144AFCC154E5754A.PNG</Image>
+      <Description>コンボ、コンボ、またコンボ……
+途切れることないコンボはもはや芸術！
+これに満足せず、もっと上を狙っていきましょう</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>プレイ時間が100時間を越えた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/E35250ACCBFA0F19904FF9CF376D6503B63A0B91.PNG</Image>
+      <Description>１００時間……
+休憩なしで考えるとまるまる４日強。
+この旅をどこで終えるか、全てはアナタ次第……</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>総移動距離５万Km</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/AD2CE402B495538C1B313F365F2FC4FAAA1F807C.PNG</Image>
+      <Description>振り返ればよくも遠くへ来たものだ！？
+フルマラソンに換算すると１１８５回分に相当します</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>敵を１０００体撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/D4A1533EDED00F7C5D9FB766C08A2A1656BEDE20.PNG</Image>
+      <Description>戦って戦って、戦い続けて……
+魔狩りの剣をはるかにしのぐ戦闘回数。
+すごいですが、怖い人にはならないでね</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>チップ獲得数が10万枚を超えた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/B66715DEB0824BDB2D364E741235FE2069651431.PNG</Image>
+      <Description>名ギャンブラーと威張っていいでしょう。
+くれぐれも本来の目的は忘れないように……</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>クイズで全問正解</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/DB2551E2D85BFE71DD04EB00E5386B1B143FC491.PNG</Image>
+      <Description>一度しかないチャンスを良くぞ活かしたッ！！
+なかなかマニアックなテイルズ博士</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>1000万ガルド貯めた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/E282119B045224EA3609268AE34C887ED58EEA5C.PNG</Image>
+      <Description>一般市民では考えられないほどの収入です。
+ですが今回はお金の使い道がまだまだたくさん！
+いろいろ援助などしてみましょう</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>全スキット制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/333A93E97FD732C28B223AD6257DDD4831803305.PNG</Image>
+      <Description>すべてのスキットを見た証。
+キャラたちの意外な一面が垣間見える！？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>レベル200達成キャラ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/28431FEDB7118852226A0B903B5731E2248B330E.PNG</Image>
+      <Description>最強に強まった証。
+これ以上強くなるには、ハーブを使うしかありません。
+君はどこまで強くなれるか！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>記憶術式めぐり</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/CE4646713EE6A511F39F46DFBB99CC6633148905.PNG</Image>
+      <Description>すべての記憶術式（セーブポイント）をめぐる、
+なかなかマニアックな冒険</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>合成を２０回行った</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/5D98AEA44A4EFC562EBB93D6652F10ED28EF6038.PNG</Image>
+      <Description>合成してしてしまくって……
+もはやレシピはそらでいえるレベル！？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>低レベルチャレンジャー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/39BD1A084B51918E7EA76A3D30BF6987E250C1CF.PNG</Image>
+      <Description>レベル１５以下でバルボスを撃破！
+これはすごいです。
+今回の戦闘を熟知した戦い方と言えるでしょう</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>スピードゲーマー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/FD67228477ECC31479A012D5AC9EE0F6F9AAF64F.PNG</Image>
+      <Description>早解きプレイヤー！とんでもない早さです。韋駄天です！
+・・・でも次はじっくりプレイしてみてください。
+きっとまだまだ見てない世界がそこにあるはず</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>ウサギルドメンバー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/ADC2964444CAC7B656150676DEFF85F58370D067.PNG</Image>
+      <Description>ユーリ・エステル・リタ・ジュディスで「うさみみ」をつけて
+プレイすること5時間。
+いつの間にか、あなたもすっかりウサギルド会員</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>スノーボーダー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/0DC26367443268D2691E8CDB506B7D7E9DAFA9A7.PNG</Image>
+      <Description>ミニゲーム「ボーダーラピード」のコース１で
+タイムが40秒以下！！　これは速い！速すぎる！！
+これができたら、さらにそのゴーストにも挑戦だッ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/8E78C6B204D608D61069203BF0D4134E55460FFF.PNG</Image>
+      <Description>ザギ戦で、エステリーゼにあまり攻撃を
+受けることなく、ザギを倒しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/91EFBB47059C47401379247594D48B986577D9CA.PNG</Image>
+      <Description>ゴライアース戦で、Xバスターの最中に弱点である
+アキレス腱を攻撃してダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/6B47C051BEF36F04D95F39FC85790CE2A7182C21.PNG</Image>
+      <Description>ガットゥーゾ戦で、ビリバリハの花を利用して
+気絶させ、ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション４</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/CFDB1DFDF29922241FA26F69FDF572FC602DC7CE.PNG</Image>
+      <Description>２度目のザギ戦で、敵を船の上から吹き飛ばして
+海に落としました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション５</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/B4F00B4E526822D612C133790DFBED58B988CDF7.PNG</Image>
+      <Description>畏怖されし巨体戦で、敵が前足を上げた際に懐に入って
+攻撃し、ひっくり返してダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション６</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/E95B88A66F1AD27F509CD2979E6BA3A8DF692D7A.PNG</Image>
+      <Description>ギガラルヴァ戦で、レイヴンの特技「土竜なり」を使って
+敵の回復行動を阻止しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション７</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/35888A4A66B84F8126FB058664E458E104F97762.PNG</Image>
+      <Description>バルボス戦で、橋の装置を破壊して、
+増援を呼べないようにしました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション８</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/FE5A99766DA92957E39BA773EAA0D3D1FAF6B7DC.PNG</Image>
+      <Description>彷徨う骸の凶戦士戦で、敵がリボルバーに銃弾を
+装填してる隙に攻撃し、ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション９</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/14558459A7DE960719C08418E8D00A8668FB89A6.PNG</Image>
+      <Description>３度目のザギ戦で、敵に魔術を過剰に吸収させて
+腕の魔導器を爆発させました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/5C1EE09EFBDC2F48A42CD304574E30832BC4D60B.PNG</Image>
+      <Description>プテロプス戦で、分裂した際にリーダーバットを
+倒すことで合体を阻止しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１１</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/89D26C31527DE4CECF736E0D0DE9F9AA6D8B2969.PNG</Image>
+      <Description>アウトブレーカー戦で、敵が昼夜逆転の魔術を詠唱中に
+コアを破壊して昼夜逆転を阻止しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１２</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/116974D5171ECEE786D7B65829DF66D2D07E5B24.PNG</Image>
+      <Description>ベリウス戦で、全ての燭台に火を灯して分身を消し去りました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/06534D6F5919DAC47B2BCD49E2DA4F676728588D.PNG</Image>
+      <Description>ティソン＆ナン戦で、それぞれ特定の攻撃の隙を狙って
+攻撃し、ふたりともからダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１４</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/0BF4C23F0E17D74284B02E2E873919C8B97C1183.PNG</Image>
+      <Description>シュヴァーン戦で、敵が秘奥義発動後に
+心臓を抑えている隙を狙って攻撃し、ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１５</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/444939ECA1E6898A5F66D54DCAD0CA6E2E9CCF68.PNG</Image>
+      <Description>４度目のザギ戦で、敵が自ら毒状態になったのを
+カロルの特技「活心リカバースタンプ」で強制的に回復させました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１６</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/1AC01A17CBA1AF9280FEF12FF434BB6FB8D7E9CD.PNG</Image>
+      <Description>バイトジョー戦で、敵が「走行の氷刃」をしている際に
+３回攻撃をヒットさせて氷の上に引きずり出しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１７</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/6513027180C7D9356271BEAFF120A3F7AEDA73FD.PNG</Image>
+      <Description>ユーリ対エステリーゼ戦で、アイテム「母の形見」を
+使用しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１８</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/671F2F6391255120FF3EB000A232EFB2A1E9176F.PNG</Image>
+      <Description>イエガー戦で、敵がガードブレイクした後、
+しばらく心臓を抑えていた手を離した状態で、隙ができます。
+その隙にレイヴンの特技「時雨」を、敵の心臓に撃ち込んで爆発させました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション１９</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/A1B6B2CA3227324829E997E07F8697C014EED297.PNG</Image>
+      <Description>アレクセイ戦で、敵が秘奥義を発動して疲労している隙を
+狙って攻撃し、ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２０</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/5C0D2A0DD4F634EC87FBDE279F144980EF0B6613.PNG</Image>
+      <Description>２度目の彷徨う骸の凶戦士戦で、
+アイテム「麗しの星」を使用しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２１</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/D8330DC4827C520BDA412A32431AAAA45942267D.PNG</Image>
+      <Description>２度目のグシオス戦で、まず尻尾を攻撃して引っ込めさせた後、
+前足を上げる攻撃の際に懐に入って攻撃し
+ひっくり返してダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２２</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/CC991495AB0265BFEC8B510C4715BCEDF03C2DE7.PNG</Image>
+      <Description>クローム戦で、特定の攻撃の隙を狙って攻撃し
+ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２３</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/F9C24CB4054BB4EFD0D224FB49FBB71A2383307E.PNG</Image>
+      <Description>フレン戦で、フレンが秘奥義を含めた全ての術技を
+使用しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２４</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/A7006F4992D527718C16AA25FB4AD25BF1520FD1.PNG</Image>
+      <Description>５度目のザギ戦で、敵が「魔導凶身」を繰り返した際に
+出来た隙を狙って攻撃し、ダウンを奪いました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>シークレットミッション２５</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/F4AC644FBB0AEEA4FEC5A2A88EE56DF5A9860842.PNG</Image>
+      <Description>デューク第２戦において、秘奥義でデュークを倒しました</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>称号コンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/9C98A64E9C5023E669FF7260C9C9C7D3306F232F.PNG</Image>
+      <Description>ヘンなものからカッコいいものまで……
+胸を張って好きな称号を名乗りましょう</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>ギガントハンター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/2B9FC92F86A06A2105D87D7DC7D136FD3E379639.PNG</Image>
+      <Description>ギガントモンスターを全て倒した、
+豪傑プレイヤー認定です。
+もはや倒せぬものなし？
+いやいや、まだまだ世界は広いですよ</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>ワールドマップ完成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/D0A39D607D73D53AAF9D541798C5535F292BAB04.PNG</Image>
+      <Description>世界の果てまで冒険しつくした証。
+あなただけのプレシャス、きっと見つかる！？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>モンスター図鑑コンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/CE31038846C62A1EBEB347BA66A488F273DBF771.PNG</Image>
+      <Description>最も獲得が難しいトロフィーのひとつ。
+達成できたらモンスターマスター！
+この図鑑を元に弱点を突けば……って、
+その頃にはもう必要ない！？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>コレクター図鑑コンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/B04177522CC8892E1DCE931FAF325486CD426C99.PNG</Image>
+      <Description>最も獲得が難しいトロフィーのひとつ。
+まさにアイテムマスター！
+おや？ だれかこの図鑑を必要としている人が……？
+一晩だけ貸してあげますか？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>追憶の迷い路制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/65A94712C4241615F81A78E05F3A801383CA4AC6.PNG</Image>
+      <Description>特別ダンジョン「追憶の迷い路」をクリア。
+あの人の登場、いかがでしたか？</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>望鏡の墓所制覇</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/785B0C825CA8D45B8CB5582D6324E1E37EADA181.PNG</Image>
+      <Description>特別ダンジョン「望鏡の墓所」をクリア。
+このゲーム最強の敵をも撃破！
+今度は２軍メンバーでも戦ってみてくださいね</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>水道魔導器の魔核を奪還</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/7170A385801716A1623860897555D38317CAEEAF.PNG</Image>
+      <Description>バルボスから水道魔導器の魔核を奪還。
+これで下町の噴水も直りますね</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>アレクセイの野望を阻止</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/850F229AFDCA31A1FEA0A70F3DFB1813205C7B70.PNG</Image>
+      <Description>アレクセイの世界征服を阻止しました。
+しかし星喰みが……
+まだまだ戦いは続くようです</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR00642_00</GameId>
+      <Title>星喰みを撃破</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00642_00_16144FC145D1E69BE8266B7CB9BC170568928BE5/09CDAAF41F73F032B4799961D52507DA92D44933.PNG</Image>
+      <Description>デュークと共に世界の脅威「星喰み」を撃破！
+魔導器に頼らない、新たな世界へ……</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

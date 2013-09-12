@@ -1,0 +1,365 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR04032_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Xblaze Code : Embryo</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/169A0E72530F2054A070B9F272D9EE56BC0504FA.PNG</Image>
+    <TrophiesCount Total="39" Bronze="26" Silver="8" Gold="4" Platinum="1" />
+    <TotalPoints>990</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>蒼の継承者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/67466FBDB0F06B8B64CE9F7DA6553B099BD47B0F.PNG</Image>
+      <Description>XBLAZEコンプリート</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>XBLAZE</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/B1804252BEEAFE546EF9E3A21B4FEB3D5C446457.PNG</Image>
+      <Description>Esのエンディングを見た。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>護りたいもの</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/45F2D00DFDF3B75396D6A91FD15750EA5BFE7B50.PNG</Image>
+      <Description>ひなたのエンディングを見た。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>正義の戦い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/99276EBC6CC0213592AAD72FA07A5AA3DF8187E1.PNG</Image>
+      <Description>久音のエンディングを見た。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>罪と罰</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/48E8D40702A3A1EA5DF384929E41718FF210D3CA.PNG</Image>
+      <Description>冥のエンディングを見た。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>闇の獣</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/2832D94440B14E327615D6303275D1D6B091902B.PNG</Image>
+      <Description>闇堕ちエンディングを見た。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>覚醒解放！！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/8ABBFFCA4DF58BCDAAD904DC7CC560EED4E46003.PNG</Image>
+      <Description>全エンディングを見た。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>CG美術館　一般客</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/5D26892BA27AEE5C6A779361232E1BB49CECF3DF.PNG</Image>
+      <Description>CGの達成率２５％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>CG美術館　常連客</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/CB7409F213D387BFA35054EBA2AE78A9220627AB.PNG</Image>
+      <Description>CGの達成率５０％</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>CG美術館　管理人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/9910BE935C952F2E22DA44A94B1A75914C810E5C.PNG</Image>
+      <Description>CGの達成率７５％</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>CG美術館　館長</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/852D22B4781D0136AECFF539A742E212EA966200.PNG</Image>
+      <Description>CGの達成率１００％</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>初ＴＯｉ！！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/B7A1FFBED15FDBD105B3C3ABC2719979D12C3A10.PNG</Image>
+      <Description>ＴＯｉの記事を１つ見た。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>そろそろ慣れてきた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/C98117F44AC8961E81D26D154C631D46E1D24F97.PNG</Image>
+      <Description>ＴＯｉの記事を１５個見た。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>使いこなしてるぜ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/F11B9D10A009C19EA037DC445C6A0014FA324BC0.PNG</Image>
+      <Description>ＴＯｉの記事を３０個見た。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>ＴＯｉ依存症</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/267F66AE3353806F3CF774E72C5D25660ACB8182.PNG</Image>
+      <Description>ＴＯｉの記事を全部見た。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>いちおう見ておくか…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/9EF0F55C04476FCD2AB56501554C96E6A6E68727.PNG</Image>
+      <Description>TIPSを１つ確認した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>歩くデータバンク</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/CF25586029A6560FFCBED5F531E26C1BAEF6AE4B.PNG</Image>
+      <Description>TIPSをすべて確認した。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>音楽スキー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/D99B95709FBA081021280D28A04FC205310F1760.PNG</Image>
+      <Description>MUSICの曲をすべて再生した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>思い出のアルバム</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/434D3D371BB6F0561C931DD8C78ABBB2CEA8AD2D.PNG</Image>
+      <Description>シーン回想をすべて埋めた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>流行の機械は嫌いですか？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/F1C196D59AC3A8043B10478F4571C9C1952DE7A2.PNG</Image>
+      <Description>ＴＯｉを一度も見ないでデッドエンドをむかえた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>気になるあの子の…</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/A4F2435C9ECC8FEECF296ECD85D48E021C9420C0.PNG</Image>
+      <Description>プロフィールを開いた。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>目移りしちゃう</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/1B2384D83F77D1907CD9989E37E269749A0201C8.PNG</Image>
+      <Description>プロフィールをすべて開いた。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>記録を司る者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/D5381A52CBC0F9B72616FA0F1A456480E7E9528D.PNG</Image>
+      <Description>すべてのあらすじを見た。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>XBLAZE　起動！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/50CE47B4C28EDBD23A2B23B50714316138AFA174.PNG</Image>
+      <Description>XBLAZEを開始した。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>事象の観測者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/F7946D3955D8A335BE3E002D48275FB4897CFEC5.PNG</Image>
+      <Description>シナリオ達成率１００％</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>幻の食材調達人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/DC358A393D5976E6F717AE97ABC3A3078A6C1215.PNG</Image>
+      <Description>ギャグシナリオをクリアした。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>出会い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/8E774844F58EEDC388FC39D80430D1EC33CEA7BD.PNG</Image>
+      <Description>第１話「出会い」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>抗えない罪</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/E997115CB2A5A069A61721451BA09C906F325C14.PNG</Image>
+      <Description>第２話「抗えない罪」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>十聖</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/D39E23805A612D3437360112EEDFAF07E869D31E.PNG</Image>
+      <Description>第３話「十聖」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>異端</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/2EE36ED476BC5C979BFA06F8D186DC83D2B5B6F6.PNG</Image>
+      <Description>第４話「異端」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>望む世界</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/BCE856CE8C7E51665D339EB45BF035882FC368AF.PNG</Image>
+      <Description>第５話「望む世界」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>異邦人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/AC01D3042292F4A2961E7E7916D59F377C263D0C.PNG</Image>
+      <Description>第６話「異邦人」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>それぞれの想い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/0480C780931823934B7370A48E71530BA44F45BC.PNG</Image>
+      <Description>第７話「それぞれの想い」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>禍き獣の叫び</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/69A6B2C3C3F8367641065268A815D94CED9BD128.PNG</Image>
+      <Description>第８話「禍き獣の叫び」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>救い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/6AC8C7A7B985BE6B2534A0466656CF607469F8EC.PNG</Image>
+      <Description>第９話「救い」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>ワダツミ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/1F7700D0CACA5B8C3E468532F721249FD0F72EF0.PNG</Image>
+      <Description>第１０話「ワダツミ」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>贖罪</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/6BE0D83F32DA42D7F6ACC9B051AE8EAC3201CE98.PNG</Image>
+      <Description>第１１話「贖罪」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>対話</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/6E48E7FEAF2715D9BF716AA7956B6846D8EC3268.PNG</Image>
+      <Description>第６話「対話」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR04032_00</GameId>
+      <Title>災いを成す者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04032_00_00C5318F87B0495E5E6F6A2FB8D885948291ABE786/35116A93ADA6CFBAADADB44FA10781011BE9CF08.PNG</Image>
+      <Description>第７話「災いを成す者」をクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

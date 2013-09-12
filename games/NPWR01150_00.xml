@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01150_00</Id>
+    <IdEurope></IdEurope>
+    <Title>White Album: Recordable Memories of Winter</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/A15ED402BA1A700E21D10B653A3912E12BB7630F.PNG</Image>
+    <TrophiesCount Total="44" Bronze="25" Silver="16" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>ベスト・ホワイトアルバムプレイヤー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/CDA72C1D3A30DE909F1E16F7CB69DDD02FF52AE2.PNG</Image>
+      <Description>全てのトロフィーを獲得</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>森川由綺エンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/D32AB4556F4FC6D7E106F5C779F534AA8E1F5799.PNG</Image>
+      <Description>森川由綺シナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>緒方理奈エンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/F1A03D9674612EF6AF2774D34401484352D8E0FB.PNG</Image>
+      <Description>緒方理奈シナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>河島はるかエンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/CC85932399063B407E0005578647D4DF8473A625.PNG</Image>
+      <Description>河島はるかシナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>澤倉美咲エンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/66793BCA9B4F12AA3DAC695B7AF3763A1F6FA236.PNG</Image>
+      <Description>澤倉美咲シナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>観月マナエンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/D659B5AFC9341C66CFC3E7B68A7EAD5822AC8F50.PNG</Image>
+      <Description>観月マナシナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>篠塚弥生エンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/00CCD71CEEFAEB62A04B48E46E2726F928DBF1B8.PNG</Image>
+      <Description>篠塚弥生シナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>如月小夜子エンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/B136274BC439DA5EAF619772026CF7EB97844E8B.PNG</Image>
+      <Description>如月小夜子シナリオをクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>ノーマルエンド</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/32F45A3856D5EAB2D172BC7753F80257FF80D2D9.PNG</Image>
+      <Description>キャラクターエンドを迎えずにクリア</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>キャラクターシナリオオールクリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/7D8B3726CE021CA43EBB3D1B7A9195D9CC0407F6.PNG</Image>
+      <Description>全キャラクターシナリオをクリア</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>ビジュアルコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/EAFCB105557C7D0688426411806E689E7E49D403.PNG</Image>
+      <Description>全てのイベントビジュアルを見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>ミュージックコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/25676AA36A140EECFFDCA7C75E2A020ABA8A60CB.PNG</Image>
+      <Description>全てのBGMを聴いた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>由綺会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/D15B9D44EB9A5CAD9C7AB7C591A0B3440D718B11.PNG</Image>
+      <Description>由綺の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>理奈会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/8CD27A0AB2199E1690762BE51CEC2466F51FB82C.PNG</Image>
+      <Description>理奈の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>はるか会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/CDE6BBD253A547EDC407A9E0109CFCA140FAC18A.PNG</Image>
+      <Description>はるかの会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>美咲会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/ABB75FAEFA5297711F0743A767D52EFDD7C3CEFB.PNG</Image>
+      <Description>美咲の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>マナ会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/69F50FB06D34667F2172F80FE9CCBBB30DA9BF16.PNG</Image>
+      <Description>マナの会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>弥生会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/4955A5056A9E979C48D58CC161B8A2DC02ECAE99.PNG</Image>
+      <Description>弥生の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>小夜子会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/F8B7507E9AB02D2E2EFE35EE09715EE5CA0C81D6.PNG</Image>
+      <Description>小夜子の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>彰会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/9DAE380255A63425EAA9AABE786BFCED3F29424A.PNG</Image>
+      <Description>彰の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>英二会話イベントコンプリート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/F77E81CA53D00C4A05F8ABAA36F7E83108E20B48.PNG</Image>
+      <Description>英二の会話イベントで全ての会話を見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>会話の達人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/B95B9B073D33D6330F49579F9C5AF3379541B72D.PNG</Image>
+      <Description>全ての会話レベルが3になった</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>世間話マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/990B216A26A15D77E41BFB67240EC8F26D7C1CF4.PNG</Image>
+      <Description>世間話の会話レベルが3になった</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>趣味会話マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/EAEA2F62C0FBF01ED1812E056598D42B662B8A7D.PNG</Image>
+      <Description>趣味の会話レベルが3になった</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>芸能会話マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/8644B98AD92EC52320FAA287A0915B1BA64F6671.PNG</Image>
+      <Description>芸能の会話レベルが3になった</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>文芸会話マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/0DE9C66FF237DE8638372E960E84FEF9F28628C6.PNG</Image>
+      <Description>文芸の会話レベルが3になった</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>恋愛会話マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/BDA6E97322C2478DFF6DB89A88F8F5A7702F9910.PNG</Image>
+      <Description>恋愛の会話レベルが3になった</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>由綺のお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/212A56FA1A1AEEF9AE3CA6D37467E9AD01ABF25A.PNG</Image>
+      <Description>由綺のお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>理奈のお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/EE82A7ED8D53778838A7768E0D4110D75DAD4589.PNG</Image>
+      <Description>理奈のお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>はるかのお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/CB4D9C6505EDEA219E8170934C11810D0A02B05E.PNG</Image>
+      <Description>はるかのお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>美咲のお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/6D6F120D1BD054D7242262D3A30D1BC1C451CF60.PNG</Image>
+      <Description>美咲のお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>マナのお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/D5B755BE9672BDC960FBC7FB25950B495FF7B5AD.PNG</Image>
+      <Description>マナのお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>弥生のお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/3F4A0F364E30228B9138C36699A1D0241E852FF5.PNG</Image>
+      <Description>弥生のお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>小夜子のお見舞い</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/7F6C64CD2C6C531D9493BA3BBEA9DEB446B70F20.PNG</Image>
+      <Description>小夜子のお見舞いイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>由綺とデート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/81BB74703466B1F2B04B98CE606932135A91A977.PNG</Image>
+      <Description>由綺のデートイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>はるかとデート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/39E9177D1BA685D6FE8662318A8B134420F5E93A.PNG</Image>
+      <Description>はるかのデートイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>美咲とデート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/F7CA13D8D4C44A0CBF14B5D18EC943974686CA12.PNG</Image>
+      <Description>美咲のデートイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>マナとデート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/B50C044425675DC9A5A042090E3B7CD2283191B8.PNG</Image>
+      <Description>マナのデートイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>弥生とデート</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/CFAB8DAA2E7B532847F177B3834DE6CFF54BC51E.PNG</Image>
+      <Description>弥生のデートイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>真・バレンタインイベント</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/E4E57033D2393815C28F936F0C18F06A66C074BD.PNG</Image>
+      <Description>由綺のバレンタインイベントを見た</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>理奈バレンタインイベント</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/6E2A39E9F5C6FAB39B085AEC3EA0C9AB0DDE6490.PNG</Image>
+      <Description>理奈のバレンタインイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>マナバレンタインイベント</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/3E95E5A0A6ADA45D876C279989AFC9F816C42FC2.PNG</Image>
+      <Description>マナのバレンタインイベントを見た</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>スーパーアルバイター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/F90F873D3CBF0F1F4CCF6D113DA627FC84AABCC6.PNG</Image>
+      <Description>エコーズのバイトを４０回選択</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01150_00</GameId>
+      <Title>ヒキコモリスト</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01150_00_3C80D4B1647B4F41180A575758012F63A19111C4/0A79D0A099D939A9166B2DE55F0330D99484A009.PNG</Image>
+      <Description>自宅を４０回選択</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

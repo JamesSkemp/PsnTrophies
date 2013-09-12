@@ -1,0 +1,504 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03501_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Tales of Xillia 2 [JAP]</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/7F9E04CDB6CA2561C82ED2A19249EB4DFE591638.PNG</Image>
+    <TrophiesCount Total="49" Bronze="38" Silver="7" Gold="3" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>エクシリア２マスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/DC1DB6F329B422BDCD95B827A3E9DE0DEE6A3697.PNG</Image>
+      <Description>ＴＯＸ２をやり尽くした証。ここまで遊んでくれてありがとう！
+１７年目の感謝を込めて。　～ＴＯＸ２開発者一同より～</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>モンスタードクター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/CB77D945E60DB72F1D9D8864FE639FA8149169C0.PNG</Image>
+      <Description>モンスターの登録数がモンスター記録！！！
+うひゃっほい！　と讃えられるレベルである証。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>アイテムクレイジー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/BE5BF13C79787793E40983F6CC8DF10553311050.PNG</Image>
+      <Description>エクシリア２のアイテムを誰よりも知りすぎて
+他の情報をド忘れするくらいになった証。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>魔物討伐英雄</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/E4BFEC343E32472999E85017C105F39F07386CBA.PNG</Image>
+      <Description>エンカウント数が尋常じゃない数に達した証。
+魔物の恐怖の対象になっているという噂。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>コンボエンペラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/03645BA1040EC33C67CD1BFA77C40A9D54EF98E8.PNG</Image>
+      <Description>最大連続ヒット数を極限まで高めた強者！
+敵は走馬灯を１０回は見ることでしょう。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>共鳴術技宗家</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/5E78B57E6A0B4EB13CDA50485254E0EAB81ADAFE.PNG</Image>
+      <Description>共鳴術技の歴史を導くほどに道を究めた
+あなたに贈る至高の栄誉。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>チェインインフィニット</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/F11B04184C990E9CAD7987DEAC897F90385E44BA.PNG</Image>
+      <Description>共鳴術技チェイン回数が筆舌に尽くしがたい
+ほど増え、もう実際に筆舌に尽くせない……</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>優しき骸殻抑制者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/7B4DA2FD3D78D16CE0A18C065912815B04DC0E2F.PNG</Image>
+      <Description>固い決意によって骸殻能力の使用を
+封印せし者への証。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ギガント滅殺者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/B635B1922BC48D681F224CD9A0FDFB34F4C2A1D4.PNG</Image>
+      <Description>ギガントモンスターの撃破数がギガント増え
+ギガントがメガントからキロントくらいな気持ち。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>俺達がネコだ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/C1B2647725388CD370C63012A5D083A6C99AABA3.PNG</Image>
+      <Description>ネコ派遣の各地アイテムリストを
+全てコンプリートしたにゃー！　にゃー！！！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>心のマブダチジュード</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/17546BDEE91FAE041FEF87375670D81C003A7A3F.PNG</Image>
+      <Description>すでに言葉なんて必要ないほど
+ジュードとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ミラと響きあう</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/9CDEE1691E192B7A59351917BD5F72BA90793E76.PNG</Image>
+      <Description>ミー？　と言えばラー♪　応えるまでに
+ミラとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>生きるも死ぬもアルヴィン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/481394E668903364992EA9F21CE9FEE3CB3F1A5D.PNG</Image>
+      <Description>二人だけの男子会を開催してしまうほど
+アルヴィンとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>エリーゼと永遠に</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/C4BDB9EFABD4E907ACF2782A772DDB7B9BC8E7B8.PNG</Image>
+      <Description>人はどこから来てどこへ行くのかと問われる
+ほど、エリーゼとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ローエン軍</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/32EE6E749BA13F470CEE9731F6AF0FFABF4CD28E.PNG</Image>
+      <Description>思わず「大将！　」と呼んでしまうほど
+ローエンとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>なにがなんでもレイアと！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/959EB3CE88AD113EE34AEA59FF77B4379F1EF897.PNG</Image>
+      <Description>自分がルドガーなのかレイアなのかわからない
+くらい、レイアとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>どこまでもガイアスと征く</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/FDD389BF0B7FAB68A2CB94A9587E83E91097227A.PNG</Image>
+      <Description>代わりに玉座に座ってしまうくらい
+ガイアスとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ミュゼミュゼミュゼ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/6BE5F08553DD62FCCDB7A0D7B1916FC66BC0E507.PNG</Image>
+      <Description>ミュゼの無茶振りを拒否できないレベルまで
+ミュゼとの仲が深まったあなたへ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>八方美人・極め</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/1EFF7BC118ED6E9A590D5177CF01A798C2C1757F.PNG</Image>
+      <Description>『みんな大好きだー！』　と思わず叫んで
+しまうほど全員との仲が深まったあなたへ。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>キレイなカラダ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/E7B04ECAFC7137DD62AC5C237B8E8CA6CC4B3083.PNG</Image>
+      <Description>その真面目さと粘り強さは、見事の一言。
+アンタ、今、輝いてるぜ！！</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>他人任せの人生</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/6375CFE900CEE6B002F267C421F8AFCE04EE0F0E.PNG</Image>
+      <Description>これも、ひとつの生き方だ。胸を張れ！
+……まぁ、あまり張りすぎてもアレだけど。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>世界破壊者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/42569B56A52D31C9100D49DEB453D3FC5DF54A33.PNG</Image>
+      <Description>初めて意図的に分史世界を破壊した。
+……これはなさねばならないことなんだ。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ヴィクトル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/8E9C4D21BD6D7D7D561299FA3751C066B6BC8705.PNG</Image>
+      <Description>最強の骸殻能力者に与えられる称号。
+この称号は所有者を倒した者に受け継がれる。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>血まみれの兄弟</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/62FC75EA7096622417164A30343A92BCE5753DDC.PNG</Image>
+      <Description>これが兄弟が選んだ結末。
+残りわずかな時を、せめて穏やかに……</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>審判を超えし者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/976F8C1D981BE8C4DF50B73595282152011D6B9C.PNG</Image>
+      <Description>意志は受け継がれ、未来へと続く。
+この選択に悔いはない。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>フェイト・リピーター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/43528CEA30F543847CD268B30580C029EA436822.PNG</Image>
+      <Description>運命は再び繰り返されるのだろうか？
+その答えは、あなたの中に……</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ルドガー変身何作目だっけ？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/1BA2F3180BFCA08ABB5994B71F8B50AD3465D243.PNG</Image>
+      <Description>平日に毎日５分くらいやってる番組くらい
+相当回数変身した証。大変な褒め言葉。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>集中回避都市伝説</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/A4357C2B5EF0B80F731F3A218B8D4C11C2DFEBA9.PNG</Image>
+      <Description>回避しすぎて、実はいないんじゃない？
+と噂されちゃうランクである証。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>マックスウェル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/664A3C5F1DBF39AAACD5760E4BFA0EBD980F9F2E.PNG</Image>
+      <Description>魔技を超絶に使った証。
+実は精霊術を使ってなかったりする？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>三年溜め太郎</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/1B31215D8DAFCE204CAC3B57E5A1E9F600EF821C.PNG</Image>
+      <Description>余りに溜めすぎて石の上にも三年。
+すでに溜めないと満足できない体に。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ティポ分身の術</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/180C184946BE12B2AB800931422A55172979F408.PNG</Image>
+      <Description>ティポをスイッチングしまくった結果、その
+切り替えっぷりが職人の域にまで達した証。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>フォルテッシシシシシモ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/56CA9AE29FE08B6881D4148C5B7467C6A65A55EA.PNG</Image>
+      <Description>術後調律の最終ステージまで昇り詰め、
+アンコールが鳴りやまない最高の名誉。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>活伸棍術インディグネイション</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/B1CC4188B8AEAE517FA954DDE68F106C34A0F217.PNG</Image>
+      <Description>とうとう、ここまでのびてしまった！
+うどんなら、うどん玉に戻るレベル。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>反逆のガイアス・レクイエム</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/CBB50C3287D6D30116529FF96743570B26898CEE.PNG</Image>
+      <Description>リベンジャーしすぎて死屍累々。
+散っていった敵達に黙祷……</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>リーヴヨルルター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/5A000775538D2066104E3D8177C89525F9ADA13B.PNG</Image>
+      <Description>リーヴアサルトの回数は、もはやハンパなく
+数々の伝説を残すことに。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ものマネ大将</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/5B7D4719542199E123EF9E72D18FA706AE986A54.PNG</Image>
+      <Description>ルドガーがサポートを使いすぎた。
+ふっふっふ、もはやオリジナルを超えたぜ！</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>レイズデッドいらず</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/583A3E4B990BACB37F36C894BFE2C2C87EA75D0C.PNG</Image>
+      <Description>レイズデッドがいらない子になりかねないが
+それもまた運命。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>バインドクイーン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/C93F197C19DBA510AD6523719C346668F3036FC9.PNG</Image>
+      <Description>背後に立つと縛る。正面に立っても縛る。
+つまり、いつでも縛る。明日も明後日も縛る。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>破壊者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/ECD1FABEE5B901A963B97F90586F4859429E8519.PNG</Image>
+      <Description>破壊者と書いてブレイカーと読む。
+それだと前と一緒だった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>吸い付き名人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/BF9B8493271DA6738E5DF9A9001ADC5EB3106F82.PNG</Image>
+      <Description>見ていた人の驚きの声が、お茶の間に
+届いてしまうレベルで吸い付きまくった。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>無効化の精霊術士</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/E63A500F0B134E74EE5078D35B3FED1410D784DE.PNG</Image>
+      <Description>こんなにガードされるのなら、もう
+精霊術などいらぬ！　……とは敵の弁。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>最凶のどんぶり屋</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/ACBA809E48DA4F51F31491DA9D7867BEAAA70301.PNG</Image>
+      <Description>ぶんどりすぎて、どんぶりに変化するレベル。
+何がどんぶりに変わるのかは秘密。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>力の救済者</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/74BC51AD2FEDD2C1BB092BD447B0AB8E2E09E245.PNG</Image>
+      <Description>その力、あまりにも圧倒的。そのかばいぷりは
+かばいバァちゃんクラス。どんなクラスだ！？</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>リムジン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/DDDAA9D9BEEC7B00869080E3B7C7E6C30B31FAEC.PNG</Image>
+      <Description>地の果てまで送り届けるほどトラクター
+した証。敵も攻撃する気力が失せる。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>オレ最強</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/D73829B91C8ECACB66E0AEBBFB731CB19BDA9DF7.PNG</Image>
+      <Description>レベルが上限に達した極限状態のあなたへ！
+次は何を極める？</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>【達成】バトル師範</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/4782C41CAA4C66B41360A486E73D944EEE4145C3.PNG</Image>
+      <Description>多くの【初級】称号を獲得した者のみが
+名乗れる初級の達人。達人にも階級はある。</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>【達成】バトル仙人</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/CBAE659D301032620F17E79428B4FADE3664EF63.PNG</Image>
+      <Description>【上級】称号を獲得しまくった上級の達人。
+千人に一人もいないほどの仙人。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>【達成】バトルサンシャイン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/6F7437608DB340D8272801F90DA7804A303B7072.PNG</Image>
+      <Description>【初級】【上級】全ての称号を得た
+完全なる達人。その輝き、まぶしすぎる。</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR03501_00</GameId>
+      <Title>ギャンブラー</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03501_00_12659EF22A7EBCEEE042FB12146E04332643C035/65E011E24CF23CDB6AAA610E8BB5236CDE43B6E9.PNG</Image>
+      <Description>賭け事が好きすぎて、人生までも賭けまくる
+あなたこそ、まさに真のギャンブラー。</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

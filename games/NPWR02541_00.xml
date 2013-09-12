@@ -1,0 +1,473 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR02541_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Nascar The Game: Inside Line</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/D5C8A816FE8EF8AE6AF87A3A116193F2EAE71F26.PNG</Image>
+    <TrophiesCount Total="51" Bronze="34" Silver="15" Gold="1" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/8664592D647A012EA21BD53ED1FB419FE7215895.PNG</Image>
+      <Description>Unlock every trophy in the game</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>1%'er</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/D590CF54859429B9ECD46E770804933332B1B19D.PNG</Image>
+      <Description>Earn a total of 1,000,000Cr.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>First Steps</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/2C2DFAC5469861631E19810F9B5D42DB70CC5274.PNG</Image>
+      <Description>Take part in your first Career or Season Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>The Intimidator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/C565A24B6B07C65424276EE110FC462B9D748880.PNG</Image>
+      <Description>Spin out an opponent.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Treat Yourself</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/4EBEDF07647E40BC4FCA23C0A19E55C02E81B68F.PNG</Image>
+      <Description>Purchase an item from the Reward Store.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Passing The Time</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/FEC0F117091B27C63522B0C2A3DEDE067DA4986C.PNG</Image>
+      <Description>Flip the Track Pass 500 times during loading.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Draft Dodger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/3AB98AA801093F46ED0E8C81BC6C07C93C785D15.PNG</Image>
+      <Description>Draft a total of 1000 yards in a race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Newbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/BE7DDBB8B413080079ECA482D552EBB6D50BB6B7.PNG</Image>
+      <Description>Take part in your first Public Online Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Upgrade Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/CE7CE6FB9CDED4CBC42D939D9EC6FE35741A8EC5.PNG</Image>
+      <Description>Purchase your first upgrade.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Speed Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/89F84495849206E36DA74FEF440EF0482FF5CF57.PNG</Image>
+      <Description>Win your first Superspeedway track race in Career or Season Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Day At The Beach</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/3D03011E9F62AD8B8F485D4B160064CE68D74A07.PNG</Image>
+      <Description>Win the Daytona 500.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Startin' on Pole</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/4928DB89176E342BADB4C1CFE1D50B9C79D55635.PNG</Image>
+      <Description>Qualify on pole for the first time in Career or Season Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Miles Away</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/4B4C67E509510F1E3CF0F5749FB67FC88F2963DF.PNG</Image>
+      <Description>Win your first Intermediate track race in Career or Season Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>In The Chase</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/0FD8DC2069BDDF224571D56F9E58B95C76385098.PNG</Image>
+      <Description>Make the Chase.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Chase Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/4FFC4032DBBD5D1BA89D036BB1A62071076989A5.PNG</Image>
+      <Description>Win the Sprint Cup in Chase Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Challenging</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/D88712FE6B93CF04B78D1DC98B0978DB74A2C75D.PNG</Image>
+      <Description>Complete a Head to Head Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Short </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/B50CA522F4F0AF0430A219A451FA533A89D53518.PNG</Image>
+      <Description>Win your first Short track race in Career or Season Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Season Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/10FB5593C37450BD61EA582D62E211CDFE84F935.PNG</Image>
+      <Description>Win the Sprint Cup in Single Season Mode.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Van Gogh</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/F39FE06172308F469ACDA15487AF802F7A4DF1DE.PNG</Image>
+      <Description>Create a custom paint scheme.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Turn Right?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/E15921D5478B1A4CB48DFC785887C8A3DBFDA514.PNG</Image>
+      <Description>Win your first Road Course race in Career or Season Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Last Man Standing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/0549C5F9E49AFAA0031465B246AA88574B454C13.PNG</Image>
+      <Description>Win an Eliminator Invitational event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Snap Happy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/97AD17E5E95287E83BEE301C4CD079E7C91D6302.PNG</Image>
+      <Description>Take a picture in any Photo Mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Trend Setter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/7FDFFBAF3C3F3A71E695F5DC5237B8818994E054.PNG</Image>
+      <Description>Finish a race with the fastest lap 100 times.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/FF0A0C2A65501809BB4BF89980F42F55EF4F7981.PNG</Image>
+      <Description>Win your first Public Online Race.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Ironman</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/A90F5B2A7C55C3CAF0E8578D42831058A58A328E.PNG</Image>
+      <Description>Take part in 250 Public Online Races.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Mano a Mano</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/E06C2C9F758AA28E55CE6206A3FF1ACF2C479887.PNG</Image>
+      <Description>Win a Driver Duel Invitational event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/0481263FACC0C645FEEABF3C55457DD519AAD87A.PNG</Image>
+      <Description>Win the Sprint Cup in Career Mode.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Taking Care Of Business</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/5B1F06D222E9A24252B045B7C0025B0B2839F887.PNG</Image>
+      <Description>Sign a sponsor to each location on the car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Clock Watcher</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/D576E62019222902AC7499722EBB5F8D2662BBCF.PNG</Image>
+      <Description>Earn Gold at a Thunderlap Invitational event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Action Shot</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/A346243828BC04958DF748E820D83C41FAD9598A.PNG</Image>
+      <Description>Take a picture of your car with all four wheels off the track.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Long Road Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/59A7F82E8DA8AAACBBE0315323F338A6BFA07752.PNG</Image>
+      <Description>Win a Public Online Race after qualifying last.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Consistent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/050D88652A935F60CE72C6AA61A035FC2026E025.PNG</Image>
+      <Description>Win a Gauntlet Invitational event.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Brainiac</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/5E513F9E06D0AF42EB5D1735E73C350B29D6D093.PNG</Image>
+      <Description>Answer 150 trivia questions correctly.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Director</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/81A49A9C54EB05FCAC334BB87790CACC39AC69DA.PNG</Image>
+      <Description>Save a replay of a race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Gear Head</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/BD94AF89022777E0E9F814E68065C406D41A0B85.PNG</Image>
+      <Description>Create your own custom setup.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Lap It Up</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/110A53164D96816E63D8459DD04341586F333A35.PNG</Image>
+      <Description>Lap an opponent in a Public Online Race.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Maxed Out!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/DDCD4AEE62AED92800802E80F07F7994859C72EA.PNG</Image>
+      <Description>Fully upgrade your Career Car.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Serious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/FC71AFE3680C307CC61608270EBE94A8EE7927D4.PNG</Image>
+      <Description>Win a race with no assists.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/134102792A51151328759FD63DA83D253352F386.PNG</Image>
+      <Description>Purchase everything in the Reward Store.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Hustler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/EEDF11F51569E6E4B4DF4823524931DE32FCF97E.PNG</Image>
+      <Description>Win a Public Online Race after passing 5 cars on the last lap.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Slippery</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/4CDAC323366020C4409F0ACB5AA650144117BDC3.PNG</Image>
+      <Description>Complete a race without touching another car.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Shake </Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/E9C8EFC916C86AB399C110692D997D28B389D833.PNG</Image>
+      <Description>Slingshot to victory in the final straight.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Pass in the Grass</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/DBDDEECD4C2967C9E6C074B192ACAB44789EACCF.PNG</Image>
+      <Description>Win a race after overtaking on grass.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>The King</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/9FA5347D883F23564147D6146B8E8B4AE5A26FEE.PNG</Image>
+      <Description>Win the Sprint Cup in Career Mode while playing on Champion difficulty.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Perfect Day</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/72704672690D3AA2B3DA9D1EE0C58AE9D6624A36.PNG</Image>
+      <Description>Qualify in pole, lead all laps, win the race.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Polish Victory Lap</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/0B28FF808AC1BA6AB151836249925B2D04F7E8F6.PNG</Image>
+      <Description>Complete a victory lap driving the opposite direction around the track.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Too Much!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/3FB67311D6A471308F6A0723CEB449DFEF9DA8F1.PNG</Image>
+      <Description>Win the race after crossing the finishing line backwards.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Gambler</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/A7E1FD584FCEFB52D01B90047F5A1CDBF30C99B8.PNG</Image>
+      <Description>Run out of fuel and coast into pit road.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Photo Finish</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/7688AFBDDECA21DC4CBD86ECD32CC7561669730F.PNG</Image>
+      <Description>Win an offline race by less than 0.02 seconds.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/DAEBD70B6E188ABE84F60CC2F9C80DA2E79A2586.PNG</Image>
+      <Description>Complete an Inside Line Highlight Challenge.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR02541_00</GameId>
+      <Title>Challenge Complete</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR02541_00_4D0003217247A4F2A74DC02689D8CD710C672EA8/005DEC222EE20E73B6C8483B1252112439A97B7F.PNG</Image>
+      <Description>Complete all the Inside Line Highlight Challenges.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

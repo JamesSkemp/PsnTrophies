@@ -1,0 +1,410 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR00939_00</Id>
+    <IdEurope></IdEurope>
+    <Title>MLB 10 The Show</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/39888D494097DFBC0A6E8DCAA185B51399B2F4A5.PNG</Image>
+    <TrophiesCount Total="44" Bronze="29" Silver="11" Gold="3" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>100% Clear</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/3093317770F0B42235A774E52F4A957B2E6B7207.PNG</Image>
+      <Description>This is the platinum trophy and is unlocked automatically when all trophies have been unlocked.</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Caught Lookin'</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/66680B1C39E69B3680867560C3AA530026E27661.PNG</Image>
+      <Description>Strike out a CPU player looking on All-Star or higher difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Back-To-Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/E2B994BAA94814136CE1C41D44958033DE80E673.PNG</Image>
+      <Description>Hit back-to-back home runs in any mode (Excludes HRD and Practice).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Take It Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/A7499D264BCA33B3ADC3DE1DA7F3FE2F226AFF06.PNG</Image>
+      <Description>Rob a home run in any game mode.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>HRD</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/3E4EAD4B9EC2E508B2FD4F2ABE6D23BCCEF7F38A.PNG</Image>
+      <Description>Hit 30 or more home runs with any single player in HRD.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Hamilwho?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/2FE9BDBDCFBE9E545ED386685E7E5A950BAF428F.PNG</Image>
+      <Description>In HRD, hit 29 or more home runs with any player in a single round.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Sim Game</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/3E536DAE20FEB29CEE816F80D0FD4B2CD36A9119.PNG</Image>
+      <Description>Do not allow a run in any RTTS simulated game training.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>RTTS Road Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/B65DCE2B7C305EF3B80907637C8940E1B83EDC41.PNG</Image>
+      <Description>Win 8 out of 10 starts on the road in RTTS on All-Star or higher difficulty.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Make The Call... Again</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/7C91181D39EF239CAD59D1732A16B6B7F7911EA8.PNG</Image>
+      <Description>Get called up to a Major League team before the end of your second year in RTTS.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Timing Is Everything</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/BEE70E5810B3E38A1D4B6301A1B50DDD6E5A3F22.PNG</Image>
+      <Description>Call a pitchout on a steal attempt in any RTTS game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Stolen Thunder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/7B2DBFC44E4FC1A7C206DC0230D20C9E3E75056A.PNG</Image>
+      <Description>Throw out two runners attempting to steal a base in any RTTS game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Call It</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/AA550B30115F58534B0C6DC73075A2599E9B8C91.PNG</Image>
+      <Description>Call a "Quality Start" as a catcher in any RTTS game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>RTTS: The Future</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/944974F689A4BA6C9AB0A8010B086661D63542AE.PNG</Image>
+      <Description>Get invited to the All-Star Week Futures Game at any position in RTTS.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Professional Trainer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/5FE4E00361067121707CB239E408EE6DE7132245.PNG</Image>
+      <Description>Complete a RTTS batting session without receiving a single attribute penalty.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>RTTS Derby</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/34B09EF8A90910DDAB128D56FC0B3CB53C02A665.PNG</Image>
+      <Description>Get invited to the HRD with any RTTS player.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Mr. October</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/0559DE59FBC1457194B563E21F6554AF3693715E.PNG</Image>
+      <Description>Achieve the following stats with any RTTS player: .350 AVG, .450 OBP, .755 SLG.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Contender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/D1B1478A139B28457590663C6ACF1EBFC1EB22A9.PNG</Image>
+      <Description>Make the postseason in Franchise or Season Mode (without simulating more than 82 games.)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Pennant Race</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/81FD691EB748ADBA6AEACDFB7D54E5148C048CC4.PNG</Image>
+      <Description>Capture a division title. (Simulating any games in the postseason will negate the trophy. Cannot simulate more than 82 games prior to making the postseason.)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Victory Is MINE!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/E30ADAB62EE2AA63BC20EAB83BB9B1FDBA2695FF.PNG</Image>
+      <Description>Win the World Series. (Simulating any games in the postseason will negate the trophy. Cannot simulate more than 82 games prior to making the postseason.)</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Road Warrior</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/A20787276CC937CAB02B520BFAFA98D008E8AC8B.PNG</Image>
+      <Description>Have a 10-game road winning streak. (Simulating or fast-forwarding will restart the streak.)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Online Gamer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/75CBD6416D45ADBF4FC422EEC5EE7B5E69A764FA.PNG</Image>
+      <Description>Reach 100 MLB Points.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Online Fame</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/5BED8ED0B3F103A93FE96E0895201FCDCAB467AF.PNG</Image>
+      <Description>Reach 500 MLB Points.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Much Cooler This Year...</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/E7B9C9BE0B2367A65CF66C1939108A4365D0BD02.PNG</Image>
+      <Description>Join and complete an online league. (Must play 60% of the games).</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Tres Bien</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/EA4B41378541C1559D305588C592476EC34E9395.PNG</Image>
+      <Description>In any mode, have a three-pitch inning with any pitcher versus the CPU.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Sawed Off</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/09419D16FA82D8D1149DD646810222A4D8439111.PNG</Image>
+      <Description>In any mode, break the hitter's bat.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Out Pitch</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/C2D58F107D67788906B79B32B72AF3676B9BC9D5.PNG</Image>
+      <Description>In any one-player mode, with any pitcher, strike out the side using the same pitch for each "out" pitch.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Director</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/6F16920A61147E881C0B650BBE7715970383A6CA.PNG</Image>
+      <Description>Create and save a highlight movie using the Movie Maker feature.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Around The World</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/2256235161955EB41733B8B98E8A50B11A59C7ED.PNG</Image>
+      <Description>Play a game in every Major League stadium.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>On the Rocks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/77C2B709658D6DA940F22C9BC777CADE8BFE4069.PNG</Image>
+      <Description>In any mode, hit a home run into the rocks in left-center in Anaheim.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Basket Case</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/2B9CEFECCD7D530C638E0EAA9BCA656300CD3706.PNG</Image>
+      <Description>In any mode, hit a home run into the basket that lines the wall at Wrigley Field.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Monster Killer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/2CBCB1478C5F1853E53B7C0FBFD88904A3880295.PNG</Image>
+      <Description>Hit two home runs over the Green Monster in any single game played in Boston. (Excludes HRD and Practice).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Bobbing For Apples</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/CCC6B49FE8925AA383B088F92EC51854A4A14CB5.PNG</Image>
+      <Description>In any mode, hit a home run that hits the center-field apple at Citi Field.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Splish Splash</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/CD490C75B418A9DD4182C160A219B6580BB80181.PNG</Image>
+      <Description>In any mode, hit a home run over the RF wall into the water of the San Fransico Bay.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Scrap Metal</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/8036E0B188136FB9D4CFE2D4BD45B3AAAF1D73E5.PNG</Image>
+      <Description>In any mode, hit a home run into the Western Metal Supply Company building in San Diego.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>King Of The Hill</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/D2B37224138975F25D03F803C81F7FB66C727F72.PNG</Image>
+      <Description>In any mode, hit a home run to dead center in Minute Maid Park.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Sight Seeing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/85E65AF29ECD0C5560D97AEB7D30878EA24882B0.PNG</Image>
+      <Description>In any mode, hit a home run off of the glass in center field at Rogers Centre.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>A Good Start</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/8B62E246AB39E4B4B6069877EE96914492C957BF.PNG</Image>
+      <Description>Strike out 15 batters in a single game in any mode versus the CPU.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>RTTS Back-To-Back</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/E7CD45E3316A1A35774CB09CC7CC0469865CBB8E.PNG</Image>
+      <Description>Hit consecutive home runs in one game with your RTTS player.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Pop Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/4B4FC8ACF5369D63C9362D4490BBBB48617F6503.PNG</Image>
+      <Description>With the bases loaded in the 9th, get an infield pop-up to end the game.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Triple Play</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/0098C2C179B8535634C7D5642E3692624B76D40A.PNG</Image>
+      <Description>Turn a triple play in any mode versus the CPU.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Unassisted</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/4DC734346A9484C98D63FB3127F3C46DDA06ED25.PNG</Image>
+      <Description>Turn an unassisted double play in RTTS.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Choker</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/6F9568524D680FD88EE993B30BAFF3DDB1A7C42B.PNG</Image>
+      <Description>In any mode, lose the game after inserting your closer with a two or more run lead in the 9th. (Must be a save opportunity).</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Crazy Eights</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/AE266D5651314A0FABFD26AC21575B1B19BD7C41.PNG</Image>
+      <Description>In the Knockout Pitch Training or Practice Mode, knock out all eight sections in eight pitches.</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR00939_00</GameId>
+      <Title>Customizer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR00939_00_6FF85DEC8EAC742DDF2FB426578030A0EBDCD9DB/5925C06DF4CE83C578D82AD82847C365F6142935.PNG</Image>
+      <Description>Customize any team's audio in Sounds of the Show.</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

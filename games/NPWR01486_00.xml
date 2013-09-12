@@ -1,0 +1,653 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01486_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Borderlands: Game Of The Year Edition</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/E1ADA4591AD4E25864CB64EB26A951B8827BEB81.PNG</Image>
+    <TrophiesCount Total="71" Bronze="52" Silver="14" Gold="4" Platinum="1" />
+    <TotalPoints>1560</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Borderland Defender</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/401EB2E36A0366675D55F0BE8B90EED8ABD91FA6.PNG</Image>
+      <Description>You have defeated all bosses and are a powerful force to be reckoned with</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Paid in Fyrestone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/EE698BA32E214B7B598F269470B37EFAD166E616.PNG</Image>
+      <Description>Completed 5 missions in the Arid Badlands</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Made in Fyrestone</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/90B4683CD707D349E4B59C6C3313959DDF135A1B.PNG</Image>
+      <Description>Completed all missions in the Arid Badlands</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Paid in New Haven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/0B1DCFD12C284CC5FD0EB26DF047BAFCA32092FD.PNG</Image>
+      <Description>Completed 5 missions in the Rust Commons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Made in New Haven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/931D84319552FC8279D15DD7603659DA609F24B6.PNG</Image>
+      <Description>Completed all missions in the Rust Commons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>My Brother is an Italian Plumber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/DC3112D929A14AB786D55A190F273ACCC97A0FB7.PNG</Image>
+      <Description>Killed an enemy plumber-style</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>12 Days of Pandora</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/0143CD1A1F2ECEE89EC57C2D8801F61F0F12C8A5.PNG</Image>
+      <Description>Mastered the technology of Pandora</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Wanted: Sledge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/BA7AD83456E2B1F29A3FB076469611AAE5F684FA.PNG</Image>
+      <Description>Killed Sledge</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Wanted: Krom</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/1D0A53A88AC18E309C8B33B3F855EB1AFE284AA2.PNG</Image>
+      <Description>Killed Krom</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Wanted: Flynt</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/8DEB90E87430FF9570C5FA9BA013DF4E467B1BF5.PNG</Image>
+      <Description>Killed Flynt</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Destroyed the Hive</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/7190C9D1AE8536934C496508205AB27FA560210C.PNG</Image>
+      <Description>Killed the Rakk Hive</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Destroyed the Destroyer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/E3248B5684A7133040F9567006527F822B832641.PNG</Image>
+      <Description>Killed the Vault Boss</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Speedy McSpeederton</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/DA382143E7BE4B0998DD4E376D7BD620A03796EC.PNG</Image>
+      <Description>Raced around the Ludicrous Speedway in record time</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>You call this archaeology?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/9D2324A0872BF57ADAC6944348F6F08C78A0377B.PNG</Image>
+      <Description>Applied an elemental artifact</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Newbie</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/18672E3C65E7E51F5E34BB200EDE326A625467AA.PNG</Image>
+      <Description>Earned level 5</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Novice</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/3961070DA2ED4AA8E54EAE1C0F8CB474D7BFB4A6.PNG</Image>
+      <Description>Earned level 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Expert</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/2CFF86A56FD218184FE70A4B9094DC883D487423.PNG</Image>
+      <Description>Earned level 20</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Hardcore</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/527D118D3BB985E9F77F1C495C5A3F815CCFE637.PNG</Image>
+      <Description>Earned level 30</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Sleepless</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/D4CFC32548FFE532F2BFDA8F9FE67A89A9ACA4DF.PNG</Image>
+      <Description>Earned level 40</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Skag Gully</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/9B4ADD0176C56C077917B0DCCA08C21F31F3C9C5.PNG</Image>
+      <Description>Discovered Skag Gully</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Sledge's Safe House</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/48FAE888A767819746612FAEFC18B46AC37E4138.PNG</Image>
+      <Description>Discovered Sledge's Safe House</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Headstone Mine</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/91E6ABD3CDD3BF6835645C7ED3FBBD66EFBEBB8B.PNG</Image>
+      <Description>Discovered Headstone Mine</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Trash Coast</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/8E83AADB26A54E62EA3F8708B6118D4B6FE4CF0B.PNG</Image>
+      <Description>Discovered Trash Coast</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered The Scrapyard</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/B4DE382F1ADB75590AED70FF0C2DCBB808E9F044.PNG</Image>
+      <Description>Discovered The Scrapyard</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Krom's Canyon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/A5E107B42CFF4852CCC8C6A6D414F3E1E0EF8409.PNG</Image>
+      <Description>Discovered Krom's Canyon</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Crimson Lance Enclave</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/A72F9DE642C80B022C3977FD222BD47CE2793D3B.PNG</Image>
+      <Description>Discovered Crimson Lance Enclave</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Discovered Eridian Promontory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/840D489E6508CD6E340BBE3D0EBB6163393FD88A.PNG</Image>
+      <Description>Discovered Eridian Promontory</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/368D3B71F860AE7AE9942F1418DEEB410EF515C2.PNG</Image>
+      <Description>Earned level 50</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Get A Little Blood on the Tires</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/82FEEEC58C3E4651207B875BB8434238F9FF5899.PNG</Image>
+      <Description>Killed 25 enemies by ramming them with any vehicle</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Rootinest, Tootinest, Shootinest</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/E1F96666246EB0BC020EE0203588725F0781F0CA.PNG</Image>
+      <Description>Killed 5 Rakk in under 10 seconds</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Pandora-dog Millionaire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/F5A6FCCC62FD09DC8410B03F8D51E783E7293F14.PNG</Image>
+      <Description>Earned $1,000,000</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Fence</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/F53D211799A2AB554D8C6088E03C5D84D7AD2C40.PNG</Image>
+      <Description>Sold 50 guns to a shop</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Can't We Get BEYOND Thunderdome?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/92FCEDB9CDE5C64F0E4A1E554A729770EE9544F4.PNG</Image>
+      <Description>Emerged victorious from an arena match</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Duel-icious</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/854FF6E4C1FF8ED78C5FEBBC6DD7501FB5F98529.PNG</Image>
+      <Description>Won a duel against another player</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Group LF Healer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/5B1322256972D82F33EB1347C04FD7B300991C7C.PNG</Image>
+      <Description>Rescued a groupmate from death in a co-op game</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>There's No "I" In "Team"</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/CFE7EB939FB85A7C1E149FB2431BDF5121F84314.PNG</Image>
+      <Description>Completed 15 missions in co-op</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>United We Stand</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/7D204064C28C1219AD299B5C9D819426D98F413B.PNG</Image>
+      <Description>Defeated the Rakk Hive, the Vault Boss, Sledge, Krom, or Flynt in a co-op game</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>And They'll Tell Two Friends</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/55EF54000F5C20BE492A0736F338BB79FD26F406.PNG</Image>
+      <Description>Played in a co-op game with either an employee of Gearbox or someone who had this trophy</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Weapon Aficionado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/650B88C1AE15A0310AB63E5048B8A327362FB508.PNG</Image>
+      <Description>Reached proficiency level 10 with any weapon type</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>You're on a boat!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/493C50CBD58637802922BE9451429B491FE3A734.PNG</Image>
+      <Description>I bet you never thought you'd be here</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Duelinator</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/12E18BA7A77D2FBF75EEE36EB67FF7F8922E2BA3.PNG</Image>
+      <Description>Won a duel without taking damage</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Facemelter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/1AB305614FC1D97900DF5EF3A6E7BD2BDE7B6F40.PNG</Image>
+      <Description>Killed 25 enemies with corrosive weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>1.21 Gigawatts</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/EFAE357B8A8E3FA8EEE03752885335A22883C614.PNG</Image>
+      <Description>Killed 25 enemies with shock weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Pyro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/A8E9A2FC140658614EF6FF39877F5FD53F6E1BD5.PNG</Image>
+      <Description>Killed 25 enemies with incendiary weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Master Exploder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/6043D7C1940204AA513E645B643501A8F0808884.PNG</Image>
+      <Description>Killed 25 enemies with explosive weapons</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>There are some who call me...Tim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/51514E2E1DBE3CF722C4B9DB9096AE8C0CF6FC15.PNG</Image>
+      <Description>Equipped a class mod for your character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Fully Loaded</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/047B5FEE978D8D3F9335F88CC7F9E3E9A4161662.PNG</Image>
+      <Description>Rescued enough Claptraps to earn 42 inventory slots</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Truly Outrageous</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/9DC02686CFD1499A25DCBCD3FB11858BC30C594C.PNG</Image>
+      <Description>Killed an enemy with the Siren's action skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Careful, He Bites</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/F62D19E34FAE0D3B59AD4FAF75668E35A050264C.PNG</Image>
+      <Description>Killed 15 enemies with the Hunter's action skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Reckless Abandon</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/535E9A64664EBDAA63A56322E37C77594B8D57A1.PNG</Image>
+      <Description>Killed 15 enemies with the Berserker's action skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Down in Front!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/61C765B6D30A831194CA4639A45EF7B296974CFD.PNG</Image>
+      <Description>Killed 15 enemies with the Soldier's action skill</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>House of the Ned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/678A8598796D74BAB877546736D9E582F74C2E11.PNG</Image>
+      <Description>Completed the "House of the Ned" mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Jakobs Fodder</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/49F18EDDED0CB2DAEB5D7BC4C835B4DF8D1D5C22.PNG</Image>
+      <Description>Completed the "Jakobs Fodder" mission</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Night of the Living Ned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/F5E8CCCC81C79F4CBAA44D05659FB3CF65D95D12.PNG</Image>
+      <Description>Killed Ned...sort of</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ned's Undead, Baby, Ned's Undead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/6D70105ACCBABEDEEB47D54C81F05EE9B1936186.PNG</Image>
+      <Description>Killed Ned. Again.</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Braaaaaaaaaaaaains!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/57F55724D35DE9BF332BBB911C832571CA8BBB67.PNG</Image>
+      <Description>Completed the "Braaaaaaaaaaaaains!" mission</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Small Tournament</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/BBC1D264DFB645C86A472AAEFDA2E26565A7E758.PNG</Image>
+      <Description>Completed the lesser challenge in all 3 coliseums</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Hell-Burbia</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/D42F0825A7FB8FE0102F0C4E2BC0D330A696FA84.PNG</Image>
+      <Description>Completed the larger challenge in the Hell-Burbia coliseum</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>The Angelic Ruins</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/9CD933EC499284E5FD4DE46186C251EA2552CA13.PNG</Image>
+      <Description>Completed the larger challenge in The Angelic Ruins coliseum</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>The Gully</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/BEB6E9BA3D020203948666178EE3613783328C8A.PNG</Image>
+      <Description>Completed the larger challenge in The Gully coliseum</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Big Tournament</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/BF6909F1059D6238D116B65FE5D674ACA2699A12.PNG</Image>
+      <Description>Completed each of the larger challenges in all 3 coliseums</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Making a Monster</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/E09BD6E33B364BC29025CC90F75C2A2CE3E73B6E.PNG</Image>
+      <Description>Built the New Car: Monster</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Athena, Out</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/DE5D435882765973B1C864E8D50892E5D80A95E8.PNG</Image>
+      <Description>Rescued Athena</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Depot Demolition</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/44F04BDCC2B15D19C43CF845060FE4198DA82BAB.PNG</Image>
+      <Description>Destroyed Lance Depot</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Vincible</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/EDCB43B191D51D1FC3C2E28E01266A43FCA13903.PNG</Image>
+      <Description>Killed Crawmerax the Invincible</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Sneaky Little Buggers</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/0D7E97E1A5291ECBC82E6E78AD29378B6BCE3F5B.PNG</Image>
+      <Description>Killed each of the loot midgets</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Speed Kills</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/33D88BA6B3A64BA2777A34012074715F7F71A503.PNG</Image>
+      <Description>Destroyed a Lancer while in a Racer</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>68</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Overleveled</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/BB0D5638169BD53E41D07B838618F8800123C238.PNG</Image>
+      <Description>Reached Level 51</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>69</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Ding! Overleveled to 11</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/51EA8123DBC904BEB54A163242DC37B508148A34.PNG</Image>
+      <Description>Reached Level 61</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>70</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Completionist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/4417BCDD80FFE2BA624F4721C576656951219636.PNG</Image>
+      <Description>Completed all missions in Secret Armory</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>71</Id>
+      <GameId>NPWR01486_00</GameId>
+      <Title>Sucker born every minute</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01486_00_346645812EF7B75A60C84DE408E680E99AE08920/EEE38D0AD2584BF5369A8351B22A74D3724AD115.PNG</Image>
+      <Description>Paid for a worthless tour of the world's largest bullet</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

@@ -1,0 +1,617 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01143_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Dirt 3</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/BD1A2E2CC57FA5BED1F457F456E76D0F252A19EB.PNG</Image>
+    <TrophiesCount Total="67" Bronze="52" Silver="12" Gold="2" Platinum="1" />
+    <TotalPoints>1320</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Platinum Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/3ACD98AAFF315479A3EFED799E452D90028C0519.PNG</Image>
+      <Description>Achieve all the trophies</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Into the DiRT</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/16CF4A4CD136590F712B8D117372A7E608F7D5D5.PNG</Image>
+      <Description>Complete your first DiRT Tour race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Driving School</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/C7D1CDE4381E5D333E2462955BC253786AADD0BD.PNG</Image>
+      <Description>Complete the tutorials in the Gymkhana Academy</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Teacher's Pet</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/A7CBACA47AFBAD3C21FFAD9DC970708DB101525F.PNG</Image>
+      <Description>Achieve a Platinum medal in all of the Gymkhana Academy tutorials</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Kick Off the Training Wheels!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/E0D945E7E51C97C2069A74AE93B80980FF245DCC.PNG</Image>
+      <Description>Achieve a podium finish in the Gymkhana Academy</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Reputation Boost</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/19733B8094210D6497B22A0096B6CFACE02018E5.PNG</Image>
+      <Description>Complete 5 bonus Race Objectives</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Extra Mile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/EDEA445819831A0CED1417B24753FF53A1FE786A.PNG</Image>
+      <Description>Complete 25 bonus Race Objectives</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Crash Proof</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/78192E8AB9AB0C308B90BDD0642ADB10C1AE7FB7.PNG</Image>
+      <Description>Use a flashback in the DiRT Tour after receiving terminal damage and then go on to win the race</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Call me Ace!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/DC75E2FD8A3E3D992C7DE80A1BF1CB1267749A60.PNG</Image>
+      <Description>Ace all trick types in a Gymkhana Championship event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Today's Forecast is...Victory!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/C9525B8DCDDDDF2EAA4AE8D79A27EF1D73EB92C2.PNG</Image>
+      <Description>Win a race in all weather conditions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Assistance is Futile</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/2A3ED77ADBCD0218B2FB7F3DC5D992130047C279.PNG</Image>
+      <Description>Win a DiRT Tour race without using any driver assists</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Driven</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/C82C104D329C2DB7859AEC3E851B7C635E50E7EF.PNG</Image>
+      <Description>Win DiRT Tour races using vehicles from each discipline</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Pace Setter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/DF6956CB5462373E981E306A63DBF00FC21268CB.PNG</Image>
+      <Description>Complete a Time Trial race in a vehicle from each class of Rally</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Air Miles</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/7D39BD147FBE6E883037036844C8D39D408E5815.PNG</Image>
+      <Description>Win a race in every location</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Self Preservation Society</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/87BF2817B0417CA95C7EE233965ADD47BD61FF03.PNG</Image>
+      <Description>Win a DiRT Tour race in the Mini Cooper without receiving any damage</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Real Thing</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4CE78F50A1B3603D3390AB1809689A557F02EB0F.PNG</Image>
+      <Description>Win a Rally race in the DiRT Tour using the interior camera and the HUD switched off</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>California Dreams</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/2C1A26177A05A5896835C2CC5D6A027CA7DAD0B5.PNG</Image>
+      <Description>Achieve a podium finish in the X Games Tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Sub Zero Hero</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/34968B74E74FF53663DD2E39BD43CC1CE970252A.PNG</Image>
+      <Description>Achieve a podium finish in the Winter X Games Tournament</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Rally Evolution</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/3678E81EC4AFE43B4419C14557B87CFE95CE3DEB.PNG</Image>
+      <Description>Win a DiRT Tour race in a Rally car from each decade</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Rising Talent</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/122241A81FC9B75E52CDE760108A8F96459E487B.PNG</Image>
+      <Description>Reach Driver Rep Level 10</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Shake and Bake</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4E02339B2798348EDF9AC49CB49B55FE2D694624.PNG</Image>
+      <Description>Reach Driver Rep Level 20</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Eat my DiRT!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/ACDC6B9E7C712855FD7B595A5765710B5C67AE4D.PNG</Image>
+      <Description>Reach Driver Rep Level 30</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>World Renowned</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/2C8F9825F2AF6107DA85D85DFBEC207E419FB29F.PNG</Image>
+      <Description>Achieve first place finishes and pass the DC Challenge in a World Tour event</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Gymkhana Aficionado</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/38B8F29FAB11540F9ACCEE054BD0E2E64DF5972E.PNG</Image>
+      <Description>Complete all Gymkhana Championships</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>SuperSeries Champion</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/18A6935AAB8D5EF1687E19F1EADCBB619C93178A.PNG</Image>
+      <Description>Win the DC SuperSeries Championship</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>From DiRT to Glory</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/83F67B508C045870F19E9BA67943B856AF28F040.PNG</Image>
+      <Description>Achieve first place finishes in all DiRT Tour events</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Gym-Carnage</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/5EDBFBA9044F662377CAC77904E7C58530BADD2D.PNG</Image>
+      <Description>Score 500,000 Points in a Gymkhana Event</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Cool Running</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/A73EDEA8B80643789544EEAEACCB103066737171.PNG</Image>
+      <Description>Beat the Bobsleigh in the Norway Speed Run DC Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>No-bot Wars</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/C6AF6D390CEE07BEAD1D1CA09382208AAF885BF8.PNG</Image>
+      <Description>Smash every robot in a Smash Attack DC Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Perfect Sprint</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/8B980E7B7DD05B4A2181FBA0B03656BF7A30A3E9.PNG</Image>
+      <Description>Complete a clean run in a Gymkhana Sprint DC Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Showcase Drifter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/CAFE6A80384F082633F1929F3404B2DD3FF10134.PNG</Image>
+      <Description>Score 25,000 drift points in a Drift Showcase DC Challenge</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>DC Challenger</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/C0A6592933C7500F5C875F6ECF07A67CD5F77D91.PNG</Image>
+      <Description>Complete all of the DC Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>DC Silver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/2283D385843C9624045B34DBDEFCCD4DCB5563CE.PNG</Image>
+      <Description>Achieve Silver medals in all of the DC Challenges</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>DC Gold</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/8526514A2E37027ADC8193C777515F084F9D24C2.PNG</Image>
+      <Description>Achieve Gold medals in all of the DC Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Platinum Performance</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/3A5BA4C3254C262507C7DF7B35F9D0C0CD5703A7.PNG</Image>
+      <Description>Achieve Platinum medals in all of the DC Challenges</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Hooning Around</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4D1C068C5C5FD76134138CA3439228B4265298F6.PNG</Image>
+      <Description>Complete 25% of the Battersea Compound Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Donut Addict</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/0448F946EE9B914E848DB66BB5D9F141E2A09640.PNG</Image>
+      <Description>Complete 50% of the Battersea Compound Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Burnt Rubber</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4A6C1C4AE6A880D2BAB53C49751CA9E8F5B7367B.PNG</Image>
+      <Description>Complete 75% of the Battersea Compound Missions</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Battered Battersea</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/95502B7D6EE82E45C0117BD34C565A256C47DDCB.PNG</Image>
+      <Description>Complete 100% of the Battersea Compound Missions</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Road Trip</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/94E35A14F17E135B917FD7F46D69C568AD17EE55.PNG</Image>
+      <Description>Complete a Joyride online with at least 3 other players</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Professional</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/925E7A05A7F2C13D668A3EEF61AF9C2AA98D93FE.PNG</Image>
+      <Description>Complete your first Pro Tour race online</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Taking the Trophy</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/FFD432DAD89A419EFFE3D9F261D17A1B0B3E6D20.PNG</Image>
+      <Description>Win 10 online games (Pro Tour or Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Road Ahead</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/10B382A9DD607FFA72711EA1364A83DDC2646F5A.PNG</Image>
+      <Description>Complete 25 online games (Pro Tour or Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Honorable Driver</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4AADF0A585F0A3C70384A44F06CBC34A584A769E.PNG</Image>
+      <Description>Complete an online multiplayer race with a ‘Cautious’ rating</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Steer Hunter</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/CD8C4FE5E70DCD39A42E50638D5DA86469959C3F.PNG</Image>
+      <Description>Complete a game of Invasion without any negative points (Pro Tour)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>46</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Can't Touch This!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/31F9C3CBF8D2E156C819E13A7B2E8756D0FCEF9B.PNG</Image>
+      <Description>Remain uninfected in a round of Outbreak (Pro Tour or Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>47</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Cheeze It!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/5B8ADBD41226381EED64F538A9F3103571C0F184.PNG</Image>
+      <Description>Be the mouse in a Cat n Mouse game where your team has gone on to win the game (Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>48</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Flag Stealer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/52F1D9B42C49008558740702104AACD3276FEBF1.PNG</Image>
+      <Description>Steal the flag from the opposing team 5 times in a game of Transporter (Pro Tour)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>49</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Join the Party</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/5429E2A3EBF0174043D1F444AD6AB7B769A75829.PNG</Image>
+      <Description>Win a game in each of the multiplayer party modes (Pro Tour or Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>50</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>King of the Road</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/3ECEBCD385E8802E745B1FB65254457063507D5F.PNG</Image>
+      <Description>Win an online race in Hardcore Mode</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>51</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Super Star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/8AD870CACE7A74A3C0428160C683207A88E6A9B9.PNG</Image>
+      <Description>Earn enough fans to achieve the Superstar title</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>52</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>New Wheels</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/83481D05853D0F1625478F3550A4ED0BE869291D.PNG</Image>
+      <Description>Drive all of the cars from the Power and Glory Car Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>53</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Fresh Tricks</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/F862EEEEBB1CD3159B03386F6B5D3C8EC93973F2.PNG</Image>
+      <Description>Win a Gymkhana event using a car from the Power and Glory Car Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>54</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Service History</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/0C2E4066850EBDF9ADBECEAA9AFF83B0762F4FBC.PNG</Image>
+      <Description>Win a DIRT Tour event in a car from the Power and Glory Car Pack using a custom setup</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>55</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Fast Five</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/134A726554E9D0319FCD0CB6426BE592857748AA.PNG</Image>
+      <Description>Win 5 online races using cars from the Power and Glory Car Pack (Pro Tour </Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>56</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Lively Set</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/97F3C7D6A473764881AE350D5A82AC6BE34D501D.PNG</Image>
+      <Description>Drive all of the cars from the Mud and Guts Car Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>57</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Watch the Paintwork!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/0CB6A21B99EA9C162C3513B72B93FAB78F467051.PNG</Image>
+      <Description>Complete a clean race with a car from the Mud and Guts Car Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>58</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Night Rider</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/BAE3FE28918E7A88358429767B48E2EA39941F75.PNG</Image>
+      <Description>Win a race at night using a car from the Mud and Guts Car Pack</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>59</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Furious Five</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/5710DAA54AE4D7CFA34A60AEA1787EC800426E05.PNG</Image>
+      <Description>Win 5 online races using cars from the Mud and Guts Car Pack (Pro Tour </Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>60</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>La Grande Victoire</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/2D9FE4AA69B273528CFB389F2B1B16F5951C1636.PNG</Image>
+      <Description>Achieve first place in all DiRT Tour Monte Carlo Events</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>61</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Against the Clock</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/861AA2C192712D2BF45C2A3268B94E05548F565E.PNG</Image>
+      <Description>Complete a Time Trial in Monte Carlo</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>62</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Tourist</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/B28A3AE4B6B31E224D4AA484BDE5006761B34B98.PNG</Image>
+      <Description>Drive in excess of 100 miles (161 km) in Monte Carlo</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>63</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>French Connection</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/51E088BCABF2203C3C6637467D23A45C170BC3D9.PNG</Image>
+      <Description>Win an online race in Monte Carlo (Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>64</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Tokyo Story</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/8A987ED39305C2D1CDAEB51FC65037B692180E66.PNG</Image>
+      <Description>Achieve first place in all DiRT Tour Shibuya Events</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>65</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Rush Hour</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/111DD866D8E85DC160EF91E1D2C3604C2196DF76.PNG</Image>
+      <Description>Complete a Time Trial in Shibuya</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>66</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>The Grudge</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/4A9185E4E0F2AC278E4AC307BBFAB9C0F817E6F1.PNG</Image>
+      <Description>Terminally damage your car in Shibuya</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>67</Id>
+      <GameId>NPWR01143_00</GameId>
+      <Title>Metropolis Racer</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01143_00_05AF7A3E911C1342942D0C2AE46509D0DE9DBFFB/8E39E3AC021DEF3982F382B05F2BBEB029C5D25A.PNG</Image>
+      <Description>Win an online race in Shibuya (Jam Session)</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

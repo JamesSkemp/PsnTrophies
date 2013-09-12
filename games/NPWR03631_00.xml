@@ -1,0 +1,419 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR03631_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Danball Senki W</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/97CAEBA97B4FAFCB1FFD4E7AC559735E655ADA24.PNG</Image>
+    <TrophiesCount Total="45" Bronze="28" Silver="14" Gold="2" Platinum="1" />
+    <TotalPoints>1020</TotalPoints>
+    <Platform>vita</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>君は最高のＬＢＸプレイヤーだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/BA25C9DED817D4AAF0A92E63EB73D95BA4BB0F2A.PNG</Image>
+      <Description>すべてのトロフィーを獲得した</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ランキングバトル100位到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/727B7CBF196F1D4E4D89DB7A9005FACD948E849D.PNG</Image>
+      <Description>ランキングバトルで100位に到達した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ランキングバトル50位到達</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/AE9FADEBDEE5586D1E69CA50BBD8E47789CE6374.PNG</Image>
+      <Description>ランキングバトルで50位に到達した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ランキングバトル制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/5C61B26724C632788566D6AE64FF77CC7EDD9E03.PNG</Image>
+      <Description>ランキングバトルを制覇した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ガシャポン初挑戦</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/0A2E407404CBF08B2BA0A219F26C506DC9BF8F45.PNG</Image>
+      <Description>ガシャポンをした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>クエスト初達成</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/79C12BE7818FC836522A8F063F81F216823F2F50.PNG</Image>
+      <Description>クエストをクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>クエスト制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/D31A47E4E2376957EBB7EE94F9CBD7B19011C408.PNG</Image>
+      <Description>全てのクエストをクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>初めての呼び出しバトル</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/71415E4CEA07389237F60DC4747CB83779E9CE41.PNG</Image>
+      <Description>呼び出しバトルを行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>呼び出しバトル制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/826B29DF6F141CEA760571ED5AC49E23DE3D3EB4.PNG</Image>
+      <Description>全ての呼び出しバトルに勝利した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>マイＬＢＸネーム</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/9455418C85CB147A80F499F542F5D693969C1C8F.PNG</Image>
+      <Description>カスタムネームを登録した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>物語の始まり</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/D4EB719BC3149443704E0687BFE688100D81B658.PNG</Image>
+      <Description>ネームエントリーを行った</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>LBXを手に入れた</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/7941D59DD19EB9EA1C1DFFD0F7B057317E221942.PNG</Image>
+      <Description>LBXを入手した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>LBXの変更</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/304F4D04433B96955F88EAC2F72393EF097CCE4E.PNG</Image>
+      <Description>LBXを乗り換えた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>コアカスタマイズ</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/E8944D572BDA5F670EA5F2AE02216985F2B754B9.PNG</Image>
+      <Description>コアパーツをカスタマイズした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>LBXダンジョンバトル初挑戦</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/CA78D10B4A9ECCB7EB01772E82C222E0D5FD8BEB.PNG</Image>
+      <Description>ダンジョンバトルに挑戦した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>LBXダンジョンバトル制覇！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/9833CAA3510A46B7F14BDB9AB45396903A6D7B0A.PNG</Image>
+      <Description>全てのダンジョンバトルを制覇した</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>これがシーカーボード！？</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/44F2C427BF8932B3DE9F95876AF728EC4DD4498E.PNG</Image>
+      <Description>シーカーボードを初めて使用した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>シーカーボードマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/DBFCA62043BD8D078EF87091DFE957432E8E21C5.PNG</Image>
+      <Description>シーカーボードで50回ポストした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>1章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/8697D26BAA4BD6787ED686B2E07270BBA5D377F5.PNG</Image>
+      <Description>第1章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>2章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/954573E5F4585A581A960E9C451B5AD33B90E64E.PNG</Image>
+      <Description>第2章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>3章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/0C749B322CD632233ADA93985BF6220E2FAAE412.PNG</Image>
+      <Description>第3章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>4章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/6864A204BBE673C589752B5AD88102B072A77273.PNG</Image>
+      <Description>第4章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>5章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/A9D9FB8BA7EECBE6D365180214CDBAFECF75486F.PNG</Image>
+      <Description>第5章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>6章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/8D1A6AA07D801CE6EA60705D2CA1C93E56805330.PNG</Image>
+      <Description>第6章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>7章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/29BC164A394C7FE5587E79D0AC18787D93EB2815.PNG</Image>
+      <Description>第7章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>8章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/71D7B064DC6EA323F74C792F9AA94F2F68917832.PNG</Image>
+      <Description>第8章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>9章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/40FF2FD3E094E97C412514BB999A052C7651D121.PNG</Image>
+      <Description>第9章をクリアした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>10章クリア</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/160F2C449C1BD58DACE8BC43A26E0D9593CCD63F.PNG</Image>
+      <Description>第10章をクリアした</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>初通信対戦</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/75B0DC15BB0B4E36D96A2C469865F0FAB84C4817.PNG</Image>
+      <Description>通信バトルをプレイした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>通信対戦初勝利</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/CF250FB42B04C1844DF5579F532D906347A0A7E5.PNG</Image>
+      <Description>通信バトルで勝利した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>通信バトルで勝利した</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/994B12110DFDF172992ABCADBD3949AB66AB219E.PNG</Image>
+      <Description>通信バトルで協力プレイをした</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>アーマークラス100達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/5E587C47FF3FC43AB4379C5898348DF197AC3378.PNG</Image>
+      <Description>ACが100に達した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>アーマークラス200達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/F601A4E81D4A1CF933A7A12B8B34091E4742F4FD.PNG</Image>
+      <Description>ACが200に達した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>プレイヤーLv100達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/184992E5B3F23D70C0A4593C08ED644EE57D4D1F.PNG</Image>
+      <Description>Lvが100に達した</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>プレイヤーLv200達成！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/E01D9C4B42E4531D9B407B8C5C8B81774B2B3D7F.PNG</Image>
+      <Description>Lvが200に達した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>36</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ファイナルブレイク初成功</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/65FCC28BC566E2A519A0C4B646ADF60C5580E5BD.PNG</Image>
+      <Description>ファイナルブレイクを成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>37</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>ファイナルブレイクマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/E4DEC7A61DD57A914D46910166AF332CEF873409.PNG</Image>
+      <Description>ファイナルブレイクを30回成功させた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>38</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>必殺ファンクションブレイク</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/5CF80A3DC19968F4B39993FAE846D5C8B3063488.PNG</Image>
+      <Description>超必殺ファンクションブレイクを成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>39</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>必殺ファンクションブレイクマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/C8B23B0B37E168A2FAFE2AA4E1D0D58ACDD45FC8.PNG</Image>
+      <Description>超必殺ファンクションブレイクを10回成功させた</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>40</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>これが、Σオービスだ！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/0EFA9F2FB8B7CB016388B315C84AA6483454D801.PNG</Image>
+      <Description>合体を成功させた</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>41</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>必殺ファンクションマスター</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/9626AA8941A99C8A5E5EF024E46379CF7DE24899.PNG</Image>
+      <Description>必殺ファンクションを全て習得した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>42</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>チャリン、チャリン</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/E90E82568645AAEBA88B74B9922399DA0154C6A1.PNG</Image>
+      <Description>獲得したクレジットが100万に達した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>43</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>友情の絆！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/4A71B2611C5678EDC9C7C0B3368CEADECBB3B801.PNG</Image>
+      <Description>全ての仲間が加入した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>44</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>100体撃破！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/4EFC69CFEF5B9020627593A58A5EC94A9ED568D3.PNG</Image>
+      <Description>LBXを100体倒した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>45</Id>
+      <GameId>NPWR03631_00</GameId>
+      <Title>300体撃破！</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03631_00_B207EB27BE2B7C06B56E5A2A8138F4C8F555B606/C10D02FDC8D7AC672399B90DC14B558BA52C4E0E.PNG</Image>
+      <Description>LBXを300体倒した</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>

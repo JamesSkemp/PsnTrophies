@@ -1,0 +1,329 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+  <Game>
+    <Id>NPWR01469_00</Id>
+    <IdEurope></IdEurope>
+    <Title>Racket Sports</Title>
+    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/80DCE41DED9F789D583F868C73BC89190DDB0B84.PNG</Image>
+    <TrophiesCount Total="35" Bronze="18" Silver="11" Gold="5" Platinum="1" />
+    <TotalPoints>1050</TotalPoints>
+    <Platform>ps3</Platform>
+  </Game>
+  <Trophies>
+    <Trophy>
+      <Id>1</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Platinum</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/61A27E3B9E3466C60FD3A7F4BC6F81D9F7FABCA1.PNG</Image>
+      <Description>Win all trophies in Racket Sports</Description>
+      <Type>PLATINUM</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>2</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Hairdresser</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/0785951AB207E32B1FFCBF0E1130AA5FFFCD891B.PNG</Image>
+      <Description>Unlock all haircuts for all the characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>3</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Fashion victim</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/584A2C331284A94A2387D150C1E17115F66578F4.PNG</Image>
+      <Description>Unlock all outfits for all the characters</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>4</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Racket collector</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/F2BD561B2B2933B51CC03E54A032B16840A84A89.PNG</Image>
+      <Description>Unlock all rackets in Career</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>5</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Tennis hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/0DC74F245F0DAFFF2B9278D7C40DB44E519C70E9.PNG</Image>
+      <Description>Win the Amateur league in Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>6</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Badminton hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/49A5D681863BEF9B55554FEE169B89F90F99B10F.PNG</Image>
+      <Description>Win the Amateur league in Badminton with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>7</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Squash hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/C8A814254B6AC9372C112DC4A83E7A1639CCD4E5.PNG</Image>
+      <Description>Win the Amateur league in Squash with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>8</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Beach Tennis hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/C34C24B446FD9F29ADFAD6C3C10C0234F48ACAF3.PNG</Image>
+      <Description>Win the Amateur league in Beach Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>9</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Table Tennis hope</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/5D086C86C4BFE6399504CB62E02E9FF968F185F7.PNG</Image>
+      <Description>Win the Amateur league in Table Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>10</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Tennis pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/2DB9D2E37D1D7B7DC0EBE93E3C73F5FDE66BA7A7.PNG</Image>
+      <Description>Win the Professional league in Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>11</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Badminton pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/1DE27C3D0C50E72FB6390A4EFFFE5372B43210A3.PNG</Image>
+      <Description>Win the Professional league in Badminton with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>12</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Squash pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/CC80244F755D16367D9BF753A259C2BE9D60C471.PNG</Image>
+      <Description>Win the Professional league in Squash with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>13</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Beach Tennis pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/C17F1AD4C3962D763ED6A26DF7CD3C9F0820C3AE.PNG</Image>
+      <Description>Win the Professional league in Beach Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>14</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Table Tennis pro</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/74CA21D04E878888BAB304FD34AD9394264E7D57.PNG</Image>
+      <Description>Win the Professional league in Table Tennis with any character</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>15</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Tennis star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/19BB9B61E1A7253800C6730C59B8079D52FD2BAF.PNG</Image>
+      <Description>Win the Masters league in Tennis with any character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>16</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Badminton star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/CBF69804338337EB89E665BD5738CCA654099F72.PNG</Image>
+      <Description>Win the Masters league in Badminton with any character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>17</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Squash star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/AFF627743782F8F170B057594817A9726BC59F5D.PNG</Image>
+      <Description>Win the Masters league in Squash with any character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>18</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Beach Tennis star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/B8ADE94E946C17548BC0792BEDA333CFA34E66D4.PNG</Image>
+      <Description>Win the Masters league in Beach Tennis with any character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>19</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Table Tennis star</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/4BD2E5874D1701F740671EDEAF01DFC45BEA849C.PNG</Image>
+      <Description>Win the Masters league in Table Tennis with any character</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>20</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Tennis legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/A60E242F95F5ECD94B260E521D82BB63BD4B05D2.PNG</Image>
+      <Description>Finish first in a Tennis Masters season and win the Private Cup with any character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>21</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Badminton legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/9A3BF917DAFF5B80EB2BC3F7B354B95FCE22DA2F.PNG</Image>
+      <Description>Finish first in a Badminton Masters season and win the Private Cup with any character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>22</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Squash legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/4118315EEFFDEAB198ADE3A1FBA06F7F75339449.PNG</Image>
+      <Description>Finish first in a Squash Masters season and win the Private Cup with any character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>23</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Beach Tennis legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/5986F134C20EEFDC26A83D7F3548B2A0386DDA89.PNG</Image>
+      <Description>Finish first in a Beach Tennis Masters season and win the Private Cup with any character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>24</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Table Tennis legend</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/409C10275DB2403CC42F752CBABF01B71CDDD3AA.PNG</Image>
+      <Description>Finish first in a Table Tennis Masters season and win the Private Cup with any character</Description>
+      <Type>GOLD</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>25</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Not a matter of luck</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/A7564975F9B5DE486749E87C6A2CDA51E953EB98.PNG</Image>
+      <Description>In Tennis, perform 3 successful Risky Shots in a row</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>26</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Icing on the cake!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/80C44BA836FE5DC66FB259718C822EADBBFDC3A9.PNG</Image>
+      <Description>In any sport, win a match point with a successful Risky Shot</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>27</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Human 1 - Machine 0</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/C504F5809490A4D9E6A936675C339B0979C37BB5.PNG</Image>
+      <Description>In any sport, win a match against the computer with the computer scoring zero points</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>28</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Playing with the big boys</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/9E2C0F2CA33585B5B49D2BCB8532A97D26A6ADBD.PNG</Image>
+      <Description>Win 25 online ranked matches</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>29</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Have a tissue, pal!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/6AE183699E50CB904004E404474AC8DCA7A05019.PNG</Image>
+      <Description>Win an online match in which your opponent scores zero points (official matches only)</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>30</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Winning streak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/31293F3149660D9205C880097995FB33BB34A953.PNG</Image>
+      <Description>In training mode, achieve a longest series record of at least 10 in every sport</Description>
+      <Type>SILVER</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>31</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Net fishing?</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/0D9F29CA095013E6196E8172A9B681FDDEE53A0D.PNG</Image>
+      <Description>In Tennis, put the ball into the net</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>32</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Satellite launched!</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/0A54A1F1566675A245D02694D768913D33B32170.PNG</Image>
+      <Description>In Badminton, send the shuttle really high in the sky</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>33</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Double bounce</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/61F20D8C0F976A1B90C9A948F52EF54FDCD3A796.PNG</Image>
+      <Description>In Table Tennis, score a point with the ball bouncing twice on the opponent's table</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>34</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Pinball freak</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/60473C9C7BD97EFBF7E04E3580B26C2E913C439E.PNG</Image>
+      <Description>In Squash, perform a spectacular drop shot</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+    <Trophy>
+      <Id>35</Id>
+      <GameId>NPWR01469_00</GameId>
+      <Title>Till your arms drop</Title>
+      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR01469_00_FEB77BCBBFDF43F145CB26A925B35AA273E2684D/BFF5C0AC4A17EC259445FCE7132C5A29F1155E06.PNG</Image>
+      <Description>In Beach Tennis, play a rally lasting at least 20 shots</Description>
+      <Type>BRONZE</Type>
+      <Hidden xsi:nil="true" />
+    </Trophy>
+  </Trophies>
+</PlayStationGame>
