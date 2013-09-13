@@ -18,22 +18,27 @@ var count = 0;
 foreach (var newXmlFile in newXmlFiles)
 {
 	if (count > 3) {
-		break;
+		//break;
 	}
 	try
 	{
 		var newGameXml = XDocument.Load(newXmlFile.FullName).Root;
+		// Create a new game from the new XML.
+		var playStationGame = new PlayStationGame(newGameXml);
 		if (existingXmlFileNames.Contains(newXmlFile.Name))
 		{
 			// File already exists, so we need to check the existing file.
 			count++;
-			var gameId = Path.GetFileNameWithoutExtension(newXmlFile.Name);
-			gameId.Dump();
+			//var gameId = Path.GetFileNameWithoutExtension(newXmlFile.Name);
+			//gameId.Dump();
+			//var existingGameXml = XDocument.Load(existingXmlDirectory + newXmlFile.Name).Root;
 			//newGameXml.Dump();
+			//existingGameXml.Dump();
+			//playStationGame.Save();
 		}
 		else
 		{
-			// This is a new game. We'll make sure it's all good.
+			// This is a new game. Save it.
 
 			// PHP export is different enough that .NET can't just deserialize it as-is.
 			/*var deserializer = new XmlSerializer(typeof(PlayStationGame));
@@ -43,60 +48,13 @@ foreach (var newXmlFile in newXmlFiles)
 			}
 			newPlayStationGame.Dump();*/
 			
-			var playStationGame = new PlayStationGame();
-			playStationGame.Game.Id = newGameXml.Element("Game").Element("Id").Value;
-			playStationGame.Game.IdEurope = newGameXml.Element("Game").Element("IdEurope") != null
-				? newGameXml.Element("Game").Element("IdEurope").Value
-				: null;
-			playStationGame.Game.Title = newGameXml.Element("Game").Element("Title").Value;
-			playStationGame.Game.Image = newGameXml.Element("Game").Element("Image").Value;
-			playStationGame.Game.TrophiesCount.Bronze = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Bronze").Value);
-			playStationGame.Game.TrophiesCount.Silver = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Silver").Value);
-			playStationGame.Game.TrophiesCount.Gold = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Gold").Value);
-			playStationGame.Game.TrophiesCount.Platinum = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Platinum").Value);
-			playStationGame.Game.TrophiesCount.Total = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Total").Value);
-			playStationGame.Game.UpdateTotalPoints();
-			playStationGame.Game.Platform = newGameXml.Element("Game").Element("Platform").Value;
-			
-			foreach (var trophyItem in newGameXml.Descendants("Trophy"))
-			{
-				var trophy = new Trophy();
-				trophy.Id = trophyItem.Element("Id").Value;
-				trophy.GameId = trophyItem.Element("GameId").Value;
-				trophy.Title = trophyItem.Element("Title").Value;
-				trophy.Image = trophyItem.Element("Image").Value;
-				trophy.Description = trophyItem.Element("Description").Value;
-				trophy.Type = trophyItem.Element("Type").Value;
-				trophy.Hidden = trophyItem.Element("Hidden") != null && !string.IsNullOrWhiteSpace(trophyItem.Element("Hidden").Value)
-					? (bool?)bool.Parse(trophyItem.Element("Hidden").Value)
-					: null;
-				
-				if (!playStationGame.Trophies.Any(t => t.Id == trophy.Id))
-				{
-					playStationGame.Trophies.Add(trophy);
-				}
-				else
-				{
-					// TODO, this could probably be better.
-					("Duplicate trophy " + trophy.Id + " for game " + trophy.GameId).Dump();
-				}
-			}
-			newGameXml.Descendants("Trophy").Dump();
-			
-			
-			newGameXml.Dump();
-
 			playStationGame.Save();
-			/*var serializer = new XmlSerializer(typeof(PlayStationGame));
-			using (StreamWriter writer = new StreamWriter(testDirectory + newXmlFile.Name)) {
-				serializer.Serialize(writer, playStationGame);
-			}*/
-			break;
 		}
 	}
 	catch (Exception ex)
 	{
-		ex.Dump();
+		newXmlFile.Name.Dump();
+		//ex.Dump();
 	}
 }
 
@@ -121,6 +79,47 @@ public class PlayStationGame {
 	public PlayStationGame() {
 		this.Game = new Game();
 		this.Trophies = new List<Trophy>();
+	}
+	
+	public PlayStationGame(XElement newGameXml) : this() {
+		var playStationGame = new PlayStationGame();
+		this.Game.Id = newGameXml.Element("Game").Element("Id").Value;
+		this.Game.IdEurope = newGameXml.Element("Game").Element("IdEurope") != null
+			? newGameXml.Element("Game").Element("IdEurope").Value
+			: null;
+		this.Game.Title = newGameXml.Element("Game").Element("Title").Value;
+		this.Game.Image = newGameXml.Element("Game").Element("Image").Value;
+		this.Game.TrophiesCount.Bronze = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Bronze").Value);
+		this.Game.TrophiesCount.Silver = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Silver").Value);
+		this.Game.TrophiesCount.Gold = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Gold").Value);
+		this.Game.TrophiesCount.Platinum = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Platinum").Value);
+		this.Game.TrophiesCount.Total = int.Parse(newGameXml.Element("Game").Element("TrophiesCount").Attribute("Total").Value);
+		this.Game.UpdateTotalPoints();
+		this.Game.Platform = newGameXml.Element("Game").Element("Platform").Value;
+		
+		foreach (var trophyItem in newGameXml.Descendants("Trophy"))
+		{
+			var trophy = new Trophy();
+			trophy.Id = trophyItem.Element("Id").Value;
+			trophy.GameId = trophyItem.Element("GameId").Value;
+			trophy.Title = trophyItem.Element("Title").Value;
+			trophy.Image = trophyItem.Element("Image").Value;
+			trophy.Description = trophyItem.Element("Description").Value;
+			trophy.Type = trophyItem.Element("Type").Value;
+			trophy.Hidden = trophyItem.Element("Hidden") != null && !string.IsNullOrWhiteSpace(trophyItem.Element("Hidden").Value)
+				? (bool?)bool.Parse(trophyItem.Element("Hidden").Value)
+				: null;
+			
+			if (!this.Trophies.Any(t => t.Id == trophy.Id))
+			{
+				this.Trophies.Add(trophy);
+			}
+			else
+			{
+				// TODO, this could probably be better.
+				("Duplicate trophy " + trophy.Id + " for game " + trophy.GameId).Dump();
+			}
+		}
 	}
 	
 	public void Save() {
@@ -168,7 +167,7 @@ public class PlayStationGame {
 			xml.Root.Element("Trophies").Add(trophyElement);
 		}
 		
-		xml.Dump();
+		//xml.Dump();
 	
 		/*
 		var newGameXml = new XDocument(
