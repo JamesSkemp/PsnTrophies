@@ -17,7 +17,7 @@
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/EAE9CEEF1C951CEFA696E4BF0A836A934FED15B3.PNG</Image>
       <Description>全てのトロフィーを取得した</Description>
       <Type>GOLD</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>true</Hidden>
     </Trophy>
     <Trophy>
       <Id>2</Id>
@@ -26,7 +26,7 @@
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/CDAAD91281AEBCD1C6DDCD7EB9D2DDD1E4F49894.PNG</Image>
       <Description>全てのロクサスダイアリーを見た</Description>
       <Type>GOLD</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>true</Hidden>
     </Trophy>
     <Trophy>
       <Id>3</Id>
@@ -35,34 +35,34 @@
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/4D9E52214CC8E3FC3689C15D3BFE9D0A2FDB3449.PNG</Image>
       <Description>全てのシークレットレポートを見た</Description>
       <Type>GOLD</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>true</Hidden>
     </Trophy>
     <Trophy>
       <Id>4</Id>
       <GameId>NPWR04102_00</GameId>
-      <Title>心通わせる日々</Title>
+      <Title>Days of Connection</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/83BBE78D40E094BCA818C25E9941BB25A21F7F21.PNG</Image>
-      <Description>チャプター1-37を全て見た</Description>
+      <Description>View Chapters 1 through 37.</Description>
       <Type>BRONZE</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
       <Id>5</Id>
       <GameId>NPWR04102_00</GameId>
-      <Title>心見つめ合う日々</Title>
+      <Title>Days of Reflection</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/4DB2BB48DD7FF379CF22C4B9965BA8E57E620E1A.PNG</Image>
-      <Description>チャプター38-74を全て見た</Description>
+      <Description>View Chapters 38 through 74.</Description>
       <Type>BRONZE</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>false</Hidden>
     </Trophy>
     <Trophy>
       <Id>6</Id>
       <GameId>NPWR04102_00</GameId>
-      <Title>心辿り着く場所</Title>
+      <Title>Where the Heart Lies</Title>
       <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/E5CB4EF88704342AD6039A5C83C39165FDDF19E5.PNG</Image>
-      <Description>チャプター75-109を全て見た</Description>
+      <Description>View Chapters 75 through 109.</Description>
       <Type>BRONZE</Type>
-      <Hidden xsi:nil="true" />
+      <Hidden>false</Hidden>
     </Trophy>
   </Trophies>
 </PlayStationGame>
