@@ -5,9 +5,38 @@
     <IdEurope></IdEurope>
     <Title>Kingdom Hearts Final Mix</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04063_00_00370BA2B100408DAA0DD67222B2D2C7B27A47D7E8/011973A2F26FBDE4B725C66F8B3F6E6FA745D712.PNG</Image>
-    <TrophiesCount Total="56" Bronze="11" Silver="2" Gold="1" Platinum="0" />
-    <TotalPoints>315</TotalPoints>
+    <TrophiesCount Total="56" Bronze="49" Silver="4" Gold="2" Platinum="1" />
+    <TotalPoints>1035</TotalPoints>
     <Platform>ps3</Platform>
   </Game>
-  <Trophies />
+  <Trophies>
+  	<!-- Hidden: 1-3,7-22,32,47,53 -->
+  	<Trophy>
+  		<Id>24</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>The Rabbit Hole</Title>
+  		<Image/>
+  		<Description>Seal the keyhole in Wonderland.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>48</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Customizer</Title>
+  		<Image/>
+  		<Description>Modify a gummi ship and update the data.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>50</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Test Pilot</Title>
+  		<Image/>
+  		<Description>Clear gummi ship mission 1.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  </Trophies>
 </PlayStationGame>
