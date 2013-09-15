@@ -5,8 +5,8 @@
     <IdEurope></IdEurope>
     <Title>Guacamelee!</Title>
     <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR03776_00_01119124140D1EC2E7D95E27D8A01F7BD85B659203/EEE281356177FBB1C3C352040C4C34CFF11A5659.PNG</Image>
-    <TrophiesCount Total="54" Bronze="42" Silver="7" Gold="4" Platinum="1" />
-    <TotalPoints>1200</TotalPoints>
+    <TrophiesCount Total="61" Bronze="47" Silver="8" Gold="5" Platinum="1" />
+    <TotalPoints>1395</TotalPoints>
     <Platform>ps3,psp2</Platform>
   </Game>
   <Trophies>
@@ -496,5 +496,68 @@
       <Type>GOLD</Type>
       <Hidden>false</Hidden>
     </Trophy>
+  	<Trophy>
+  		<Id>55</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>World Champion</Title>
+  		<Image/>
+  		<Description>Earn a Gold Medal in all Infierno challenges</Description>
+  		<Type>GOLD</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>56</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>Title Contender</Title>
+  		<Image/>
+  		<Description>Earn a Silver Medal in all Infierno challenges</Description>
+  		<Type>SILVER</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>57</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>Heavyweight</Title>
+  		<Image></Image>
+  		<Description>Earn a Bronze Medal in all Infierno challenges</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>58</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>GOOOOOOOAL!</Title>
+  		<Image/>
+  		<Description>Complete Infierno challenge 10 and challenge 15 as El Portero</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>59</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>Beastly</Title>
+  		<Image></Image>
+  		<Description>Complete Infierno challenge 17 as the Alebrije</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>60</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>The Devil wears Revenge!</Title>
+  		<Image></Image>
+  		<Description>Defeat Calaca with full health in Diablo's Suit</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>61</Id>
+  		<GameId>NPWR03776_00</GameId>
+  		<Title>The Old-Fashioned Way</Title>
+  		<Image></Image>
+  		<Description>Complete Infierno challenge 14 using Goat Fly no more than four times</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
   </Trophies>
 </PlayStationGame>
