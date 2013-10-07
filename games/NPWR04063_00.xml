@@ -1,150 +1,520 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
-  <Game>
-    <Id>NPWR04063_00</Id>
-    <IdEurope></IdEurope>
-    <Title>Kingdom Hearts Final Mix</Title>
-    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04063_00_00370BA2B100408DAA0DD67222B2D2C7B27A47D7E8/011973A2F26FBDE4B725C66F8B3F6E6FA745D712.PNG</Image>
-    <TrophiesCount Total="56" Bronze="49" Silver="4" Gold="2" Platinum="1" />
-    <TotalPoints>1035</TotalPoints>
-    <Platform>ps3</Platform>
-  </Game>
-  <Trophies>
-  	<!-- Hidden: 1-3,7-22,32,47,53 -->
-  	<Trophy>
-  		<Id>11</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Novice Hero</Title>
-  		<Image/>
-  		<Description>Win the Phil Cup.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>true</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>12</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Artisan Hero</Title>
-  		<Image/>
-  		<Description>Win the Pegasus Cup.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>true</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>17</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Supreme Soloist</Title>
-  		<Image/>
-  		<Description>Complete any solo challenge.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>true</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>20</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Treasure Hunter</Title>
-  		<Image/>
-  		<Description>Open 100 treasure chests.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>true</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>21</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>From Rags to Riches</Title>
-  		<Image/>
-  		<Description>Obtain over 10,000 Munny.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>true</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>23</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Where the Bells Toll</Title>
-  		<Image/>
-  		<Description>Seal the keyhole in Traverse Town.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>24</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>The Rabbit Hole</Title>
-  		<Image/>
-  		<Description>Seal the keyhole in Wonderland.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>26</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Member of the Tribe</Title>
-  		<Image/>
-  		<Description>Seal the keyhole in Deep Jungle.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>27</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Magic Lamp</Title>
-  		<Image/>
-  		<Description>Seal the keyhole in Agrabah.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>28</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Honest Soul</Title>
-  		<Image/>
-  		<Description>Escape from Monstro.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>42</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>First Synthesis</Title>
-  		<Image/>
-  		<Description>Synthesize an item for the first time.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>43</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Synthesis Novice</Title>
-  		<Image/>
-  		<Description>Synthesize 3 types of items.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>48</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Customizer</Title>
-  		<Image/>
-  		<Description>Modify a gummi ship and update the data.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>50</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Test Pilot</Title>
-  		<Image/>
-  		<Description>Clear gummi ship mission 1.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  	<Trophy>
-  		<Id>51</Id>
-  		<GameId>NPWR04063_00</GameId>
-  		<Title>Veteran Pilot</Title>
-  		<Image/>
-  		<Description>Clear gummi ship mission 2.</Description>
-  		<Type>BRONZE</Type>
-  		<Hidden>false</Hidden>
-  	</Trophy>
-  </Trophies>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+	<Game>
+		<Id>NPWR04063_00</Id>
+		<IdEurope/>
+		<Title>Kingdom Hearts Final Mix</Title>
+		<Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04063_00_00370BA2B100408DAA0DD67222B2D2C7B27A47D7E8/011973A2F26FBDE4B725C66F8B3F6E6FA745D712.PNG</Image>
+		<TrophiesCount Total="56" Bronze="49" Silver="4" Gold="2" Platinum="1"/>
+		<TotalPoints>1035</TotalPoints>
+		<Platform>ps3</Platform>
+	</Game>
+	<Trophies>
+		<Trophy>
+			<Id>1</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>KINGDOM HEARTS Master</Title>
+			<Image/>
+			<Description>Obtain all trophies.</Description>
+			<Type>PLATINUM</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>2</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Proud Player</Title>
+			<Image/>
+			<Description>Clear Final Mix on Proud.</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>3</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Final Mix Master</Title>
+			<Image/>
+			<Description>Clear Final Mix.</Description>
+			<Type>SILVER</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>4</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Novice Player</Title>
+			<Image/>
+			<Description>Clear Final Mix on Beginner.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>5</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Unchanging Armor</Title>
+			<Image/>
+			<Description>Clear the game without changing equipment.</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>6</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Undefeated</Title>
+			<Image/>
+			<Description>Clear the game without using a continue.</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>7</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Speedster</Title>
+			<Image/>
+			<Description>Defeat the World of Chaos in the End of the World within 15
+				hours.</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>8</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>He Who Doesn't Exist</Title>
+			<Image/>
+			<Description>Defeat the Mysterious Man in Hollow Bastion.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>9</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>The Cloaked Shadow</Title>
+			<Image/>
+			<Description>Defeat the Phantom at the Clock Tower.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>10</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>The Sandy Blade</Title>
+			<Image/>
+			<Description>Defeat Kurt Zisa in Agrabah.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>11</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Novice Hero</Title>
+			<Image/>
+			<Description>Win the Phil Cup.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>12</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Artisan Hero</Title>
+			<Image/>
+			<Description>Win the Pegasus Cup.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>13</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Hero of the Coliseum</Title>
+			<Image/>
+			<Description>Win the Hercules Cup.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>14</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Coliseum Champion</Title>
+			<Image/>
+			<Description>Win the Hades Cup.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>15</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>The Frosty Giant</Title>
+			<Image/>
+			<Description>Defeat the Ice Titan in the Gold Match at Olympus Coliseum.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>16</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>One-Winged Angel</Title>
+			<Image/>
+			<Description>Defeat Sephiroth in the Platinum Match at Olympus Coliseum.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>17</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Supreme Soloist</Title>
+			<Image/>
+			<Description>Complete any solo challenge.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>18</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Time Attacker</Title>
+			<Image/>
+			<Description>Complete any time trial challenge.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>19</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Level Master</Title>
+			<Image/>
+			<Description>Get Sora to Level 100.</Description>
+			<Type>SILVER</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>20</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Treasure Hunter</Title>
+			<Image/>
+			<Description>Open 100 treasure chests.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>21</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>From Rags to Riches</Title>
+			<Image/>
+			<Description>Obtain over 10,000 Munny.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>22</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Heartless Hunter</Title>
+			<Image/>
+			<Description>Defeat over 2,000 Heartless.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>23</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Where the Bells Toll</Title>
+			<Image/>
+			<Description>Seal the keyhole in Traverse Town.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>24</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>The Rabbit Hole</Title>
+			<Image/>
+			<Description>Seal the keyhole in Wonderland.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>25</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Junior Hero</Title>
+			<Image/>
+			<Description>Seal the keyhole in Olympus Coliseum.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>26</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Member of the Tribe</Title>
+			<Image/>
+			<Description>Seal the keyhole in Deep Jungle.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>27</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Magic Lamp</Title>
+			<Image/>
+			<Description>Seal the keyhole in Agrabah.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>28</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Honest Soul</Title>
+			<Image/>
+			<Description>Escape from Monstro.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>29</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Master of the Seas</Title>
+			<Image/>
+			<Description>Seal the keyhole in Atlantica.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>30</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Pumpkin Prince</Title>
+			<Image/>
+			<Description>Seal the keyhole in Halloween Town.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>31</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Pixie Dust</Title>
+			<Image/>
+			<Description>Seal the keyhole in Never Land.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>32</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>End of the World</Title>
+			<Image/>
+			<Description>Seal the keyhole in Hollow Bastion.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>33</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Pooh's Friend</Title>
+			<Image/>
+			<Description>Seal the keyhole in 100 Acre Wood.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>34</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Record Keeper</Title>
+			<Image/>
+			<Description>Collect all Jiminy's Journal entries.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>35</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Storyteller</Title>
+			<Image/>
+			<Description>Collect all Story entries in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>36</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Searcher</Title>
+			<Image/>
+			<Description>Collect all Ansem Reports in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>37</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Professor</Title>
+			<Image/>
+			<Description>Collect all Character entries in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>38</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Top Dog</Title>
+			<Image/>
+			<Description>Collect all 101 Dalmatian entries in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>39</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Best Friend</Title>
+			<Image/>
+			<Description>Collect all Trinity List entries in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>40</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Mini-game Maniac</Title>
+			<Image/>
+			<Description>Collect all Mini-game entries in Jiminy's Journal.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>41</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Synthesis Master</Title>
+			<Image/>
+			<Description>Synthesize all items.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>42</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>First Synthesis</Title>
+			<Image/>
+			<Description>Synthesize an item for the first time.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>43</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Synthesis Novice</Title>
+			<Image/>
+			<Description>Synthesize 3 types of items.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>44</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Synthesis Amateur</Title>
+			<Image/>
+			<Description>Synthesize 15 types of items.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>45</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Synthesis Vet</Title>
+			<Image/>
+			<Description>Synthesize 30 types of items.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>46</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Gummi Ship Collector</Title>
+			<Image/>
+			<Description>Obtain all gummi ship blueprints.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>47</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Flying Ace</Title>
+			<Image/>
+			<Description>Shoot down over 2,500 enemies with your gummi ship.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>48</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Customizer</Title>
+			<Image/>
+			<Description>Modify a gummi ship and update the data.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>49</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Top Gun</Title>
+			<Image/>
+			<Description>Clear all gummi ship routes.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>50</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Test Pilot</Title>
+			<Image/>
+			<Description>Clear gummi ship mission 1.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>51</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Veteran Pilot</Title>
+			<Image/>
+			<Description>Clear gummi ship mission 2.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>52</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Ace Pilot</Title>
+			<Image/>
+			<Description>Clear gummi ship mission 3.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>53</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Oathkeeper</Title>
+			<Image/>
+			<Description>Obtain the Oathkeeper Keyblade.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>54</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Blade Master</Title>
+			<Image/>
+			<Description>Obtain all Keyblades.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>55</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Master Magician</Title>
+			<Image/>
+			<Description>Obtain all staves.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>56</Id>
+			<GameId>NPWR04063_00</GameId>
+			<Title>Master Defender</Title>
+			<Image/>
+			<Description>Obtain all shields.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+	</Trophies>
 </PlayStationGame>
