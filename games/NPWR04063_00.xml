@@ -12,11 +12,110 @@
   <Trophies>
   	<!-- Hidden: 1-3,7-22,32,47,53 -->
   	<Trophy>
+  		<Id>11</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Novice Hero</Title>
+  		<Image/>
+  		<Description>Win the Phil Cup.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>true</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>12</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Artisan Hero</Title>
+  		<Image/>
+  		<Description>Win the Pegasus Cup.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>true</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>17</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Supreme Soloist</Title>
+  		<Image/>
+  		<Description>Complete any solo challenge.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>true</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>20</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Treasure Hunter</Title>
+  		<Image/>
+  		<Description>Open 100 treasure chests.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>true</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>21</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>From Rags to Riches</Title>
+  		<Image/>
+  		<Description>Obtain over 10,000 Munny.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>true</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>23</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Where the Bells Toll</Title>
+  		<Image/>
+  		<Description>Seal the keyhole in Traverse Town.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
   		<Id>24</Id>
   		<GameId>NPWR04063_00</GameId>
   		<Title>The Rabbit Hole</Title>
   		<Image/>
   		<Description>Seal the keyhole in Wonderland.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>26</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Member of the Tribe</Title>
+  		<Image/>
+  		<Description>Seal the keyhole in Deep Jungle.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>27</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Magic Lamp</Title>
+  		<Image/>
+  		<Description>Seal the keyhole in Agrabah.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>28</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Honest Soul</Title>
+  		<Image/>
+  		<Description>Escape from Monstro.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>42</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>First Synthesis</Title>
+  		<Image/>
+  		<Description>Synthesize an item for the first time.</Description>
+  		<Type>BRONZE</Type>
+  		<Hidden>false</Hidden>
+  	</Trophy>
+  	<Trophy>
+  		<Id>43</Id>
+  		<GameId>NPWR04063_00</GameId>
+  		<Title>Synthesis Novice</Title>
+  		<Image/>
+  		<Description>Synthesize 3 types of items.</Description>
   		<Type>BRONZE</Type>
   		<Hidden>false</Hidden>
   	</Trophy>
