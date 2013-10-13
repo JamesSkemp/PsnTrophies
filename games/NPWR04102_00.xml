@@ -1,68 +1,69 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
-  <Game>
-    <Id>NPWR04102_00</Id>
-    <IdEurope></IdEurope>
-    <Title>Kingdom Hearts 358/2 Days</Title>
-    <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/B31BA073CB786C493D51E6A01ADF5EC36303C40C.PNG</Image>
-    <TrophiesCount Total="6" Bronze="3" Silver="0" Gold="3" Platinum="0" />
-    <TotalPoints>315</TotalPoints>
-    <Platform>ps3</Platform>
-  </Game>
-  <Trophies>
-    <Trophy>
-      <Id>1</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>358/2Days コンプリート</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/EAE9CEEF1C951CEFA696E4BF0A836A934FED15B3.PNG</Image>
-      <Description>全てのトロフィーを取得した</Description>
-      <Type>GOLD</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>2</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>リードオールザダイアリー</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/CDAAD91281AEBCD1C6DDCD7EB9D2DDD1E4F49894.PNG</Image>
-      <Description>全てのロクサスダイアリーを見た</Description>
-      <Type>GOLD</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>3</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>リードオールザレポート</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/4D9E52214CC8E3FC3689C15D3BFE9D0A2FDB3449.PNG</Image>
-      <Description>全てのシークレットレポートを見た</Description>
-      <Type>GOLD</Type>
-      <Hidden>true</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>4</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>Days of Connection</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/83BBE78D40E094BCA818C25E9941BB25A21F7F21.PNG</Image>
-      <Description>View Chapters 1 through 37.</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>5</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>Days of Reflection</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/4DB2BB48DD7FF379CF22C4B9965BA8E57E620E1A.PNG</Image>
-      <Description>View Chapters 38 through 74.</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-    <Trophy>
-      <Id>6</Id>
-      <GameId>NPWR04102_00</GameId>
-      <Title>Where the Heart Lies</Title>
-      <Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/E5CB4EF88704342AD6039A5C83C39165FDDF19E5.PNG</Image>
-      <Description>View Chapters 75 through 109.</Description>
-      <Type>BRONZE</Type>
-      <Hidden>false</Hidden>
-    </Trophy>
-  </Trophies>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+	<Game>
+		<Id>NPWR04102_00</Id>
+		<IdEurope/>
+		<Title>Kingdom Hearts 358/2 Days</Title>
+		<Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04102_00_00D82C1B1FEC8BAAB25F05CDD553856264EEF23E2C/B31BA073CB786C493D51E6A01ADF5EC36303C40C.PNG</Image>
+		<TrophiesCount Total="6" Bronze="3" Silver="0" Gold="3" Platinum="0"/>
+		<TotalPoints>315</TotalPoints>
+		<Platform>ps3</Platform>
+	</Game>
+	<Trophies>
+		<Trophy>
+			<Id>1</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>358/2 Days Master</Title>
+			<Image/>
+			<Description>Obtain all trophies.</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>2</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>Dear Diary</Title>
+			<Image/>
+			<Description>View all entries in Roxas's Diary.</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>3</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>Special Investigator</Title>
+			<Image/>
+			<Description>View all Secret Reports.</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>4</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>Days of Connection</Title>
+			<Image/>
+			<Description>View Chapters 1 through 37.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>5</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>Days of Reflection</Title>
+			<Image/>
+			<Description>View Chapters 38 through 74.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>6</Id>
+			<GameId>NPWR04102_00</GameId>
+			<Title>Where the Heart Lies</Title>
+			<Image/>
+			<Description>View Chapters 75 through 109.</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+	</Trophies>
 </PlayStationGame>
