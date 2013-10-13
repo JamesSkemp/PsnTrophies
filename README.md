@@ -23,18 +23,13 @@ A big thank you to:
 
 - xXREDXIIIXx for supplying game and trophy data for 1,917 games and 62,700+ trophies. (xxredxiiixx.com)
 
-How to help
-====
+## How to help
 
-If you have information that you can provide about all the games, I'm willing to do the heavy lifting of converting that, in whatever format you have it, to XML.
+Check the CONTRIBUTING file for information on how to help provide information.
 
-Otherwise the base schema is available, and if you do a pull request I'll grab the new information.
-
-Check which games we are missing trophy Information on at http://www.xxredxiiixx.com/psnapi/add_info.php
-
+## Initial thoughts (how it started)
 
 Comments from https://psnapi.codeplex.com/discussions/453867
-=====
 
 In regards to an alternative, I unfortunately only have the data for 156 of the games (the ones that I have/play) from the psnapi.com.ar service. It looks like Nathan might have all the games?
 
