@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+	<Game>
+		<Id>NPWR04915_00</Id>
+		<IdEurope></IdEurope>
+		<Title>METAL GEAR SOLID V: GROUND ZEROES</Title>
+		<Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR06037_00_01BC0EBC546A4A74F4F7217C2156700D96C8DF004E/EC18BE8C28E1545E9E618051A4CB7DC5FA963D5E.PNG</Image>
+		<TrophiesCount Total="15" Bronze="13" Silver="1" Gold="1" Platinum="0" />
+		<TotalPoints>315</TotalPoints>
+		<Platform>ps4</Platform>
+	</Game>
+	<Trophies>
+		<Trophy>
+			<Id>1</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Reunion</Title>
+			<Image/>
+			<Description>Reunite with Chico or Paz</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>2</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Downfall</Title>
+			<Image/>
+			<Description>Clear the "Ground Zeroes" mission</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>3</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Genesis</Title>
+			<Image/>
+			<Description>Clear a Side Op or Extra Op</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>4</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Accomplished</Title>
+			<Image/>
+			<Description>Clear all missions (including Side Ops and Extra Ops)</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>5</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Skilled</Title>
+			<Image/>
+			<Description>Clear any mission (including Side Ops and Extra Ops) with a S-rank</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>6</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Hero</Title>
+			<Image/>
+			<Description>Clear all missions (including Side Ops and Extra Ops) with a S-rank</Description>
+			<Type>GOLD</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>7</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Rescue</Title>
+			<Image/>
+			<Description>In the "Ground Zeroes" mission, rescue the prisoner to be executed and extract him via chopper</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>8</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Depth</Title>
+			<Image/>
+			<Description>Clear the "Eliminate the Renegade Threat" Side Op by extracting both targets</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>9</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Pacifist</Title>
+			<Image/>
+			<Description>Clear the "Intel Operative Rescue" Side Op without killing a single enemy</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>10</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Infiltration</Title>
+			<Image/>
+			<Description>Clear the "Classified Intel Acquisition" Side Op while riding in the back of a truck</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>11</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Extraction</Title>
+			<Image/>
+			<Description>In the "Destroy the Anti-Air Emplacements" Side Op, rescue and extract all prisoners via chopper</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>12</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Reminiscence</Title>
+			<Image/>
+			<Description>Recreate all scenes in the "Déjà-Vu" Extra Op</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>13</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Unlocked</Title>
+			<Image/>
+			<Description>Unlock all trials</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>14</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Information</Title>
+			<Image/>
+			<Description>Obtain all cassette tapes</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>15</Id>
+			<GameId>NPWR06037_00</GameId>
+			<Title>Insignia</Title>
+			<Image/>
+			<Description>Obtain all XOF unit patches</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+	</Trophies>
+</PlayStationGame>
