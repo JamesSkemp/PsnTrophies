@@ -1,0 +1,322 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<PlayStationGame xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="../PlayStationGame.xsd">
+	<Game>
+		<Id>NPWR04915_00</Id>
+		<IdEurope/>
+		<Title>FINAL FANTASY X HD Remaster</Title>
+		<Image>http://trophy01.np.community.playstation.net/trophy/np/NPWR04915_00_01919FB38FB8B2A2F55FC97873E62059958A088446/89E5BCBB0C94CBC05007FF5FADCE4712921B325B.PNG</Image>
+		<TrophiesCount Total="34" Bronze="20" Silver="8" Gold="5" Platinum="1"/>
+		<TotalPoints>1170</TotalPoints>
+		<Platform>ps3,psp2</Platform>
+	</Game>
+	<Trophies>
+		<Trophy>
+			<Id>1</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Completion</Title>
+			<Image/>
+			<Description>Obtain all available trophies</Description>
+			<Type>PLATINUM</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>2</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Speaking in Tongues</Title>
+			<Image/>
+			<Description>Find 1 Al Bhed Primer</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>3</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Teamwork!</Title>
+			<Image/>
+			<Description>Win a blitzball match</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>4</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>The Right Thing</Title>
+			<Image/>
+			<Description>Clear the Besaid Cloister of Trials</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>5</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>A Talent for Acquisition</Title>
+			<Image/>
+			<Description>Steal successfully with Rikku 200 times</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>6</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>All Together</Title>
+			<Image/>
+			<Description>All party members come together</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>7</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Heartstrings</Title>
+			<Image/>
+			<Description>View the "Underwater Date" scene</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>8</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Show Off!</Title>
+			<Image/>
+			<Description>Win a blitzball tournament</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>9</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Striker</Title>
+			<Image/>
+			<Description>Learn the Jecht shot</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>10</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Chocobo License</Title>
+			<Image/>
+			<Description>Pass all chocobo training</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>11</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Overcoming the Past</Title>
+			<Image/>
+			<Description>Defeat Yunalesca</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>12</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>The Destination of Hatred</Title>
+			<Image/>
+			<Description>Defeat Seymour Omnis</Description>
+			<Type>BRONZE</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>13</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Lightning Dancer</Title>
+			<Image/>
+			<Description>Dodge 200 lightning strikes and obtain the reward</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>14</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Feel the Pain</Title>
+			<Image/>
+			<Description>Obtain Anima</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>15</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>It's All About the Money</Title>
+			<Image/>
+			<Description>Obtain Yojimbo</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>16</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Delta Attack!</Title>
+			<Image/>
+			<Description>Obtain Magus Sisters</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>17</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Theater Enthusiast</Title>
+			<Image/>
+			<Description>Buy every sphere at the Luca Theater</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>18</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Chocobo Rider</Title>
+			<Image/>
+			<Description>Win a race with a catcher chocobo with a total time of 0:0:0</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>19</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Power Strike</Title>
+			<Image/>
+			<Description>Do 9999 damage or more in a single attack</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>20</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Under the Table</Title>
+			<Image/>
+			<Description>Spend 100,000 gil or more in bribes</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>21</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Messenger from the Past</Title>
+			<Image/>
+			<Description>Obtain all Jecht Spheres</Description>
+			<Type>BRONZE</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>22</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Mega Strike</Title>
+			<Image/>
+			<Description>Deal 99999 damage with one attack</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>23</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Chocobo Master</Title>
+			<Image/>
+			<Description>Get 5 treasure chests during the Chocobo Race at Remiem Temple and win the
+				race</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>24</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Sphere Master</Title>
+			<Image/>
+			<Description>Complete a Sphere Grid for one character</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>25</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Blitzball Master</Title>
+			<Image/>
+			<Description>Unlock all slot reels</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>26</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Learning!</Title>
+			<Image/>
+			<Description>Learn to use all enemy abilities</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>27</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Summon Master</Title>
+			<Image/>
+			<Description>Obtain all Aeons</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>28</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Weapon Master</Title>
+			<Image/>
+			<Description>Obtain all Celestial Weapons</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>29</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Master Linguist</Title>
+			<Image/>
+			<Description>Find all 26 Al Bhed Primers</Description>
+			<Type>GOLD</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>30</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Perfect Sphere Master</Title>
+			<Image/>
+			<Description>Complete the Sphere Grids for all main characters</Description>
+			<Type>GOLD</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>31</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Perseverance</Title>
+			<Image/>
+			<Description>Defeat Penance</Description>
+			<Type>GOLD</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>32</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>Overcoming the Nemesis</Title>
+			<Image/>
+			<Description>Defeat Nemesis</Description>
+			<Type>GOLD</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>33</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>The Eternal Calm</Title>
+			<Image/>
+			<Description>Defeat Yu Yevon</Description>
+			<Type>GOLD</Type>
+			<Hidden>true</Hidden>
+		</Trophy>
+		<Trophy>
+			<Id>34</Id>
+			<GameId>NPWR04915_00</GameId>
+			<Title>A Journey's Catalyst</Title>
+			<Image/>
+			<Description>View "Eternal Calm"</Description>
+			<Type>SILVER</Type>
+			<Hidden>false</Hidden>
+		</Trophy>
+	</Trophies>
+</PlayStationGame>
